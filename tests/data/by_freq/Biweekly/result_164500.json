@@ -1,0 +1,2012 @@
+{
+  "accounts": [
+    {
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "currentBalance": 815.95,
+      "currentBalanceDate": "2024-01-05"
+    }
+  ],
+  "transactions": [
+    {
+      "originalDescription": "Uptown St. Johns",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 27.89,
+      "date": "2023-11-13",
+      "description": "Uptown St. Johns",
+      "guid": "zwqyQQ44N1S8jxpVEbMpCLZwLkKkEPfzrNYY8",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "Cash App",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 200.0,
+      "date": "2023-12-02",
+      "description": "Cash App",
+      "guid": "zwqyQQ44N1S8jxpVEbMpCLZwLkKkEPfzrNYq0",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "ENOVA LOC",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 209.51,
+      "date": "2023-10-27",
+      "description": "ENOVA LOC",
+      "guid": "zwqyQQ44N1S8jxpVEbMpCLZwLkKkEPfzrNY38",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "Dollar Tree",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 7.79,
+      "date": "2023-12-22",
+      "description": "Dollar Tree",
+      "guid": "zwqyQQ44N1S8jxpVEbMpCLZ8nEaB3OFBpA88Y",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Discount Stores\"]"
+    },
+    {
+      "originalDescription": "Cash App",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 35.0,
+      "date": "2023-10-07",
+      "description": "Cash App",
+      "guid": "Zq04xxZZdks0RQKZaowKiPBLP0904Atzw37Xw",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "GEICO",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 308.99,
+      "date": "2023-10-13",
+      "description": "GEICO",
+      "guid": "Zq04xxZZdks0RQKZaowKiPBLP0904Atzw37XJ",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Insurance\"]"
+    },
+    {
+      "originalDescription": "SQ SIMONA CAFE",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 27.84,
+      "date": "2023-11-26",
+      "description": "SQ SIMONA CAFE",
+      "guid": "Zq04xxZZdks0RQKZaowKiPBLP0904Atzw37Eb",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "J ALEXANDER S 33",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 45.48,
+      "date": "2023-11-25",
+      "description": "J ALEXANDER S 33",
+      "guid": "Zq04xxZZdks0RQKZaowKiPBLP0904Atzw377J",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "CAPITAL ONE",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 70.0,
+      "date": "2023-12-07",
+      "description": "CAPITAL ONE",
+      "guid": "Zq04xxZZdks0RQKZaowKiPBJV4O8qKt9N4DOj",
+      "type": "DEBIT",
+      "category": "[\"Payment\",\"Credit Card\"]"
+    },
+    {
+      "originalDescription": "Mission Lane Vis",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 50.0,
+      "date": "2023-11-13",
+      "description": "Mission Lane Vis",
+      "guid": "Ymv4aa88BKiZXYyQ75OyHR85RZdZvqInO1jjZ",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "FREDDY S 22 0010",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 8.04,
+      "date": "2023-10-27",
+      "description": "FREDDY S 22 0010",
+      "guid": "Ymv4aa88BKiZXYyQ75OyHR85RZdZvqInO1j3Z",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "ACI CREDIT ONE BANK N",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 104.95,
+      "date": "2023-12-22",
+      "description": "ACI CREDIT ONE BANK N",
+      "guid": "Ymv4aa88BKiZXYyQ75OyHR81wvemkACpAe55g",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "Amazon",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 28.77,
+      "date": "2023-11-11",
+      "description": "Amazon",
+      "guid": "ydP5QQrrNDTJAaEqK1MET4AY4kyknJCDZkYYg",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Digital Purchase\"]"
+    },
+    {
+      "originalDescription": "TARGET COM",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 171.86,
+      "date": "2023-10-15",
+      "description": "TARGET COM",
+      "guid": "ydP5QQrrNDTJAaEqK1MET4AY4kyknJCDZkYxg",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "TARGET COM",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 12.05,
+      "date": "2023-11-28",
+      "description": "TARGET COM",
+      "guid": "ydP5QQrrNDTJAaEqK1MET4AY4kyknJCDZkY7B",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "MONIKA SHANNON",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 300.0,
+      "date": "2023-12-20",
+      "description": "MONIKA SHANNON",
+      "guid": "ydP5QQrrNDTJAaEqK1MET4AMgneXZOfoEXndz",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "Cash App",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 100.0,
+      "date": "2023-12-09",
+      "description": "Cash App",
+      "guid": "ydP5QQrrNDTJAaEqK1MET4AMgneXZOfoEXndw",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "OPTUM SERVICES",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 3700.0,
+      "date": "2023-10-11",
+      "description": "OPTUM SERVICES",
+      "guid": "xp15QQjjNLSxmoNwy1MNCkwrkb3bQvTAXk3YZ",
+      "type": "CREDIT",
+      "category": "[\"Healthcare\",\"Healthcare Services\"]"
+    },
+    {
+      "originalDescription": "APPLE CASH BALANCE ADD",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 50.0,
+      "date": "2023-10-13",
+      "description": "APPLE CASH BALANCE ADD",
+      "guid": "xp15QQjjNLSxmoNwy1MNCkwrkb3bQvTAXk3vv",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Computers and Electronics\"]"
+    },
+    {
+      "originalDescription": "Cash App",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 75.0,
+      "date": "2023-11-25",
+      "description": "Cash App",
+      "guid": "xp15QQjjNLSxmoNwy1MNCkwrkb3bQvTAXk3gv",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "DCA ISTORE",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 119.77,
+      "date": "2023-11-26",
+      "description": "DCA ISTORE",
+      "guid": "xp15QQjjNLSxmoNwy1MNCkwrkb3bQvTAXk3gL",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "ACI CREDIT ONE BANK N",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 641.79,
+      "date": "2023-11-10",
+      "description": "ACI CREDIT ONE BANK N",
+      "guid": "xp15QQjjNLSxmoNwy1MNCkwrkb3bQvTAXk33v",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "ENOVA LOC",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 425.0,
+      "date": "2023-12-07",
+      "description": "ENOVA LOC",
+      "guid": "xp15QQjjNLSxmoNwy1MNCkw8KQ4oAMijNR4nA",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "COMENITY PAY CS",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 50.0,
+      "date": "2023-11-15",
+      "description": "COMENITY PAY CS",
+      "guid": "X1A744JJqyIajn3zOZJ3Ho1MoVgVEDCOgqQQg",
+      "type": "DEBIT",
+      "category": "[\"Payment\",\"Credit Card\"]"
+    },
+    {
+      "originalDescription": "Cash App",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 127.5,
+      "date": "2023-10-28",
+      "description": "Cash App",
+      "guid": "X1A744JJqyIajn3zOZJ3Ho1MoVgVEDCOgqQ8g",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "Publix",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 76.95,
+      "date": "2023-12-23",
+      "description": "Publix",
+      "guid": "X1A744JJqyIajn3zOZJ3Ho190EJP3aTPvr55y",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "FS160512AQV100AQS599OB1605121802C 3302V via CASH APP*MONIKA*CASH O",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 78.6,
+      "date": "2023-11-12",
+      "description": "FS160512AQV100AQS599OB1605121802C 3302V via CASH APP*MONIKA*CASH O",
+      "guid": "wnDmQQ00N6hag9mRZvMmHA0wAJBJ9NieN9XXm",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "Monthly Interest Paid",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 0.04,
+      "date": "2023-11-30",
+      "description": "Monthly Interest Paid",
+      "guid": "wnDmQQ00N6hag9mRZvMmHA0wAJBJ9NieN9XqA",
+      "type": "CREDIT",
+      "category": "[\"Interest\",\"Interest Earned\"]"
+    },
+    {
+      "originalDescription": "Uptown St. Johns",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 2326.0,
+      "date": "2023-10-26",
+      "description": "Uptown St. Johns",
+      "guid": "wnDmQQ00N6hag9mRZvMmHA0wAJBJ9NieN9Xom",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "SETF",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 703.01,
+      "date": "2023-12-22",
+      "description": "SETF",
+      "guid": "wnDmQQ00N6hag9mRZvMmHA0ML934qoCMmd88w",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]"
+    },
+    {
+      "originalDescription": "TARGET COM",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 12.89,
+      "date": "2023-10-14",
+      "description": "TARGET COM",
+      "guid": "vQLkXXvvYwTQm95yapM5U0bN0LqL7YfY4OJjg",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Wawa",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 31.98,
+      "date": "2023-11-27",
+      "description": "Wawa",
+      "guid": "vQLkXXvvYwTQm95yapM5U0bN0LqL7YfY4OJD6",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "NAIL TIME",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 90.0,
+      "date": "2023-12-09",
+      "description": "NAIL TIME",
+      "guid": "vQLkXXvvYwTQm95yapM5U0bMR7QJ1mt75Md6M",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Personal Care\"]"
+    },
+    {
+      "originalDescription": "OPTUM SERVICES",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 3700.0,
+      "date": "2023-12-20",
+      "description": "OPTUM SERVICES",
+      "guid": "vQLkXXvvYwTQm95yapM5U0bMR7QJ1mt75Md6E",
+      "type": "CREDIT",
+      "category": "[\"Healthcare\",\"Healthcare Services\"]"
+    },
+    {
+      "originalDescription": "Blue Orchid Thai Cuisine",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 81.49,
+      "date": "2023-10-31",
+      "description": "Blue Orchid Thai Cuisine",
+      "guid": "VLKRjjaa1BhD9YqZ4JaqURAdRDoDnEIzg7DLy",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "JAX RIVER CITY MARKET",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 19.42,
+      "date": "2023-11-24",
+      "description": "JAX RIVER CITY MARKET",
+      "guid": "VLKRjjaa1BhD9YqZ4JaqURAdRDoDnEIzg7DDy",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "GUERILLA VENDING",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 3.0,
+      "date": "2023-11-25",
+      "description": "GUERILLA VENDING",
+      "guid": "VLKRjjaa1BhD9YqZ4JaqURAdRDoDnEIzg7D8Y",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\"]"
+    },
+    {
+      "originalDescription": "Synchrony Bank",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 50.0,
+      "date": "2023-10-12",
+      "description": "Synchrony Bank",
+      "guid": "VLKRjjaa1BhD9YqZ4JaqURAdRDoDnEIzg7D6y",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "OPTUM SERVICES",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 3700.0,
+      "date": "2024-01-03",
+      "description": "OPTUM SERVICES",
+      "guid": "VLKRjjaa1BhD9YqZ4JaqURA1XnJNejCaZOmmr",
+      "type": "CREDIT",
+      "category": "[\"Healthcare\",\"Healthcare Services\"]"
+    },
+    {
+      "originalDescription": "ACIMA CREDIT",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 97.92,
+      "date": "2023-12-24",
+      "description": "ACIMA CREDIT",
+      "guid": "Rpq7kk00wDSyPZLXErpLfOEb4wBMvqfdJV004",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\"]"
+    },
+    {
+      "originalDescription": "TARGET COM",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 5.0,
+      "date": "2023-10-29",
+      "description": "TARGET COM",
+      "guid": "Rpq7kk00wDSyPZLXErpLfOE8Ok0kwmCK7APRO",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "IDEAL IMAGE",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 97.91,
+      "date": "2023-11-21",
+      "description": "IDEAL IMAGE",
+      "guid": "Rpq7kk00wDSyPZLXErpLfOE8Ok0kwmCK7APPO",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Personal Care\"]"
+    },
+    {
+      "originalDescription": "CAPITAL ONE",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 373.09,
+      "date": "2023-10-12",
+      "description": "CAPITAL ONE",
+      "guid": "Rpq7kk00wDSyPZLXErpLfOE8Ok0kwmCK7APbO",
+      "type": "DEBIT",
+      "category": "[\"Payment\",\"Credit Card\"]"
+    },
+    {
+      "originalDescription": "GEICO",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 308.99,
+      "date": "2023-11-25",
+      "description": "GEICO",
+      "guid": "Rpq7kk00wDSyPZLXErpLfOE8Ok0kwmCK7AP5P",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Insurance\"]"
+    },
+    {
+      "originalDescription": "SQ ALLURING PMU AES",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 50.0,
+      "date": "2023-10-14",
+      "description": "SQ ALLURING PMU AES",
+      "guid": "rOJ5YYyy0nfQaOx0DrMxUKPOKdLd5DSKRd58n",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "ACIMA CREDIT",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 97.92,
+      "date": "2023-11-27",
+      "description": "ACIMA CREDIT",
+      "guid": "rOJ5YYyy0nfQaOx0DrMxUKPOKdLd5DSKRd57o",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\"]"
+    },
+    {
+      "originalDescription": "NAIL TIME",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 95.0,
+      "date": "2023-11-10",
+      "description": "NAIL TIME",
+      "guid": "rOJ5YYyy0nfQaOx0DrMxUKPOKdLd5DSKRd55n",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Personal Care\"]"
+    },
+    {
+      "originalDescription": "Cash App",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 51.0,
+      "date": "2023-12-08",
+      "description": "Cash App",
+      "guid": "rOJ5YYyy0nfQaOx0DrMxUKPMr5y3jBCAxZp0r",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "TARGET COM",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 1.97,
+      "date": "2023-10-15",
+      "description": "TARGET COM",
+      "guid": "qVJONN33yQhQ4nwO51MwUZVYZx6xePfxpO4vJ",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Amazon",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 14.6,
+      "date": "2023-11-30",
+      "description": "Amazon",
+      "guid": "qVJONN33yQhQ4nwO51MwUZVYZx6xePfxpO4od",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Digital Purchase\"]"
+    },
+    {
+      "originalDescription": "CANTINA LAREDO 191",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 81.55,
+      "date": "2023-11-12",
+      "description": "CANTINA LAREDO 191",
+      "guid": "qVJONN33yQhQ4nwO51MwUZVYZx6xePfxpO44J",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "SNAP FINANCE",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 117.41,
+      "date": "2023-12-21",
+      "description": "SNAP FINANCE",
+      "guid": "qVJONN33yQhQ4nwO51MwUZVMKe4pBJFrwNL39",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]"
+    },
+    {
+      "originalDescription": "CARLOS CARVALHO DE ALVARENGA",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 450.0,
+      "date": "2023-12-10",
+      "description": "CARLOS CARVALHO DE ALVARENGA",
+      "guid": "qVJONN33yQhQ4nwO51MwUZVMKe4pBJFrwNL33",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "GOOGLE YOUTUBE TV",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 79.01,
+      "date": "2023-11-20",
+      "description": "GOOGLE YOUTUBE TV",
+      "guid": "QnPyKKvvdLhmMy687jv6FwBRwmkmgnsw10RRX",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Digital Purchase\"]"
+    },
+    {
+      "originalDescription": "TARGET COM",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 32.24,
+      "date": "2023-10-29",
+      "description": "TARGET COM",
+      "guid": "QnPyKKvvdLhmMy687jv6FwBRwmkmgnsw10RjX",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Google Cloud Storage",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 2.12,
+      "date": "2023-12-23",
+      "description": "Google Cloud Storage",
+      "guid": "QnPyKKvvdLhmMy687jv6FwBDzgqYj4cb3yvvw",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Business Services\"]"
+    },
+    {
+      "originalDescription": "Cash App",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 25.0,
+      "date": "2023-11-30",
+      "description": "Cash App",
+      "guid": "PQ1EyyAA56Ta35wO70AwHZYnZaja9XfaPnjrV",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "ACIMA CREDIT",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 97.92,
+      "date": "2023-11-12",
+      "description": "ACIMA CREDIT",
+      "guid": "PQ1EyyAA56Ta35wO70AwHZYnZaja9XfaPnjjw",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\"]"
+    },
+    {
+      "originalDescription": "YouTube",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 79.01,
+      "date": "2023-10-15",
+      "description": "YouTube",
+      "guid": "PQ1EyyAA56Ta35wO70AwHZYnZaja9XfaPnj3w",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Digital Purchase\"]"
+    },
+    {
+      "originalDescription": "ACIMA CREDIT",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 97.92,
+      "date": "2023-12-10",
+      "description": "ACIMA CREDIT",
+      "guid": "PQ1EyyAA56Ta35wO70AwHZYd19g5rAF7vw848",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\"]"
+    },
+    {
+      "originalDescription": "MONIKA SHANNON",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 85.0,
+      "date": "2023-12-21",
+      "description": "MONIKA SHANNON",
+      "guid": "PQ1EyyAA56Ta35wO70AwHZYd19g5rAF7vw840",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "ACI CREDIT ONE BANK N",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 104.95,
+      "date": "2023-12-23",
+      "description": "ACI CREDIT ONE BANK N",
+      "guid": "p9JonnBBNRUQr3PY5AMPUm7MKvB89JfQPegga",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "NATALIIA MISIURA",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 250.0,
+      "date": "2023-11-18",
+      "description": "NATALIIA MISIURA",
+      "guid": "p9JonnBBNRUQr3PY5AMPUm74mxwxvzu7ozrr8",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "Wawa",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 48.01,
+      "date": "2023-10-28",
+      "description": "Wawa",
+      "guid": "p9JonnBBNRUQr3PY5AMPUm74mxwxvzu7ozrj8",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "Uptown St. Johns",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 28.78,
+      "date": "2023-10-12",
+      "description": "Uptown St. Johns",
+      "guid": "ORDZ33kkawcaPZdpovkdHbZAbaqaz3fZEJ1XA",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "GUERILLA VENDING",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 3.0,
+      "date": "2023-11-25",
+      "description": "GUERILLA VENDING",
+      "guid": "ORDZ33kkawcaPZdpovkdHbZAbaqaz3fZEJ1D5",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\"]"
+    },
+    {
+      "originalDescription": "TARGET COM",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 9.45,
+      "date": "2023-10-30",
+      "description": "TARGET COM",
+      "guid": "ORDZ33kkawcaPZdpovkdHbZAbaqaz3fZEJ13A",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Firehouse Subs",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 17.28,
+      "date": "2023-11-24",
+      "description": "Firehouse Subs",
+      "guid": "ORDZ33kkawcaPZdpovkdHbZAbaqaz3fZEJ11A",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "Monthly Interest Paid",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 0.02,
+      "date": "2023-12-31",
+      "description": "Monthly Interest Paid",
+      "guid": "ORDZ33kkawcaPZdpovkdHbZ0VzJMegHNLoqqx",
+      "type": "CREDIT",
+      "category": "[\"Interest\",\"Interest Earned\"]"
+    },
+    {
+      "originalDescription": "MONIKA SHANNON",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 18.0,
+      "date": "2023-12-06",
+      "description": "MONIKA SHANNON",
+      "guid": "o7J5QQmmgEIKjRaowvEaU0xNaemXRBtkYJ67L",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "Cash App",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 52.5,
+      "date": "2023-10-13",
+      "description": "Cash App",
+      "guid": "o7J5QQmmgEIKjRaowvEaU0xn0LbLeofdq35p3",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "TARGET COM",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 192.8,
+      "date": "2023-11-26",
+      "description": "TARGET COM",
+      "guid": "o7J5QQmmgEIKjRaowvEaU0xn0LbLeofdq35Mb",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Cash App",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 100.0,
+      "date": "2023-11-24",
+      "description": "Cash App",
+      "guid": "o7J5QQmmgEIKjRaowvEaU0xn0LbLeofdq3553",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "TARGET COM",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 25.51,
+      "date": "2023-11-20",
+      "description": "TARGET COM",
+      "guid": "ngb5QQPPKMCyngO1drMOfRVmRvYvkbIMZL66z",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Walgreens",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 24.17,
+      "date": "2023-10-28",
+      "description": "Walgreens",
+      "guid": "ngb5QQPPKMCyngO1drMOfRVmRvYvkbIMZL64z",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Pharmacies\"]"
+    },
+    {
+      "originalDescription": "Hallmark Gold Crown",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 96.75,
+      "date": "2023-12-23",
+      "description": "Hallmark Gold Crown",
+      "guid": "ngb5QQPPKMCyngO1drMOfRVe0kPEzACqOQggq",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Gift and Novelty\"]"
+    },
+    {
+      "originalDescription": "JEA EZPAY",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 106.8,
+      "date": "2023-12-22",
+      "description": "JEA EZPAY",
+      "guid": "NEL4BBKK5dc4rVYpRAKYhZOqL1gnArFbNY99d",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Utilities\"]"
+    },
+    {
+      "originalDescription": "CHEESECAKE JACKSONVILL",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 98.96,
+      "date": "2023-10-28",
+      "description": "CHEESECAKE JACKSONVILL",
+      "guid": "NEL4BBKK5dc4rVYpRAKYhZOJZ49410fpDvnr7",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "Experian",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 24.99,
+      "date": "2023-11-15",
+      "description": "Experian",
+      "guid": "NEL4BBKK5dc4rVYpRAKYhZOJZ49410fpDvnn7",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Business Services\"]"
+    },
+    {
+      "originalDescription": "OPTUM SERVICES",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 3700.0,
+      "date": "2023-11-22",
+      "description": "OPTUM SERVICES",
+      "guid": "MM69qqyyQXIwADqp7kyqfNnoNXbXeOtBrmyy1",
+      "type": "CREDIT",
+      "category": "[\"Healthcare\",\"Healthcare Services\"]"
+    },
+    {
+      "originalDescription": "ACIMA CREDIT",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 97.92,
+      "date": "2023-10-29",
+      "description": "ACIMA CREDIT",
+      "guid": "MM69qqyyQXIwADqp7kyqfNnoNXbXeOtBrmyV1",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\"]"
+    },
+    {
+      "originalDescription": "GUERILLA VENDING",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 3.0,
+      "date": "2023-11-25",
+      "description": "GUERILLA VENDING",
+      "guid": "MM69qqyyQXIwADqp7kyqfNnoNXbXeOtBrmyqw",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\"]"
+    },
+    {
+      "originalDescription": "SNAP FINANCE",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 117.41,
+      "date": "2023-10-12",
+      "description": "SNAP FINANCE",
+      "guid": "MM69qqyyQXIwADqp7kyqfNnoNXbXeOtBrmyD1",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]"
+    },
+    {
+      "originalDescription": "Amazon",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 97.57,
+      "date": "2023-12-25",
+      "description": "Amazon",
+      "guid": "MM69qqyyQXIwADqp7kyqfNnjMeLZEpCk4dbb0",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Digital Purchase\"]"
+    },
+    {
+      "originalDescription": "ATT BILL PAYMENT",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 61.08,
+      "date": "2023-12-22",
+      "description": "ATT BILL PAYMENT",
+      "guid": "mboRQQ11yOS3J7V9qyOVUgqp3K1vRMT4or66y",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Telecommunication Services\"]"
+    },
+    {
+      "originalDescription": "Dollar Tree",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 16.13,
+      "date": "2023-10-26",
+      "description": "Dollar Tree",
+      "guid": "mboRQQ11yOS3J7V9qyOVUgqLgnxnKaImjqYyk",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Discount Stores\"]"
+    },
+    {
+      "originalDescription": "Cash App",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 60.0,
+      "date": "2023-12-02",
+      "description": "Cash App",
+      "guid": "mboRQQ11yOS3J7V9qyOVUgqLgnxnKaImjqYJK",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "AMAZING CLUBS",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 37.95,
+      "date": "2023-12-12",
+      "description": "AMAZING CLUBS",
+      "guid": "LOw7PP33kpfL1rgNVKpgimZYeX9boBfPko3rO",
+      "type": "DEBIT",
+      "category": "[\"Recreation\",\"Gyms and Fitness Centers\"]"
+    },
+    {
+      "originalDescription": "COMENITY PAY CS",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 50.0,
+      "date": "2023-12-22",
+      "description": "COMENITY PAY CS",
+      "guid": "LOw7PP33kpfL1rgNVKpgimZYeX9boBfPko3rj",
+      "type": "DEBIT",
+      "category": "[\"Payment\",\"Credit Card\"]"
+    },
+    {
+      "originalDescription": "Whole Foods",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 83.25,
+      "date": "2023-11-30",
+      "description": "Whole Foods",
+      "guid": "LOw7PP33kpfL1rgNVKpgimZEmL3LXzudgA7Dw",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "TARGET COM",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 118.79,
+      "date": "2023-11-12",
+      "description": "TARGET COM",
+      "guid": "LOw7PP33kpfL1rgNVKpgimZEmL3LXzudgA77n",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "OPTUM SERVICES",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 3700.0,
+      "date": "2023-10-25",
+      "description": "OPTUM SERVICES",
+      "guid": "LOw7PP33kpfL1rgNVKpgimZEmL3LXzudgA74n",
+      "type": "CREDIT",
+      "category": "[\"Healthcare\",\"Healthcare Services\"]"
+    },
+    {
+      "originalDescription": "Bahama Breeze",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 150.47,
+      "date": "2023-11-11",
+      "description": "Bahama Breeze",
+      "guid": "KVdM11BBEnhQKzXY7ypXU3xL31B1Z8ULw3JJ1",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "Maggiano's Little Italy",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 59.0,
+      "date": "2023-10-15",
+      "description": "Maggiano's Little Italy",
+      "guid": "KVdM11BBEnhQKzXY7ypXU3xL31B1Z8ULw3J71",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "TARGET COM",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 60.27,
+      "date": "2023-11-28",
+      "description": "TARGET COM",
+      "guid": "KVdM11BBEnhQKzXY7ypXU3xL31B1Z8ULw3J5g",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "MONIKA SHANNON",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 275.0,
+      "date": "2023-12-20",
+      "description": "MONIKA SHANNON",
+      "guid": "KVdM11BBEnhQKzXY7ypXU3xJMZgajmFvMdB8k",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "Cash App",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 100.0,
+      "date": "2023-12-09",
+      "description": "Cash App",
+      "guid": "KVdM11BBEnhQKzXY7ypXU3xJMZgajmFvMdB86",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "Publix",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 4.66,
+      "date": "2023-12-09",
+      "description": "Publix",
+      "guid": "k5ZRQQLLB9tqXP7w1047CdNZ3785ARIDL9AJr",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "MONIKA SHANNON",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 136.0,
+      "date": "2023-12-20",
+      "description": "MONIKA SHANNON",
+      "guid": "k5ZRQQLLB9tqXP7w1047CdNZ3785ARIDL9AJ7",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "FS160512AQV100AQS599OB1605121802C 3302V via CASH APP*MONIKA*CASH O",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 164.82,
+      "date": "2023-11-27",
+      "description": "FS160512AQV100AQS599OB1605121802C 3302V via CASH APP*MONIKA*CASH O",
+      "guid": "k5ZRQQLLB9tqXP7w1047CdNJdBpB76tpOx1dy",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "ACIMA CREDIT",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 97.92,
+      "date": "2023-10-15",
+      "description": "ACIMA CREDIT",
+      "guid": "k5ZRQQLLB9tqXP7w1047CdNJdBpB76tpOx1Bp",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\"]"
+    },
+    {
+      "originalDescription": "Popeyes",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 3.75,
+      "date": "2023-11-11",
+      "description": "Popeyes",
+      "guid": "k5ZRQQLLB9tqXP7w1047CdNJdBpB76tpOx11p",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "Amazon",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 63.07,
+      "date": "2023-12-13",
+      "description": "Amazon",
+      "guid": "jZbRQQ66q7TPEXY8DLrYImXjANpJwDfYyZrKo",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Digital Purchase\"]"
+    },
+    {
+      "originalDescription": "Cash App",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 50.0,
+      "date": "2023-12-08",
+      "description": "Cash App",
+      "guid": "jZbRQQ66q7TPEXY8DLrYImXjANpJwDfYyZrKe",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "TARGET COM",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 129.46,
+      "date": "2023-10-14",
+      "description": "TARGET COM",
+      "guid": "jZbRQQ66q7TPEXY8DLrYImXbmBkBN8uQ68MXw",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "ENOVA LOC",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 207.77,
+      "date": "2023-11-10",
+      "description": "ENOVA LOC",
+      "guid": "jZbRQQ66q7TPEXY8DLrYImXbmBkBN8uQ68MMw",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "Cash App",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 150.0,
+      "date": "2023-11-27",
+      "description": "Cash App",
+      "guid": "jZbRQQ66q7TPEXY8DLrYImXbmBkBN8uQ68MBy",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "SNAP FINANCE",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 117.41,
+      "date": "2023-12-07",
+      "description": "SNAP FINANCE",
+      "guid": "J9m7DDqq5QULa4dnV3qdixXy8VgYj7CQr98nQ",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]"
+    },
+    {
+      "originalDescription": "CAPITAL ONE",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 287.83,
+      "date": "2023-11-09",
+      "description": "CAPITAL ONE",
+      "guid": "J9m7DDqq5QULa4dnV3qdixXoxLALV9UAdBVV6",
+      "type": "DEBIT",
+      "category": "[\"Payment\",\"Credit Card\"]"
+    },
+    {
+      "originalDescription": "SETF",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 703.01,
+      "date": "2023-10-13",
+      "description": "SETF",
+      "guid": "J9m7DDqq5QULa4dnV3qdixXoxLALV9UAdBVp6",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]"
+    },
+    {
+      "originalDescription": "Cash App",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 200.0,
+      "date": "2023-10-08",
+      "description": "Cash App",
+      "guid": "J9m7DDqq5QULa4dnV3qdixXoxLALV9UAdBV6y",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "CAPITOL FILE TEMP 553",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 18.02,
+      "date": "2023-11-26",
+      "description": "CAPITOL FILE TEMP 553",
+      "guid": "J9m7DDqq5QULa4dnV3qdixXoxLALV9UAdBV59",
+      "type": "DEBIT",
+      "category": "[\"Service\"]"
+    },
+    {
+      "originalDescription": "Cash App",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 100.0,
+      "date": "2023-11-25",
+      "description": "Cash App",
+      "guid": "J9m7DDqq5QULa4dnV3qdixXoxLALV9UAdBV56",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "Cash App",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 25.0,
+      "date": "2024-01-05",
+      "description": "Cash App",
+      "guid": "gxJmQQnnDoTLBq5MRgv5i0zy31vmXqtbdX55v",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "Cash App",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 25.0,
+      "date": "2023-11-26",
+      "description": "Cash App",
+      "guid": "gxJmQQnnDoTLBq5MRgv5i0z50kPk1QfMPx9OM",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "TARGET COM",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 7.74,
+      "date": "2023-10-31",
+      "description": "TARGET COM",
+      "guid": "gxJmQQnnDoTLBq5MRgv5i0z50kPk1QfMPx9De",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "ENOVA LOC",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 216.29,
+      "date": "2023-10-13",
+      "description": "ENOVA LOC",
+      "guid": "gxJmQQnnDoTLBq5MRgv5i0z50kPk1QfMPx9Be",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "Cash App",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 100.0,
+      "date": "2023-11-24",
+      "description": "Cash App",
+      "guid": "gxJmQQnnDoTLBq5MRgv5i0z50kPk1QfMPx99e",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "IDEAL IMAGE",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 97.91,
+      "date": "2023-12-24",
+      "description": "IDEAL IMAGE",
+      "guid": "E5vX9966ZVtxdbp75D6pCdpZK04QLnI5j6MMn",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Personal Care\"]"
+    },
+    {
+      "originalDescription": "GUERILLA VENDING",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 3.0,
+      "date": "2023-11-25",
+      "description": "GUERILLA VENDING",
+      "guid": "E5vX9966ZVtxdbp75D6pCdpYd8J80DtZR17vv",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\"]"
+    },
+    {
+      "originalDescription": "CHASE CREDIT CRD",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 50.0,
+      "date": "2023-10-12",
+      "description": "CHASE CREDIT CRD",
+      "guid": "E5vX9966ZVtxdbp75D6pCdpYd8J80DtZR17rB",
+      "type": "DEBIT",
+      "category": "[\"Payment\",\"Credit Card\"]"
+    },
+    {
+      "originalDescription": "Cash App",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 10.0,
+      "date": "2023-10-29",
+      "description": "Cash App",
+      "guid": "E5vX9966ZVtxdbp75D6pCdpYd8J80DtZR17aB",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "Cash App",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 25.0,
+      "date": "2023-11-21",
+      "description": "Cash App",
+      "guid": "E5vX9966ZVtxdbp75D6pCdpYd8J80DtZR177B",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "Cash App",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 147.0,
+      "date": "2023-12-22",
+      "description": "Cash App",
+      "guid": "e4JrQQRR6ZTwPb8NqXk8fzADkL8BVdUeyxzzN",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "Cash App",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 140.0,
+      "date": "2023-11-15",
+      "description": "Cash App",
+      "guid": "e4JrQQRR6ZTwPb8NqXk8fzA5zg1gLxCLOQoo3",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "BAXTER CREDIT UNION",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 50.0,
+      "date": "2023-10-27",
+      "description": "BAXTER CREDIT UNION",
+      "guid": "e4JrQQRR6ZTwPb8NqXk8fzA5zg1gLxCLOQo13",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "CHASE CREDIT CRD",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 50.0,
+      "date": "2023-12-21",
+      "description": "CHASE CREDIT CRD",
+      "guid": "DZA577wwX9Tbke0pPLw0cp0Pbz7rLRtqjYEBn",
+      "type": "DEBIT",
+      "category": "[\"Payment\",\"Credit Card\"]"
+    },
+    {
+      "originalDescription": "ENOVA LOC",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 194.43,
+      "date": "2023-12-11",
+      "description": "ENOVA LOC",
+      "guid": "DZA577wwX9Tbke0pPLw0cp0Pbz7rLRtqjYEBK",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "Amazon",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 13.63,
+      "date": "2023-11-30",
+      "description": "Amazon",
+      "guid": "DZA577wwX9Tbke0pPLw0cp0OpXEXzqIzbndpD",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Digital Purchase\"]"
+    },
+    {
+      "originalDescription": "Cash App",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 152.5,
+      "date": "2023-11-12",
+      "description": "Cash App",
+      "guid": "DZA577wwX9Tbke0pPLw0cp0OpXEXzqIzbnddy",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "IDEAL IMAGE",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 97.91,
+      "date": "2023-10-20",
+      "description": "IDEAL IMAGE",
+      "guid": "DZA577wwX9Tbke0pPLw0cp0OpXEXzqIzbnd3y",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Personal Care\"]"
+    },
+    {
+      "originalDescription": "FREDDY S 22 0010",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 12.14,
+      "date": "2023-12-01",
+      "description": "FREDDY S 22 0010",
+      "guid": "drRXzzEEw8sQMjJZroKJUOELOgVgeDC8OEpVn",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "MONIKA SHANNON",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 35.0,
+      "date": "2023-11-12",
+      "description": "MONIKA SHANNON",
+      "guid": "drRXzzEEw8sQMjJZroKJUOELOgVgeDC8OEppm",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "Dillard's",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 183.83,
+      "date": "2023-10-26",
+      "description": "Dillard's",
+      "guid": "drRXzzEEw8sQMjJZroKJUOELOgVgeDC8OEpjm",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Department Stores\"]"
+    },
+    {
+      "originalDescription": "APPLE CASH BALANCE ADD",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 25.0,
+      "date": "2023-12-22",
+      "description": "APPLE CASH BALANCE ADD",
+      "guid": "drRXzzEEw8sQMjJZroKJUOE4ye8Ypbf1z0vvk",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Computers and Electronics\"]"
+    },
+    {
+      "originalDescription": "TARGET COM",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 39.37,
+      "date": "2023-10-15",
+      "description": "TARGET COM",
+      "guid": "BJKYbbnnZgiq8Z4j7wJ4C1ao1kAkVbt8EM5k3",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "BRAZILIAN WAX JACKSONV",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 58.5,
+      "date": "2023-11-29",
+      "description": "BRAZILIAN WAX JACKSONV",
+      "guid": "BJKYbbnnZgiq8Z4j7wJ4C1ao1kAkVbt8EM5aX",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Personal Care\"]"
+    },
+    {
+      "originalDescription": "SETF",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 703.01,
+      "date": "2023-11-11",
+      "description": "SETF",
+      "guid": "BJKYbbnnZgiq8Z4j7wJ4C1ao1kAkVbt8EM553",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]"
+    },
+    {
+      "originalDescription": "Synchrony Bank",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 50.0,
+      "date": "2023-12-21",
+      "description": "Synchrony Bank",
+      "guid": "BJKYbbnnZgiq8Z4j7wJ4C1a3DVqXR7Ijy40Jp",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "NAIL TIME",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 95.0,
+      "date": "2023-12-10",
+      "description": "NAIL TIME",
+      "guid": "BJKYbbnnZgiq8Z4j7wJ4C1a3DVqXR7Ijy40Je",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Personal Care\"]"
+    },
+    {
+      "originalDescription": "ENOVA LOC",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 222.76,
+      "date": "2024-01-05",
+      "description": "ENOVA LOC",
+      "guid": "b0nr77OOBxceJyagDEOaInkQg7OL0qCdB655X",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "OPTUM SERVICES",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 3700.0,
+      "date": "2023-12-06",
+      "description": "OPTUM SERVICES",
+      "guid": "b0nr77OOBxceJyagDEOaInkQg7OL0qCdB651L",
+      "type": "CREDIT",
+      "category": "[\"Healthcare\",\"Healthcare Services\"]"
+    },
+    {
+      "originalDescription": "Cash App",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 450.0,
+      "date": "2023-11-24",
+      "description": "Cash App",
+      "guid": "b0nr77OOBxceJyagDEOaInk5nP3P7vIx38vvj",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "ACI CREDIT ONE BANK N",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 54.95,
+      "date": "2023-10-13",
+      "description": "ACI CREDIT ONE BANK N",
+      "guid": "b0nr77OOBxceJyagDEOaInk5nP3P7vIx38vNj",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "SHIPT ORDER",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 94.86,
+      "date": "2023-10-31",
+      "description": "SHIPT ORDER",
+      "guid": "b0nr77OOBxceJyagDEOaInk5nP3P7vIx38vmj",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Food and Beverage\"]"
+    },
+    {
+      "originalDescription": "ATT BILL PAYMENT",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 54.08,
+      "date": "2023-11-26",
+      "description": "ATT BILL PAYMENT",
+      "guid": "b0nr77OOBxceJyagDEOaInk5nP3P7vIx38vLg",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Telecommunication Services\"]"
+    },
+    {
+      "originalDescription": "Cash App",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 200.0,
+      "date": "2023-12-09",
+      "description": "Cash App",
+      "guid": "AxynooQQ7bT6RE015dx0Fg0E4MPOvnTBRNEek",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "MONIKA SHANNON",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 300.0,
+      "date": "2023-12-20",
+      "description": "MONIKA SHANNON",
+      "guid": "AxynooQQ7bT6RE015dx0Fg0E4MPOvnTBRNEe7",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "CAPITAL ONE",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 50.0,
+      "date": "2023-11-27",
+      "description": "CAPITAL ONE",
+      "guid": "AxynooQQ7bT6RE015dx0Fg06goyoMYIZD85JE",
+      "type": "DEBIT",
+      "category": "[\"Payment\",\"Credit Card\"]"
+    },
+    {
+      "originalDescription": "Cash App",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 275.0,
+      "date": "2023-11-11",
+      "description": "Cash App",
+      "guid": "AxynooQQ7bT6RE015dx0Fg06goyoMYIZD855B",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "Starbucks",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 12.83,
+      "date": "2023-10-15",
+      "description": "Starbucks",
+      "guid": "AxynooQQ7bT6RE015dx0Fg06goyoMYIZD850B",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Coffee Shop\"]"
+    },
+    {
+      "originalDescription": "Cash App",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 25.0,
+      "date": "2023-11-26",
+      "description": "Cash App",
+      "guid": "avJrggVVqauZ6A4pLMB4HaKjagrg8McyBwpVv",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "Five Guys",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 24.82,
+      "date": "2023-11-10",
+      "description": "Five Guys",
+      "guid": "avJrggVVqauZ6A4pLMB4HaKjagrg8McyBwppp",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "PNM OPORTUN INC",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 350.0,
+      "date": "2023-10-13",
+      "description": "PNM OPORTUN INC",
+      "guid": "avJrggVVqauZ6A4pLMB4HaKjagrg8McyBwpep",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Equipment Rental\"]"
+    },
+    {
+      "originalDescription": "Synchrony Bank",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 50.0,
+      "date": "2023-12-07",
+      "description": "Synchrony Bank",
+      "guid": "avJrggVVqauZ6A4pLMB4HaKD98Obk7uaLjgE9",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "SNAP FINANCE",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 117.41,
+      "date": "2023-11-24",
+      "description": "SNAP FINANCE",
+      "guid": "9k6QrrggL4Cv9D8Lpgk8ip8rpwbw4JIPEpzzN",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]"
+    },
+    {
+      "originalDescription": "Uber Eats",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 59.21,
+      "date": "2023-10-13",
+      "description": "Uber Eats",
+      "guid": "9k6QrrggL4Cv9D8Lpgk8ip8rpwbw4JIPEpzVN",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "Peet's Coffee and Tea",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 12.0,
+      "date": "2023-11-26",
+      "description": "Peet's Coffee and Tea",
+      "guid": "9k6QrrggL4Cv9D8Lpgk8ip8rpwbw4JIPEpzRy",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Coffee Shop\"]"
+    },
+    {
+      "originalDescription": "FREDDY S 22 0010",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 9.55,
+      "date": "2023-10-31",
+      "description": "FREDDY S 22 0010",
+      "guid": "9k6QrrggL4Cv9D8Lpgk8ip8rpwbw4JIPEpzKN",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "Uptown St. Johns",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 2358.28,
+      "date": "2024-01-04",
+      "description": "Uptown St. Johns",
+      "guid": "9k6QrrggL4Cv9D8Lpgk8ip86L4dBQqtr5XmmX",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "CAPITAL ONE",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 115.66,
+      "date": "2023-12-07",
+      "description": "CAPITAL ONE",
+      "guid": "8Kwgjjmm6rT5yL6gMmX6Iv6zOYBnLNUKN130Z",
+      "type": "DEBIT",
+      "category": "[\"Payment\",\"Credit Card\"]"
+    },
+    {
+      "originalDescription": "JEA EZPAY",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 74.6,
+      "date": "2023-11-26",
+      "description": "JEA EZPAY",
+      "guid": "8Kwgjjmm6rT5yL6gMmX6Iv65vwKwYDImgRrzy",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Utilities\"]"
+    },
+    {
+      "originalDescription": "Cash App",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 50.0,
+      "date": "2023-11-25",
+      "description": "Cash App",
+      "guid": "8Kwgjjmm6rT5yL6gMmX6Iv65vwKwYDImgRrzj",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "SNAP FINANCE",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 117.41,
+      "date": "2023-11-09",
+      "description": "SNAP FINANCE",
+      "guid": "8Kwgjjmm6rT5yL6gMmX6Iv65vwKwYDImgRrrj",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]"
+    },
+    {
+      "originalDescription": "Cash App",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 30.0,
+      "date": "2023-10-07",
+      "description": "Cash App",
+      "guid": "8Kwgjjmm6rT5yL6gMmX6Iv65vwKwYDImgRrpn",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "JEA EZPAY",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 137.46,
+      "date": "2023-10-13",
+      "description": "JEA EZPAY",
+      "guid": "8Kwgjjmm6rT5yL6gMmX6Iv65vwKwYDImgRr9j",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Utilities\"]"
+    },
+    {
+      "originalDescription": "SNAP FINANCE",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 117.41,
+      "date": "2024-01-04",
+      "description": "SNAP FINANCE",
+      "guid": "7yd300oowjHKEJ3nwpy3UVBqaR8LMYFz73xxO",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]"
+    },
+    {
+      "originalDescription": "COMENITY PAY CS",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 50.0,
+      "date": "2023-10-13",
+      "description": "COMENITY PAY CS",
+      "guid": "7yd300oowjHKEJ3nwpy3UVBKV5O5RNU4XBrwg",
+      "type": "DEBIT",
+      "category": "[\"Payment\",\"Credit Card\"]"
+    },
+    {
+      "originalDescription": "Cash App",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 200.0,
+      "date": "2023-11-26",
+      "description": "Cash App",
+      "guid": "7yd300oowjHKEJ3nwpy3UVBKV5O5RNU4XBrRz",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "ENOVA LOC",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 201.08,
+      "date": "2023-11-24",
+      "description": "ENOVA LOC",
+      "guid": "7yd300oowjHKEJ3nwpy3UVBKV5O5RNU4XBrrg",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "TARGET COM",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 33.69,
+      "date": "2023-10-31",
+      "description": "TARGET COM",
+      "guid": "7yd300oowjHKEJ3nwpy3UVBKV5O5RNU4XBrqg",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "SNAP FINANCE",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 117.41,
+      "date": "2023-10-26",
+      "description": "SNAP FINANCE",
+      "guid": "63aZvv55d0fePJN9V53NIJNeJxdxL5fVRvKLn",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]"
+    },
+    {
+      "originalDescription": "Facebook",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 150.0,
+      "date": "2023-11-12",
+      "description": "Facebook",
+      "guid": "63aZvv55d0fePJN9V53NIJNeJxdxL5fVRvKKn",
+      "type": "DEBIT",
+      "category": "[\"Service\"]"
+    },
+    {
+      "originalDescription": "BEAUTY DEPOT 8 - JACKS",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 27.04,
+      "date": "2023-11-30",
+      "description": "BEAUTY DEPOT 8 - JACKS",
+      "guid": "63aZvv55d0fePJN9V53NIJNeJxdxL5fVRvKke",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Beauty Products\"]"
+    },
+    {
+      "originalDescription": "Cash App",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 75.0,
+      "date": "2023-12-13",
+      "description": "Cash App",
+      "guid": "63aZvv55d0fePJN9V53NIJN8DLk9Vrt9Q0b1R",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "ENOVA LOC",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 224.62,
+      "date": "2023-12-22",
+      "description": "ENOVA LOC",
+      "guid": "63aZvv55d0fePJN9V53NIJN8DLk9Vrt9Q0b1o",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "Dillard's",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 303.26,
+      "date": "2023-12-07",
+      "description": "Dillard's",
+      "guid": "5B4qAAZZ7vurLd9JeZB9SE9v7mK5jZhdeDgoA",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Department Stores\"]"
+    },
+    {
+      "originalDescription": "J ALEXANDER S 33",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 202.55,
+      "date": "2023-11-25",
+      "description": "J ALEXANDER S 33",
+      "guid": "5B4qAAZZ7vurLd9JeZB9SE9AEXqXmPSb8Ozzm",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "Cash App",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 52.5,
+      "date": "2023-10-13",
+      "description": "Cash App",
+      "guid": "5B4qAAZZ7vurLd9JeZB9SE9AEXqXmPSb8Ozym",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "TARGET COM",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 38.56,
+      "date": "2023-11-26",
+      "description": "TARGET COM",
+      "guid": "5B4qAAZZ7vurLd9JeZB9SE9AEXqXmPSb8OzRN",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Cash App",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 200.0,
+      "date": "2023-11-04",
+      "description": "Cash App",
+      "guid": "5B4qAAZZ7vurLd9JeZB9SE9AEXqXmPSb8OzKm",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "Uptown St. Johns",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 2477.51,
+      "date": "2023-12-07",
+      "description": "Uptown St. Johns",
+      "guid": "4qrPkk885Asb3ANwz8qNceNOKmz5g4TEyABOn",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "ACCESS SECURE DEPOS",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 307.95,
+      "date": "2023-11-26",
+      "description": "ACCESS SECURE DEPOS",
+      "guid": "4qrPkk885Asb3ANwz8qNceNbeV7Vm1T19M6rv",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\"]"
+    },
+    {
+      "originalDescription": "Facebook",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 100.0,
+      "date": "2023-10-14",
+      "description": "Facebook",
+      "guid": "4qrPkk885Asb3ANwz8qNceNbeV7Vm1T19M6Qr",
+      "type": "DEBIT",
+      "category": "[\"Service\"]"
+    },
+    {
+      "originalDescription": "Cash App",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 50.0,
+      "date": "2023-11-10",
+      "description": "Cash App",
+      "guid": "4qrPkk885Asb3ANwz8qNceNbeV7Vm1T19M66r",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "Cash App",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 50.0,
+      "date": "2023-11-28",
+      "description": "Cash App",
+      "guid": "3Pm1KKJJZki8jqdx0JPdC5M85V9Vw3HzyYdJy",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "SQ ALLURING PMU AES",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 343.75,
+      "date": "2023-11-11",
+      "description": "SQ ALLURING PMU AES",
+      "guid": "3Pm1KKJJZki8jqdx0JPdC5M85V9Vw3HzyYddP",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "TARGET COM",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 10.0,
+      "date": "2023-10-15",
+      "description": "TARGET COM",
+      "guid": "3Pm1KKJJZki8jqdx0JPdC5M85V9Vw3HzyYdBP",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Mission Lane LLC",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 50.0,
+      "date": "2023-12-21",
+      "description": "Mission Lane LLC",
+      "guid": "3Pm1KKJJZki8jqdx0JPdC5M0rwnboDc06Dj4N",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "JONES ROSE",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 124.7,
+      "date": "2023-12-09",
+      "description": "JONES ROSE",
+      "guid": "3Pm1KKJJZki8jqdx0JPdC5M0rwnboDc06Dj46",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "Wawa",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 48.4,
+      "date": "2023-12-11",
+      "description": "Wawa",
+      "guid": "1DvL33aa5yS5nqzAZaDzIvzdO1qBjXUqMbJL9",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "CAPITAL ONE",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 300.0,
+      "date": "2023-12-21",
+      "description": "CAPITAL ONE",
+      "guid": "1DvL33aa5yS5nqzAZaDzIvzdO1qBjXUqMbJL3",
+      "type": "DEBIT",
+      "category": "[\"Payment\",\"Credit Card\"]"
+    },
+    {
+      "originalDescription": "McDonald's",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 9.88,
+      "date": "2023-11-30",
+      "description": "McDonald's",
+      "guid": "1DvL33aa5yS5nqzAZaDzIvz3vygy1nIoNRDQX",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "TARGET COM",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 13.96,
+      "date": "2023-11-12",
+      "description": "TARGET COM",
+      "guid": "1DvL33aa5yS5nqzAZaDzIvz3vygy1nIoNRDD1",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Experian",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 24.99,
+      "date": "2023-10-16",
+      "description": "Experian",
+      "guid": "1DvL33aa5yS5nqzAZaDzIvz3vygy1nIoNRD81",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Business Services\"]"
+    },
+    {
+      "originalDescription": "Cash App",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 60.0,
+      "date": "2023-12-08",
+      "description": "Cash App",
+      "guid": "0LA6BB44K3h6rpZNE4LZFxZpknM176C50eKQr",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "Experian",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 24.99,
+      "date": "2023-12-15",
+      "description": "Experian",
+      "guid": "0LA6BB44K3h6rpZNE4LZFxZpknM176C50eKQp",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Business Services\"]"
+    },
+    {
+      "originalDescription": "Facebook",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 50.0,
+      "date": "2023-11-27",
+      "description": "Facebook",
+      "guid": "0LA6BB44K3h6rpZNE4LZFxZBxAbAnKUxwPEXn",
+      "type": "DEBIT",
+      "category": "[\"Service\"]"
+    },
+    {
+      "originalDescription": "FS160512AQV100AQS599OB1605121802C 3302V via CASH APP*MONIKA*CASH O",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 147.38,
+      "date": "2023-11-11",
+      "description": "FS160512AQV100AQS599OB1605121802C 3302V via CASH APP*MONIKA*CASH O",
+      "guid": "0LA6BB44K3h6rpZNE4LZFxZBxAbAnKUxwPEEo",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "ATT BILL PAYMENT",
+      "accountGuid": "xp15QQjjNLSxmoNwy1MNCkwQdgq3V0UppLYz4r",
+      "amount": 64.38,
+      "date": "2023-10-14",
+      "description": "ATT BILL PAYMENT",
+      "guid": "0LA6BB44K3h6rpZNE4LZFxZBxAbAnKUxwPEao",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Telecommunication Services\"]"
+    }
+  ],
+  "asOfDate": "2024-01-05"
+}

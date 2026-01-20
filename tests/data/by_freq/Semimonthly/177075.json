@@ -1,0 +1,1112 @@
+{
+  "accounts": [
+    {
+      "accountGuid": "0wKPaegz9YTwBKzjX8qqtyE0dZVw4ztyyMMLg",
+      "currentBalance": 1318.3,
+      "currentBalanceDate": "2024-02-08"
+    }
+  ],
+  "transactions": [
+    {
+      "originalDescription": "ACH WEB 1663 DISCOVER E-PAYMENT",
+      "accountGuid": "0wKPaegz9YTwBKzjX8qqtyE0dZVw4ztyyMMLg",
+      "amount": 115.0,
+      "date": "2024-01-17",
+      "description": "ACH WEB 1663 DISCOVER E-PAYMENT",
+      "guid": "zKNeOAmkDnsPkRB641rrfNbOLa6ar6IdPYBbY",
+      "type": "DEBIT",
+      "category": "[\"Payment\",\"Credit Card\"]"
+    },
+    {
+      "originalDescription": "ACH DEBIT 53004902 UPGRADE, INC. PAYMENT",
+      "accountGuid": "0wKPaegz9YTwBKzjX8qqtyE0dZVw4ztyyMMLg",
+      "amount": 93.37,
+      "date": "2024-01-17",
+      "description": "ACH DEBIT 53004902 UPGRADE, INC. PAYMENT",
+      "guid": "YYBV1Q6LDwSpdRvAJ4mmiBQAReYeKYCwZjpMg",
+      "type": "DEBIT",
+      "category": "[\"Payment\"]"
+    },
+    {
+      "originalDescription": "ACH WEB XXXXX3268 CPENERGY ENTEX ENT ACH EB",
+      "accountGuid": "0wKPaegz9YTwBKzjX8qqtyE0dZVw4ztyyMMLg",
+      "amount": 92.87,
+      "date": "2024-01-18",
+      "description": "ACH WEB XXXXX3268 CPENERGY ENTEX ENT ACH EB",
+      "guid": "XYqOm5w6LdSX4o8VN011HmQaoJwJOwf0ZQPNy",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Utilities\"]"
+    },
+    {
+      "originalDescription": "PetSmart",
+      "accountGuid": "0wKPaegz9YTwBKzjX8qqtyE0dZVw4ztyyMMLg",
+      "amount": 96.99,
+      "date": "2024-01-22",
+      "description": "PetSmart",
+      "guid": "x3NeOKgy6nH0bJ5drL77cB1Mk4d4gdCJP3jbP",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Pets\"]"
+    },
+    {
+      "originalDescription": "ACH DEBIT 13042864 RESCUE BUCKS XXXXX5962",
+      "accountGuid": "0wKPaegz9YTwBKzjX8qqtyE0dZVw4ztyyMMLg",
+      "amount": 266.46,
+      "date": "2024-01-17",
+      "description": "ACH DEBIT 13042864 RESCUE BUCKS XXXXX5962",
+      "guid": "wBNYAyg3wXhpLjzQV6rriPvoA3O3nOFy5XMBw",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "ACH DEBIT 38263146 BRIDGECREST DT RETAIL",
+      "accountGuid": "0wKPaegz9YTwBKzjX8qqtyE0dZVw4ztyyMMLg",
+      "amount": 219.27,
+      "date": "2024-01-19",
+      "description": "ACH DEBIT 38263146 BRIDGECREST DT RETAIL",
+      "guid": "ZYdVP5LD16SmYPd9VrqqHXRKPOEOYEtV579gB",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\"]"
+    },
+    {
+      "originalDescription": "ACH WEB XXXXX3511 USAA FSB ACCTVERIFY",
+      "accountGuid": "0wKPaegz9YTwBKzjX8qqtyE0dZVw4ztyyMMLg",
+      "amount": 0.92,
+      "date": "2024-01-05",
+      "description": "ACH WEB XXXXX3511 USAA FSB ACCTVERIFY",
+      "guid": "VY1V65rmwZS6VRX7NMLLumrkdbOrPEuD9DkQK",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]"
+    },
+    {
+      "originalDescription": "RECURRING DEBIT CARD XXXXX0019 APPLECOMBILL XXXXX7753",
+      "accountGuid": "0wKPaegz9YTwBKzjX8qqtyE0dZVw4ztyyMMLg",
+      "amount": 2.99,
+      "date": "2024-01-19",
+      "description": "RECURRING DEBIT CARD XXXXX0019 APPLECOMBILL XXXXX7753",
+      "guid": "VY1V65rmwZS6VRX7NMLLumrjRJOJKOfXoDaMr",
+      "type": "DEBIT",
+      "category": "[\"Service\"]"
+    },
+    {
+      "originalDescription": "APPLE CASH SENT MONEY 1INFINITELO",
+      "accountGuid": "0wKPaegz9YTwBKzjX8qqtyE0dZVw4ztyyMMLg",
+      "amount": 25.0,
+      "date": "2024-01-23",
+      "description": "APPLE CASH SENT MONEY 1INFINITELO",
+      "guid": "vqYea3PBdnU8LRBzVNrrtO4m0QyQ6ySkrJ7qE",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Computers and Electronics\"]"
+    },
+    {
+      "originalDescription": "Walmart",
+      "accountGuid": "0wKPaegz9YTwBKzjX8qqtyE0dZVw4ztyyMMLg",
+      "amount": 45.82,
+      "date": "2024-01-18",
+      "description": "Walmart",
+      "guid": "RYwEyoOxVaS7xOM5NmjjUXKqOB9BR9t4jPdZ4",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "DEPOSIT XXXXX9136",
+      "accountGuid": "0wKPaegz9YTwBKzjX8qqtyE0dZVw4ztyyMMLg",
+      "amount": 500.0,
+      "date": "2024-01-04",
+      "description": "DEPOSIT XXXXX9136",
+      "guid": "RYwEyoOxVaS7xOM5NmjjUXK18r9KPmIPvP18b",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Deposit\"]"
+    },
+    {
+      "originalDescription": "Chick-fil-A",
+      "accountGuid": "0wKPaegz9YTwBKzjX8qqtyE0dZVw4ztyyMMLg",
+      "amount": 3.95,
+      "date": "2024-01-23",
+      "description": "Chick-fil-A",
+      "guid": "rL0eg1ED9NcAdwVNY488twvBKyAyaAiak5ALR",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "ACH WEBRECUR MXXXXX4110 USAA.COM PAY EXT LIFE",
+      "accountGuid": "0wKPaegz9YTwBKzjX8qqtyE0dZVw4ztyyMMLg",
+      "amount": 14.7,
+      "date": "2024-01-18",
+      "description": "ACH WEBRECUR MXXXXX4110 USAA.COM PAY EXT LIFE",
+      "guid": "QYdV3oxa94S1owBZEr33IAE4wqrqerIzaRbxw",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Insurance\"]"
+    },
+    {
+      "originalDescription": "ACH TELRECUR XXXXX1522 PAYPAL CREDIT SYF PAYMNT",
+      "accountGuid": "0wKPaegz9YTwBKzjX8qqtyE0dZVw4ztyyMMLg",
+      "amount": 39.0,
+      "date": "2024-01-10",
+      "description": "ACH TELRECUR XXXXX1522 PAYPAL CREDIT SYF PAYMNT",
+      "guid": "q6yeXDqL7nhXxARLrg88H9AJZ4N47NHBg4rg9",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Third Party\",\"PayPal\"]"
+    },
+    {
+      "originalDescription": "ACH TEL 44806926A BEST EGG PAYMENT",
+      "accountGuid": "0wKPaegz9YTwBKzjX8qqtyE0dZVw4ztyyMMLg",
+      "amount": 82.72,
+      "date": "2024-01-11",
+      "description": "ACH TEL 44806926A BEST EGG PAYMENT",
+      "guid": "PY5VBoX47rSMpZX8N499HLmAZg7gD7F1Ej7E0",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "ACH WEBRECUR DXXXXX8389 USAA.COM PAY EXT LIFE",
+      "accountGuid": "0wKPaegz9YTwBKzjX8qqtyE0dZVw4ztyyMMLg",
+      "amount": 75.32,
+      "date": "2024-01-18",
+      "description": "ACH WEBRECUR DXXXXX8389 USAA.COM PAY EXT LIFE",
+      "guid": "pwNeALa6g5TjxyEL7RJJTdkJmBaBpafZ5rQwa",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Insurance\"]"
+    },
+    {
+      "originalDescription": "CASH STORE TX XXXXX0822",
+      "accountGuid": "0wKPaegz9YTwBKzjX8qqtyE0dZVw4ztyyMMLg",
+      "amount": 367.91,
+      "date": "2024-01-19",
+      "description": "CASH STORE TX XXXXX0822",
+      "guid": "OYaVqoPrgjSBEb5J9844TQ8gbJ5Jn5iVm1NOx",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "DEPOSIT XXXXX6675",
+      "accountGuid": "0wKPaegz9YTwBKzjX8qqtyE0dZVw4ztyyMMLg",
+      "amount": 200.0,
+      "date": "2024-01-05",
+      "description": "DEPOSIT XXXXX6675",
+      "guid": "OYaVqoPrgjSBEb5J9844TQ84Aw5863i1614MD",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Deposit\"]"
+    },
+    {
+      "originalDescription": "ACH WEB XXXXX5922 OPENSKY ONLINEPYMT",
+      "accountGuid": "0wKPaegz9YTwBKzjX8qqtyE0dZVw4ztyyMMLg",
+      "amount": 50.0,
+      "date": "2024-01-19",
+      "description": "ACH WEB XXXXX5922 OPENSKY ONLINEPYMT",
+      "guid": "odgex60wbZskLbQNryOOf1vB0mjmwjsoV5kER",
+      "type": "DEBIT",
+      "category": "[\"Payment\"]"
+    },
+    {
+      "originalDescription": "ACH WEB FTXXXXX9520 WOODRIDGE FOREST WOODRIDGE",
+      "accountGuid": "0wKPaegz9YTwBKzjX8qqtyE0dZVw4ztyyMMLg",
+      "amount": 31.2,
+      "date": "2024-01-18",
+      "description": "ACH WEB FTXXXXX9520 WOODRIDGE FOREST WOODRIDGE",
+      "guid": "nYKevw9do8SKvYb0QV66CMrARP6P56F0w6qkq",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "Home Depot",
+      "accountGuid": "0wKPaegz9YTwBKzjX8qqtyE0dZVw4ztyyMMLg",
+      "amount": 95.0,
+      "date": "2024-01-18",
+      "description": "Home Depot",
+      "guid": "NO5VPoMjb0FMLZQeNj55HmRrZg7gw7fxEnb6d",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Hardware Store\"]"
+    },
+    {
+      "originalDescription": "ACH DEBIT 44746798A BEST EGG PAYMENT",
+      "accountGuid": "0wKPaegz9YTwBKzjX8qqtyE0dZVw4ztyyMMLg",
+      "amount": 201.45,
+      "date": "2024-01-17",
+      "description": "ACH DEBIT 44746798A BEST EGG PAYMENT",
+      "guid": "mYyeAd9Z5JSRnx0oM8AAtkyMg1P19PF37Y41y",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "ACH CREDIT XXXXX3473 USAA FSB ACCTVERIFY",
+      "accountGuid": "0wKPaegz9YTwBKzjX8qqtyE0dZVw4ztyyMMLg",
+      "amount": 0.31,
+      "date": "2024-01-05",
+      "description": "ACH CREDIT XXXXX3473 USAA FSB ACCTVERIFY",
+      "guid": "MVQY1Ex0mvhr8M5aez99t95PoBD5gOuyjyPQy",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "APPLE CASH SENT MONEY 1INFINITELO",
+      "accountGuid": "0wKPaegz9YTwBKzjX8qqtyE0dZVw4ztyyMMLg",
+      "amount": 191.0,
+      "date": "2024-01-19",
+      "description": "APPLE CASH SENT MONEY 1INFINITELO",
+      "guid": "MVQY1Ex0mvhr8M5aez99t95pNLDLdDH5zykK0",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Computers and Electronics\"]"
+    },
+    {
+      "originalDescription": "ACH CREDIT HOUSTON ISD DIR DEP",
+      "accountGuid": "0wKPaegz9YTwBKzjX8qqtyE0dZVw4ztyyMMLg",
+      "amount": 3703.79,
+      "date": "2024-01-17",
+      "description": "ACH CREDIT HOUSTON ISD DIR DEP",
+      "guid": "L9kVDoxv5AHmR3n48DddH50Bm9w9MwimV7PVj",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Payroll\"]"
+    },
+    {
+      "originalDescription": "APPLECOMBILL XXXXX7753",
+      "accountGuid": "0wKPaegz9YTwBKzjX8qqtyE0dZVw4ztyyMMLg",
+      "amount": 1.4,
+      "date": "2024-01-24",
+      "description": "APPLECOMBILL XXXXX7753",
+      "guid": "kYBeKXNJ8aSDBmbpVRjjiw0Rd8V8jVi3y1DX7",
+      "type": "DEBIT",
+      "category": "[\"Service\"]"
+    },
+    {
+      "originalDescription": "APPLE CASH SENT MONEY 1INFINITELO",
+      "accountGuid": "0wKPaegz9YTwBKzjX8qqtyE0dZVw4ztyyMMLg",
+      "amount": 40.0,
+      "date": "2024-01-23",
+      "description": "APPLE CASH SENT MONEY 1INFINITELO",
+      "guid": "jzqmy5MxJ4SARmokQ0qqt6LDmpnpqnH1aMYno",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Computers and Electronics\"]"
+    },
+    {
+      "originalDescription": "POS PURCHASE POS53259867 6269480 NORTHPARK ANIM",
+      "accountGuid": "0wKPaegz9YTwBKzjX8qqtyE0dZVw4ztyyMMLg",
+      "amount": 166.0,
+      "date": "2024-01-22",
+      "description": "POS PURCHASE POS53259867 6269480 NORTHPARK ANIM",
+      "guid": "Jg5V6XLk8KuZBzrjmkyyUmb7xgegJefXNVQ48",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Veterinarians\"]"
+    },
+    {
+      "originalDescription": "ACH DEBIT 43511085 PROSPER MARKETPL PAID2021-1",
+      "accountGuid": "0wKPaegz9YTwBKzjX8qqtyE0dZVw4ztyyMMLg",
+      "amount": 397.55,
+      "date": "2024-01-19",
+      "description": "ACH DEBIT 43511085 PROSPER MARKETPL PAID2021-1",
+      "guid": "gYDeqMyr40SAk0NPQyddtOgq0vNvANS3Y9bjv",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "ACH WEBRECUR TXXXXX8820 USAA.COM PAY EXT LIFE",
+      "accountGuid": "0wKPaegz9YTwBKzjX8qqtyE0dZVw4ztyyMMLg",
+      "amount": 55.16,
+      "date": "2024-01-17",
+      "description": "ACH WEBRECUR TXXXXX8820 USAA.COM PAY EXT LIFE",
+      "guid": "eY6e1z30jASogzD1VK33UJXdz8b8obFkZoe3N",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Insurance\"]"
+    },
+    {
+      "originalDescription": "ORDER FOR CHECKS AND SUPPLIES",
+      "accountGuid": "0wKPaegz9YTwBKzjX8qqtyE0dZVw4ztyyMMLg",
+      "amount": 22.23,
+      "date": "2024-01-18",
+      "description": "ORDER FOR CHECKS AND SUPPLIES",
+      "guid": "E8ZgEokqrPT8a9NKnoQQtOvnd4m4bmSJX75on",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Industrial Supplies\"]"
+    },
+    {
+      "originalDescription": "ACH CREDIT XXXXX3483 USAA FSB ACCTVERIFY",
+      "accountGuid": "0wKPaegz9YTwBKzjX8qqtyE0dZVw4ztyyMMLg",
+      "amount": 0.61,
+      "date": "2024-01-05",
+      "description": "ACH CREDIT XXXXX3483 USAA FSB ACCTVERIFY",
+      "guid": "E8ZgEokqrPT8a9NKnoQQtOvEYomvNDU7y7Ewa",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "ACH DEBIT 54 XXXXX2013 MARINER FINANCE TRANS PMT",
+      "accountGuid": "0wKPaegz9YTwBKzjX8qqtyE0dZVw4ztyyMMLg",
+      "amount": 218.13,
+      "date": "2024-01-17",
+      "description": "ACH DEBIT 54 XXXXX2013 MARINER FINANCE TRANS PMT",
+      "guid": "dYweD53v0kSpgOaVzBAAi3dbO8w8Rwuy5p1ak",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]"
+    },
+    {
+      "originalDescription": "APPLE CASH SENT MONEY 1INFINITELO",
+      "accountGuid": "0wKPaegz9YTwBKzjX8qqtyE0dZVw4ztyyMMLg",
+      "amount": 40.0,
+      "date": "2024-01-16",
+      "description": "APPLE CASH SENT MONEY 1INFINITELO",
+      "guid": "DJXbromPj1iJ4axy9ZAAIe3Rp757M5UVmdqmn",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Computers and Electronics\"]"
+    },
+    {
+      "originalDescription": "ACH DEBIT 539 WOODRIDGEMUD W ECHK088067",
+      "accountGuid": "0wKPaegz9YTwBKzjX8qqtyE0dZVw4ztyyMMLg",
+      "amount": 72.72,
+      "date": "2024-01-19",
+      "description": "ACH DEBIT 539 WOODRIDGEMUD W ECHK088067",
+      "guid": "bYBe6gbkAyS5PnwB0r44FRdqnOXOyXHgZvdzX",
+      "type": "DEBIT",
+      "category": "[\"Community\",\"Government Departments and Agencies\"]"
+    },
+    {
+      "originalDescription": "Walmart",
+      "accountGuid": "0wKPaegz9YTwBKzjX8qqtyE0dZVw4ztyyMMLg",
+      "amount": 44.91,
+      "date": "2024-01-22",
+      "description": "Walmart",
+      "guid": "aYqpw5AKk3S5a7vr0XQQFX57aOyOAyt9NpaAA",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "ACH WEBRECUR JXXXXX4184 USAA.COM PAY EXT LIFE",
+      "accountGuid": "0wKPaegz9YTwBKzjX8qqtyE0dZVw4ztyyMMLg",
+      "amount": 16.53,
+      "date": "2024-01-23",
+      "description": "ACH WEBRECUR JXXXXX4184 USAA.COM PAY EXT LIFE",
+      "guid": "A47ZaVJLA6u4BPnqAZXXuwmngP1Pz1ibP5BA7",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Insurance\"]"
+    },
+    {
+      "originalDescription": "H-E-B",
+      "accountGuid": "0wKPaegz9YTwBKzjX8qqtyE0dZVw4ztyyMMLg",
+      "amount": 4.21,
+      "date": "2024-01-19",
+      "description": "H-E-B",
+      "guid": "9yL0bOPo1YTy4qRr7K66I3xqpdod7oukZzr9X",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "ACH DEBIT 38263146 BRIDGECREST DT RETAIL",
+      "accountGuid": "0wKPaegz9YTwBKzjX8qqtyE0dZVw4ztyyMMLg",
+      "amount": 219.27,
+      "date": "2024-01-05",
+      "description": "ACH DEBIT 38263146 BRIDGECREST DT RETAIL",
+      "guid": "9yL0bOPo1YTy4qRr7K66I3xOrAoxaJsz0zya8",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\"]"
+    },
+    {
+      "originalDescription": "Chick-fil-A",
+      "accountGuid": "0wKPaegz9YTwBKzjX8qqtyE0dZVw4ztyyMMLg",
+      "amount": 11.52,
+      "date": "2024-01-22",
+      "description": "Chick-fil-A",
+      "guid": "836vaVQoDYH3KAvqr1wwHPoNvBgBegFJqrKE0",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "Cash America",
+      "accountGuid": "0wKPaegz9YTwBKzjX8qqtyE0dZVw4ztyyMMLg",
+      "amount": 118.0,
+      "date": "2024-01-19",
+      "description": "Cash America",
+      "guid": "7BwAaV9QLYhMo4vA8DddHkbYV8n84nFD6rznO",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "ACH DEBIT XXXXX5799 HCTRA EFT EZTAGSTPPD",
+      "accountGuid": "0wKPaegz9YTwBKzjX8qqtyE0dZVw4ztyyMMLg",
+      "amount": 21.16,
+      "date": "2024-01-09",
+      "description": "ACH DEBIT XXXXX5799 HCTRA EFT EZTAGSTPPD",
+      "guid": "7BwAaV9QLYhMo4vA8DddHkb3KenbpNur1rYOE",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Tolls and Fees\"]"
+    },
+    {
+      "originalDescription": "eBay OXXXXX5617",
+      "accountGuid": "0wKPaegz9YTwBKzjX8qqtyE0dZVw4ztyyMMLg",
+      "amount": 18.93,
+      "date": "2024-01-17",
+      "description": "eBay OXXXXX5617",
+      "guid": "6qdkRVLo6YUqAy0M8Qnnt4nrJkakgaUyOK9Oo",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Digital Purchase\"]"
+    },
+    {
+      "originalDescription": "ACH WEB XXXXX8539 SYNCHRONY BANK CC PYMT",
+      "accountGuid": "0wKPaegz9YTwBKzjX8qqtyE0dZVw4ztyyMMLg",
+      "amount": 40.0,
+      "date": "2024-01-19",
+      "description": "ACH WEB XXXXX8539 SYNCHRONY BANK CC PYMT",
+      "guid": "5P7KRz6owYSPpnQmXKkkf3yZEK1KY1u6Yzdne",
+      "type": "DEBIT",
+      "category": "[\"Payment\",\"Credit Card\"]"
+    },
+    {
+      "originalDescription": "ACH TEL XXXXX4296 ONEMAIN ACH PMT LOAN PYMNT",
+      "accountGuid": "0wKPaegz9YTwBKzjX8qqtyE0dZVw4ztyyMMLg",
+      "amount": 618.95,
+      "date": "2024-01-22",
+      "description": "ACH TEL XXXXX4296 ONEMAIN ACH PMT LOAN PYMNT",
+      "guid": "415ybVwOdYC1mJyYpOKKIna4ezDzRDHJg6Eo4",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]"
+    },
+    {
+      "originalDescription": "ATM DEPOSIT 78957263 DEPOSIT 200 NORTHPARK D",
+      "accountGuid": "0wKPaegz9YTwBKzjX8qqtyE0dZVw4ztyyMMLg",
+      "amount": 100.0,
+      "date": "2024-01-16",
+      "description": "ATM DEPOSIT 78957263 DEPOSIT 200 NORTHPARK D",
+      "guid": "165qQEgoVYh68myXOoBBueoXvqaqVaUj9Dq93",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Deposit\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "Walmart",
+      "accountGuid": "0wKPaegz9YTwBKzjX8qqtyE0dZVw4ztyyMMLg",
+      "amount": 11.48,
+      "date": "2024-01-23",
+      "description": "Walmart",
+      "guid": "0wKPaegz9YTwBKzjX8qqtyE6xMNMDNFVRE54p",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "ELEGANT NAILS & SPA",
+      "accountGuid": "0wKPaegz9YTwBKzjX8qqtyE0dZVw4ztyyMMLg",
+      "amount": 87.0,
+      "date": "2024-02-08",
+      "description": "ELEGANT NAILS & SPA",
+      "guid": "yyNeOk0KLnTPk0nwzDppf51O4eweDwi3bYoZM",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Personal Care\"]"
+    },
+    {
+      "originalDescription": "APPLE CASH SENT MONEY 1INFINITELO",
+      "accountGuid": "0wKPaegz9YTwBKzjX8qqtyE0dZVw4ztyyMMLg",
+      "amount": 36.0,
+      "date": "2024-02-08",
+      "description": "APPLE CASH SENT MONEY 1INFINITELO",
+      "guid": "K7EXLoxAZkUD0RAr8Z66iOzm3gegreS1qJvwz",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Computers and Electronics\"]"
+    },
+    {
+      "originalDescription": "ACH WEB MXXXXX5881 APEX WIRELESS OF APEXWIRELE",
+      "accountGuid": "0wKPaegz9YTwBKzjX8qqtyE0dZVw4ztyyMMLg",
+      "amount": 34.01,
+      "date": "2024-02-08",
+      "description": "ACH WEB MXXXXX5881 APEX WIRELESS OF APEXWIRELE",
+      "guid": "BaZ59pkDvmSMYRvBXpKKHQE71qPqwPidV5jEN",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Telecommunication Services\"]"
+    },
+    {
+      "originalDescription": "DEPOSIT XXXXX6480",
+      "accountGuid": "0wKPaegz9YTwBKzjX8qqtyE0dZVw4ztyyMMLg",
+      "amount": 607.39,
+      "date": "2024-01-26",
+      "description": "DEPOSIT XXXXX6480",
+      "guid": "yyNeOk0KLnTPk0nwzDppf51O4eweDwi3bYoyz",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Deposit\"]"
+    },
+    {
+      "originalDescription": "HOUSTON INDEPENDENT SC",
+      "accountGuid": "0wKPaegz9YTwBKzjX8qqtyE0dZVw4ztyyMMLg",
+      "amount": 7.55,
+      "date": "2024-01-31",
+      "description": "HOUSTON INDEPENDENT SC",
+      "guid": "yyNeOk0KLnTPk0nwzDppf51O4eweDwi3bYoBM",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "ACH DEBIT 38263146 BRIDGECREST DT RETAIL",
+      "accountGuid": "0wKPaegz9YTwBKzjX8qqtyE0dZVw4ztyyMMLg",
+      "amount": 219.27,
+      "date": "2024-02-02",
+      "description": "ACH DEBIT 38263146 BRIDGECREST DT RETAIL",
+      "guid": "YYBV1Q6LDwSpdRvAJ4mmiBQAReYeKYCwZjpXK",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\"]"
+    },
+    {
+      "originalDescription": "ADT Security",
+      "accountGuid": "0wKPaegz9YTwBKzjX8qqtyE0dZVw4ztyyMMLg",
+      "amount": 55.2,
+      "date": "2024-02-02",
+      "description": "ADT Security",
+      "guid": "zKNeOAmkDnsPkRB641rrfNbOLa6ar6IdPYBD1",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Security and Safety\"]"
+    },
+    {
+      "originalDescription": "HOUSTON INDEPENDENT SC",
+      "accountGuid": "0wKPaegz9YTwBKzjX8qqtyE0dZVw4ztyyMMLg",
+      "amount": 5.5,
+      "date": "2024-02-06",
+      "description": "HOUSTON INDEPENDENT SC",
+      "guid": "ZYdVP5LD16SmYPd9VrqqHXRKPOEOYEtV579ay",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "APPLE CASH SENT MONEY 1INFINITELO",
+      "accountGuid": "0wKPaegz9YTwBKzjX8qqtyE0dZVw4ztyyMMLg",
+      "amount": 100.0,
+      "date": "2024-02-05",
+      "description": "APPLE CASH SENT MONEY 1INFINITELO",
+      "guid": "XYqOm5w6LdSX4o8VN011HmQaoJwJOwf0ZQPL1",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Computers and Electronics\"]"
+    },
+    {
+      "originalDescription": "ACH WEB XXXXX4806 ENTERGY SERVICES BILL PAY",
+      "accountGuid": "0wKPaegz9YTwBKzjX8qqtyE0dZVw4ztyyMMLg",
+      "amount": 88.75,
+      "date": "2024-02-06",
+      "description": "ACH WEB XXXXX4806 ENTERGY SERVICES BILL PAY",
+      "guid": "x3NeOKgy6nH0bJ5drL77cB1Mk4d4gdCJP3jxa",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Utilities\",\"Electric\"]"
+    },
+    {
+      "originalDescription": "CASH STORE TX XXXXX0822",
+      "accountGuid": "0wKPaegz9YTwBKzjX8qqtyE0dZVw4ztyyMMLg",
+      "amount": 277.26,
+      "date": "2024-02-02",
+      "description": "CASH STORE TX XXXXX0822",
+      "guid": "wBNYAyg3wXhpLjzQV6rriPvoA3O3nOFy5XMzL",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "H-E-B",
+      "accountGuid": "0wKPaegz9YTwBKzjX8qqtyE0dZVw4ztyyMMLg",
+      "amount": 13.6,
+      "date": "2024-02-05",
+      "description": "H-E-B",
+      "guid": "VY1V65rmwZS6VRX7NMLLumrjRJOJKOfXoDa3V",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "ACH CREDIT HOUSTON ISD DIR DEP",
+      "accountGuid": "0wKPaegz9YTwBKzjX8qqtyE0dZVw4ztyyMMLg",
+      "amount": 3959.77,
+      "date": "2024-01-31",
+      "description": "ACH CREDIT HOUSTON ISD DIR DEP",
+      "guid": "vqYea3PBdnU8LRBzVNrrtO4m0QyQ6ySkrJ7ej",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Payroll\"]"
+    },
+    {
+      "originalDescription": "MRS G",
+      "accountGuid": "0wKPaegz9YTwBKzjX8qqtyE0dZVw4ztyyMMLg",
+      "amount": 18.32,
+      "date": "2024-02-07",
+      "description": "MRS G",
+      "guid": "vqYea3PBdnU8LRBzVNrrtO4m0QyQ6ySkrJ74j",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "H-E-B",
+      "accountGuid": "0wKPaegz9YTwBKzjX8qqtyE0dZVw4ztyyMMLg",
+      "amount": 15.0,
+      "date": "2024-02-05",
+      "description": "H-E-B",
+      "guid": "RYwEyoOxVaS7xOM5NmjjUXKqOB9BR9t4jPdmZ",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "N0127 7480 PAYMENT POS00001000 6520242 Microsoft Corp",
+      "accountGuid": "0wKPaegz9YTwBKzjX8qqtyE0dZVw4ztyyMMLg",
+      "amount": 10.81,
+      "date": "2024-01-29",
+      "description": "N0127 7480 PAYMENT POS00001000 6520242 Microsoft Corp",
+      "guid": "rL0eg1ED9NcAdwVNY488twvBKyAyaAiak5ALE",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Computers and Electronics\"]"
+    },
+    {
+      "originalDescription": "ACH CREDIT XXXXX2039 BENEFIT PAYMENTS DEPOSIT",
+      "accountGuid": "0wKPaegz9YTwBKzjX8qqtyE0dZVw4ztyyMMLg",
+      "amount": 1359.6,
+      "date": "2024-02-07",
+      "description": "ACH CREDIT XXXXX2039 BENEFIT PAYMENTS DEPOSIT",
+      "guid": "rL0eg1ED9NcAdwVNY488twvBKyAyaAiak5ADE",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Deposit\"]"
+    },
+    {
+      "originalDescription": "ATM WITHDRAWAL PNCPJ4650 N0203 7480 200 NORTHPARK DR",
+      "accountGuid": "0wKPaegz9YTwBKzjX8qqtyE0dZVw4ztyyMMLg",
+      "amount": 160.0,
+      "date": "2024-02-05",
+      "description": "ATM WITHDRAWAL PNCPJ4650 N0203 7480 200 NORTHPARK DR",
+      "guid": "QYdV3oxa94S1owBZEr33IAE4wqrqerIzaRbqa",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "HOUSTON INDEPENDENT SC",
+      "accountGuid": "0wKPaegz9YTwBKzjX8qqtyE0dZVw4ztyyMMLg",
+      "amount": 4.0,
+      "date": "2024-01-29",
+      "description": "HOUSTON INDEPENDENT SC",
+      "guid": "q6yeXDqL7nhXxARLrg88H9AJZ4N47NHBg4r69",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "ACH DEBIT 13264770 RESCUE BUCKS XXXXX5962",
+      "accountGuid": "0wKPaegz9YTwBKzjX8qqtyE0dZVw4ztyyMMLg",
+      "amount": 266.46,
+      "date": "2024-01-31",
+      "description": "ACH DEBIT 13264770 RESCUE BUCKS XXXXX5962",
+      "guid": "q6yeXDqL7nhXxARLrg88H9AJZ4N47NHBg4r0r",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "APPLE CASH SENT MONEY 1INFINITELO",
+      "accountGuid": "0wKPaegz9YTwBKzjX8qqtyE0dZVw4ztyyMMLg",
+      "amount": 10.0,
+      "date": "2024-01-29",
+      "description": "APPLE CASH SENT MONEY 1INFINITELO",
+      "guid": "PY5VBoX47rSMpZX8N499HLmAZg7gD7F1Ej7q0",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Computers and Electronics\"]"
+    },
+    {
+      "originalDescription": "DEBIT CARD CREDIT 4292045004 VIS 0131 The Cash Store",
+      "accountGuid": "0wKPaegz9YTwBKzjX8qqtyE0dZVw4ztyyMMLg",
+      "amount": 239.58,
+      "date": "2024-02-01",
+      "description": "DEBIT CARD CREDIT 4292045004 VIS 0131 The Cash Store",
+      "guid": "PY5VBoX47rSMpZX8N499HLmAZg7gD7F1Ej7Na",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "Kroger",
+      "accountGuid": "0wKPaegz9YTwBKzjX8qqtyE0dZVw4ztyyMMLg",
+      "amount": 27.69,
+      "date": "2024-02-05",
+      "description": "Kroger",
+      "guid": "pwNeALa6g5TjxyEL7RJJTdkJmBaBpafZ5rQxb",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "Walmart",
+      "accountGuid": "0wKPaegz9YTwBKzjX8qqtyE0dZVw4ztyyMMLg",
+      "amount": 106.8,
+      "date": "2024-02-05",
+      "description": "Walmart",
+      "guid": "OYaVqoPrgjSBEb5J9844TQ8gbJ5Jn5iVm1NvR",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "NURX.CO HTTPSNURX.C",
+      "accountGuid": "0wKPaegz9YTwBKzjX8qqtyE0dZVw4ztyyMMLg",
+      "amount": 28.52,
+      "date": "2024-02-06",
+      "description": "NURX.CO HTTPSNURX.C",
+      "guid": "odgex60wbZskLbQNryOOf1vB0mjmwjsoV5kAz",
+      "type": "DEBIT",
+      "category": "[\"Service\"]"
+    },
+    {
+      "originalDescription": "Walmart",
+      "accountGuid": "0wKPaegz9YTwBKzjX8qqtyE0dZVw4ztyyMMLg",
+      "amount": 35.2,
+      "date": "2024-02-05",
+      "description": "Walmart",
+      "guid": "nYKevw9do8SKvYb0QV66CMrARP6P56F0w6qvg",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Chick-fil-A",
+      "accountGuid": "0wKPaegz9YTwBKzjX8qqtyE0dZVw4ztyyMMLg",
+      "amount": 3.95,
+      "date": "2024-02-05",
+      "description": "Chick-fil-A",
+      "guid": "NO5VPoMjb0FMLZQeNj55HmRrZg7gw7fxEnb7N",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "HOUSTON INDEPENDENT SC",
+      "accountGuid": "0wKPaegz9YTwBKzjX8qqtyE0dZVw4ztyyMMLg",
+      "amount": 6.0,
+      "date": "2024-02-02",
+      "description": "HOUSTON INDEPENDENT SC",
+      "guid": "mYyeAd9Z5JSRnx0oM8AAtkyMg1P19PF37Y4nd",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "PetSmart",
+      "accountGuid": "0wKPaegz9YTwBKzjX8qqtyE0dZVw4ztyyMMLg",
+      "amount": 25.85,
+      "date": "2024-02-05",
+      "description": "PetSmart",
+      "guid": "MVQY1Ex0mvhr8M5aez99t95pNLDLdDH5zykar",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Pets\"]"
+    },
+    {
+      "originalDescription": "Walmart",
+      "accountGuid": "0wKPaegz9YTwBKzjX8qqtyE0dZVw4ztyyMMLg",
+      "amount": 22.02,
+      "date": "2024-01-29",
+      "description": "Walmart",
+      "guid": "L9kVDoxv5AHmR3n48DddH50Bm9w9MwimV7PXj",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "CHECK 2001 019391535",
+      "accountGuid": "0wKPaegz9YTwBKzjX8qqtyE0dZVw4ztyyMMLg",
+      "amount": 175.0,
+      "date": "2024-02-01",
+      "description": "CHECK 2001 019391535",
+      "guid": "L9kVDoxv5AHmR3n48DddH50Bm9w9MwimV7POJ",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\",\"Check\"]"
+    },
+    {
+      "originalDescription": "Google Cloud Storage",
+      "accountGuid": "0wKPaegz9YTwBKzjX8qqtyE0dZVw4ztyyMMLg",
+      "amount": 2.12,
+      "date": "2024-02-08",
+      "description": "Google Cloud Storage",
+      "guid": "kYBeKXNJ8aSDBmbpVRjjiw0Rd8V8jVi3y1DOd",
+      "type": "DEBIT",
+      "category": "[\"Service\"]"
+    },
+    {
+      "originalDescription": "APPLE CASH SENT MONEY 1INFINITELO",
+      "accountGuid": "0wKPaegz9YTwBKzjX8qqtyE0dZVw4ztyyMMLg",
+      "amount": 20.0,
+      "date": "2024-01-31",
+      "description": "APPLE CASH SENT MONEY 1INFINITELO",
+      "guid": "kYBeKXNJ8aSDBmbpVRjjiw0Rd8V8jVi3y1Ded",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Computers and Electronics\"]"
+    },
+    {
+      "originalDescription": "RECURRING DEBIT CARD XXXXX0031 Experian Credit Repor XXXXX6237",
+      "accountGuid": "0wKPaegz9YTwBKzjX8qqtyE0dZVw4ztyyMMLg",
+      "amount": 27.05,
+      "date": "2024-01-31",
+      "description": "RECURRING DEBIT CARD XXXXX0031 Experian Credit Repor XXXXX6237",
+      "guid": "K7EXLoxAZkUD0RAr8Z66iOzm3gegreS1qJvoz",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Business Services\"]"
+    },
+    {
+      "originalDescription": "APPLE CASH SENT MONEY 1INFINITELO",
+      "accountGuid": "0wKPaegz9YTwBKzjX8qqtyE0dZVw4ztyyMMLg",
+      "amount": 30.0,
+      "date": "2024-01-25",
+      "description": "APPLE CASH SENT MONEY 1INFINITELO",
+      "guid": "K7EXLoxAZkUD0RAr8Z66iOzm3gegreS1qJvgk",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Computers and Electronics\"]"
+    },
+    {
+      "originalDescription": "ATM WITHDRAWAL PNCPJ4650 N0129 7480 200 NORTHPARK DR",
+      "accountGuid": "0wKPaegz9YTwBKzjX8qqtyE0dZVw4ztyyMMLg",
+      "amount": 120.0,
+      "date": "2024-01-29",
+      "description": "ATM WITHDRAWAL PNCPJ4650 N0129 7480 200 NORTHPARK DR",
+      "guid": "jzqmy5MxJ4SARmokQ0qqt6LDmpnpqnH1aMY7D",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "APPLE CASH SENT MONEY 1INFINITELO",
+      "accountGuid": "0wKPaegz9YTwBKzjX8qqtyE0dZVw4ztyyMMLg",
+      "amount": 130.0,
+      "date": "2024-02-07",
+      "description": "APPLE CASH SENT MONEY 1INFINITELO",
+      "guid": "jzqmy5MxJ4SARmokQ0qqt6LDmpnpqnH1aMY6D",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Computers and Electronics\"]"
+    },
+    {
+      "originalDescription": "ACH TEL 12110924 USAA P&C PAYMENT",
+      "accountGuid": "0wKPaegz9YTwBKzjX8qqtyE0dZVw4ztyyMMLg",
+      "amount": 396.61,
+      "date": "2024-02-06",
+      "description": "ACH TEL 12110924 USAA P&C PAYMENT",
+      "guid": "Jg5V6XLk8KuZBzrjmkyyUmb7xgegJefXNVQDJ",
+      "type": "DEBIT",
+      "category": "[\"Payment\"]"
+    },
+    {
+      "originalDescription": "Comcast",
+      "accountGuid": "0wKPaegz9YTwBKzjX8qqtyE0dZVw4ztyyMMLg",
+      "amount": 275.24,
+      "date": "2024-02-05",
+      "description": "Comcast",
+      "guid": "gYDeqMyr40SAk0NPQyddtOgq0vNvANS3Y9bk1",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Cable\"]"
+    },
+    {
+      "originalDescription": "APPLE CASH SENT MONEY 1INFINITELO",
+      "accountGuid": "0wKPaegz9YTwBKzjX8qqtyE0dZVw4ztyyMMLg",
+      "amount": 50.0,
+      "date": "2024-02-05",
+      "description": "APPLE CASH SENT MONEY 1INFINITELO",
+      "guid": "eY6e1z30jASogzD1VK33UJXdz8b8obFkZoeg0",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Computers and Electronics\"]"
+    },
+    {
+      "originalDescription": "Cash America",
+      "accountGuid": "0wKPaegz9YTwBKzjX8qqtyE0dZVw4ztyyMMLg",
+      "amount": 45.0,
+      "date": "2024-02-05",
+      "description": "Cash America",
+      "guid": "E8ZgEokqrPT8a9NKnoQQtOvnd4m4bmSJX75bb",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "ATT BILL PAYMENT XXXXX0500",
+      "accountGuid": "0wKPaegz9YTwBKzjX8qqtyE0dZVw4ztyyMMLg",
+      "amount": 135.0,
+      "date": "2024-02-02",
+      "description": "ATT BILL PAYMENT XXXXX0500",
+      "guid": "dYweD53v0kSpgOaVzBAAi3dbO8w8Rwuy5p160",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Telecommunication Services\"]"
+    },
+    {
+      "originalDescription": "APPLE CASH SENT MONEY 1INFINITELO",
+      "accountGuid": "0wKPaegz9YTwBKzjX8qqtyE0dZVw4ztyyMMLg",
+      "amount": 50.0,
+      "date": "2024-02-01",
+      "description": "APPLE CASH SENT MONEY 1INFINITELO",
+      "guid": "DJXbromPj1iJ4axy9ZAAIe3Rp757M5UVmdqLR",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Computers and Electronics\"]"
+    },
+    {
+      "originalDescription": "H-E-B",
+      "accountGuid": "0wKPaegz9YTwBKzjX8qqtyE0dZVw4ztyyMMLg",
+      "amount": 34.61,
+      "date": "2024-01-29",
+      "description": "H-E-B",
+      "guid": "DJXbromPj1iJ4axy9ZAAIe3Rp757M5UVmdqKn",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Starbucks",
+      "accountGuid": "0wKPaegz9YTwBKzjX8qqtyE0dZVw4ztyyMMLg",
+      "amount": 6.98,
+      "date": "2024-02-06",
+      "description": "Starbucks",
+      "guid": "bYBe6gbkAyS5PnwB0r44FRdqnOXOyXHgZvdeb",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Coffee Shop\"]"
+    },
+    {
+      "originalDescription": "APPLE CASH SENT MONEY 1INFINITELO",
+      "accountGuid": "0wKPaegz9YTwBKzjX8qqtyE0dZVw4ztyyMMLg",
+      "amount": 15.0,
+      "date": "2024-01-29",
+      "description": "APPLE CASH SENT MONEY 1INFINITELO",
+      "guid": "BaZ59pkDvmSMYRvBXpKKHQE71qPqwPidV5jZp",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Computers and Electronics\"]"
+    },
+    {
+      "originalDescription": "ACH DEBIT 53705488 UPGRADE, INC. PAYMENT",
+      "accountGuid": "0wKPaegz9YTwBKzjX8qqtyE0dZVw4ztyyMMLg",
+      "amount": 301.36,
+      "date": "2024-01-31",
+      "description": "ACH DEBIT 53705488 UPGRADE, INC. PAYMENT",
+      "guid": "BaZ59pkDvmSMYRvBXpKKHQE71qPqwPidV5jbN",
+      "type": "DEBIT",
+      "category": "[\"Payment\"]"
+    },
+    {
+      "originalDescription": "ACH DEBIT 44806926A BEST EGG PAYMENT",
+      "accountGuid": "0wKPaegz9YTwBKzjX8qqtyE0dZVw4ztyyMMLg",
+      "amount": 82.72,
+      "date": "2024-02-06",
+      "description": "ACH DEBIT 44806926A BEST EGG PAYMENT",
+      "guid": "aYqpw5AKk3S5a7vr0XQQFX57aOyOAyt9NpaOw",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "Shell",
+      "accountGuid": "0wKPaegz9YTwBKzjX8qqtyE0dZVw4ztyyMMLg",
+      "amount": 16.96,
+      "date": "2024-02-08",
+      "description": "Shell",
+      "guid": "A47ZaVJLA6u4BPnqAZXXuwmngP1Pz1ibP5BD5",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "Chick-fil-A",
+      "accountGuid": "0wKPaegz9YTwBKzjX8qqtyE0dZVw4ztyyMMLg",
+      "amount": 3.95,
+      "date": "2024-01-31",
+      "description": "Chick-fil-A",
+      "guid": "A47ZaVJLA6u4BPnqAZXXuwmngP1Pz1ibP5B45",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "Home Depot",
+      "accountGuid": "0wKPaegz9YTwBKzjX8qqtyE0dZVw4ztyyMMLg",
+      "amount": 12.94,
+      "date": "2024-02-05",
+      "description": "Home Depot",
+      "guid": "9yL0bOPo1YTy4qRr7K66I3xqpdod7oukZzrqY",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Hardware Store\"]"
+    },
+    {
+      "originalDescription": "RECURRING DEBIT CARD XXXXX0037 YT Primetime g.co/helppa",
+      "accountGuid": "0wKPaegz9YTwBKzjX8qqtyE0dZVw4ztyyMMLg",
+      "amount": 12.98,
+      "date": "2024-02-06",
+      "description": "RECURRING DEBIT CARD XXXXX0037 YT Primetime g.co/helppa",
+      "guid": "836vaVQoDYH3KAvqr1wwHPoNvBgBegFJqrK48",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Digital Purchase\"]"
+    },
+    {
+      "originalDescription": "Amazon Prime",
+      "accountGuid": "0wKPaegz9YTwBKzjX8qqtyE0dZVw4ztyyMMLg",
+      "amount": 16.23,
+      "date": "2024-02-05",
+      "description": "Amazon Prime",
+      "guid": "7BwAaV9QLYhMo4vA8DddHkbYV8n84nFD6rzJy",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Subscription\"]"
+    },
+    {
+      "originalDescription": "APPLE CASH SENT MONEY 1INFINITELO",
+      "accountGuid": "0wKPaegz9YTwBKzjX8qqtyE0dZVw4ztyyMMLg",
+      "amount": 100.0,
+      "date": "2024-02-02",
+      "description": "APPLE CASH SENT MONEY 1INFINITELO",
+      "guid": "6qdkRVLo6YUqAy0M8Qnnt4nrJkakgaUyOK9zw",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Computers and Electronics\"]"
+    },
+    {
+      "originalDescription": "RECURRING DEBIT CARD XXXXX0037 HP INSTANT INK XXXXX2777",
+      "accountGuid": "0wKPaegz9YTwBKzjX8qqtyE0dZVw4ztyyMMLg",
+      "amount": 4.32,
+      "date": "2024-02-06",
+      "description": "RECURRING DEBIT CARD XXXXX0037 HP INSTANT INK XXXXX2777",
+      "guid": "5P7KRz6owYSPpnQmXKkkf3yZEK1KY1u6YzdxZ",
+      "type": "DEBIT",
+      "category": "[\"Service\"]"
+    },
+    {
+      "originalDescription": "ACH DEBIT XXXXX9516 AVANT LLC 800-71 AVANT.COM",
+      "accountGuid": "0wKPaegz9YTwBKzjX8qqtyE0dZVw4ztyyMMLg",
+      "amount": 50.0,
+      "date": "2024-02-06",
+      "description": "ACH DEBIT XXXXX9516 AVANT LLC 800-71 AVANT.COM",
+      "guid": "415ybVwOdYC1mJyYpOKKIna4ezDzRDHJg6E4z",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]"
+    },
+    {
+      "originalDescription": "Walmart",
+      "accountGuid": "0wKPaegz9YTwBKzjX8qqtyE0dZVw4ztyyMMLg",
+      "amount": 25.94,
+      "date": "2024-02-08",
+      "description": "Walmart",
+      "guid": "3DZ3QVdoMYhEMQnoXVyyURXD5nJnjJH7Ed0yQ",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "DEPOSIT XXXXX7732",
+      "accountGuid": "0wKPaegz9YTwBKzjX8qqtyE0dZVw4ztyyMMLg",
+      "amount": 26.18,
+      "date": "2024-01-29",
+      "description": "DEPOSIT XXXXX7732",
+      "guid": "3DZ3QVdoMYhEMQnoXVyyURXD5nJnjJH7Ed0qN",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Deposit\"]"
+    },
+    {
+      "originalDescription": "ACH DEBIT 53705454 UPGRADE, INC. PAYMENT",
+      "accountGuid": "0wKPaegz9YTwBKzjX8qqtyE0dZVw4ztyyMMLg",
+      "amount": 420.64,
+      "date": "2024-01-31",
+      "description": "ACH DEBIT 53705454 UPGRADE, INC. PAYMENT",
+      "guid": "3DZ3QVdoMYhEMQnoXVyyURXD5nJnjJH7Ed0gQ",
+      "type": "DEBIT",
+      "category": "[\"Payment\"]"
+    },
+    {
+      "originalDescription": "Chick-fil-A",
+      "accountGuid": "0wKPaegz9YTwBKzjX8qqtyE0dZVw4ztyyMMLg",
+      "amount": 3.95,
+      "date": "2024-01-29",
+      "description": "Chick-fil-A",
+      "guid": "165qQEgoVYh68myXOoBBueoXvqaqVaUj9Dqx3",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "APPLE CASH SENT MONEY 1INFINITELO",
+      "accountGuid": "0wKPaegz9YTwBKzjX8qqtyE0dZVw4ztyyMMLg",
+      "amount": 400.0,
+      "date": "2024-02-01",
+      "description": "APPLE CASH SENT MONEY 1INFINITELO",
+      "guid": "165qQEgoVYh68myXOoBBueoXvqaqVaUj9Dq7j",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Computers and Electronics\"]"
+    },
+    {
+      "originalDescription": "HOUSTON INDEPENDENT SC",
+      "accountGuid": "0wKPaegz9YTwBKzjX8qqtyE0dZVw4ztyyMMLg",
+      "amount": 3.5,
+      "date": "2024-02-07",
+      "description": "HOUSTON INDEPENDENT SC",
+      "guid": "0wKPaegz9YTwBKzjX8qqtyE6xMNMDNFVRE5wy",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "ACH DEBIT XXXXX9761 HCTRA EFT EZTAGSTPPD",
+      "accountGuid": "0wKPaegz9YTwBKzjX8qqtyE0dZVw4ztyyMMLg",
+      "amount": 20.0,
+      "date": "2024-01-30",
+      "description": "ACH DEBIT XXXXX9761 HCTRA EFT EZTAGSTPPD",
+      "guid": "0wKPaegz9YTwBKzjX8qqtyE6xMNMDNFVRE5qy",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Tolls and Fees\"]"
+    }
+  ],
+  "asOfDate": "2024-02-08"
+}

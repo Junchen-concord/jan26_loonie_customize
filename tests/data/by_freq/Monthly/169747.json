@@ -1,0 +1,2887 @@
+{
+  "accounts": [
+    {
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "currentBalance": 31.31,
+      "currentBalanceDate": "2024-01-20"
+    },
+    {
+      "accountGuid": "jbJzrB8Da1cJ3xKN13beHQmKAKzq9EhjjDEM9",
+      "currentBalance": 1.66,
+      "currentBalanceDate": "2024-01-20"
+    }
+  ],
+  "transactions": [
+    {
+      "originalDescription": "Google Play",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 3.23,
+      "date": "2023-12-28",
+      "description": "Google Play",
+      "guid": "NLbOYxqyZDs8n0aqxnkBhDZRaa0DRyILajz46",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Entertainment\"]"
+    },
+    {
+      "originalDescription": "Brigit NEW YORK NY 176562 01/16",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 250.0,
+      "date": "2024-01-16",
+      "description": "Brigit NEW YORK NY 176562 01/16",
+      "guid": "NLbOYxqyZDs8n0aqxnkBhDZRaa0DRyILajzev",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "Online Transfer from CHK ...0202 transaction#: 19614608061",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 25.0,
+      "date": "2024-01-18",
+      "description": "Online Transfer from CHK ...0202 transaction#: 19614608061",
+      "guid": "ODgYeJbK71SDrj107rn3i1b8mm318jugKyP69",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Internal Account Transfer\"]"
+    },
+    {
+      "originalDescription": "Online Transfer to CHK ...9017 transaction#: 19463882913 01/02",
+      "accountGuid": "jbJzrB8Da1cJ3xKN13beHQmKAKzq9EhjjDEM9",
+      "amount": 500.0,
+      "date": "2024-01-02",
+      "description": "Online Transfer to CHK ...9017 transaction#: 19463882913 01/02",
+      "guid": "ODgYeJbK71SDrj107rn3i1b8mm318jugKyP7k",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Internal Account Transfer\"]"
+    },
+    {
+      "originalDescription": "ATM WITHDRAWAL 001173 12/2950 PHELPS",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 200.0,
+      "date": "2023-12-29",
+      "description": "ATM WITHDRAWAL 001173 12/2950 PHELPS",
+      "guid": "ODgYeJbK71SDrj107rn3i1b8mm318jugKyPjk",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "Holiday Inn",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 2.0,
+      "date": "2023-12-21",
+      "description": "Holiday Inn",
+      "guid": "oJbd8A93aycM51Y3d59AF70vAAo7v9ibjw019",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Lodging\",\"Hotels and Motels\"]"
+    },
+    {
+      "originalDescription": "Online Transfer from CHK ...0202 transaction#: 19622199879",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 200.0,
+      "date": "2024-01-19",
+      "description": "Online Transfer from CHK ...0202 transaction#: 19622199879",
+      "guid": "oJbd8A93aycM51Y3d59AF70vAAo7v9ibjw09o",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Internal Account Transfer\"]"
+    },
+    {
+      "originalDescription": "ROMEOVILLE *UTILITY IL 12/30",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 152.57,
+      "date": "2024-01-02",
+      "description": "ROMEOVILLE *UTILITY IL 12/30",
+      "guid": "oJbd8A93aycM51Y3d59AF70vAAo7v9ibjw0g9",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Utilities\"]"
+    },
+    {
+      "originalDescription": "STELLA'S BAR & GRILL ROMEOVILLE IL 01/06",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 33.75,
+      "date": "2024-01-08",
+      "description": "STELLA'S BAR & GRILL ROMEOVILLE IL 01/06",
+      "guid": "P17Ye8xkqPUgqrVdxqRyFMZm00XMmVUAe9509",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "Online Transfer to CHK ...0202 transaction#: 19489317375 01/04",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 50.0,
+      "date": "2024-01-04",
+      "description": "Online Transfer to CHK ...0202 transaction#: 19489317375 01/04",
+      "guid": "P17Ye8xkqPUgqrVdxqRyFMZm00XMmVUAe950m",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Internal Account Transfer\"]"
+    },
+    {
+      "originalDescription": "STELLA'S BAR & GRILL ROMEOVILLE IL 12/26",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 54.25,
+      "date": "2023-12-27",
+      "description": "STELLA'S BAR & GRILL ROMEOVILLE IL 12/26",
+      "guid": "P17Ye8xkqPUgqrVdxqRyFMZm00XMmVUAe95Rm",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "Brigit NEW YORK NY 176194 01/16",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 0.01,
+      "date": "2024-01-16",
+      "description": "Brigit NEW YORK NY 176194 01/16",
+      "guid": "pJgwZvPyXKcw40Kkg4dvCbmk11zbk6H4kYLE1",
+      "type": "CREDIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "ATM WITHDRAWAL 001039 12/2950 PHELPS",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 400.0,
+      "date": "2023-12-29",
+      "description": "ATM WITHDRAWAL 001039 12/2950 PHELPS",
+      "guid": "pJgwZvPyXKcw40Kkg4dvCbmk11zbk6H4kYLRo",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "LARRYS BAR AND GRILL ROMEOVILLE IL 01/02",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 19.25,
+      "date": "2024-01-03",
+      "description": "LARRYS BAR AND GRILL ROMEOVILLE IL 01/02",
+      "guid": "BKvaeB6M0RsEznxm5zkDCO1EyybOE5F7YBRPv",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "Online Transfer from CHK ...0202 transaction#: 19516789554",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 150.0,
+      "date": "2024-01-08",
+      "description": "Online Transfer from CHK ...0202 transaction#: 19516789554",
+      "guid": "BKvaeB6M0RsEznxm5zkDCO1EyybOE5F7YBRPE",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Internal Account Transfer\"]"
+    },
+    {
+      "originalDescription": "REMOTE ONLINE DEPOSIT # 1",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 134.28,
+      "date": "2023-12-27",
+      "description": "REMOTE ONLINE DEPOSIT # 1",
+      "guid": "BKvaeB6M0RsEznxm5zkDCO1EyybOE5F7YBRnv",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Deposit\"]"
+    },
+    {
+      "originalDescription": "PAYPAL INST XFER GOOGLE PEACOCK WEB ID: PAYPALSI77",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 11.99,
+      "date": "2023-12-20",
+      "description": "PAYPAL INST XFER GOOGLE PEACOCK WEB ID: PAYPALSI77",
+      "guid": "AyA4eqvO9MSDQo3LMQpVirm3X5vxNNFnMEvPz",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Digital Purchase\"]"
+    },
+    {
+      "originalDescription": "Online Transfer from SAV ...8212 transaction#: 19356369443",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 80.0,
+      "date": "2023-12-21",
+      "description": "Online Transfer from SAV ...8212 transaction#: 19356369443",
+      "guid": "bnAY3d4VPmizom9LZo6dsondppvodbFD7na4E",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Internal Account Transfer\"]"
+    },
+    {
+      "originalDescription": "Online Transfer from CHK ...0202 transaction#: 19617544218",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 500.0,
+      "date": "2024-01-19",
+      "description": "Online Transfer from CHK ...0202 transaction#: 19617544218",
+      "guid": "bnAY3d4VPmizom9LZo6dsondppvodbFD7najx",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Internal Account Transfer\"]"
+    },
+    {
+      "originalDescription": "COMED PAYMENT IL 12/29",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 69.85,
+      "date": "2024-01-02",
+      "description": "COMED PAYMENT IL 12/29",
+      "guid": "bnAY3d4VPmizom9LZo6dsondppvodbFD7naRE",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Utilities\",\"Electric\"]"
+    },
+    {
+      "originalDescription": "Google Play",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 3.23,
+      "date": "2023-12-27",
+      "description": "Google Play",
+      "guid": "DAjJeyEdDMHXg16M7gK3SVp311qV3KtRD5Q4o",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Entertainment\"]"
+    },
+    {
+      "originalDescription": "STELLA'S BAR & GRILL ROMEOVILLE IL 01/06",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 89.0,
+      "date": "2024-01-08",
+      "description": "STELLA'S BAR & GRILL ROMEOVILLE IL 01/06",
+      "guid": "DAjJeyEdDMHXg16M7gK3SVp311qV3KtRD5Qx8",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "Online Transfer from CHK ...0202 transaction#: 19404783942",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 100.0,
+      "date": "2023-12-27",
+      "description": "Online Transfer from CHK ...0202 transaction#: 19404783942",
+      "guid": "qJ7650am9kc6Eqe9mEj0t3ZAQQP3ALCEVd59D",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Internal Account Transfer\"]"
+    },
+    {
+      "originalDescription": "Google Play",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 10.78,
+      "date": "2024-01-04",
+      "description": "Google Play",
+      "guid": "qJ7650am9kc6Eqe9mEj0t3ZAQQP3ALCEVd5mD",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Entertainment\"]"
+    },
+    {
+      "originalDescription": "MURPHY EXPRESS 8845 ROMEOVILLE IL 01/05",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 16.85,
+      "date": "2024-01-08",
+      "description": "MURPHY EXPRESS 8845 ROMEOVILLE IL 01/05",
+      "guid": "qJ7650am9kc6Eqe9mEj0t3ZAQQP3ALCEVd5mM",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "PAYPAL INST XFER OMAHASTEAKS WEB ID: PAYPALSI77",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 202.41,
+      "date": "2024-01-02",
+      "description": "PAYPAL INST XFER OMAHASTEAKS WEB ID: PAYPALSI77",
+      "guid": "AyA4eqvO9MSDQo3LMQpVirgmRRYrmLUnqVxrj",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Third Party\",\"PayPal\"]"
+    },
+    {
+      "originalDescription": "Walmart",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 157.75,
+      "date": "2024-01-05",
+      "description": "Walmart",
+      "guid": "AyA4eqvO9MSDQo3LMQpVirgmRRYrmLUnqVxre",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Department Stores\"]"
+    },
+    {
+      "originalDescription": "DD *DOORDASH TERRACE WWW.DOORDASH. CA 12/26",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 29.78,
+      "date": "2023-12-26",
+      "description": "DD *DOORDASH TERRACE WWW.DOORDASH. CA 12/26",
+      "guid": "AyA4eqvO9MSDQo3LMQpVirgmRRYrmLUnqVx3j",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Food and Beverage\"]"
+    },
+    {
+      "originalDescription": "Online Transfer from CHK ...0202 transaction#: 19385420917",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 100.0,
+      "date": "2023-12-26",
+      "description": "Online Transfer from CHK ...0202 transaction#: 19385420917",
+      "guid": "aJkYBNP9QZckDKwJRDjVfEa5QQME51u1X63xe",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Internal Account Transfer\"]"
+    },
+    {
+      "originalDescription": "NON-CHASE ATM WITHDRAW 811361 01/19322 INDEP",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 63.0,
+      "date": "2024-01-19",
+      "description": "NON-CHASE ATM WITHDRAW 811361 01/19322 INDEP",
+      "guid": "aJkYBNP9QZckDKwJRDjVfEa5QQME51u1X63nP",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "402 W Weber Road Romeoville IL 104489 01/05",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 4.0,
+      "date": "2024-01-05",
+      "description": "402 W Weber Road Romeoville IL 104489 01/05",
+      "guid": "aJkYBNP9QZckDKwJRDjVfEa5QQME51u1X63JP",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Payroll\"]"
+    },
+    {
+      "originalDescription": "CARRINGTON MORTGAGE 7000308190 WEB ID: 9673545010",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 1231.6,
+      "date": "2024-01-02",
+      "description": "CARRINGTON MORTGAGE 7000308190 WEB ID: 9673545010",
+      "guid": "aJkYBNP9QZckDKwJRDjVfEa5QQME51u1X63Je",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]"
+    },
+    {
+      "originalDescription": "DD *DOORDASH WHITECA WWW.DOORDASH. CA 12/17",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 44.42,
+      "date": "2023-12-18",
+      "description": "DD *DOORDASH WHITECA WWW.DOORDASH. CA 12/17",
+      "guid": "aJkYBNP9QZckDKwJRDjVfE5modkzRRu17gvNK",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Food and Beverage\"]"
+    },
+    {
+      "originalDescription": "ATM CASH DEPOSIT 12/29 50 PHELPS AVE",
+      "accountGuid": "jbJzrB8Da1cJ3xKN13beHQmKAKzq9EhjjDEM9",
+      "amount": 760.0,
+      "date": "2023-12-29",
+      "description": "ATM CASH DEPOSIT 12/29 50 PHELPS AVE",
+      "guid": "QP9YeZOArqspO4NxQObKi1wExxn1EVu4m8oQ8",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Deposit\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "Walmart",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 80.86,
+      "date": "2023-12-29",
+      "description": "Walmart",
+      "guid": "QP9YeZOArqspO4NxQObKi1wExxn1EVu4m8oV8",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Department Stores\"]"
+    },
+    {
+      "originalDescription": "NON-CHASE ATM WITHDRAW 224217 01/16402 W Web",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 44.0,
+      "date": "2024-01-16",
+      "description": "NON-CHASE ATM WITHDRAW 224217 01/16402 W Web",
+      "guid": "QP9YeZOArqspO4NxQObKi1wExxn1EVu4m8oZg",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "PAYPAL INST XFER GOOGLE SPACE AP WEB ID: PAYPALSI77",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 2.14,
+      "date": "2023-12-27",
+      "description": "PAYPAL INST XFER GOOGLE SPACE AP WEB ID: PAYPALSI77",
+      "guid": "dR0YK6BMobTExv951xL6CjOdqqDjdPFQeYP7z",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Digital Purchase\"]"
+    },
+    {
+      "originalDescription": "PAYPAL INST XFER GOOGLE PHKL MAC WEB ID: PAYPALSI77",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 3.23,
+      "date": "2024-01-08",
+      "description": "PAYPAL INST XFER GOOGLE PHKL MAC WEB ID: PAYPALSI77",
+      "guid": "dR0YK6BMobTExv951xL6CjOdqqDjdPFQeYPXZ",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Digital Purchase\"]"
+    },
+    {
+      "originalDescription": "ATT Payment PPD ID: 9864031004",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 108.18,
+      "date": "2023-12-26",
+      "description": "ATT Payment PPD ID: 9864031004",
+      "guid": "rJ9Loj6kBmcLJXz6vJEjT0KvNND0vEHwmXjN7",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Telecommunication Services\"]"
+    },
+    {
+      "originalDescription": "State Farm",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 90.54,
+      "date": "2024-01-02",
+      "description": "State Farm",
+      "guid": "rJ9Loj6kBmcLJXz6vJEjT0KvNND0vEHwmXjq7",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Insurance\"]"
+    },
+    {
+      "originalDescription": "322 INDEPENDENCE BLVD ROMEOVILLE IL 636012 01/05",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 3.0,
+      "date": "2024-01-05",
+      "description": "322 INDEPENDENCE BLVD ROMEOVILLE IL 636012 01/05",
+      "guid": "rJ9Loj6kBmcLJXz6vJEjT0KvNND0vEHwmXjqz",
+      "type": "CREDIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "INTEREST PAYMENT",
+      "accountGuid": "jbJzrB8Da1cJ3xKN13beHQmKAKzq9EhjjDEM9",
+      "amount": 0.01,
+      "date": "2024-01-12",
+      "description": "INTEREST PAYMENT",
+      "guid": "961yVNdZEMTomVJe3mYACnpx55JnxgIxb1JNO",
+      "type": "CREDIT",
+      "category": "[\"Interest\",\"Interest Earned\"]"
+    },
+    {
+      "originalDescription": "Google Play",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 3.23,
+      "date": "2023-12-18",
+      "description": "Google Play",
+      "guid": "rJ9Loj6kBmcLJXz6vJEjT0vQeYjbJJHwVp6kB",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Entertainment\"]"
+    },
+    {
+      "originalDescription": "402 W Weber Road Romeoville IL 308633 01/19",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 4.0,
+      "date": "2024-01-19",
+      "description": "402 W Weber Road Romeoville IL 308633 01/19",
+      "guid": "961yVNdZEMTomVJe3mYACnpx55JnxgIxb1J04",
+      "type": "CREDIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "NON-CHASE ATM WITHDRAW 013893 01/19402 W Web",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 144.0,
+      "date": "2024-01-19",
+      "description": "NON-CHASE ATM WITHDRAW 013893 01/19402 W Web",
+      "guid": "8wD39Xy8zMcV8jQkP8Yxi8vorrD8o3FvaDkXx",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "STELLA'S BAR & GRILL ROMEOVILLE IL 12/30",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 14.5,
+      "date": "2024-01-02",
+      "description": "STELLA'S BAR & GRILL ROMEOVILLE IL 12/30",
+      "guid": "8wD39Xy8zMcV8jQkP8Yxi8vorrD8o3FvaDk8Q",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "UPROVA CREDIT 8335801319 000000002057208 WEB ID: 1320620369",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 198.44,
+      "date": "2023-12-22",
+      "description": "UPROVA CREDIT 8335801319 000000002057208 WEB ID: 1320620369",
+      "guid": "8wD39Xy8zMcV8jQkP8Yxi8vorrD8o3FvaDk7Q",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "402 W Weber Road Romeoville IL 224217 01/16",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 4.0,
+      "date": "2024-01-16",
+      "description": "402 W Weber Road Romeoville IL 224217 01/16",
+      "guid": "eJjYkLXEodcRdn70OdMLcrzX99xrXvUbEB9mA",
+      "type": "CREDIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "Google Play",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 5.39,
+      "date": "2023-12-28",
+      "description": "Google Play",
+      "guid": "eJjYkLXEodcRdn70OdMLcrzX99xrXvUbEB9RZ",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Entertainment\"]"
+    },
+    {
+      "originalDescription": "Online Transfer from SAV ...8212 transaction#: 19315787410",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 100.0,
+      "date": "2023-12-18",
+      "description": "Online Transfer from SAV ...8212 transaction#: 19315787410",
+      "guid": "8wD39Xy8zMcV8jQkP8Yxi8oA0xLy11fvx3Oqm",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Internal Account Transfer\"]"
+    },
+    {
+      "originalDescription": "Online Transfer to CHK ...0202 transaction#: 19431033685 12/29",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 300.0,
+      "date": "2023-12-29",
+      "description": "Online Transfer to CHK ...0202 transaction#: 19431033685 12/29",
+      "guid": "Evr8eKBwQMh40Pmge0AMC1dvAAD1vqunBxq4g",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Internal Account Transfer\"]"
+    },
+    {
+      "originalDescription": "ATM WITHDRAWAL 001171 12/2950 PHELPS",
+      "accountGuid": "jbJzrB8Da1cJ3xKN13beHQmKAKzq9EhjjDEM9",
+      "amount": 200.0,
+      "date": "2023-12-29",
+      "description": "ATM WITHDRAWAL 001171 12/2950 PHELPS",
+      "guid": "Evr8eKBwQMh40Pmge0AMC1dvAAD1vqunBxqKg",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "ATM WITHDRAWAL 003957 01/1650 PHELPS",
+      "accountGuid": "jbJzrB8Da1cJ3xKN13beHQmKAKzq9EhjjDEM9",
+      "amount": 20.0,
+      "date": "2024-01-16",
+      "description": "ATM WITHDRAWAL 003957 01/1650 PHELPS",
+      "guid": "7dLB7pDJEzsXj0NxkjemSzVb77NzbDC5meZKK",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "Online Transfer from SAV ...8212 transaction#: 19439335276",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 1000.0,
+      "date": "2024-01-02",
+      "description": "Online Transfer from SAV ...8212 transaction#: 19439335276",
+      "guid": "7dLB7pDJEzsXj0NxkjemSzVb77NzbDC5meZgK",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Internal Account Transfer\"]"
+    },
+    {
+      "originalDescription": "Online Transfer from CHK ...9017 transaction#: 19430999599",
+      "accountGuid": "jbJzrB8Da1cJ3xKN13beHQmKAKzq9EhjjDEM9",
+      "amount": 1200.0,
+      "date": "2023-12-29",
+      "description": "Online Transfer from CHK ...9017 transaction#: 19430999599",
+      "guid": "RqVYe5mv3BFo4akb64qVC7OKJJm7KViqDwr6N",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Internal Account Transfer\"]"
+    },
+    {
+      "originalDescription": "Online Transfer to SAV ...8212 transaction#: 19430999599 12/29",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 1200.0,
+      "date": "2023-12-29",
+      "description": "Online Transfer to SAV ...8212 transaction#: 19430999599 12/29",
+      "guid": "RqVYe5mv3BFo4akb64qVC7OKJJm7KViqDwraN",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Internal Account Transfer\"]"
+    },
+    {
+      "originalDescription": "Online Transfer to CHK ...0202 transaction#: 19595085519 01/16",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 100.0,
+      "date": "2024-01-16",
+      "description": "Online Transfer to CHK ...0202 transaction#: 19595085519 01/16",
+      "guid": "RqVYe5mv3BFo4akb64qVC7OKJJm7KViqDwrvR",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Internal Account Transfer\"]"
+    },
+    {
+      "originalDescription": "402 W Weber Road Romeoville IL 309680 01/19",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 4.0,
+      "date": "2024-01-19",
+      "description": "402 W Weber Road Romeoville IL 309680 01/19",
+      "guid": "7dLB7pDJEzsXj0NxkjemSzVb77NzbDC5meZ1Y",
+      "type": "CREDIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "PAYPAL INST XFER TOUCHTUNES WEB ID: PAYPALSI77",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 15.0,
+      "date": "2024-01-16",
+      "description": "PAYPAL INST XFER TOUCHTUNES WEB ID: PAYPALSI77",
+      "guid": "Evr8eKBwQMh40Pmge0AMC1dvAAD1vqunBxqy7",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Digital Purchase\"]"
+    },
+    {
+      "originalDescription": "Online Transfer from SAV ...8212 transaction#: 19463882913",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 500.0,
+      "date": "2024-01-02",
+      "description": "Online Transfer from SAV ...8212 transaction#: 19463882913",
+      "guid": "gJ4Yv1pwK6c46YaEr631CR0gBBQRgwIK1JENN",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Internal Account Transfer\"]"
+    },
+    {
+      "originalDescription": "Online Transfer to CHK ...9017 transaction#: 19593342377 01/16",
+      "accountGuid": "jbJzrB8Da1cJ3xKN13beHQmKAKzq9EhjjDEM9",
+      "amount": 55.0,
+      "date": "2024-01-16",
+      "description": "Online Transfer to CHK ...9017 transaction#: 19593342377 01/16",
+      "guid": "gJ4Yv1pwK6c46YaEr631CR0gBBQRgwIK1JEQN",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Internal Account Transfer\"]"
+    },
+    {
+      "originalDescription": "322 INDEPENDENCE BLVD ROMEOVILLE IL 811361 01/19",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 3.0,
+      "date": "2024-01-19",
+      "description": "322 INDEPENDENCE BLVD ROMEOVILLE IL 811361 01/19",
+      "guid": "gJ4Yv1pwK6c46YaEr631CR0gBBQRgwIK1JEzb",
+      "type": "CREDIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "Google Play",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 3.23,
+      "date": "2023-12-18",
+      "description": "Google Play",
+      "guid": "jbJzrB8Da1cJ3xKN13beHQLPr4w0ggujerdaZ",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Entertainment\"]"
+    },
+    {
+      "originalDescription": "7-Eleven",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 46.96,
+      "date": "2023-12-26",
+      "description": "7-Eleven",
+      "guid": "jbJzrB8Da1cJ3xKN13beHQmLxx8QLMijNxk5b",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Convenience Stores\"]"
+    },
+    {
+      "originalDescription": "Online Transfer to CHK ...0202 transaction#: 19441950211 01/02",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 150.0,
+      "date": "2024-01-02",
+      "description": "Online Transfer to CHK ...0202 transaction#: 19441950211 01/02",
+      "guid": "jbJzrB8Da1cJ3xKN13beHQmLxx8QLMijNxkgb",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Internal Account Transfer\"]"
+    },
+    {
+      "originalDescription": "NON-CHASE ATM WITHDRAW 300537 01/02402 W Web",
+      "accountGuid": "jbJzrB8Da1cJ3xKN13beHQmKAKzq9EhjjDEM9",
+      "amount": 204.0,
+      "date": "2024-01-02",
+      "description": "NON-CHASE ATM WITHDRAW 300537 01/02402 W Web",
+      "guid": "VKwYe704Pkswxm01vxdjC6RrxxE6r8IjNVJ0p",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "402 W Weber Road Romeoville IL 013893 01/19",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 4.0,
+      "date": "2024-01-19",
+      "description": "402 W Weber Road Romeoville IL 013893 01/19",
+      "guid": "VKwYe704Pkswxm01vxdjC6RrxxE6r8IjNVJ95",
+      "type": "CREDIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "ATM WITHDRAWAL 001241 12/2950 PHELPS",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 200.0,
+      "date": "2023-12-29",
+      "description": "ATM WITHDRAWAL 001241 12/2950 PHELPS",
+      "guid": "VKwYe704Pkswxm01vxdjC6RrxxE6r8IjNVJvp",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "Online Transfer from CHK ...0202 transaction#: 19492793385",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 500.0,
+      "date": "2024-01-05",
+      "description": "Online Transfer from CHK ...0202 transaction#: 19492793385",
+      "guid": "jbJzrB8Da1cJ3xKN13beHQmLxx8QLMijNxkgE",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Internal Account Transfer\"]"
+    },
+    {
+      "originalDescription": "DD DOORDASH TASTEOFCH CA 01/08",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 140.93,
+      "date": "2024-01-08",
+      "description": "DD DOORDASH TASTEOFCH CA 01/08",
+      "guid": "6a6qgnExQMswOvBr4OYRC6JnQQ56nvINx8Zg5",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Food and Beverage\"]"
+    },
+    {
+      "originalDescription": "STELLA'S BAR & GRILL ROMEOVILLE IL 12/24",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 32.0,
+      "date": "2023-12-26",
+      "description": "STELLA'S BAR & GRILL ROMEOVILLE IL 12/24",
+      "guid": "vLdq9xRjZrsqJYZOwJkxIn04ppYn4AI03ZPKz",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "UPROVA CREDIT 8335801319 000000002057208 WEB ID: 1320620369",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 198.44,
+      "date": "2024-01-05",
+      "description": "UPROVA CREDIT 8335801319 000000002057208 WEB ID: 1320620369",
+      "guid": "vLdq9xRjZrsqJYZOwJkxIn04ppYn4AI03ZPx1",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "Online Transfer to CHK ...0202 transaction#: 19449124242 01/02",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 75.0,
+      "date": "2024-01-02",
+      "description": "Online Transfer to CHK ...0202 transaction#: 19449124242 01/02",
+      "guid": "vLdq9xRjZrsqJYZOwJkxIn04ppYn4AI03ZPxz",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Internal Account Transfer\"]"
+    },
+    {
+      "originalDescription": "PAYPAL INST XFER GOOGLE SPACE AP WEB ID: PAYPALSI77",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 8.63,
+      "date": "2023-12-27",
+      "description": "PAYPAL INST XFER GOOGLE SPACE AP WEB ID: PAYPALSI77",
+      "guid": "6a6qgnExQMswOvBr4OYRC6JnQQ56nvINx8ZE4",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Digital Purchase\"]"
+    },
+    {
+      "originalDescription": "State Farm",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 80.86,
+      "date": "2023-12-18",
+      "description": "State Farm",
+      "guid": "Jm8gejNPZdTJ09p8E06DHdbazvj4ZZH7m8aNX",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Insurance\"]"
+    },
+    {
+      "originalDescription": "Triplets Family Diner Stroudsburg PA 12/19",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 17.66,
+      "date": "2023-12-20",
+      "description": "Triplets Family Diner Stroudsburg PA 12/19",
+      "guid": "vLdq9xRjZrsqJYZOwJkxIn4XDk18BBF0Vd9r9",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "LARRYS BAR AND GRILL ROMEOVILLE IL 12/29",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 38.5,
+      "date": "2024-01-02",
+      "description": "LARRYS BAR AND GRILL ROMEOVILLE IL 12/29",
+      "guid": "Jm8gejNPZdTJ09p8E06DHdxbKK9dbDF7wy3JE",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "NON-CHASE ATM WITHDRAW 308633 01/19402 W Web",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 104.0,
+      "date": "2024-01-19",
+      "description": "NON-CHASE ATM WITHDRAW 308633 01/19402 W Web",
+      "guid": "Jm8gejNPZdTJ09p8E06DHdxbKK9dbDF7wy3Mb",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "Google Play",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 3.23,
+      "date": "2023-12-22",
+      "description": "Google Play",
+      "guid": "Jm8gejNPZdTJ09p8E06DHdxbKK9dbDF7wy3PE",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Entertainment\"]"
+    },
+    {
+      "originalDescription": "MURPHY EXPRESS 8845 ROMEOVILLE IL 12/29",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 56.0,
+      "date": "2024-01-02",
+      "description": "MURPHY EXPRESS 8845 ROMEOVILLE IL 12/29",
+      "guid": "54wPbQjagMhxoVjR3oY8CMEyeePMyQU4kvmMO",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "PAYPAL INST XFER GOOGLE PHKL MAC WEB ID: PAYPALSI77",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 5.39,
+      "date": "2024-01-08",
+      "description": "PAYPAL INST XFER GOOGLE PHKL MAC WEB ID: PAYPALSI77",
+      "guid": "wDwBVJ7r54SBXE7xJXNesXAvxxNXvyfvYQJ0E",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Digital Purchase\"]"
+    },
+    {
+      "originalDescription": "PAYPAL INST XFER GOOGLE SPACE AP WEB ID: PAYPALSI77",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 6.46,
+      "date": "2023-12-27",
+      "description": "PAYPAL INST XFER GOOGLE SPACE AP WEB ID: PAYPALSI77",
+      "guid": "wDwBVJ7r54SBXE7xJXNesXAvxxNXvyfvYQJk7",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Digital Purchase\"]"
+    },
+    {
+      "originalDescription": "Online Transfer from CHK ...0202 transaction#: 19363913770",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 500.0,
+      "date": "2023-12-22",
+      "description": "Online Transfer from CHK ...0202 transaction#: 19363913770",
+      "guid": "54wPbQjagMhxoVjR3oY8CMEyeePMyQU4kvmEO",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Internal Account Transfer\"]"
+    },
+    {
+      "originalDescription": "Earnin CIFJF_B PALO ALTO CA 475221 01/19",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 0.01,
+      "date": "2024-01-19",
+      "description": "Earnin CIFJF_B PALO ALTO CA 475221 01/19",
+      "guid": "54wPbQjagMhxoVjR3oY8CMEyeePMyQU4kvm04",
+      "type": "CREDIT",
+      "category": "[\"Service\",\"Financial\"]"
+    },
+    {
+      "originalDescription": "DD DOORDASH TASTEOFCH CA 12/23",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 55.96,
+      "date": "2023-12-26",
+      "description": "DD DOORDASH TASTEOFCH CA 12/23",
+      "guid": "4rd1oR0mgMcDekgQneoZi3eayy13a9Cnb3zx6",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Food and Beverage\"]"
+    },
+    {
+      "originalDescription": "402 W Weber Road Romeoville IL 135133 01/05",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 4.0,
+      "date": "2024-01-05",
+      "description": "402 W Weber Road Romeoville IL 135133 01/05",
+      "guid": "4rd1oR0mgMcDekgQneoZi3eayy13a9Cnb3zPK",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Payroll\"]"
+    },
+    {
+      "originalDescription": "State Farm",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 178.13,
+      "date": "2024-01-02",
+      "description": "State Farm",
+      "guid": "4rd1oR0mgMcDekgQneoZi3eayy13a9Cnb3zP6",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Insurance\"]"
+    },
+    {
+      "originalDescription": "PAYPAL INST XFER TOUCHTUNES WEB ID: PAYPALSI77",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 25.0,
+      "date": "2024-01-19",
+      "description": "PAYPAL INST XFER TOUCHTUNES WEB ID: PAYPALSI77",
+      "guid": "4rd1oR0mgMcDekgQneoZi3eayy13a9Cnb3zmK",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Digital Purchase\"]"
+    },
+    {
+      "originalDescription": "Online Transfer to CHK ...9017 transaction#: 19315787410 12/18",
+      "accountGuid": "jbJzrB8Da1cJ3xKN13beHQmKAKzq9EhjjDEM9",
+      "amount": 100.0,
+      "date": "2023-12-18",
+      "description": "Online Transfer to CHK ...9017 transaction#: 19315787410 12/18",
+      "guid": "4rd1oR0mgMcDekgQneoZi3aDokyBd4cnRB0aE",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Internal Account Transfer\"]"
+    },
+    {
+      "originalDescription": "Google Play",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 3.23,
+      "date": "2023-12-26",
+      "description": "Google Play",
+      "guid": "KdZ7erDqKws3ekoqBevVFD3zQQ8DzXImR9K4L",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Entertainment\"]"
+    },
+    {
+      "originalDescription": "Google Play",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 10.78,
+      "date": "2023-12-18",
+      "description": "Google Play",
+      "guid": "4rd1oR0mgMcDekgQneoZi3a8PZgQAAsnRBKgR",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Entertainment\"]"
+    },
+    {
+      "originalDescription": "NON-CHASE ATM WITHDRAW 202197 01/02402 W Web",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 204.0,
+      "date": "2024-01-02",
+      "description": "NON-CHASE ATM WITHDRAW 202197 01/02402 W Web",
+      "guid": "KdZ7erDqKws3ekoqBevVFD3zQQ8DzXImR9KaL",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "NON-CHASE ATM WITHDRAW 636012 01/05322 INDEP",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 63.0,
+      "date": "2024-01-05",
+      "description": "NON-CHASE ATM WITHDRAW 636012 01/05322 INDEP",
+      "guid": "KdZ7erDqKws3ekoqBevVFD3zQQ8DzXImR9Kaq",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "Google Play",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 5.39,
+      "date": "2023-12-26",
+      "description": "Google Play",
+      "guid": "kZ8Y43r1oPs8y5OQeyk3hnd0kk6n0gIv75ZND",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Entertainment\"]"
+    },
+    {
+      "originalDescription": "NON-CHASE ATM WITHDRAW 104489 01/05402 W Web",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 144.0,
+      "date": "2024-01-05",
+      "description": "NON-CHASE ATM WITHDRAW 104489 01/05402 W Web",
+      "guid": "kZ8Y43r1oPs8y5OQeyk3hnd0kk6n0gIv75ZzA",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "PAYPAL INST XFER TOUCHTUNES WEB ID: PAYPALSI77",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 25.0,
+      "date": "2024-01-02",
+      "description": "PAYPAL INST XFER TOUCHTUNES WEB ID: PAYPALSI77",
+      "guid": "kZ8Y43r1oPs8y5OQeyk3hnd0kk6n0gIv75ZzD",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Digital Purchase\"]"
+    },
+    {
+      "originalDescription": "DOORDASH DASHPASS WWW.DOORDASH. CA 01/07",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 9.99,
+      "date": "2024-01-08",
+      "description": "DOORDASH DASHPASS WWW.DOORDASH. CA 01/07",
+      "guid": "Lw59e41Bn6cjJAvzOJqPCgm044zg0PIBeqjbe",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Subscription\"]"
+    },
+    {
+      "originalDescription": "PAYPAL INST XFER GOOGLE SPACE AP WEB ID: PAYPALSI77",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 17.27,
+      "date": "2023-12-27",
+      "description": "PAYPAL INST XFER GOOGLE SPACE AP WEB ID: PAYPALSI77",
+      "guid": "Lw59e41Bn6cjJAvzOJqPCgm044zg0PIBeqjyv",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Digital Purchase\"]"
+    },
+    {
+      "originalDescription": "Google Play",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 2.14,
+      "date": "2023-12-26",
+      "description": "Google Play",
+      "guid": "3mMD5EgrzeTwmKDNRmYZCx5X663xXqfAp1MnA",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Entertainment\"]"
+    },
+    {
+      "originalDescription": "PAYPAL INST XFER TOUCHTUNES WEB ID: PAYPALSI77",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 25.0,
+      "date": "2024-01-05",
+      "description": "PAYPAL INST XFER TOUCHTUNES WEB ID: PAYPALSI77",
+      "guid": "3mMD5EgrzeTwmKDNRmYZCx5X663xXqfAp1M3g",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Digital Purchase\"]"
+    },
+    {
+      "originalDescription": "LARRYS BAR AND GRILL ROMEOVILLE IL 12/15",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 92.75,
+      "date": "2023-12-18",
+      "description": "LARRYS BAR AND GRILL ROMEOVILLE IL 12/15",
+      "guid": "x163Y8R4ZaU3Dv9BZDE8Fa17XyAeLLiKO45PK",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "Online Transfer to CHK ...0202 transaction#: 19469026633 01/02",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 75.0,
+      "date": "2024-01-02",
+      "description": "Online Transfer to CHK ...0202 transaction#: 19469026633 01/02",
+      "guid": "3mMD5EgrzeTwmKDNRmYZCx5X663xXqfAp1M3A",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Internal Account Transfer\"]"
+    },
+    {
+      "originalDescription": "NON-CHASE ATM WITHDRAW 309680 01/19402 W Web",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 104.0,
+      "date": "2024-01-19",
+      "description": "NON-CHASE ATM WITHDRAW 309680 01/19402 W Web",
+      "guid": "x163Y8R4ZaU3Dv9BZDE8Fak1PPva1EHKzdpaR",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "Google Play",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 3.23,
+      "date": "2023-12-22",
+      "description": "Google Play",
+      "guid": "x163Y8R4ZaU3Dv9BZDE8Fak1PPva1EHKzdpqY",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Entertainment\"]"
+    },
+    {
+      "originalDescription": "STELLA'S BAR & GRILL ROMEOVILLE IL 12/30",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 29.5,
+      "date": "2024-01-02",
+      "description": "STELLA'S BAR & GRILL ROMEOVILLE IL 12/30",
+      "guid": "x163Y8R4ZaU3Dv9BZDE8Fak1PPva1EHKzdpwY",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "LARRYS BAR AND GRILL ROMEOVILLE IL 01/05",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 43.75,
+      "date": "2024-01-08",
+      "description": "LARRYS BAR AND GRILL ROMEOVILLE IL 01/05",
+      "guid": "1vV68OA0xMhREV3LeEYNc9voMMn9oEHgpPrzw",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "UPROVA CREDIT 8335801319 000000002057208 WEB ID: 1320620369",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 198.44,
+      "date": "2024-01-19",
+      "description": "UPROVA CREDIT 8335801319 000000002057208 WEB ID: 1320620369",
+      "guid": "Z01YwM98rjs1MDyJ7MLxHmPRddAmRpfk6mPK8",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "402 W Weber Road Romeoville IL 096717 01/16",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 4.0,
+      "date": "2024-01-16",
+      "description": "402 W Weber Road Romeoville IL 096717 01/16",
+      "guid": "YvDYdO3JA0hDNz61oN9aipRQbbqpQVfqBv7kk",
+      "type": "CREDIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "Online Transfer from SAV ...8212 transaction#: 19593342377",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 55.0,
+      "date": "2024-01-16",
+      "description": "Online Transfer from SAV ...8212 transaction#: 19593342377",
+      "guid": "XALYeVRxkvHL76B9q7MeTXoQnnDXQefamEjAj",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Internal Account Transfer\"]"
+    },
+    {
+      "originalDescription": "Online Transfer to CHK ...0202 transaction#: 19546775421 01/11",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 39.0,
+      "date": "2024-01-11",
+      "description": "Online Transfer to CHK ...0202 transaction#: 19546775421 01/11",
+      "guid": "zqDKY57xgJFKaXmNoaO5fALbeePAbDUn9ek0j",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Internal Account Transfer\"]"
+    },
+    {
+      "originalDescription": "NON-CHASE ATM WITHDRAW 135133 01/05402 W Web",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 64.0,
+      "date": "2024-01-05",
+      "description": "NON-CHASE ATM WITHDRAW 135133 01/05402 W Web",
+      "guid": "yPLyYZmaVxsyNO35mN9ZHa41QQJa19HgNQPey",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "Ace Hardware",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 43.36,
+      "date": "2024-01-02",
+      "description": "Ace Hardware",
+      "guid": "Z01YwM98rjs1MDyJ7MLxHmPRddAmRpfk6mPoP",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Hardware Store\"]"
+    },
+    {
+      "originalDescription": "Online Transfer to CHK ...0202 transaction#: 19467101512 01/02",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 100.0,
+      "date": "2024-01-02",
+      "description": "Online Transfer to CHK ...0202 transaction#: 19467101512 01/02",
+      "guid": "yPLyYZmaVxsyNO35mN9ZHa41QQJa19HgNQPe3",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Internal Account Transfer\"]"
+    },
+    {
+      "originalDescription": "NAVISTAR INC DIR DEP PPD ID: 6505963447",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 4162.23,
+      "date": "2023-12-29",
+      "description": "NAVISTAR INC DIR DEP PPD ID: 6505963447",
+      "guid": "XALYeVRxkvHL76B9q7MeTXoQnnDXQefamEj9L",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Payroll\"]"
+    },
+    {
+      "originalDescription": "LOU MALNATIS PIZZERI HTTPSLOUMALNA IL 12/27",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 77.02,
+      "date": "2023-12-28",
+      "description": "LOU MALNATIS PIZZERI HTTPSLOUMALNA IL 12/27",
+      "guid": "YvDYdO3JA0hDNz61oN9aipRQbbqpQVfqBv7o5",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "MONTHLY SERVICE FEE",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 25.0,
+      "date": "2023-12-27",
+      "description": "MONTHLY SERVICE FEE",
+      "guid": "zqDKY57xgJFKaXmNoaO5fALbeePAbDUn9ekjy",
+      "type": "DEBIT",
+      "category": "[\"Bank Fees\"]"
+    },
+    {
+      "originalDescription": "Google Play",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 3.23,
+      "date": "2023-12-26",
+      "description": "Google Play",
+      "guid": "yPLyYZmaVxsyNO35mN9ZHa41QQJa19HgNQPq3",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Entertainment\"]"
+    },
+    {
+      "originalDescription": "DD DOORDASH TASTEOFCH CA 12/22",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 59.49,
+      "date": "2023-12-22",
+      "description": "DD DOORDASH TASTEOFCH CA 12/22",
+      "guid": "Z01YwM98rjs1MDyJ7MLxHmPRddAmRpfk6mPyP",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Food and Beverage\"]"
+    },
+    {
+      "originalDescription": "ATM CASH DEPOSIT 01/05 50 PHELPS AVE",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 150.0,
+      "date": "2024-01-05",
+      "description": "ATM CASH DEPOSIT 01/05 50 PHELPS AVE",
+      "guid": "1vV68OA0xMhREV3LeEYNc9voMMn9oEHgpPrzb",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Deposit\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "DD DOORDASH JOEYSREDH CA 12/27",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 44.95,
+      "date": "2023-12-27",
+      "description": "DD DOORDASH JOEYSREDH CA 12/27",
+      "guid": "1vV68OA0xMhREV3LeEYNc9voMMn9oEHgpPryb",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Food and Beverage\"]"
+    },
+    {
+      "originalDescription": "Online Transfer to CHK ...0202 transaction#: 19432069312 12/29",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 200.0,
+      "date": "2023-12-29",
+      "description": "Online Transfer to CHK ...0202 transaction#: 19432069312 12/29",
+      "guid": "M6mVea53jLTRnmojXnJNcrN5qqOr5YUp3og63",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Internal Account Transfer\"]"
+    },
+    {
+      "originalDescription": "Online Transfer to CHK ...9017 transaction#: 19439335276 01/02",
+      "accountGuid": "jbJzrB8Da1cJ3xKN13beHQmKAKzq9EhjjDEM9",
+      "amount": 1000.0,
+      "date": "2024-01-02",
+      "description": "Online Transfer to CHK ...9017 transaction#: 19439335276 01/02",
+      "guid": "M6mVea53jLTRnmojXnJNcrN5qqOr5YUp3ogA3",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Internal Account Transfer\"]"
+    },
+    {
+      "originalDescription": "Brigit.com MICROVERIF D2A5F69A343E4E3 WEB ID: 1823136030",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 0.01,
+      "date": "2024-01-17",
+      "description": "Brigit.com MICROVERIF D2A5F69A343E4E3 WEB ID: 1823136030",
+      "guid": "M6mVea53jLTRnmojXnJNcrN5qqOr5YUp3ogjq",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "Online Transfer to CHK ...0202 transaction#: 19545599509 01/11",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 25.0,
+      "date": "2024-01-11",
+      "description": "Online Transfer to CHK ...0202 transaction#: 19545599509 01/11",
+      "guid": "mo5YxKPqmBH5DmZYQDdKfAgy55aAyrUvxbEg5",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Internal Account Transfer\"]"
+    },
+    {
+      "originalDescription": "INTEREST PAYMENT",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 0.01,
+      "date": "2023-12-27",
+      "description": "INTEREST PAYMENT",
+      "guid": "mo5YxKPqmBH5DmZYQDdKfAgy55aAyrUvxbEKw",
+      "type": "CREDIT",
+      "category": "[\"Interest\",\"Interest Earned\"]"
+    },
+    {
+      "originalDescription": "DD DOORDASH TASTEOFCH CA 12/31",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 176.3,
+      "date": "2024-01-02",
+      "description": "DD DOORDASH TASTEOFCH CA 12/31",
+      "guid": "0A9wJVZvNMHD0V75y0oxivxE00KvE9FvNpBZj",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Food and Beverage\"]"
+    },
+    {
+      "originalDescription": "Online Transfer from CHK ...0202 transaction#: 19500620383",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 100.0,
+      "date": "2024-01-05",
+      "description": "Online Transfer from CHK ...0202 transaction#: 19500620383",
+      "guid": "0A9wJVZvNMHD0V75y0oxivxE00KvE9FvNpBZ0",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Internal Account Transfer\"]"
+    },
+    {
+      "originalDescription": "TST* KICK OFF PIZZA & S Romeoville IL 12/23",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 60.99,
+      "date": "2023-12-26",
+      "description": "TST* KICK OFF PIZZA & S Romeoville IL 12/23",
+      "guid": "0A9wJVZvNMHD0V75y0oxivxE00KvE9FvNpBOj",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "Google Play",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 10.78,
+      "date": "2023-12-19",
+      "description": "Google Play",
+      "guid": "0A9wJVZvNMHD0V75y0oxivELVo75eefvAKkRM",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Entertainment\"]"
+    },
+    {
+      "originalDescription": "NON-CHASE ATM WITHDRAW 096717 01/16402 W Web",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 144.0,
+      "date": "2024-01-16",
+      "description": "NON-CHASE ATM WITHDRAW 096717 01/16402 W Web",
+      "guid": "nboYJkaBq3cEBa8oJBqkCpRrKKbprqfpezXd3",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "MURPHY EXPRESS ROMEOVILLE IL 12/29",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 20.63,
+      "date": "2023-12-29",
+      "description": "MURPHY EXPRESS ROMEOVILLE IL 12/29",
+      "guid": "nboYJkaBq3cEBa8oJBqkCpRrKKbprqfpezXK9",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "Online Transfer to CHK ...9017 transaction#: 19356369443 12/21",
+      "accountGuid": "jbJzrB8Da1cJ3xKN13beHQmKAKzq9EhjjDEM9",
+      "amount": 80.0,
+      "date": "2023-12-21",
+      "description": "Online Transfer to CHK ...9017 transaction#: 19356369443 12/21",
+      "guid": "nboYJkaBq3cEBa8oJBqkCpRrKKbprqfpezXm9",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Internal Account Transfer\"]"
+    },
+    {
+      "originalDescription": "CARRINGTON MORTGAGE 7000308190 WEB ID: 9673545010",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 1231.6,
+      "date": "2023-12-04",
+      "description": "CARRINGTON MORTGAGE 7000308190 WEB ID: 9673545010",
+      "guid": "BKvaeB6M0RsEznxm5zkDCOEJgxR8jjU730z00",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]"
+    },
+    {
+      "originalDescription": "CROWN PLAZA - EDISON NJ 12/13",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 112.51,
+      "date": "2023-12-15",
+      "description": "CROWN PLAZA - EDISON NJ 12/13",
+      "guid": "bnAY3d4VPmizom9LZo6dsod8Y40MZZfDJ5VZr",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Google Play",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 2.14,
+      "date": "2023-12-04",
+      "description": "Google Play",
+      "guid": "qJ7650am9kc6Eqe9mEj0t3A8OmBbaasEDLzLg",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Entertainment\"]"
+    },
+    {
+      "originalDescription": "State Farm",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 90.54,
+      "date": "2023-12-05",
+      "description": "State Farm",
+      "guid": "DAjJeyEdDMHXg16M7gK3SV3a6ALkYYCRwEyEb",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Insurance\"]"
+    },
+    {
+      "originalDescription": "7016 W 111TH STREET WORTH IL 435722 12/02",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 3.0,
+      "date": "2023-12-04",
+      "description": "7016 W 111TH STREET WORTH IL 435722 12/02",
+      "guid": "DAjJeyEdDMHXg16M7gK3SV3a6ALkYYCRwEyEX",
+      "type": "CREDIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "DD DOORDASH TASTEOFCH CA 12/09",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 82.29,
+      "date": "2023-12-11",
+      "description": "DD DOORDASH TASTEOFCH CA 12/09",
+      "guid": "QP9YeZOArqspO4NxQObKi1E9ZyjdQQH4Ov5v0",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Food and Beverage\"]"
+    },
+    {
+      "originalDescription": "ATM WITHDRAWAL 002751 12/1550 PHELPS",
+      "accountGuid": "jbJzrB8Da1cJ3xKN13beHQmKAKzq9EhjjDEM9",
+      "amount": 200.0,
+      "date": "2023-12-15",
+      "description": "ATM WITHDRAWAL 002751 12/1550 PHELPS",
+      "guid": "aJkYBNP9QZckDKwJRDjVfE5yvqQxe7c17gP04",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "UPROVA CREDIT 8335801319 000000002057208 WEB ID: 1320620369",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 198.44,
+      "date": "2023-12-08",
+      "description": "UPROVA CREDIT 8335801319 000000002057208 WEB ID: 1320620369",
+      "guid": "NLbOYxqyZDs8n0aqxnkBhDRdQzAjeeFLo9g9B",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "NICOR GAS BILL GA 12/02",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 75.82,
+      "date": "2023-12-04",
+      "description": "NICOR GAS BILL GA 12/02",
+      "guid": "dR0YK6BMobTExv951xL6CjdQrnpx11UQKvwv9",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Utilities\",\"Gas\"]"
+    },
+    {
+      "originalDescription": "Online Transfer to CHK ...0202 transaction#: 19219677590 12/07",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 50.0,
+      "date": "2023-12-07",
+      "description": "Online Transfer to CHK ...0202 transaction#: 19219677590 12/07",
+      "guid": "dR0YK6BMobTExv951xL6CjdQrnpx11UQKvwvd",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Internal Account Transfer\"]"
+    },
+    {
+      "originalDescription": "7-Eleven",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 34.13,
+      "date": "2023-12-12",
+      "description": "7-Eleven",
+      "guid": "ODgYeJbK71SDrj107rn3i18NDreX77HgxqzmX",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Convenience Stores\"]"
+    },
+    {
+      "originalDescription": "BATTLESHIP NJ 185-69661652 NJ 12/13",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 40.0,
+      "date": "2023-12-13",
+      "description": "BATTLESHIP NJ 185-69661652 NJ 12/13",
+      "guid": "961yVNdZEMTomVJe3mYACnx01ZQ9XXFxgmLZz",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "DD DOORDASH JOEYSREDH CA 12/08",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 48.52,
+      "date": "2023-12-08",
+      "description": "DD DOORDASH JOEYSREDH CA 12/08",
+      "guid": "eJjYkLXEodcRdn70OdMLcrXQa3V6OOFbnzPz6",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Food and Beverage\"]"
+    },
+    {
+      "originalDescription": "ATM WITHDRAWAL 007014 12/0750 PHELPS",
+      "accountGuid": "jbJzrB8Da1cJ3xKN13beHQmKAKzq9EhjjDEM9",
+      "amount": 300.0,
+      "date": "2023-12-07",
+      "description": "ATM WITHDRAWAL 007014 12/0750 PHELPS",
+      "guid": "8wD39Xy8zMcV8jQkP8Yxi8ogJkrm9NUvx35oA",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "Online Transfer to SAV ...8212 transaction#: 19241666113 12/11",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 103.0,
+      "date": "2023-12-11",
+      "description": "Online Transfer to SAV ...8212 transaction#: 19241666113 12/11",
+      "guid": "RqVYe5mv3BFo4akb64qVC7KDzYvd66Iqe0p0r",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Internal Account Transfer\"]"
+    },
+    {
+      "originalDescription": "DD DOORDASH PORTILLOS CA 12/10",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 50.11,
+      "date": "2023-12-11",
+      "description": "DD DOORDASH PORTILLOS CA 12/10",
+      "guid": "Evr8eKBwQMh40Pmge0AMC1v75VLz66HnQMeMk",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Food and Beverage\"]"
+    },
+    {
+      "originalDescription": "BATTLESHIP NEW JERSEY CAMDEN NJ 12/13",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 33.19,
+      "date": "2023-12-14",
+      "description": "BATTLESHIP NEW JERSEY CAMDEN NJ 12/13",
+      "guid": "7dLB7pDJEzsXj0NxkjemSzbXPxMEwwf50xa6R",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "Online Transfer from CHK ...0202 transaction#: 19281311011",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 200.0,
+      "date": "2023-12-13",
+      "description": "Online Transfer from CHK ...0202 transaction#: 19281311011",
+      "guid": "VKwYe704Pkswxm01vxdjC6rBzLeyvvFj4mdoL",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Internal Account Transfer\"]"
+    },
+    {
+      "originalDescription": "Online Transfer from CHK ...0202 transaction#: 19299661445",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 80.0,
+      "date": "2023-12-15",
+      "description": "Online Transfer from CHK ...0202 transaction#: 19299661445",
+      "guid": "gJ4Yv1pwK6c46YaEr631CRgLboXKrrFK85vYm",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Internal Account Transfer\"]"
+    },
+    {
+      "originalDescription": "Shell",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 11.41,
+      "date": "2023-12-15",
+      "description": "Shell",
+      "guid": "oJbd8A93aycM51Y3d59AF7vODKR8PPIb46nVy",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "DD DOORDASH TASTEOFCH CA 12/02",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 64.49,
+      "date": "2023-12-04",
+      "description": "DD DOORDASH TASTEOFCH CA 12/02",
+      "guid": "6a6qgnExQMswOvBr4OYRC6nXByVA00FNwbDba",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Food and Beverage\"]"
+    },
+    {
+      "originalDescription": "Speedway 520 S Lehigh Frackville PA 12/05",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 21.16,
+      "date": "2023-12-05",
+      "description": "Speedway 520 S Lehigh Frackville PA 12/05",
+      "guid": "6a6qgnExQMswOvBr4OYRC6nXByVA00FNwbDb8",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "Google Play",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 3.23,
+      "date": "2023-12-15",
+      "description": "Google Play",
+      "guid": "54wPbQjagMhxoVjR3oY8CMyBbpjRDDh4wg7YV",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Entertainment\"]"
+    },
+    {
+      "originalDescription": "NON-CHASE ATM WITHDRAW 760900 12/07322 INDEP",
+      "accountGuid": "jbJzrB8Da1cJ3xKN13beHQmKAKzq9EhjjDEM9",
+      "amount": 103.0,
+      "date": "2023-12-07",
+      "description": "NON-CHASE ATM WITHDRAW 760900 12/07322 INDEP",
+      "guid": "Jm8gejNPZdTJ09p8E06DHdbe6PK0w7C7m8gKv",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "COMED PAYMENT IL 12/02",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 55.59,
+      "date": "2023-12-04",
+      "description": "COMED PAYMENT IL 12/02",
+      "guid": "wDwBVJ7r54SBXE7xJXNesXvQekq8ZZIvK8x8d",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Utilities\",\"Electric\"]"
+    },
+    {
+      "originalDescription": "Cracker Barrel",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 16.99,
+      "date": "2023-12-05",
+      "description": "Cracker Barrel",
+      "guid": "wDwBVJ7r54SBXE7xJXNesXvQekq8ZZIvK8x8V",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "BAR CODE 111 WORTH IL 12/02",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 34.0,
+      "date": "2023-12-04",
+      "description": "BAR CODE 111 WORTH IL 12/02",
+      "guid": "KdZ7erDqKws3ekoqBevVFDzYdvj9VVFmEBeBM",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Bar\"]"
+    },
+    {
+      "originalDescription": "Speedway 520 S Lehigh Frackville PA 12/05",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 20.16,
+      "date": "2023-12-05",
+      "description": "Speedway 520 S Lehigh Frackville PA 12/05",
+      "guid": "Lw59e41Bn6cjJAvzOJqPCg0NrQon66hBZ3v3Q",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "Online Transfer to CHK ...0202 transaction#: 19189005905 12/04",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 150.0,
+      "date": "2023-12-04",
+      "description": "Online Transfer to CHK ...0202 transaction#: 19189005905 12/04",
+      "guid": "3mMD5EgrzeTwmKDNRmYZCxXPEyoNzzfAojrj4",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Internal Account Transfer\"]"
+    },
+    {
+      "originalDescription": "CITIBANK, N.A. PAYMENT 321246656110438 WEB ID: COMPAYMEN2",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 85.37,
+      "date": "2023-12-12",
+      "description": "CITIBANK, N.A. PAYMENT 321246656110438 WEB ID: COMPAYMEN2",
+      "guid": "M6mVea53jLTRnmojXnJNcr5aJ0E7wwFpXb7z9",
+      "type": "DEBIT",
+      "category": "[\"Payment\"]"
+    },
+    {
+      "originalDescription": "Online Transfer from CHK ...9017 transaction#: 19241666113",
+      "accountGuid": "jbJzrB8Da1cJ3xKN13beHQmKAKzq9EhjjDEM9",
+      "amount": 103.0,
+      "date": "2023-12-11",
+      "description": "Online Transfer from CHK ...9017 transaction#: 19241666113",
+      "guid": "x163Y8R4ZaU3Dv9BZDE8Fa1dJ9P0jMuKO4L7y",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Internal Account Transfer\"]"
+    },
+    {
+      "originalDescription": "7-Eleven",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 43.39,
+      "date": "2023-12-15",
+      "description": "7-Eleven",
+      "guid": "Z01YwM98rjs1MDyJ7MLxHmRxkrq377CkbDq59",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Convenience Stores\"]"
+    },
+    {
+      "originalDescription": "Online Transfer from CHK ...0202 transaction#: 19241657693",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 200.0,
+      "date": "2023-12-11",
+      "description": "Online Transfer from CHK ...0202 transaction#: 19241657693",
+      "guid": "XALYeVRxkvHL76B9q7MeTXQyAp3rqqIad5D59",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Internal Account Transfer\"]"
+    },
+    {
+      "originalDescription": "DOORDASH DASHPASS WWW.DOORDASH. CA 12/07",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 9.99,
+      "date": "2023-12-08",
+      "description": "DOORDASH DASHPASS WWW.DOORDASH. CA 12/07",
+      "guid": "zqDKY57xgJFKaXmNoaO5fAbd5y3V44inv818x",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Subscription\"]"
+    },
+    {
+      "originalDescription": "LARRYS BAR AND GRILL ROMEOVILLE IL 12/07",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 91.5,
+      "date": "2023-12-08",
+      "description": "LARRYS BAR AND GRILL ROMEOVILLE IL 12/07",
+      "guid": "YvDYdO3JA0hDNz61oN9aipQg4XkPooIqJ545a",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "BASS PRO STORE BOLINGB BOLINGBROOK IL 12/02 Purchase $12.11 Cash Back $50.00",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 62.11,
+      "date": "2023-12-04",
+      "description": "BASS PRO STORE BOLINGB BOLINGBROOK IL 12/02 Purchase $12.11 Cash Back $50.00",
+      "guid": "zqDKY57xgJFKaXmNoaO5fAbd5y3V44inv8186",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Sporting Goods\"]"
+    },
+    {
+      "originalDescription": "LARRYS BAR AND GRILL ROMEOVILLE IL 12/02",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 37.25,
+      "date": "2023-12-04",
+      "description": "LARRYS BAR AND GRILL ROMEOVILLE IL 12/02",
+      "guid": "yPLyYZmaVxsyNO35mN9ZHa1vxBZrLLigpnKnj",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "NON-CHASE ATM WITHDRAW 435722 12/027016 W 11",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 203.0,
+      "date": "2023-12-04",
+      "description": "NON-CHASE ATM WITHDRAW 435722 12/027016 W 11",
+      "guid": "YvDYdO3JA0hDNz61oN9aipQg4XkPooIqJ545L",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "Online Transfer from CHK ...9017 transaction#: 19197767398",
+      "accountGuid": "jbJzrB8Da1cJ3xKN13beHQmKAKzq9EhjjDEM9",
+      "amount": 700.0,
+      "date": "2023-12-04",
+      "description": "Online Transfer from CHK ...9017 transaction#: 19197767398",
+      "guid": "Z01YwM98rjs1MDyJ7MLxHmREnodMZKCkbDQeE",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Internal Account Transfer\"]"
+    },
+    {
+      "originalDescription": "Online Transfer from CHK ...0202 transaction#: 19229767778",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 500.0,
+      "date": "2023-12-08",
+      "description": "Online Transfer from CHK ...0202 transaction#: 19229767778",
+      "guid": "mo5YxKPqmBH5DmZYQDdKfAyYb4RwQQivB6A6x",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Internal Account Transfer\"]"
+    },
+    {
+      "originalDescription": "CASH APP*ALISE HOCKETT CA 12/02",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 75.0,
+      "date": "2023-12-04",
+      "description": "CASH APP*ALISE HOCKETT CA 12/02",
+      "guid": "1vV68OA0xMhREV3LeEYNc9o8JmjLbbsgnJOJg",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "State Farm",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 178.13,
+      "date": "2023-12-05",
+      "description": "State Farm",
+      "guid": "1vV68OA0xMhREV3LeEYNc9o8JmjLbbsgnJOJ7",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Insurance\"]"
+    },
+    {
+      "originalDescription": "STELLA'S BAR & GRILL ROMEOVILLE IL 12/08",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 53.0,
+      "date": "2023-12-11",
+      "description": "STELLA'S BAR & GRILL ROMEOVILLE IL 12/08",
+      "guid": "pJgwZvPyXKcw40Kkg4dvCbkeZg9rOOf43gXgE",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "DD DOORDASH LAREDOTAC CA 12/09",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 34.7,
+      "date": "2023-12-11",
+      "description": "DD DOORDASH LAREDOTAC CA 12/09",
+      "guid": "nboYJkaBq3cEBa8oJBqkCpry1nzDJJIpBgYgd",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Food and Beverage\"]"
+    },
+    {
+      "originalDescription": "CASH APP*ALISE HOCKETT CA 11/19",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 75.0,
+      "date": "2023-11-20",
+      "description": "CASH APP*ALISE HOCKETT CA 11/19",
+      "guid": "nboYJkaBq3cEBa8oJBqkCpry1nzDJJIpBgYow",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "LARRYS BAR AND GRILL ROMEOVILLE IL 11/30",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 15.0,
+      "date": "2023-12-01",
+      "description": "LARRYS BAR AND GRILL ROMEOVILLE IL 11/30",
+      "guid": "BKvaeB6M0RsEznxm5zkDCOEJgxR8jjU730z0j",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "REMOTE ONLINE DEPOSIT # 1",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 197.16,
+      "date": "2023-10-30",
+      "description": "REMOTE ONLINE DEPOSIT # 1",
+      "guid": "BKvaeB6M0RsEznxm5zkDCOEJgxR8jjU730zej",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Deposit\"]"
+    },
+    {
+      "originalDescription": "State Farm",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 90.54,
+      "date": "2023-11-01",
+      "description": "State Farm",
+      "guid": "nboYJkaBq3cEBa8oJBqkCpry1nzDJJIpBgYPw",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Insurance\"]"
+    },
+    {
+      "originalDescription": "DD DOORDASH LOUMALNAT CA 11/10",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 53.15,
+      "date": "2023-11-10",
+      "description": "DD DOORDASH LOUMALNAT CA 11/10",
+      "guid": "BKvaeB6M0RsEznxm5zkDCOEJgxR8jjU730zJj",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Food and Beverage\"]"
+    },
+    {
+      "originalDescription": "PAYPAL INST XFER GOOGLE SPINX GA WEB ID: PAYPALSI77",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 2.14,
+      "date": "2023-10-30",
+      "description": "PAYPAL INST XFER GOOGLE SPINX GA WEB ID: PAYPALSI77",
+      "guid": "zqDKY57xgJFKaXmNoaO5fAbd5y3V44inv81X6",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "UPROVA CREDIT 8335801319 000000002057208 WEB ID: 1320620369",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 198.44,
+      "date": "2023-11-24",
+      "description": "UPROVA CREDIT 8335801319 000000002057208 WEB ID: 1320620369",
+      "guid": "bnAY3d4VPmizom9LZo6dsod8Y40MZZfDJ5V1Q",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "Online Transfer to SAV ...8212 transaction#: 18892891818 11/02",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 600.0,
+      "date": "2023-11-02",
+      "description": "Online Transfer to SAV ...8212 transaction#: 18892891818 11/02",
+      "guid": "bnAY3d4VPmizom9LZo6dsod8Y40MZZfDJ5VyQ",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Internal Account Transfer\"]"
+    },
+    {
+      "originalDescription": "ATM WITHDRAWAL 001431 11/1750 PHELPS",
+      "accountGuid": "jbJzrB8Da1cJ3xKN13beHQmKAKzq9EhjjDEM9",
+      "amount": 140.0,
+      "date": "2023-11-17",
+      "description": "ATM WITHDRAWAL 001431 11/1750 PHELPS",
+      "guid": "bnAY3d4VPmizom9LZo6dsodXDVpzaqUDJ5AkN",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "UPROVA CREDIT 8335801319 000000002057208 WEB ID: 1320620369",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 198.44,
+      "date": "2023-11-10",
+      "description": "UPROVA CREDIT 8335801319 000000002057208 WEB ID: 1320620369",
+      "guid": "qJ7650am9kc6Eqe9mEj0t3A8OmBbaasEDLz3x",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "PAYPAL INST XFER SAMFINACO LLC WEB ID: PAYPALSI77",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 10.78,
+      "date": "2023-12-01",
+      "description": "PAYPAL INST XFER SAMFINACO LLC WEB ID: PAYPALSI77",
+      "guid": "qJ7650am9kc6Eqe9mEj0t3A8OmBbaasEDLzLx",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Third Party\",\"PayPal\"]"
+    },
+    {
+      "originalDescription": "NAVISTAR INC DIR DEP PPD ID: 6505963447",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 4162.24,
+      "date": "2023-11-30",
+      "description": "NAVISTAR INC DIR DEP PPD ID: 6505963447",
+      "guid": "AyA4eqvO9MSDQo3LMQpVirm3X5vxNNFnMEvEJ",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Payroll\"]"
+    },
+    {
+      "originalDescription": "LARRYS BAR AND GRILL ROMEOVILLE IL 10/28",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 80.75,
+      "date": "2023-10-30",
+      "description": "LARRYS BAR AND GRILL ROMEOVILLE IL 10/28",
+      "guid": "DAjJeyEdDMHXg16M7gK3SV3a6ALkYYCRwEy7X",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "McDonald's",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 45.19,
+      "date": "2023-11-13",
+      "description": "McDonald's",
+      "guid": "DAjJeyEdDMHXg16M7gK3SV3a6ALkYYCRwEyBX",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "Online Transfer from CHK ...0202 transaction#: 18847718076",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 200.0,
+      "date": "2023-10-30",
+      "description": "Online Transfer from CHK ...0202 transaction#: 18847718076",
+      "guid": "qJ7650am9kc6Eqe9mEj0t3A8OmBbaasEDLzyx",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Internal Account Transfer\"]"
+    },
+    {
+      "originalDescription": "CASH APP*ALISE HOCKETT CA 11/18",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 75.0,
+      "date": "2023-11-20",
+      "description": "CASH APP*ALISE HOCKETT CA 11/18",
+      "guid": "QP9YeZOArqspO4NxQObKi1E9ZyjdQQH4Ov56x",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "PAYPAL INST XFER GOOGLE GOOGLE P WEB ID: PAYPALSI77",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 1.07,
+      "date": "2023-11-01",
+      "description": "PAYPAL INST XFER GOOGLE GOOGLE P WEB ID: PAYPALSI77",
+      "guid": "QP9YeZOArqspO4NxQObKi1E9ZyjdQQH4Ov5Bx",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Digital Purchase\"]"
+    },
+    {
+      "originalDescription": "RAINSTORM - ROMEOVILLE ROMEOVILLE IL 11/04",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 23.0,
+      "date": "2023-11-06",
+      "description": "RAINSTORM - ROMEOVILLE ROMEOVILLE IL 11/04",
+      "guid": "aJkYBNP9QZckDKwJRDjVfE5modkzRRu17gvk3",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Hardware Store\"]"
+    },
+    {
+      "originalDescription": "MONTHLY SERVICE FEE",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 25.0,
+      "date": "2023-11-27",
+      "description": "MONTHLY SERVICE FEE",
+      "guid": "aJkYBNP9QZckDKwJRDjVfE5modkzRRu17gvE3",
+      "type": "DEBIT",
+      "category": "[\"Bank Fees\"]"
+    },
+    {
+      "originalDescription": "Online Transfer to CHK ...0202 transaction#: 18870172909 10/31",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 600.0,
+      "date": "2023-10-31",
+      "description": "Online Transfer to CHK ...0202 transaction#: 18870172909 10/31",
+      "guid": "NLbOYxqyZDs8n0aqxnkBhDRdQzAjeeFLo9gMM",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Internal Account Transfer\"]"
+    },
+    {
+      "originalDescription": "DENNY'S #6686 STOCKTON CA 11/16",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 6.98,
+      "date": "2023-11-20",
+      "description": "DENNY'S #6686 STOCKTON CA 11/16",
+      "guid": "NLbOYxqyZDs8n0aqxnkBhDRdQzAjeeFLo9gwM",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "SHEN ZHEN SHI XI IAT PAYPAL 1030547911153 WEB ID: 770510487C",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 29.99,
+      "date": "2023-11-13",
+      "description": "SHEN ZHEN SHI XI IAT PAYPAL 1030547911153 WEB ID: 770510487C",
+      "guid": "dR0YK6BMobTExv951xL6CjdQrnpx11UQKvwJ9",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Third Party\",\"PayPal\"]"
+    },
+    {
+      "originalDescription": "PAYPAL INST XFER GOOGLE SPINX GA WEB ID: PAYPALSI77",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 5.39,
+      "date": "2023-10-30",
+      "description": "PAYPAL INST XFER GOOGLE SPINX GA WEB ID: PAYPALSI77",
+      "guid": "dR0YK6BMobTExv951xL6CjdQrnpx11UQKvwm9",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "Online Transfer from SAV ...8212 transaction#: 18807123431",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 55.0,
+      "date": "2023-10-24",
+      "description": "Online Transfer from SAV ...8212 transaction#: 18807123431",
+      "guid": "dR0YK6BMobTExv951xL6CjdQrnpx11UQKvwmj",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Internal Account Transfer\"]"
+    },
+    {
+      "originalDescription": "NON-CHASE ATM WITHDRAW 973899 10/21322 INDEP",
+      "accountGuid": "jbJzrB8Da1cJ3xKN13beHQmKAKzq9EhjjDEM9",
+      "amount": 43.0,
+      "date": "2023-10-23",
+      "description": "NON-CHASE ATM WITHDRAW 973899 10/21322 INDEP",
+      "guid": "ODgYeJbK71SDrj107rn3i185pRmYKgCgxqM06",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "Online Transfer from CHK ...9017 transaction#: 18892891818",
+      "accountGuid": "jbJzrB8Da1cJ3xKN13beHQmKAKzq9EhjjDEM9",
+      "amount": 600.0,
+      "date": "2023-11-02",
+      "description": "Online Transfer from CHK ...9017 transaction#: 18892891818",
+      "guid": "961yVNdZEMTomVJe3mYACnxomk5jRqIxgma3J",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Internal Account Transfer\"]"
+    },
+    {
+      "originalDescription": "Walgreens",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 43.48,
+      "date": "2023-11-06",
+      "description": "Walgreens",
+      "guid": "rJ9Loj6kBmcLJXz6vJEjT0vQeYjbJJHwVp601",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Pharmacies\"]"
+    },
+    {
+      "originalDescription": "COMED PAYMENT IL 11/01",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 96.79,
+      "date": "2023-11-02",
+      "description": "COMED PAYMENT IL 11/01",
+      "guid": "ODgYeJbK71SDrj107rn3i18NDreX77HgxqzBy",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Utilities\",\"Electric\"]"
+    },
+    {
+      "originalDescription": "PAYPAL INST XFER GOOGLE GOOGLE P WEB ID: PAYPALSI77",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 2.14,
+      "date": "2023-10-31",
+      "description": "PAYPAL INST XFER GOOGLE GOOGLE P WEB ID: PAYPALSI77",
+      "guid": "eJjYkLXEodcRdn70OdMLcrXQa3V6OOFbnzPqy",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Digital Purchase\"]"
+    },
+    {
+      "originalDescription": "Online Transfer from CHK ...0202 transaction#: 19054765691",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 200.0,
+      "date": "2023-11-20",
+      "description": "Online Transfer from CHK ...0202 transaction#: 19054765691",
+      "guid": "eJjYkLXEodcRdn70OdMLcrXQa3V6OOFbnzPry",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Internal Account Transfer\"]"
+    },
+    {
+      "originalDescription": "Online Transfer from CHK ...0202 transaction#: 19085808786",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 500.0,
+      "date": "2023-11-24",
+      "description": "Online Transfer from CHK ...0202 transaction#: 19085808786",
+      "guid": "961yVNdZEMTomVJe3mYACnx01ZQ9XXFxgmLQA",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Internal Account Transfer\"]"
+    },
+    {
+      "originalDescription": "ROMEOVILLE *UTILITY IL 11/02",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 77.86,
+      "date": "2023-11-02",
+      "description": "ROMEOVILLE *UTILITY IL 11/02",
+      "guid": "961yVNdZEMTomVJe3mYACnx01ZQ9XXFxgmLjA",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Utilities\"]"
+    },
+    {
+      "originalDescription": "Chime SAN FRANCISCO CA 261671 11/29",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 75.0,
+      "date": "2023-11-29",
+      "description": "Chime SAN FRANCISCO CA 261671 11/29",
+      "guid": "rJ9Loj6kBmcLJXz6vJEjT0vQeYjbJJHwVp6p1",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "Online Transfer from CHK ...0202 transaction#: 18831731169",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 500.0,
+      "date": "2023-10-27",
+      "description": "Online Transfer from CHK ...0202 transaction#: 18831731169",
+      "guid": "YvDYdO3JA0hDNz61oN9aipQg4XkPooIqJ548E",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Internal Account Transfer\"]"
+    },
+    {
+      "originalDescription": "PAYPAL INST XFER PEACOCK WEB ID: PAYPALSI77",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 11.99,
+      "date": "2023-11-20",
+      "description": "PAYPAL INST XFER PEACOCK WEB ID: PAYPALSI77",
+      "guid": "ODgYeJbK71SDrj107rn3i18NDreX77HgxqzYy",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Third Party\",\"PayPal\"]"
+    },
+    {
+      "originalDescription": "ATM WITHDRAWAL 007394 11/0450 PHELPS",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 160.0,
+      "date": "2023-11-06",
+      "description": "ATM WITHDRAWAL 007394 11/0450 PHELPS",
+      "guid": "8wD39Xy8zMcV8jQkP8Yxi8oA0xLy11fvx3Oeb",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "ATM WITHDRAWAL 006566 11/0150 PHELPS",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 300.0,
+      "date": "2023-11-01",
+      "description": "ATM WITHDRAWAL 006566 11/0150 PHELPS",
+      "guid": "RqVYe5mv3BFo4akb64qVC7KDzYvd66Iqe0pEm",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "LARRYS BAR AND GRILL ROMEOVILLE IL 11/26",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 67.75,
+      "date": "2023-11-27",
+      "description": "LARRYS BAR AND GRILL ROMEOVILLE IL 11/26",
+      "guid": "8wD39Xy8zMcV8jQkP8Yxi8oA0xLy11fvx3O0b",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "DD DOORDASH TASTEOFCH CA 11/19",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 50.26,
+      "date": "2023-11-20",
+      "description": "DD DOORDASH TASTEOFCH CA 11/19",
+      "guid": "RqVYe5mv3BFo4akb64qVC7KDzYvd66Iqe0pYm",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Food and Beverage\"]"
+    },
+    {
+      "originalDescription": "STELLA'S BAR & GRILL ROMEOVILLE IL 11/23",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 19.25,
+      "date": "2023-11-24",
+      "description": "STELLA'S BAR & GRILL ROMEOVILLE IL 11/23",
+      "guid": "7dLB7pDJEzsXj0NxkjemSzbXPxMEwwf50xaNm",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "LARRYS BAR AND GRILL ROMEOVILLE IL 11/01",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 25.0,
+      "date": "2023-11-02",
+      "description": "LARRYS BAR AND GRILL ROMEOVILLE IL 11/01",
+      "guid": "7dLB7pDJEzsXj0NxkjemSzbXPxMEwwf50xaMm",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "NON-CHASE ATM WITHDRAW 890250 11/01322 INDEP",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 103.0,
+      "date": "2023-11-01",
+      "description": "NON-CHASE ATM WITHDRAW 890250 11/01322 INDEP",
+      "guid": "Evr8eKBwQMh40Pmge0AMC1v75VLz66HnQMe0R",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "BP#9638917ROMEO ROMEOVILLE IL 11/19",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 44.01,
+      "date": "2023-11-20",
+      "description": "BP#9638917ROMEO ROMEOVILLE IL 11/19",
+      "guid": "Evr8eKBwQMh40Pmge0AMC1v75VLz66HnQMezR",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "NICOR GAS BILL GA 11/01",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 40.19,
+      "date": "2023-11-02",
+      "description": "NICOR GAS BILL GA 11/01",
+      "guid": "VKwYe704Pkswxm01vxdjC6rBzLeyvvFj4mdAe",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Utilities\",\"Gas\"]"
+    },
+    {
+      "originalDescription": "STELLA'S BAR & GRILL ROMEOVILLE IL 11/20",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 45.5,
+      "date": "2023-11-21",
+      "description": "STELLA'S BAR & GRILL ROMEOVILLE IL 11/20",
+      "guid": "VKwYe704Pkswxm01vxdjC6rBzLeyvvFj4mdBe",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "LARRYS BAR AND GRILL ROMEOVILLE IL 11/22",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 50.5,
+      "date": "2023-11-24",
+      "description": "LARRYS BAR AND GRILL ROMEOVILLE IL 11/22",
+      "guid": "gJ4Yv1pwK6c46YaEr631CRgLboXKrrFK85vR7",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "CARRINGTON MORTGAGE 7000308190 WEB ID: 9673545010",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 1231.6,
+      "date": "2023-11-02",
+      "description": "CARRINGTON MORTGAGE 7000308190 WEB ID: 9673545010",
+      "guid": "gJ4Yv1pwK6c46YaEr631CRgLboXKrrFK85vw7",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]"
+    },
+    {
+      "originalDescription": "Online Transfer to CHK ...9017 transaction#: 19038600125 11/17",
+      "accountGuid": "jbJzrB8Da1cJ3xKN13beHQmKAKzq9EhjjDEM9",
+      "amount": 100.0,
+      "date": "2023-11-17",
+      "description": "Online Transfer to CHK ...9017 transaction#: 19038600125 11/17",
+      "guid": "oJbd8A93aycM51Y3d59AF7vjkJApqBSb46aRP",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Internal Account Transfer\"]"
+    },
+    {
+      "originalDescription": "ATM WITHDRAWAL 008645 11/0950 PHELPS",
+      "accountGuid": "jbJzrB8Da1cJ3xKN13beHQmKAKzq9EhjjDEM9",
+      "amount": 200.0,
+      "date": "2023-11-09",
+      "description": "ATM WITHDRAWAL 008645 11/0950 PHELPS",
+      "guid": "7dLB7pDJEzsXj0NxkjemSzbn9A7ZJYC50xOoj",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "NON-CHASE ATM WITHDRAW 200305 11/09402 W Web",
+      "accountGuid": "jbJzrB8Da1cJ3xKN13beHQmKAKzq9EhjjDEM9",
+      "amount": 104.0,
+      "date": "2023-11-09",
+      "description": "NON-CHASE ATM WITHDRAW 200305 11/09402 W Web",
+      "guid": "gJ4Yv1pwK6c46YaEr631CRgNjeB7MqIK85Zrn",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "ATT Payment PPD ID: 9864031004",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 107.86,
+      "date": "2023-11-24",
+      "description": "ATT Payment PPD ID: 9864031004",
+      "guid": "oJbd8A93aycM51Y3d59AF7vODKR8PPIb46n7v",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Telecommunication Services\"]"
+    },
+    {
+      "originalDescription": "STELLA'S BAR & GRILL ROMEOVILLE IL 11/02",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 23.75,
+      "date": "2023-11-03",
+      "description": "STELLA'S BAR & GRILL ROMEOVILLE IL 11/02",
+      "guid": "oJbd8A93aycM51Y3d59AF7vODKR8PPIb46nev",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "PAYPAL INST XFER GOOGLE GOOGLE P WEB ID: PAYPALSI77",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 3.23,
+      "date": "2023-11-06",
+      "description": "PAYPAL INST XFER GOOGLE GOOGLE P WEB ID: PAYPALSI77",
+      "guid": "jbJzrB8Da1cJ3xKN13beHQLPr4w0ggujerdKA",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Digital Purchase\"]"
+    },
+    {
+      "originalDescription": "DD DOORDASH JOEYSREDH CA 11/29",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 31.88,
+      "date": "2023-11-29",
+      "description": "DD DOORDASH JOEYSREDH CA 11/29",
+      "guid": "jbJzrB8Da1cJ3xKN13beHQLPr4w0ggujerdrA",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Food and Beverage\"]"
+    },
+    {
+      "originalDescription": "Online Transfer to CHK ...9017 transaction#: 18807123431 10/24",
+      "accountGuid": "jbJzrB8Da1cJ3xKN13beHQmKAKzq9EhjjDEM9",
+      "amount": 55.0,
+      "date": "2023-10-24",
+      "description": "Online Transfer to CHK ...9017 transaction#: 18807123431 10/24",
+      "guid": "VKwYe704Pkswxm01vxdjC6rOY9x3ajIj4mQb7",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Internal Account Transfer\"]"
+    },
+    {
+      "originalDescription": "Kwik Trip",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 40.0,
+      "date": "2023-10-23",
+      "description": "Kwik Trip",
+      "guid": "6a6qgnExQMswOvBr4OYRC6nXByVA00FNwbDBd",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "DD DOORDASH ELASADOR CA 11/12",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 51.4,
+      "date": "2023-11-13",
+      "description": "DD DOORDASH ELASADOR CA 11/12",
+      "guid": "6a6qgnExQMswOvBr4OYRC6nXByVA00FNwbD1a",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Food and Beverage\"]"
+    },
+    {
+      "originalDescription": "PAYPAL TRANSFER PPD ID: PAYPALSD11",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 22.5,
+      "date": "2023-11-08",
+      "description": "PAYPAL TRANSFER PPD ID: PAYPALSD11",
+      "guid": "vLdq9xRjZrsqJYZOwJkxIn4XDk18BBF0Vd96J",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Third Party\",\"PayPal\"]"
+    },
+    {
+      "originalDescription": "322 INDEPENDENCE BLVD ROMEOVILLE IL 868307 11/30",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 3.0,
+      "date": "2023-11-30",
+      "description": "322 INDEPENDENCE BLVD ROMEOVILLE IL 868307 11/30",
+      "guid": "vLdq9xRjZrsqJYZOwJkxIn4XDk18BBF0Vd9dJ",
+      "type": "CREDIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "THORNTONS #0324 #0324 Romeoville IL 162318 11/26",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 21.35,
+      "date": "2023-11-27",
+      "description": "THORNTONS #0324 #0324 Romeoville IL 162318 11/26",
+      "guid": "Jm8gejNPZdTJ09p8E06DHdbazvj4ZZH7m8anM",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "CHINA HOUSE II ROMEOVILLE IL 11/01",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 79.9,
+      "date": "2023-11-03",
+      "description": "CHINA HOUSE II ROMEOVILLE IL 11/01",
+      "guid": "54wPbQjagMhxoVjR3oY8CMyBbpjRDDh4wg7PE",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "Online Transfer from CHK ...0202 transaction#: 19115566418",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 100.0,
+      "date": "2023-11-27",
+      "description": "Online Transfer from CHK ...0202 transaction#: 19115566418",
+      "guid": "54wPbQjagMhxoVjR3oY8CMyBbpjRDDh4wg7oE",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Internal Account Transfer\"]"
+    },
+    {
+      "originalDescription": "Carquest",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 23.86,
+      "date": "2023-11-06",
+      "description": "Carquest",
+      "guid": "Jm8gejNPZdTJ09p8E06DHdbazvj4ZZH7m8aZM",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "ATM WITHDRAWAL 005129 11/2250 PHELPS",
+      "accountGuid": "jbJzrB8Da1cJ3xKN13beHQmKAKzq9EhjjDEM9",
+      "amount": 60.0,
+      "date": "2023-11-22",
+      "description": "ATM WITHDRAWAL 005129 11/2250 PHELPS",
+      "guid": "54wPbQjagMhxoVjR3oY8CMy18newoZF4wgLrz",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "PAYPAL INST XFER GOOGLE PHANTOM WEB ID: PAYPALSI77",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 26.99,
+      "date": "2023-10-27",
+      "description": "PAYPAL INST XFER GOOGLE PHANTOM WEB ID: PAYPALSI77",
+      "guid": "yPLyYZmaVxsyNO35mN9ZHa1vxBZrLLigpnKj9",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Digital Purchase\"]"
+    },
+    {
+      "originalDescription": "DD DOORDASH CASAMARGA CA 10/30",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 80.96,
+      "date": "2023-10-30",
+      "description": "DD DOORDASH CASAMARGA CA 10/30",
+      "guid": "wDwBVJ7r54SBXE7xJXNesXvQekq8ZZIvK8xnd",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Food and Beverage\"]"
+    },
+    {
+      "originalDescription": "LARRYS BAR AND GRILL ROMEOVILLE IL 10/21",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 20.75,
+      "date": "2023-10-23",
+      "description": "LARRYS BAR AND GRILL ROMEOVILLE IL 10/21",
+      "guid": "wDwBVJ7r54SBXE7xJXNesXvQekq8ZZIvK8xnO",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "DD DOORDASH LAREDOTAC CA 11/13",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 56.83,
+      "date": "2023-11-13",
+      "description": "DD DOORDASH LAREDOTAC CA 11/13",
+      "guid": "wDwBVJ7r54SBXE7xJXNesXvQekq8ZZIvK8xpd",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Food and Beverage\"]"
+    },
+    {
+      "originalDescription": "STELLA'S BAR & GRILL ROMEOVILLE IL 11/27",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 25.0,
+      "date": "2023-11-28",
+      "description": "STELLA'S BAR & GRILL ROMEOVILLE IL 11/27",
+      "guid": "4rd1oR0mgMcDekgQneoZi3a8PZgQAAsnRBKON",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "DD DOORDASH JOEYSREDH CA 11/05",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 48.18,
+      "date": "2023-11-06",
+      "description": "DD DOORDASH JOEYSREDH CA 11/05",
+      "guid": "4rd1oR0mgMcDekgQneoZi3a8PZgQAAsnRBK5N",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Food and Beverage\"]"
+    },
+    {
+      "originalDescription": "7-Eleven",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 43.39,
+      "date": "2023-11-09",
+      "description": "7-Eleven",
+      "guid": "KdZ7erDqKws3ekoqBevVFDzYdvj9VVFmEBe8X",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Convenience Stores\"]"
+    },
+    {
+      "originalDescription": "NON-CHASE ATM WITHDRAW 220786 11/30402 W Web",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 204.0,
+      "date": "2023-11-30",
+      "description": "NON-CHASE ATM WITHDRAW 220786 11/30402 W Web",
+      "guid": "KdZ7erDqKws3ekoqBevVFDzYdvj9VVFmEBeBX",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "UPROVA CREDIT 8335801319 000000002057208 WEB ID: 1320620369",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 198.44,
+      "date": "2023-10-27",
+      "description": "UPROVA CREDIT 8335801319 000000002057208 WEB ID: 1320620369",
+      "guid": "KdZ7erDqKws3ekoqBevVFDzYdvj9VVFmEBexX",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "Online Transfer to CHK ...0202 transaction#: 19143999266 11/30",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 300.0,
+      "date": "2023-11-30",
+      "description": "Online Transfer to CHK ...0202 transaction#: 19143999266 11/30",
+      "guid": "kZ8Y43r1oPs8y5OQeyk3hn0QxEAMeeFvoArAK",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Internal Account Transfer\"]"
+    },
+    {
+      "originalDescription": "SHANG HAI BEN FE IAT PAYPAL 1030508021619 WEB ID: 770510487C",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 24.99,
+      "date": "2023-11-08",
+      "description": "SHANG HAI BEN FE IAT PAYPAL 1030508021619 WEB ID: 770510487C",
+      "guid": "kZ8Y43r1oPs8y5OQeyk3hn0QxEAMeeFvoArJK",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Third Party\",\"PayPal\"]"
+    },
+    {
+      "originalDescription": "STELLA'S BAR & GRILL ROMEOVILLE IL 11/10",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 25.0,
+      "date": "2023-11-13",
+      "description": "STELLA'S BAR & GRILL ROMEOVILLE IL 11/10",
+      "guid": "P17Ye8xkqPUgqrVdxqRyFMm63QrNxxhAo8d41",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "PAYPAL INST XFER SAMFINACO LLC WEB ID: PAYPALSI77",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 3.23,
+      "date": "2023-12-01",
+      "description": "PAYPAL INST XFER SAMFINACO LLC WEB ID: PAYPALSI77",
+      "guid": "P17Ye8xkqPUgqrVdxqRyFMm63QrNxxhAo8d81",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Third Party\",\"PayPal\"]"
+    },
+    {
+      "originalDescription": "Online Transfer to SAV ...8212 transaction#: 19197767398 12/04",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 700.0,
+      "date": "2023-12-04",
+      "description": "Online Transfer to SAV ...8212 transaction#: 19197767398 12/04",
+      "guid": "P17Ye8xkqPUgqrVdxqRyFMm63QrNxxhAo8d8q",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Internal Account Transfer\"]"
+    },
+    {
+      "originalDescription": "STELLA'S BAR & GRILL ROMEOVILLE IL 12/01",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 20.0,
+      "date": "2023-12-04",
+      "description": "STELLA'S BAR & GRILL ROMEOVILLE IL 12/01",
+      "guid": "Lw59e41Bn6cjJAvzOJqPCg0NrQon66hBZ3v3Z",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "TST* Kickoff Sports Bar Romeoville IL 10/28",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 31.76,
+      "date": "2023-10-30",
+      "description": "TST* Kickoff Sports Bar Romeoville IL 10/28",
+      "guid": "Lw59e41Bn6cjJAvzOJqPCg0NrQon66hBZ3v6Z",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "Online Transfer from SAV ...8212 transaction#: 18786397979",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 100.0,
+      "date": "2023-10-23",
+      "description": "Online Transfer from SAV ...8212 transaction#: 18786397979",
+      "guid": "Lw59e41Bn6cjJAvzOJqPCg0NrQon66hBZ3vkK",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Internal Account Transfer\"]"
+    },
+    {
+      "originalDescription": "FAT RICKY'S ROMEOVILLE ROMEOVILLE IL 11/11",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 31.49,
+      "date": "2023-11-13",
+      "description": "FAT RICKY'S ROMEOVILLE ROMEOVILLE IL 11/11",
+      "guid": "Lw59e41Bn6cjJAvzOJqPCg0NrQon66hBZ3vrZ",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Hardware Store\"]"
+    },
+    {
+      "originalDescription": "322 INDEPENDENCE BLVD ROMEOVILLE IL 847078 10/28",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 3.0,
+      "date": "2023-10-30",
+      "description": "322 INDEPENDENCE BLVD ROMEOVILLE IL 847078 10/28",
+      "guid": "3mMD5EgrzeTwmKDNRmYZCxXPEyoNzzfAojrmL",
+      "type": "CREDIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "Online Transfer to CHK ...0202 transaction#: 19152021570 11/30",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 200.0,
+      "date": "2023-11-30",
+      "description": "Online Transfer to CHK ...0202 transaction#: 19152021570 11/30",
+      "guid": "3mMD5EgrzeTwmKDNRmYZCxXPEyoNzzfAojrjL",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Internal Account Transfer\"]"
+    },
+    {
+      "originalDescription": "MIKES MORE MILES ROMEOV ROMEOVILLE IL 11/04",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 135.87,
+      "date": "2023-11-06",
+      "description": "MIKES MORE MILES ROMEOV ROMEOVILLE IL 11/04",
+      "guid": "x163Y8R4ZaU3Dv9BZDE8Fa17XyAeLLiKO450k",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "DD DOORDASH JOEYSREDH CA 11/20",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 39.43,
+      "date": "2023-11-20",
+      "description": "DD DOORDASH JOEYSREDH CA 11/20",
+      "guid": "M6mVea53jLTRnmojXnJNcr5aJ0E7wwFpXb7EY",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Food and Beverage\"]"
+    },
+    {
+      "originalDescription": "LARRYS BAR AND GRILL ROMEOVILLE IL 11/09",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 37.25,
+      "date": "2023-11-10",
+      "description": "LARRYS BAR AND GRILL ROMEOVILLE IL 11/09",
+      "guid": "3mMD5EgrzeTwmKDNRmYZCxXPEyoNzzfAojr4L",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "PAYPAL INST XFER GOOGLE GOOGLE P WEB ID: PAYPALSI77",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 3.23,
+      "date": "2023-11-01",
+      "description": "PAYPAL INST XFER GOOGLE GOOGLE P WEB ID: PAYPALSI77",
+      "guid": "M6mVea53jLTRnmojXnJNcr5aJ0E7wwFpXb7nY",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Digital Purchase\"]"
+    },
+    {
+      "originalDescription": "PAYPAL INST XFER PLAYRIX GAMES WEB ID: PAYPALSI77",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 7.55,
+      "date": "2023-11-27",
+      "description": "PAYPAL INST XFER PLAYRIX GAMES WEB ID: PAYPALSI77",
+      "guid": "x163Y8R4ZaU3Dv9BZDE8Fa17XyAeLLiKO45nk",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Digital Purchase\"]"
+    },
+    {
+      "originalDescription": "MONTHLY SERVICE FEE",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 25.0,
+      "date": "2023-10-26",
+      "description": "MONTHLY SERVICE FEE",
+      "guid": "zqDKY57xgJFKaXmNoaO5fAbd5y3V44inv81Xq",
+      "type": "DEBIT",
+      "category": "[\"Bank Fees\"]"
+    },
+    {
+      "originalDescription": "ATM WITHDRAWAL 004500 10/2850 PHELPS",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 300.0,
+      "date": "2023-10-30",
+      "description": "ATM WITHDRAWAL 004500 10/2850 PHELPS",
+      "guid": "P17Ye8xkqPUgqrVdxqRyFMm63QrNxxhAo8dY1",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "Online Transfer to CHK ...9017 transaction#: 18786397979 10/23",
+      "accountGuid": "jbJzrB8Da1cJ3xKN13beHQmKAKzq9EhjjDEM9",
+      "amount": 100.0,
+      "date": "2023-10-23",
+      "description": "Online Transfer to CHK ...9017 transaction#: 18786397979 10/23",
+      "guid": "M6mVea53jLTRnmojXnJNcr5DkRqAQpHpXbQLZ",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Internal Account Transfer\"]"
+    },
+    {
+      "originalDescription": "NON-CHASE ATM WITHDRAW 868307 11/30322 INDEP",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 203.0,
+      "date": "2023-11-30",
+      "description": "NON-CHASE ATM WITHDRAW 868307 11/30322 INDEP",
+      "guid": "yPLyYZmaVxsyNO35mN9ZHa1vxBZrLLigpnKn9",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "ROMEOVILLE *UTILITY IL 12/03",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 157.78,
+      "date": "2023-12-04",
+      "description": "ROMEOVILLE *UTILITY IL 12/03",
+      "guid": "mo5YxKPqmBH5DmZYQDdKfAyYb4RwQQivB6A6A",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Utilities\"]"
+    },
+    {
+      "originalDescription": "DD DOORDASH CASAMARGA CA 11/11",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 76.73,
+      "date": "2023-11-13",
+      "description": "DD DOORDASH CASAMARGA CA 11/11",
+      "guid": "1vV68OA0xMhREV3LeEYNc9o8JmjLbbsgnJOLg",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Food and Beverage\"]"
+    },
+    {
+      "originalDescription": "Walmart",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 1.97,
+      "date": "2023-11-13",
+      "description": "Walmart",
+      "guid": "mo5YxKPqmBH5DmZYQDdKfAyYb4RwQQivB6AkA",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Department Stores\"]"
+    },
+    {
+      "originalDescription": "NON-CHASE ATM WITHDRAW 847078 10/28322 INDEP",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 103.0,
+      "date": "2023-10-30",
+      "description": "NON-CHASE ATM WITHDRAW 847078 10/28322 INDEP",
+      "guid": "1vV68OA0xMhREV3LeEYNc9o8JmjLbbsgnJOdg",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "PAYPAL INST XFER GOOGLE SPINX GA WEB ID: PAYPALSI77",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 4.31,
+      "date": "2023-10-30",
+      "description": "PAYPAL INST XFER GOOGLE SPINX GA WEB ID: PAYPALSI77",
+      "guid": "mo5YxKPqmBH5DmZYQDdKfAyYb4RwQQivB6AwA",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "ATT Payment PPD ID: 9864031004",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 107.86,
+      "date": "2023-10-24",
+      "description": "ATT Payment PPD ID: 9864031004",
+      "guid": "mo5YxKPqmBH5DmZYQDdKfAyYb4RwQQivB6AwY",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Telecommunication Services\"]"
+    },
+    {
+      "originalDescription": "DD DOORDASH LOUMALNAT CA 11/26",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 90.8,
+      "date": "2023-11-27",
+      "description": "DD DOORDASH LOUMALNAT CA 11/26",
+      "guid": "Z01YwM98rjs1MDyJ7MLxHmRxkrq377CkbDqOo",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Food and Beverage\"]"
+    },
+    {
+      "originalDescription": "LARRYS BAR AND GRILL ROMEOVILLE IL 11/17",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 26.75,
+      "date": "2023-11-20",
+      "description": "LARRYS BAR AND GRILL ROMEOVILLE IL 11/17",
+      "guid": "XALYeVRxkvHL76B9q7MeTXQyAp3rqqIad5Dbb",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "Online Transfer from CHK ...0202 transaction#: 19041866286",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 150.0,
+      "date": "2023-11-17",
+      "description": "Online Transfer from CHK ...0202 transaction#: 19041866286",
+      "guid": "zqDKY57xgJFKaXmNoaO5fAbd5y3V44inv81y6",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Internal Account Transfer\"]"
+    },
+    {
+      "originalDescription": "STELLA'S BAR & GRILL ROMEOVILLE IL 11/18",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 24.25,
+      "date": "2023-11-20",
+      "description": "STELLA'S BAR & GRILL ROMEOVILLE IL 11/18",
+      "guid": "pJgwZvPyXKcw40Kkg4dvCbkeZg9rOOf43gXbg",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "State FaBQVFLXNZ PAYMENTS PPD ID: 7700000009",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 178.14,
+      "date": "2023-11-01",
+      "description": "State FaBQVFLXNZ PAYMENTS PPD ID: 7700000009",
+      "guid": "pJgwZvPyXKcw40Kkg4dvCbkeZg9rOOf43gXMg",
+      "type": "DEBIT",
+      "category": "[\"Payment\"]"
+    },
+    {
+      "originalDescription": "Online Transfer from SAV ...8212 transaction#: 19038600125",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 100.0,
+      "date": "2023-11-17",
+      "description": "Online Transfer from SAV ...8212 transaction#: 19038600125",
+      "guid": "YvDYdO3JA0hDNz61oN9aipQg4XkPooIqJ54PL",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Internal Account Transfer\"]"
+    },
+    {
+      "originalDescription": "Online Transfer from CHK ...0202 transaction#: 18969429277",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 500.0,
+      "date": "2023-11-10",
+      "description": "Online Transfer from CHK ...0202 transaction#: 18969429277",
+      "guid": "yPLyYZmaVxsyNO35mN9ZHa1vxBZrLLigpnKd9",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Internal Account Transfer\"]"
+    },
+    {
+      "originalDescription": "Walmart",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 8.16,
+      "date": "2023-11-06",
+      "description": "Walmart",
+      "guid": "0A9wJVZvNMHD0V75y0oxivELVo75eefvAKkQa",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "LOU MALNATIS PIZZERI HTTPSLOUMALNA IL 11/03",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 83.3,
+      "date": "2023-11-03",
+      "description": "LOU MALNATIS PIZZERI HTTPSLOUMALNA IL 11/03",
+      "guid": "Z01YwM98rjs1MDyJ7MLxHmRxkrq377CkbDqBo",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "322 INDEPENDENCE BLVD ROMEOVILLE IL 890250 11/01",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 3.0,
+      "date": "2023-11-01",
+      "description": "322 INDEPENDENCE BLVD ROMEOVILLE IL 890250 11/01",
+      "guid": "XALYeVRxkvHL76B9q7MeTXQyAp3rqqIad5D1b",
+      "type": "CREDIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "NAVISTAR INC DIR DEP PPD ID: 6505963447",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 4162.24,
+      "date": "2023-10-31",
+      "description": "NAVISTAR INC DIR DEP PPD ID: 6505963447",
+      "guid": "YvDYdO3JA0hDNz61oN9aipQg4XkPooIqJ548L",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Payroll\"]"
+    },
+    {
+      "originalDescription": "402 W Weber Road Romeoville IL 220786 11/30",
+      "accountGuid": "0A9wJVZvNMHD0V75y0oxivxgkgqDdYHvvd6Eb",
+      "amount": 4.0,
+      "date": "2023-11-30",
+      "description": "402 W Weber Road Romeoville IL 220786 11/30",
+      "guid": "0A9wJVZvNMHD0V75y0oxivELVo75eefvAKkKa",
+      "type": "CREDIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    }
+  ],
+  "asOfDate": "2024-01-20"
+}

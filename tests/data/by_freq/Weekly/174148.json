@@ -1,0 +1,1162 @@
+{
+  "accounts": [
+    {
+      "accountGuid": "kQRyPkXw1jcOrM0M9ZjyubwOnm4ng7UbowL6e",
+      "currentBalance": 8.36,
+      "currentBalanceDate": "2024-02-01"
+    }
+  ],
+  "transactions": [
+    {
+      "originalDescription": "NON-CHASE ATM WITHDRAW 340884 11/2610649 HAR",
+      "accountGuid": "kQRyPkXw1jcOrM0M9ZjyubwOnm4ng7UbowL6e",
+      "amount": 110.95,
+      "date": "2023-11-27",
+      "description": "NON-CHASE ATM WITHDRAW 340884 11/2610649 HAR",
+      "guid": "Rk7ABgo4vKhkR9r9edj4inXZwOLjg5t9BKOoa",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "PNM Concorde Auto Ac Santa Clara CA 01/25",
+      "accountGuid": "kQRyPkXw1jcOrM0M9ZjyubwOnm4ng7UbowL6e",
+      "amount": 350.99,
+      "date": "2024-01-26",
+      "description": "PNM Concorde Auto Ac Santa Clara CA 01/25",
+      "guid": "Rk7ABgo4vKhkR9r9edj4inXxR6YRbZt9qVR1M",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Automotive\",\"Car Dealers and Leasing\"]"
+    },
+    {
+      "originalDescription": "Dollar General",
+      "accountGuid": "kQRyPkXw1jcOrM0M9ZjyubwOnm4ng7UbowL6e",
+      "amount": 80.05,
+      "date": "2024-01-11",
+      "description": "Dollar General",
+      "guid": "Rk7ABgo4vKhkR9r9edj4inXxR6YRbZt9qVR15",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Discount Stores\"]"
+    },
+    {
+      "originalDescription": "OVERDRAFT FEE FOR A $541.23 CARD PURCHASE - DETAILS: 1201ZALES.COM/Zales Outlet Dallas TX 0############6760 01",
+      "accountGuid": "kQRyPkXw1jcOrM0M9ZjyubwOnm4ng7UbowL6e",
+      "amount": 34.0,
+      "date": "2023-12-05",
+      "description": "OVERDRAFT FEE FOR A $541.23 CARD PURCHASE - DETAILS: 1201ZALES.COM/Zales Outlet Dallas TX 0############6760 01",
+      "guid": "rY5rma17kRuzekrk9Z8JH8w75KXmkzUrgKvba",
+      "type": "DEBIT",
+      "category": "[\"Bank Fees\",\"Overdraft\"]"
+    },
+    {
+      "originalDescription": "7-Eleven",
+      "accountGuid": "kQRyPkXw1jcOrM0M9ZjyubwOnm4ng7UbowL6e",
+      "amount": 8.22,
+      "date": "2023-12-12",
+      "description": "7-Eleven",
+      "guid": "rY5rma17kRuzekrk9Z8JH8w75KXmkzUrgKvbL",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Convenience Stores\"]"
+    },
+    {
+      "originalDescription": "Domino's",
+      "accountGuid": "kQRyPkXw1jcOrM0M9ZjyubwOnm4ng7UbowL6e",
+      "amount": 26.79,
+      "date": "2023-11-03",
+      "description": "Domino's",
+      "guid": "rY5rma17kRuzekrk9Z8JH8w75KXmkzUrgKvea",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "NON-CHASE ATM FEE-WITH",
+      "accountGuid": "kQRyPkXw1jcOrM0M9ZjyubwOnm4ng7UbowL6e",
+      "amount": 3.0,
+      "date": "2023-11-27",
+      "description": "NON-CHASE ATM FEE-WITH",
+      "guid": "VjRXkg5A4xt0OKJKneLxtgmMnRwpZ3sn5zRYJ",
+      "type": "DEBIT",
+      "category": "[\"Bank Fees\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "MEEZ FOOD MART DALLAS TX 01/26",
+      "accountGuid": "kQRyPkXw1jcOrM0M9ZjyubwOnm4ng7UbowL6e",
+      "amount": 6.91,
+      "date": "2024-01-29",
+      "description": "MEEZ FOOD MART DALLAS TX 01/26",
+      "guid": "VjRXkg5A4xt0OKJKneLxtgmVKvLK1MsnjOLkB",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Convenience Stores\"]"
+    },
+    {
+      "originalDescription": "Chevron",
+      "accountGuid": "kQRyPkXw1jcOrM0M9ZjyubwOnm4ng7UbowL6e",
+      "amount": 20.4,
+      "date": "2024-01-12",
+      "description": "Chevron",
+      "guid": "VjRXkg5A4xt0OKJKneLxtgmVKvLK1MsnjOLkk",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "OVERDRAFT FEE FOR A $42.20 CARD PURCHASE - DETAILS: 1109BEVERAGE DEPOT 4 ROWLETT TX 0############6760 07",
+      "accountGuid": "kQRyPkXw1jcOrM0M9ZjyubwOnm4ng7UbowL6e",
+      "amount": 34.0,
+      "date": "2023-11-13",
+      "description": "OVERDRAFT FEE FOR A $42.20 CARD PURCHASE - DETAILS: 1109BEVERAGE DEPOT 4 ROWLETT TX 0############6760 07",
+      "guid": "qNOrk4DwmgUeak1kYo8Eio9zeZqvgRu1kxbPw",
+      "type": "DEBIT",
+      "category": "[\"Bank Fees\",\"Overdraft\"]"
+    },
+    {
+      "originalDescription": "QT 908 OUTSIDE GARLAND TX 102706 12/14",
+      "accountGuid": "kQRyPkXw1jcOrM0M9ZjyubwOnm4ng7UbowL6e",
+      "amount": 30.0,
+      "date": "2023-12-14",
+      "description": "QT 908 OUTSIDE GARLAND TX 102706 12/14",
+      "guid": "vXkgr63ojEfZndpd7ErJsvO970xPrefp8YQgb",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "DEPOSIT ID NUMBER 300713",
+      "accountGuid": "kQRyPkXw1jcOrM0M9ZjyubwOnm4ng7UbowL6e",
+      "amount": 1120.0,
+      "date": "2023-12-08",
+      "description": "DEPOSIT ID NUMBER 300713",
+      "guid": "vXkgr63ojEfZndpd7ErJsvO970xPrefp8YQgV",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Deposit\"]"
+    },
+    {
+      "originalDescription": "McDonald's",
+      "accountGuid": "kQRyPkXw1jcOrM0M9ZjyubwOnm4ng7UbowL6e",
+      "amount": 10.16,
+      "date": "2023-11-06",
+      "description": "McDonald's",
+      "guid": "vXkgr63ojEfZndpd7ErJsvO970xPrefp8YQzV",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "PARTY LIFE INC Seymour TX 12/17",
+      "accountGuid": "kQRyPkXw1jcOrM0M9ZjyubwOnm4ng7UbowL6e",
+      "amount": 32.0,
+      "date": "2023-12-18",
+      "description": "PARTY LIFE INC Seymour TX 12/17",
+      "guid": "qNOrk4DwmgUeak1kYo8Eio9zeZqvgRu1kxbnK",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Food and Beverage Store\"]"
+    },
+    {
+      "originalDescription": "T-Mobile",
+      "accountGuid": "kQRyPkXw1jcOrM0M9ZjyubwOnm4ng7UbowL6e",
+      "amount": 34.0,
+      "date": "2024-01-02",
+      "description": "T-Mobile",
+      "guid": "wQmR4LyjrEc71wvw4OrXsRPanZknMDtRvdog4",
+      "type": "DEBIT",
+      "category": "[\"Bank Fees\",\"Overdraft\"]"
+    },
+    {
+      "originalDescription": "WILLIAMS FRIED CHICKEN DALLAS TX 11/18",
+      "accountGuid": "kQRyPkXw1jcOrM0M9ZjyubwOnm4ng7UbowL6e",
+      "amount": 10.69,
+      "date": "2023-11-20",
+      "description": "WILLIAMS FRIED CHICKEN DALLAS TX 11/18",
+      "guid": "wQmR4LyjrEc71wvw4OrXsRPD9Agb5ptR3eagz",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "13683 IFS INDUST DIR DEP PPD ID: 1364227403",
+      "accountGuid": "kQRyPkXw1jcOrM0M9ZjyubwOnm4ng7UbowL6e",
+      "amount": 1280.26,
+      "date": "2023-12-28",
+      "description": "13683 IFS INDUST DIR DEP PPD ID: 1364227403",
+      "guid": "wQmR4LyjrEc71wvw4OrXsRPD9Agb5ptR3earJ",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Payroll\"]"
+    },
+    {
+      "originalDescription": "PNM * Concorde Auto Ac Santa Clara CA 01/11",
+      "accountGuid": "kQRyPkXw1jcOrM0M9ZjyubwOnm4ng7UbowL6e",
+      "amount": 350.99,
+      "date": "2024-01-11",
+      "description": "PNM * Concorde Auto Ac Santa Clara CA 01/11",
+      "guid": "X47Xvg5MxoFBYdZdRP17t5m4OqpO9NTzar86x",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Automotive\",\"Car Dealers and Leasing\"]"
+    },
+    {
+      "originalDescription": "SIGELS BEVERAGE RICHARDSON TX 11/25",
+      "accountGuid": "kQRyPkXw1jcOrM0M9ZjyubwOnm4ng7UbowL6e",
+      "amount": 8.65,
+      "date": "2023-11-27",
+      "description": "SIGELS BEVERAGE RICHARDSON TX 11/25",
+      "guid": "X47Xvg5MxoFBYdZdRP17t5mNEoLjvxCzXOoyp",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Food and Beverage Store\"]"
+    },
+    {
+      "originalDescription": "SCOOTERS BAR & GRILL TX 11/26",
+      "accountGuid": "kQRyPkXw1jcOrM0M9ZjyubwOnm4ng7UbowL6e",
+      "amount": 18.33,
+      "date": "2023-11-27",
+      "description": "SCOOTERS BAR & GRILL TX 11/26",
+      "guid": "QKykqgoQA7UNzVjVPa3OI0APgw6a3MC9dwNMQ",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "NON-CHASE ATM FEE-WITH",
+      "accountGuid": "kQRyPkXw1jcOrM0M9ZjyubwOnm4ng7UbowL6e",
+      "amount": 3.0,
+      "date": "2023-12-11",
+      "description": "NON-CHASE ATM FEE-WITH",
+      "guid": "xQ5raDK94Ec9z616aO7DimB5QkxpV0fmQAeon",
+      "type": "DEBIT",
+      "category": "[\"Bank Fees\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "NON-CHASE ATM FEE-WITH",
+      "accountGuid": "kQRyPkXw1jcOrM0M9ZjyubwOnm4ng7UbowL6e",
+      "amount": 3.0,
+      "date": "2023-12-01",
+      "description": "NON-CHASE ATM FEE-WITH",
+      "guid": "xQ5raDK94Ec9z616aO7DimB5QkxpV0fmQAeoo",
+      "type": "DEBIT",
+      "category": "[\"Bank Fees\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "ATM WITHDRAWAL 004188 01/253445 W BU",
+      "accountGuid": "kQRyPkXw1jcOrM0M9ZjyubwOnm4ng7UbowL6e",
+      "amount": 40.0,
+      "date": "2024-01-25",
+      "description": "ATM WITHDRAWAL 004188 01/253445 W BU",
+      "guid": "xQ5raDK94Ec9z616aO7DimBZgLyg85FmKRvo5",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "BEVERAGE DEPOT 1 DALLAS TX 000398 01/11",
+      "accountGuid": "kQRyPkXw1jcOrM0M9ZjyubwOnm4ng7UbowL6e",
+      "amount": 54.11,
+      "date": "2024-01-11",
+      "description": "BEVERAGE DEPOT 1 DALLAS TX 000398 01/11",
+      "guid": "QKykqgoQA7UNzVjVPa3OI0AoeQyeDPI94yjJR",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Food and Beverage Store\"]"
+    },
+    {
+      "originalDescription": "OVERDRAFT FEE FOR A $32.00 CARD PURCHASE - DETAILS: 1217SQ *PARTY LIFE INC Seymour TX 0############6760 07",
+      "accountGuid": "kQRyPkXw1jcOrM0M9ZjyubwOnm4ng7UbowL6e",
+      "amount": 34.0,
+      "date": "2023-12-19",
+      "description": "OVERDRAFT FEE FOR A $32.00 CARD PURCHASE - DETAILS: 1217SQ *PARTY LIFE INC Seymour TX 0############6760 07",
+      "guid": "PyEKPgoZkaFVom0mQv9qfbLq9ZwEvzCOKaZJx",
+      "type": "DEBIT",
+      "category": "[\"Bank Fees\",\"Overdraft\"]"
+    },
+    {
+      "originalDescription": "CASH APP*HOMER L LADD* CA 01/11",
+      "accountGuid": "kQRyPkXw1jcOrM0M9ZjyubwOnm4ng7UbowL6e",
+      "amount": 50.0,
+      "date": "2024-01-11",
+      "description": "CASH APP*HOMER L LADD* CA 01/11",
+      "guid": "Ya4X0gQrJof6nw5wrqmNULBjKoXK1Mtzqe3Y1",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "KENNYS WOOD FIRED GR TX 12/28",
+      "accountGuid": "kQRyPkXw1jcOrM0M9ZjyubwOnm4ng7UbowL6e",
+      "amount": 26.64,
+      "date": "2023-12-29",
+      "description": "KENNYS WOOD FIRED GR TX 12/28",
+      "guid": "Ya4X0gQrJof6nw5wrqmNULBMvRD0OnHzdn0p3",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "NON-CHASE ATM FEE-WITH",
+      "accountGuid": "kQRyPkXw1jcOrM0M9ZjyubwOnm4ng7UbowL6e",
+      "amount": 3.0,
+      "date": "2023-11-22",
+      "description": "NON-CHASE ATM FEE-WITH",
+      "guid": "Ya4X0gQrJof6nw5wrqmNULBMvRD0OnHzdn0Yy",
+      "type": "DEBIT",
+      "category": "[\"Bank Fees\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "GRAND CITY GROCERY DALLAS TX 11/09",
+      "accountGuid": "kQRyPkXw1jcOrM0M9ZjyubwOnm4ng7UbowL6e",
+      "amount": 9.49,
+      "date": "2023-11-10",
+      "description": "GRAND CITY GROCERY DALLAS TX 11/09",
+      "guid": "yQ54x1k7aEc3eL1L6dpNsR5Kn4dqb7tRMD49K",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "SIGELS BEVERAGE RICHARDSON TX 12/16",
+      "accountGuid": "kQRyPkXw1jcOrM0M9ZjyubwOnm4ng7UbowL6e",
+      "amount": 8.65,
+      "date": "2023-12-18",
+      "description": "SIGELS BEVERAGE RICHARDSON TX 12/16",
+      "guid": "yQ54x1k7aEc3eL1L6dpNsR5Kn4dqb7tRMD4aN",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Food and Beverage Store\"]"
+    },
+    {
+      "originalDescription": "Payment to Chase card ending in 9118 12/28",
+      "accountGuid": "kQRyPkXw1jcOrM0M9ZjyubwOnm4ng7UbowL6e",
+      "amount": 125.0,
+      "date": "2023-12-28",
+      "description": "Payment to Chase card ending in 9118 12/28",
+      "guid": "zQyaJPAoxEcmnDbD9wraSMN1ELXjgzfMJzgBa",
+      "type": "DEBIT",
+      "category": "[\"Payment\",\"Credit Card\"]"
+    },
+    {
+      "originalDescription": "NON-CHASE ATM WITHDRAW 851203 11/22*FAIR PAR",
+      "accountGuid": "kQRyPkXw1jcOrM0M9ZjyubwOnm4ng7UbowL6e",
+      "amount": 43.0,
+      "date": "2023-11-22",
+      "description": "NON-CHASE ATM WITHDRAW 851203 11/22*FAIR PAR",
+      "guid": "zQyaJPAoxEcmnDbD9wraSMN1ELXjgzfMJzgRe",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "13683 IFS INDUST DIR DEP PPD ID: 1364227403",
+      "accountGuid": "kQRyPkXw1jcOrM0M9ZjyubwOnm4ng7UbowL6e",
+      "amount": 1047.32,
+      "date": "2024-01-11",
+      "description": "13683 IFS INDUST DIR DEP PPD ID: 1364227403",
+      "guid": "zQyaJPAoxEcmnDbD9wraSMNor4yr81iMnA3RV",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Payroll\"]"
+    },
+    {
+      "originalDescription": "GUARDIAN LIFE IN STD PAYMTS PPD ID: 5135123390",
+      "accountGuid": "kQRyPkXw1jcOrM0M9ZjyubwOnm4ng7UbowL6e",
+      "amount": 346.37,
+      "date": "2023-11-15",
+      "description": "GUARDIAN LIFE IN STD PAYMTS PPD ID: 5135123390",
+      "guid": "PyEKPgoZkaFVom0mQv9qfbLq9ZwEvzCOKaZDY",
+      "type": "CREDIT",
+      "category": "[\"Service\",\"Insurance\"]"
+    },
+    {
+      "originalDescription": "Wendy's",
+      "accountGuid": "kQRyPkXw1jcOrM0M9ZjyubwOnm4ng7UbowL6e",
+      "amount": 30.08,
+      "date": "2023-11-27",
+      "description": "Wendy's",
+      "guid": "pnoxKrLdyVfKXnAnqaJ4TDdAvmLn5YtA67vDd",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "7-Eleven",
+      "accountGuid": "kQRyPkXw1jcOrM0M9ZjyubwOnm4ng7UbowL6e",
+      "amount": 12.0,
+      "date": "2023-12-11",
+      "description": "7-Eleven",
+      "guid": "Zx4Xjg5v8QIyXzozegqMs6Xg4P1wDMt8Lz0ve",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Convenience Stores\"]"
+    },
+    {
+      "originalDescription": "NON-CHASE ATM WITHDRAW 046091 11/3011424 AUD",
+      "accountGuid": "kQRyPkXw1jcOrM0M9ZjyubwOnm4ng7UbowL6e",
+      "amount": 22.0,
+      "date": "2023-11-30",
+      "description": "NON-CHASE ATM WITHDRAW 046091 11/3011424 AUD",
+      "guid": "Zx4Xjg5v8QIyXzozegqMs6Xg4P1wDMt8Lz0vr",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "OVERDRAFT FEE FOR A $9.62 CARD PURCHASE - DETAILS: 0118TX FOOD MART DALLAS TX 0############6760 07",
+      "accountGuid": "kQRyPkXw1jcOrM0M9ZjyubwOnm4ng7UbowL6e",
+      "amount": 34.0,
+      "date": "2024-01-22",
+      "description": "OVERDRAFT FEE FOR A $9.62 CARD PURCHASE - DETAILS: 0118TX FOOD MART DALLAS TX 0############6760 07",
+      "guid": "Zx4Xjg5v8QIyXzozegqMs6XNY7rYJgt8k4xvR",
+      "type": "DEBIT",
+      "category": "[\"Bank Fees\",\"Overdraft\"]"
+    },
+    {
+      "originalDescription": "ATM WITHDRAWAL 002859 01/112833 MART",
+      "accountGuid": "kQRyPkXw1jcOrM0M9ZjyubwOnm4ng7UbowL6e",
+      "amount": 40.0,
+      "date": "2024-01-11",
+      "description": "ATM WITHDRAWAL 002859 01/112833 MART",
+      "guid": "pnoxKrLdyVfKXnAnqaJ4TDd0pOgpMAtA4ejaN",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "T-Mobile",
+      "accountGuid": "kQRyPkXw1jcOrM0M9ZjyubwOnm4ng7UbowL6e",
+      "amount": 74.31,
+      "date": "2023-12-11",
+      "description": "T-Mobile",
+      "guid": "oQ5ryj613kcYnxvx4BO5ur1ge06yVpHrQd8On",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Telecommunication Services\"]"
+    },
+    {
+      "originalDescription": "LA BONITA BEVERAGES DALLAS TX 11/28",
+      "accountGuid": "kQRyPkXw1jcOrM0M9ZjyubwOnm4ng7UbowL6e",
+      "amount": 13.05,
+      "date": "2023-11-30",
+      "description": "LA BONITA BEVERAGES DALLAS TX 11/28",
+      "guid": "oQ5ryj613kcYnxvx4BO5ur1ge06yVpHrQd8O5",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Food and Beverage Store\"]"
+    },
+    {
+      "originalDescription": "OVERDRAFT FEE FOR A $40.00 PAYMENT SENT - DETAILS: 0117CASH APP*ANDREA FERGUS CA0############6760 00",
+      "accountGuid": "kQRyPkXw1jcOrM0M9ZjyubwOnm4ng7UbowL6e",
+      "amount": 34.0,
+      "date": "2024-01-18",
+      "description": "OVERDRAFT FEE FOR A $40.00 PAYMENT SENT - DETAILS: 0117CASH APP*ANDREA FERGUS CA0############6760 00",
+      "guid": "oQ5ryj613kcYnxvx4BO5ur1EwPKwNgfrbJPOr",
+      "type": "DEBIT",
+      "category": "[\"Bank Fees\",\"Overdraft\"]"
+    },
+    {
+      "originalDescription": "T-Mobile",
+      "accountGuid": "kQRyPkXw1jcOrM0M9ZjyubwOnm4ng7UbowL6e",
+      "amount": 74.32,
+      "date": "2023-11-27",
+      "description": "T-Mobile",
+      "guid": "O3Zy1Eo0K4H1OXvXMz4rTyQOzbd9LYhp5ZweJ",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Telecommunication Services\"]"
+    },
+    {
+      "originalDescription": "ICE BOX BEVERAGES DALLAS TX 01/11",
+      "accountGuid": "kQRyPkXw1jcOrM0M9ZjyubwOnm4ng7UbowL6e",
+      "amount": 11.02,
+      "date": "2024-01-12",
+      "description": "ICE BOX BEVERAGES DALLAS TX 01/11",
+      "guid": "O3Zy1Eo0K4H1OXvXMz4rTyQEn7rn0OFpgo34e",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Food and Beverage Store\"]"
+    },
+    {
+      "originalDescription": "Reversal: DALLAS CAR STEREO DALLAS TX 01/26 ClaimId: 664926677900001",
+      "accountGuid": "kQRyPkXw1jcOrM0M9ZjyubwOnm4ng7UbowL6e",
+      "amount": 100.0,
+      "date": "2024-01-29",
+      "description": "Reversal: DALLAS CAR STEREO DALLAS TX 01/26 ClaimId: 664926677900001",
+      "guid": "O3Zy1Eo0K4H1OXvXMz4rTyQEn7rn0OFpgo34B",
+      "type": "CREDIT",
+      "category": "[\"Shops\",\"Automotive\",\"Car Parts and Accessories\"]"
+    },
+    {
+      "originalDescription": "ATM WITHDRAWAL 002679 11/252833 MART",
+      "accountGuid": "kQRyPkXw1jcOrM0M9ZjyubwOnm4ng7UbowL6e",
+      "amount": 40.0,
+      "date": "2023-11-27",
+      "description": "ATM WITHDRAWAL 002679 11/252833 MART",
+      "guid": "nQ5A30wDBrc89jrjzD6BsjM8kRadwLtjaMrNE",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "NON-CHASE ATM WITHDRAW 026868 01/111519 MART",
+      "accountGuid": "kQRyPkXw1jcOrM0M9ZjyubwOnm4ng7UbowL6e",
+      "amount": 42.75,
+      "date": "2024-01-11",
+      "description": "NON-CHASE ATM WITHDRAW 026868 01/111519 MART",
+      "guid": "nQ5A30wDBrc89jrjzD6BsjM45Jn5e8CjpQ474",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "Payment to Chase card ending in 9118 01/11",
+      "accountGuid": "kQRyPkXw1jcOrM0M9ZjyubwOnm4ng7UbowL6e",
+      "amount": 100.0,
+      "date": "2024-01-11",
+      "description": "Payment to Chase card ending in 9118 01/11",
+      "guid": "NB43DmoQyXFazEAEO35nsvmxwezwq6FyLYrQJ",
+      "type": "DEBIT",
+      "category": "[\"Payment\",\"Credit Card\"]"
+    },
+    {
+      "originalDescription": "RACETRAC697 GARLAND TX 607398 11/25",
+      "accountGuid": "kQRyPkXw1jcOrM0M9ZjyubwOnm4ng7UbowL6e",
+      "amount": 10.72,
+      "date": "2023-11-27",
+      "description": "RACETRAC697 GARLAND TX 607398 11/25",
+      "guid": "NB43DmoQyXFazEAEO35nsvm61ZVENYfydpZQa",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "7-Eleven",
+      "accountGuid": "kQRyPkXw1jcOrM0M9ZjyubwOnm4ng7UbowL6e",
+      "amount": 29.11,
+      "date": "2023-11-22",
+      "description": "7-Eleven",
+      "guid": "mQRkBvdgq8cZBNyNzPADs8kVKgE076U8emVQP",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Convenience Stores\"]"
+    },
+    {
+      "originalDescription": "PNM * Concorde Auto Ac Santa Clara CA 12/28",
+      "accountGuid": "kQRyPkXw1jcOrM0M9ZjyubwOnm4ng7UbowL6e",
+      "amount": 350.99,
+      "date": "2023-12-28",
+      "description": "PNM * Concorde Auto Ac Santa Clara CA 12/28",
+      "guid": "mQRkBvdgq8cZBNyNzPADs8kVKgE076U8emV49",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Automotive\",\"Car Dealers and Leasing\"]"
+    },
+    {
+      "originalDescription": "OVERDRAFT FEE FOR A $18.30 CARD PURCHASE WITH PIN - DETAILS: 5311110104SUPER DISCOUNT PACKAGE DALLAS TX 0############6760 05",
+      "accountGuid": "kQRyPkXw1jcOrM0M9ZjyubwOnm4ng7UbowL6e",
+      "amount": 34.0,
+      "date": "2024-01-05",
+      "description": "OVERDRAFT FEE FOR A $18.30 CARD PURCHASE WITH PIN - DETAILS: 5311110104SUPER DISCOUNT PACKAGE DALLAS TX 0############6760 05",
+      "guid": "mQRkBvdgq8cZBNyNzPADs8kJ9Q49pVf8vryQg",
+      "type": "DEBIT",
+      "category": "[\"Bank Fees\",\"Overdraft\"]"
+    },
+    {
+      "originalDescription": "Zelle payment to FELICIA 19109809922",
+      "accountGuid": "kQRyPkXw1jcOrM0M9ZjyubwOnm4ng7UbowL6e",
+      "amount": 290.0,
+      "date": "2023-11-27",
+      "description": "Zelle payment to FELICIA 19109809922",
+      "guid": "Mq9BLgEA3bhoZ4k46E9ns19KeN6z4AH0RB8Oj",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "WILLIAMS CHICKEN DALLAS TX 01/12",
+      "accountGuid": "kQRyPkXw1jcOrM0M9ZjyubwOnm4ng7UbowL6e",
+      "amount": 5.5,
+      "date": "2024-01-12",
+      "description": "WILLIAMS CHICKEN DALLAS TX 01/12",
+      "guid": "Mq9BLgEA3bhoZ4k46E9ns198dw0djKu0pdVPR",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "Shell",
+      "accountGuid": "kQRyPkXw1jcOrM0M9ZjyubwOnm4ng7UbowL6e",
+      "amount": 19.17,
+      "date": "2024-01-26",
+      "description": "Shell",
+      "guid": "Mq9BLgEA3bhoZ4k46E9ns198dw0djKu0pdVP4",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "Online Transfer from SAV ...3180 transaction#: 19051554751",
+      "accountGuid": "kQRyPkXw1jcOrM0M9ZjyubwOnm4ng7UbowL6e",
+      "amount": 353.0,
+      "date": "2023-11-20",
+      "description": "Online Transfer from SAV ...3180 transaction#: 19051554751",
+      "guid": "LP7q6MomBYtvZXKXw5dJsa5KXmJVD1TJxdpaV",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Internal Account Transfer\"]"
+    },
+    {
+      "originalDescription": "Domino's",
+      "accountGuid": "kQRyPkXw1jcOrM0M9ZjyubwOnm4ng7UbowL6e",
+      "amount": 28.12,
+      "date": "2023-12-27",
+      "description": "Domino's",
+      "guid": "LP7q6MomBYtvZXKXw5dJsa5KXmJVD1TJxdp89",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "NON-CHASE ATM FEE-WITH",
+      "accountGuid": "kQRyPkXw1jcOrM0M9ZjyubwOnm4ng7UbowL6e",
+      "amount": 3.0,
+      "date": "2023-12-14",
+      "description": "NON-CHASE ATM FEE-WITH",
+      "guid": "kQRyPkXw1jcOrM0M9Zjyubwq7d9PymCbjpqEQ",
+      "type": "DEBIT",
+      "category": "[\"Bank Fees\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "NON-CHASE ATM WITHDRAW 705649 12/095608 S. L",
+      "accountGuid": "kQRyPkXw1jcOrM0M9ZjyubwOnm4ng7UbowL6e",
+      "amount": 62.3,
+      "date": "2023-12-11",
+      "description": "NON-CHASE ATM WITHDRAW 705649 12/095608 S. L",
+      "guid": "kQRyPkXw1jcOrM0M9Zjyubwq7d9PymCbjpqE9",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "KFC G135702 GARLAND TX 11/06",
+      "accountGuid": "kQRyPkXw1jcOrM0M9ZjyubwOnm4ng7UbowL6e",
+      "amount": 12.0,
+      "date": "2023-11-07",
+      "description": "KFC G135702 GARLAND TX 11/06",
+      "guid": "kQRyPkXw1jcOrM0M9Zjyubwq7d9PymCbjpq09",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "ZSK*IT BIG DADDYS POS DALLAS TX 12/14",
+      "accountGuid": "kQRyPkXw1jcOrM0M9ZjyubwOnm4ng7UbowL6e",
+      "amount": 6.25,
+      "date": "2023-12-15",
+      "description": "ZSK*IT BIG DADDYS POS DALLAS TX 12/14",
+      "guid": "K1MPwgo9q4uobNyNdP6es4O5Z3bA7KtyXLpNp",
+      "type": "DEBIT",
+      "category": "[\"Service\"]"
+    },
+    {
+      "originalDescription": "OVERDRAFT FEE FOR A $12.00 CARD PURCHASE - DETAILS: 1106KFC G135702 GARLAND TX 0############6760 05",
+      "accountGuid": "kQRyPkXw1jcOrM0M9ZjyubwOnm4ng7UbowL6e",
+      "amount": 34.0,
+      "date": "2023-11-08",
+      "description": "OVERDRAFT FEE FOR A $12.00 CARD PURCHASE - DETAILS: 1106KFC G135702 GARLAND TX 0############6760 05",
+      "guid": "K1MPwgo9q4uobNyNdP6es4O5Z3bA7KtyXLpAZ",
+      "type": "DEBIT",
+      "category": "[\"Bank Fees\",\"Overdraft\"]"
+    },
+    {
+      "originalDescription": "CONCORDE AUTO AC BILLPAY 116839785 WEB ID: 1752794470",
+      "accountGuid": "kQRyPkXw1jcOrM0M9ZjyubwOnm4ng7UbowL6e",
+      "amount": 450.99,
+      "date": "2023-11-03",
+      "description": "CONCORDE AUTO AC BILLPAY 116839785 WEB ID: 1752794470",
+      "guid": "jQR31K5dDjcKanLnzZq3Tv67Nm3zaYfvwQLmj",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Automotive\",\"Maintenance and Repair\"]"
+    },
+    {
+      "originalDescription": "Domino's",
+      "accountGuid": "kQRyPkXw1jcOrM0M9ZjyubwOnm4ng7UbowL6e",
+      "amount": 34.0,
+      "date": "2023-12-05",
+      "description": "Domino's",
+      "guid": "jQR31K5dDjcKanLnzZq3Tv67Nm3zaYfvwQL3j",
+      "type": "DEBIT",
+      "category": "[\"Bank Fees\",\"Overdraft\"]"
+    },
+    {
+      "originalDescription": "GUARDIAN LIFE IN STD PAYMTS PPD ID: 5135123390",
+      "accountGuid": "kQRyPkXw1jcOrM0M9ZjyubwOnm4ng7UbowL6e",
+      "amount": 346.37,
+      "date": "2023-12-13",
+      "description": "GUARDIAN LIFE IN STD PAYMTS PPD ID: 5135123390",
+      "guid": "jQR31K5dDjcKanLnzZq3Tv67Nm3zaYfvwQL37",
+      "type": "CREDIT",
+      "category": "[\"Service\",\"Insurance\"]"
+    },
+    {
+      "originalDescription": "NON-CHASE ATM FEE-WITH",
+      "accountGuid": "kQRyPkXw1jcOrM0M9ZjyubwOnm4ng7UbowL6e",
+      "amount": 3.0,
+      "date": "2023-12-11",
+      "description": "NON-CHASE ATM FEE-WITH",
+      "guid": "JD71dMXOP4HpeR3Rbvy0s5mpVxQNr0C0vAYkZ",
+      "type": "DEBIT",
+      "category": "[\"Bank Fees\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "NON-CHASE ATM WITHDRAW 397609 12/011044 S BU",
+      "accountGuid": "kQRyPkXw1jcOrM0M9ZjyubwOnm4ng7UbowL6e",
+      "amount": 142.75,
+      "date": "2023-12-01",
+      "description": "NON-CHASE ATM WITHDRAW 397609 12/011044 S BU",
+      "guid": "JD71dMXOP4HpeR3Rbvy0s5mpVxQNr0C0vAYkq",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "Zelle payment to FELICIA 19668644580",
+      "accountGuid": "kQRyPkXw1jcOrM0M9ZjyubwOnm4ng7UbowL6e",
+      "amount": 700.0,
+      "date": "2024-01-25",
+      "description": "Zelle payment to FELICIA 19668644580",
+      "guid": "JD71dMXOP4HpeR3Rbvy0s5mBJZvJypT079pkg",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "Cash Redemption",
+      "accountGuid": "kQRyPkXw1jcOrM0M9ZjyubwOnm4ng7UbowL6e",
+      "amount": 16.1,
+      "date": "2024-01-31",
+      "description": "Cash Redemption",
+      "guid": "gQmP6BMAwjcaz7g7jXd6s6OdAroAy4t6KXDAj",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "CASH APP*ANDREA FERGUS CA 01/17",
+      "accountGuid": "kQRyPkXw1jcOrM0M9ZjyubwOnm4ng7UbowL6e",
+      "amount": 40.0,
+      "date": "2024-01-17",
+      "description": "CASH APP*ANDREA FERGUS CA 01/17",
+      "guid": "gQmP6BMAwjcaz7g7jXd6s6OdAroAy4t6KXDA3",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "T-Mobile",
+      "accountGuid": "kQRyPkXw1jcOrM0M9ZjyubwOnm4ng7UbowL6e",
+      "amount": 34.0,
+      "date": "2023-11-28",
+      "description": "T-Mobile",
+      "guid": "gQmP6BMAwjcaz7g7jXd6s6O410VnE7t64MgAB",
+      "type": "DEBIT",
+      "category": "[\"Bank Fees\",\"Overdraft\"]"
+    },
+    {
+      "originalDescription": "HEALTHCORE PHYSICIAN team@inboxhea TX 01/11",
+      "accountGuid": "kQRyPkXw1jcOrM0M9ZjyubwOnm4ng7UbowL6e",
+      "amount": 25.0,
+      "date": "2024-01-11",
+      "description": "HEALTHCORE PHYSICIAN team@inboxhea TX 01/11",
+      "guid": "eQrDdPzKEbc7mpXp6J3ds4JyoO3oDMC4bx1Y9",
+      "type": "DEBIT",
+      "category": "[\"Healthcare\",\"Healthcare Services\"]"
+    },
+    {
+      "originalDescription": "Amazon",
+      "accountGuid": "kQRyPkXw1jcOrM0M9ZjyubwOnm4ng7UbowL6e",
+      "amount": 48.69,
+      "date": "2023-11-24",
+      "description": "Amazon",
+      "guid": "eQrDdPzKEbc7mpXp6J3ds4JMLzq7jKt47LwYw",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Digital Purchase\"]"
+    },
+    {
+      "originalDescription": "T-Mobile",
+      "accountGuid": "kQRyPkXw1jcOrM0M9ZjyubwOnm4ng7UbowL6e",
+      "amount": 73.9,
+      "date": "2023-12-29",
+      "description": "T-Mobile",
+      "guid": "eQrDdPzKEbc7mpXp6J3ds4JMLzq7jKt47Lweo",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Telecommunication Services\"]"
+    },
+    {
+      "originalDescription": "MILLER 24/7 TAC GARLAND TX 11/26",
+      "accountGuid": "kQRyPkXw1jcOrM0M9ZjyubwOnm4ng7UbowL6e",
+      "amount": 25.96,
+      "date": "2023-11-27",
+      "description": "MILLER 24/7 TAC GARLAND TX 11/26",
+      "guid": "E9XdMjoJw4UmjRDREVQ0SkOM0deXjridLZg8m",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "DALLAS CAR STEREO DALLAS TX 01/26",
+      "accountGuid": "kQRyPkXw1jcOrM0M9ZjyubwOnm4ng7UbowL6e",
+      "amount": 100.0,
+      "date": "2024-01-26",
+      "description": "DALLAS CAR STEREO DALLAS TX 01/26",
+      "guid": "E9XdMjoJw4UmjRDREVQ0SkOab6VbZMFdn6aEO",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Automotive\",\"Car Parts and Accessories\"]"
+    },
+    {
+      "originalDescription": "NON-CHASE ATM FEE-WITH",
+      "accountGuid": "kQRyPkXw1jcOrM0M9ZjyubwOnm4ng7UbowL6e",
+      "amount": 3.0,
+      "date": "2024-01-11",
+      "description": "NON-CHASE ATM FEE-WITH",
+      "guid": "E9XdMjoJw4UmjRDREVQ0SkOab6VbZMFdn6aEN",
+      "type": "DEBIT",
+      "category": "[\"Bank Fees\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "SUPER DISCOUNT PACKAGE DALLAS TX 531111 01/04",
+      "accountGuid": "kQRyPkXw1jcOrM0M9ZjyubwOnm4ng7UbowL6e",
+      "amount": 18.3,
+      "date": "2024-01-04",
+      "description": "SUPER DISCOUNT PACKAGE DALLAS TX 531111 01/04",
+      "guid": "dzXLb15gMjU9bmomwRAxik3zR1nR4vFoQ0jL7",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Food and Beverage Store\"]"
+    },
+    {
+      "originalDescription": "GUARDIAN LIFE IN STD PAYMTS PPD ID: 5135123390",
+      "accountGuid": "kQRyPkXw1jcOrM0M9ZjyubwOnm4ng7UbowL6e",
+      "amount": 346.37,
+      "date": "2023-11-22",
+      "description": "GUARDIAN LIFE IN STD PAYMTS PPD ID: 5135123390",
+      "guid": "dzXLb15gMjU9bmomwRAxik3veOaJ9BioN8dLO",
+      "type": "CREDIT",
+      "category": "[\"Service\",\"Insurance\"]"
+    },
+    {
+      "originalDescription": "Zelle payment to FELICIA 19412910651",
+      "accountGuid": "kQRyPkXw1jcOrM0M9ZjyubwOnm4ng7UbowL6e",
+      "amount": 600.0,
+      "date": "2023-12-28",
+      "description": "Zelle payment to FELICIA 19412910651",
+      "guid": "dzXLb15gMjU9bmomwRAxik3veOaJ9BioN8dD3",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "WILLIAMS FRIED CHICKEN DALLAS TX 12/23",
+      "accountGuid": "kQRyPkXw1jcOrM0M9ZjyubwOnm4ng7UbowL6e",
+      "amount": 11.67,
+      "date": "2023-12-26",
+      "description": "WILLIAMS FRIED CHICKEN DALLAS TX 12/23",
+      "guid": "D75xM0oQd4f6zRLRqrAgUneJzp9mjvtX6z8gx",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "Online Transfer to SAV ...3180 transaction#: 19023980061 11/16",
+      "accountGuid": "kQRyPkXw1jcOrM0M9ZjyubwOnm4ng7UbowL6e",
+      "amount": 353.0,
+      "date": "2023-11-16",
+      "description": "Online Transfer to SAV ...3180 transaction#: 19023980061 11/16",
+      "guid": "D75xM0oQd4f6zRLRqrAgUneJzp9mjvtX6z80E",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Internal Account Transfer\"]"
+    },
+    {
+      "originalDescription": "OVERDRAFT FEE FOR A $9.49 CARD PURCHASE - DETAILS: 1109GRAND CITY GROCERY DALLAS TX 0############6760 05",
+      "accountGuid": "kQRyPkXw1jcOrM0M9ZjyubwOnm4ng7UbowL6e",
+      "amount": 34.0,
+      "date": "2023-11-13",
+      "description": "OVERDRAFT FEE FOR A $9.49 CARD PURCHASE - DETAILS: 1109GRAND CITY GROCERY DALLAS TX 0############6760 05",
+      "guid": "BbYxRApNMOfxgewe9OKzU6QLV1Z4mrtvL8AQm",
+      "type": "DEBIT",
+      "category": "[\"Bank Fees\",\"Overdraft\"]"
+    },
+    {
+      "originalDescription": "FARRAJ FASHIONS 4515 V DALLAS TX 915097 12/16",
+      "accountGuid": "kQRyPkXw1jcOrM0M9ZjyubwOnm4ng7UbowL6e",
+      "amount": 190.0,
+      "date": "2023-12-18",
+      "description": "FARRAJ FASHIONS 4515 V DALLAS TX 915097 12/16",
+      "guid": "BbYxRApNMOfxgewe9OKzU6QLV1Z4mrtvL8AND",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Clothing and Accessories\",\"Women\\u0027s Store\"]"
+    },
+    {
+      "originalDescription": "7-Eleven",
+      "accountGuid": "kQRyPkXw1jcOrM0M9ZjyubwOnm4ng7UbowL6e",
+      "amount": 30.2,
+      "date": "2024-01-18",
+      "description": "7-Eleven",
+      "guid": "b7rwmLgKVjf9XRERQN4oiARryZ4yQ1fPD6m9D",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Convenience Stores\"]"
+    },
+    {
+      "originalDescription": "GUARDIAN LIFE IN STD PAYMTS PPD ID: 5135123390",
+      "accountGuid": "kQRyPkXw1jcOrM0M9ZjyubwOnm4ng7UbowL6e",
+      "amount": 346.37,
+      "date": "2023-11-29",
+      "description": "GUARDIAN LIFE IN STD PAYMTS PPD ID: 5135123390",
+      "guid": "b7rwmLgKVjf9XRERQN4oiAR17nweBzhPrxp9m",
+      "type": "CREDIT",
+      "category": "[\"Service\",\"Insurance\"]"
+    },
+    {
+      "originalDescription": "Online Transfer to SAV ...3180 transaction#: 19250253639 12/11",
+      "accountGuid": "kQRyPkXw1jcOrM0M9ZjyubwOnm4ng7UbowL6e",
+      "amount": 773.0,
+      "date": "2023-12-11",
+      "description": "Online Transfer to SAV ...3180 transaction#: 19250253639 12/11",
+      "guid": "b7rwmLgKVjf9XRERQN4oiAR17nweBzhPrxp9A",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Internal Account Transfer\"]"
+    },
+    {
+      "originalDescription": "RACETRAC697 GARLAND TX 416371 11/05",
+      "accountGuid": "kQRyPkXw1jcOrM0M9ZjyubwOnm4ng7UbowL6e",
+      "amount": 35.3,
+      "date": "2023-11-06",
+      "description": "RACETRAC697 GARLAND TX 416371 11/05",
+      "guid": "Aon8MkVmORh3wOdOk7XQs9wpMgkqdahw9Z7Q6",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "NON-CHASE ATM WITHDRAW 908682 12/1411555 FER",
+      "accountGuid": "kQRyPkXw1jcOrM0M9ZjyubwOnm4ng7UbowL6e",
+      "amount": 23.0,
+      "date": "2023-12-14",
+      "description": "NON-CHASE ATM WITHDRAW 908682 12/1411555 FER",
+      "guid": "Aon8MkVmORh3wOdOk7XQs9wpMgkqdahw9Z7jV",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "Online Transfer from SAV ...3180 transaction#: 19259638201",
+      "accountGuid": "kQRyPkXw1jcOrM0M9ZjyubwOnm4ng7UbowL6e",
+      "amount": 770.0,
+      "date": "2023-12-11",
+      "description": "Online Transfer from SAV ...3180 transaction#: 19259638201",
+      "guid": "Aon8MkVmORh3wOdOk7XQs9wpMgkqdahw9Z7j6",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Internal Account Transfer\"]"
+    },
+    {
+      "originalDescription": "SUPER SAVE LIQUORS DALLAS TX 12/11",
+      "accountGuid": "kQRyPkXw1jcOrM0M9ZjyubwOnm4ng7UbowL6e",
+      "amount": 22.3,
+      "date": "2023-12-12",
+      "description": "SUPER SAVE LIQUORS DALLAS TX 12/11",
+      "guid": "agrdZ65b9otwE3M3nxQDuYX68a3NZxsK5y84g",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Food and Beverage Store\"]"
+    },
+    {
+      "originalDescription": "ZALES.COM/Zales Outlet Dallas TX 12/01",
+      "accountGuid": "kQRyPkXw1jcOrM0M9ZjyubwOnm4ng7UbowL6e",
+      "amount": 541.23,
+      "date": "2023-12-04",
+      "description": "ZALES.COM/Zales Outlet Dallas TX 12/01",
+      "guid": "agrdZ65b9otwE3M3nxQDuYX68a3NZxsK5y84a",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Jewelry and Watches\"]"
+    },
+    {
+      "originalDescription": "7-Eleven",
+      "accountGuid": "kQRyPkXw1jcOrM0M9ZjyubwOnm4ng7UbowL6e",
+      "amount": 27.27,
+      "date": "2024-01-12",
+      "description": "7-Eleven",
+      "guid": "9rQxMDO9Z8UJBXgXnd6mUM3v7XZ76Ni6xXKyr",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Convenience Stores\"]"
+    },
+    {
+      "originalDescription": "T-Mobile",
+      "accountGuid": "kQRyPkXw1jcOrM0M9ZjyubwOnm4ng7UbowL6e",
+      "amount": 73.9,
+      "date": "2024-01-29",
+      "description": "T-Mobile",
+      "guid": "9rQxMDO9Z8UJBXgXnd6mUM3v7XZ76Ni6xXKym",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Telecommunication Services\"]"
+    },
+    {
+      "originalDescription": "QT 908 OUTSIDE GARLAND TX 959360 11/28",
+      "accountGuid": "kQRyPkXw1jcOrM0M9ZjyubwOnm4ng7UbowL6e",
+      "amount": 30.0,
+      "date": "2023-11-28",
+      "description": "QT 908 OUTSIDE GARLAND TX 959360 11/28",
+      "guid": "9rQxMDO9Z8UJBXgXnd6mUM3N4peVyjf68PA4D",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "NON-CHASE ATM FEE-WITH",
+      "accountGuid": "kQRyPkXw1jcOrM0M9ZjyubwOnm4ng7UbowL6e",
+      "amount": 3.0,
+      "date": "2023-11-30",
+      "description": "NON-CHASE ATM FEE-WITH",
+      "guid": "8jgxMLV18ntQJ0m0pzw8ubPaYvqXZmCYVmdZV",
+      "type": "DEBIT",
+      "category": "[\"Bank Fees\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "NON-CHASE ATM WITHDRAW 155947 12/111900 N HA",
+      "accountGuid": "kQRyPkXw1jcOrM0M9ZjyubwOnm4ng7UbowL6e",
+      "amount": 82.5,
+      "date": "2023-12-11",
+      "description": "NON-CHASE ATM WITHDRAW 155947 12/111900 N HA",
+      "guid": "8jgxMLV18ntQJ0m0pzw8ubPaYvqXZmCYVmdZN",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "13683 IFS INDUST DIR DEP PPD ID: 1364227403",
+      "accountGuid": "kQRyPkXw1jcOrM0M9ZjyubwOnm4ng7UbowL6e",
+      "amount": 1383.21,
+      "date": "2024-01-25",
+      "description": "13683 IFS INDUST DIR DEP PPD ID: 1364227403",
+      "guid": "8jgxMLV18ntQJ0m0pzw8ubP7e1xezaIYv19Z1",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Payroll\"]"
+    },
+    {
+      "originalDescription": "RACETRAC582 GARLAND TX 459026 01/29",
+      "accountGuid": "kQRyPkXw1jcOrM0M9ZjyubwOnm4ng7UbowL6e",
+      "amount": 33.84,
+      "date": "2024-01-29",
+      "description": "RACETRAC582 GARLAND TX 459026 01/29",
+      "guid": "703xz6VgJOCNz7p7P5djIokm4wx4qdi853qY6",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "T-Mobile",
+      "accountGuid": "kQRyPkXw1jcOrM0M9ZjyubwOnm4ng7UbowL6e",
+      "amount": 73.89,
+      "date": "2024-01-12",
+      "description": "T-Mobile",
+      "guid": "703xz6VgJOCNz7p7P5djIokm4wx4qdi853qY4",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Telecommunication Services\"]"
+    },
+    {
+      "originalDescription": "RACETRAC 183 GARLAND TX 870293 11/28",
+      "accountGuid": "kQRyPkXw1jcOrM0M9ZjyubwOnm4ng7UbowL6e",
+      "amount": 8.98,
+      "date": "2023-11-28",
+      "description": "RACETRAC 183 GARLAND TX 870293 11/28",
+      "guid": "703xz6VgJOCNz7p7P5djIokdRV0grZu8k4yYp",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "OVERDRAFT FEE FOR A $11.67 CARD PURCHASE - DETAILS: 1223WILLIAMS FRIED CHICKEN DALLAS TX 0############6760 05",
+      "accountGuid": "kQRyPkXw1jcOrM0M9ZjyubwOnm4ng7UbowL6e",
+      "amount": 34.0,
+      "date": "2023-12-27",
+      "description": "OVERDRAFT FEE FOR A $11.67 CARD PURCHASE - DETAILS: 1223WILLIAMS FRIED CHICKEN DALLAS TX 0############6760 05",
+      "guid": "6vZeMwVBx7IBZk5kzKnOto4KLJbPYOuAjV3Yv",
+      "type": "DEBIT",
+      "category": "[\"Bank Fees\",\"Overdraft\"]"
+    },
+    {
+      "originalDescription": "QT 953 GRAND PRAIRIE TX 11/18",
+      "accountGuid": "kQRyPkXw1jcOrM0M9ZjyubwOnm4ng7UbowL6e",
+      "amount": 26.7,
+      "date": "2023-11-20",
+      "description": "QT 953 GRAND PRAIRIE TX 11/18",
+      "guid": "6vZeMwVBx7IBZk5kzKnOto4KLJbPYOuAjV3mX",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "TX FOOD MART DALLAS TX 01/18",
+      "accountGuid": "kQRyPkXw1jcOrM0M9ZjyubwOnm4ng7UbowL6e",
+      "amount": 9.62,
+      "date": "2024-01-19",
+      "description": "TX FOOD MART DALLAS TX 01/18",
+      "guid": "5AqnMdzEaNUjwvZvEykohz3xYDpYvaFN4DKVw",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "SIGELS BEVERAGE RICHARDSON TX 11/30",
+      "accountGuid": "kQRyPkXw1jcOrM0M9ZjyubwOnm4ng7UbowL6e",
+      "amount": 8.65,
+      "date": "2023-11-30",
+      "description": "SIGELS BEVERAGE RICHARDSON TX 11/30",
+      "guid": "5AqnMdzEaNUjwvZvEykohz3amE6JVwUNAbqVR",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Food and Beverage Store\"]"
+    },
+    {
+      "originalDescription": "Payment to Chase card ending in 9118 12/11",
+      "accountGuid": "kQRyPkXw1jcOrM0M9ZjyubwOnm4ng7UbowL6e",
+      "amount": 300.0,
+      "date": "2023-12-11",
+      "description": "Payment to Chase card ending in 9118 12/11",
+      "guid": "5AqnMdzEaNUjwvZvEykohz3amE6JVwUNAbqV3",
+      "type": "DEBIT",
+      "category": "[\"Payment\",\"Credit Card\"]"
+    },
+    {
+      "originalDescription": "PNM * Concorde Auto Ac Santa Clara CA 12/12",
+      "accountGuid": "kQRyPkXw1jcOrM0M9ZjyubwOnm4ng7UbowL6e",
+      "amount": 350.99,
+      "date": "2023-12-12",
+      "description": "PNM * Concorde Auto Ac Santa Clara CA 12/12",
+      "guid": "4kPnMxVEmZhgdV8V0xKesXnpmeL6qBFD71Xqg",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Automotive\",\"Car Dealers and Leasing\"]"
+    },
+    {
+      "originalDescription": "Domino's",
+      "accountGuid": "kQRyPkXw1jcOrM0M9ZjyubwOnm4ng7UbowL6e",
+      "amount": 28.12,
+      "date": "2023-12-04",
+      "description": "Domino's",
+      "guid": "4kPnMxVEmZhgdV8V0xKesXnpmeL6qBFD71Xq1",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "BEVERAGE DEPOT 4 ROWLETT TX 11/09",
+      "accountGuid": "kQRyPkXw1jcOrM0M9ZjyubwOnm4ng7UbowL6e",
+      "amount": 42.2,
+      "date": "2023-11-10",
+      "description": "BEVERAGE DEPOT 4 ROWLETT TX 11/09",
+      "guid": "3K1neaVOrNUD5kJkzrymhaRkw5O1L7TPxz9QR",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Food and Beverage Store\"]"
+    },
+    {
+      "originalDescription": "Shell",
+      "accountGuid": "kQRyPkXw1jcOrM0M9ZjyubwOnm4ng7UbowL6e",
+      "amount": 9.73,
+      "date": "2023-12-18",
+      "description": "Shell",
+      "guid": "3K1neaVOrNUD5kJkzrymhaRkw5O1L7TPxz9L8",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "13683 IFS INDUST DIR DEP PPD ID: 1364227403",
+      "accountGuid": "kQRyPkXw1jcOrM0M9ZjyubwOnm4ng7UbowL6e",
+      "amount": 216.9,
+      "date": "2023-11-16",
+      "description": "13683 IFS INDUST DIR DEP PPD ID: 1364227403",
+      "guid": "13LnMrEz0mH3bkakMJBEsweZ1vx7A6uY4oXEL",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Payroll\"]"
+    },
+    {
+      "originalDescription": "ExxonMobil",
+      "accountGuid": "kQRyPkXw1jcOrM0M9ZjyubwOnm4ng7UbowL6e",
+      "amount": 37.55,
+      "date": "2023-12-26",
+      "description": "ExxonMobil",
+      "guid": "13LnMrEz0mH3bkakMJBEsweZ1vx7A6uY4oXAy",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Convenience Stores\"]"
+    },
+    {
+      "originalDescription": "QT 909 OUTSIDE GARLAND TX 377222 11/03",
+      "accountGuid": "kQRyPkXw1jcOrM0M9ZjyubwOnm4ng7UbowL6e",
+      "amount": 13.4,
+      "date": "2023-11-03",
+      "description": "QT 909 OUTSIDE GARLAND TX 377222 11/03",
+      "guid": "0B6nMjeEvkF79a4aM1q0sOyznxrqJwi9jxbo9",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "MILLER 24/7 TAC GARLAND TX 12/13",
+      "accountGuid": "kQRyPkXw1jcOrM0M9ZjyubwOnm4ng7UbowL6e",
+      "amount": 12.98,
+      "date": "2023-12-13",
+      "description": "MILLER 24/7 TAC GARLAND TX 12/13",
+      "guid": "0B6nMjeEvkF79a4aM1q0sOyznxrqJwi9jxbJw",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "GUARDIAN LIFE IN STD PAYMTS PPD ID: 5135123390",
+      "accountGuid": "kQRyPkXw1jcOrM0M9ZjyubwOnm4ng7UbowL6e",
+      "amount": 346.37,
+      "date": "2023-12-06",
+      "description": "GUARDIAN LIFE IN STD PAYMTS PPD ID: 5135123390",
+      "guid": "0B6nMjeEvkF79a4aM1q0sOyznxrqJwi9jxbJ9",
+      "type": "CREDIT",
+      "category": "[\"Service\",\"Insurance\"]"
+    }
+  ],
+  "asOfDate": "2024-02-01"
+}

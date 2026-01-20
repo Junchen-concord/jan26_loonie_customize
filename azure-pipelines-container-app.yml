@@ -1,0 +1,79 @@
+# Docker
+# Build and push an image to Azure Container Registry
+# https://docs.microsoft.com/azure/devops/pipelines/languages/docker
+
+trigger:
+  - master
+
+resources:
+- repo: self
+
+variables:
+  # Container registry service connection established during pipeline creation
+  dockerRegistryServiceConnection: 'DMASimulatorACR-SP'
+  imageRepository: 'v16container'
+  containerRegistry: 'dmasimulatoracr.azurecr.io'
+  dockerfilePath: '$(Build.SourcesDirectory)/Dockerfile'
+  containerAppName: 'v16modelcontainer2'
+  azureSubscription: 'AzureRM_Simulator_RG'
+  resourceGroup: 'Simulator_RG'
+
+  # Agent VM image name
+  vmImageName: 'ubuntu-latest'
+
+stages:
+
+- stage: Build
+  displayName: Build and push stage
+  jobs:
+  - job: Build
+    displayName: Build
+    pool:
+      vmImage: $(vmImageName)
+    steps:
+    - task: PowerShell@2
+      displayName: "Read Version and Set Build Number"
+      inputs:
+        targetType: 'inline'
+        script: |
+          $version = Get-Content .\src\version\version.txt
+          $version = $version.Trim()  # Remove any trailing or leading whitespace/characters
+          Write-Output "Version read from file: $version"
+          Write-Host "##vso[task.setvariable variable=version]$version"
+          Write-Host "##vso[build.updatebuildnumber]$version"
+
+    # - task: AzureContainerApps@1
+    #   inputs:
+    #     appSourcePath: '$(Build.SourcesDirectory)'
+    #     azureSubscription: $(azureSubscription)
+    #     acrName: 'dmasimulatoracr'
+    #     containerAppName: $(containerAppName)
+    #     resourceGroup: $(resourceGroup)
+
+    - task: Docker@2
+      displayName: Build image
+      inputs:
+        command: build
+        repository: $(imageRepository)
+        dockerfile: $(dockerfilePath)
+        containerRegistry: $(dockerRegistryServiceConnection)
+        arguments: '--no-cache --build-arg PORT=80 --build-arg STAGE=prod'
+        tags: |
+          $(version)
+
+    - task: Docker@2
+      displayName: Push image to container registry
+      inputs:
+        command: push
+        repository: $(imageRepository)
+        dockerfile: $(dockerfilePath)
+        containerRegistry: $(dockerRegistryServiceConnection)
+        tags: |
+          $(version)
+
+    # - task: AzureContainerApps@1
+    #   inputs:
+    #     azureSubscription: $(azureSubscription)
+    #     containerAppName: $(containerAppName)
+    #     resourceGroup: $(resourceGroup)
+    #     imageToDeploy: '$(containerRegistry)/$(imageRepository):$(version)'

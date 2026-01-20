@@ -1,0 +1,4534 @@
+{
+	"accounts": [
+		{
+			"accountGuid": "ACT-985bb89c-39cd-4c89-9e7d-1ed05695a4e3",
+			"currentBalance": "1.23",
+			"accountType": "CHECKING",
+			"currentBalanceDate": "2023-06-29T19:37:03Z"
+		},
+		{
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"currentBalance": "42.67",
+			"accountType": "CHECKING",
+			"currentBalanceDate": "2023-06-29T19:37:03Z"
+		},
+		{
+			"accountGuid": "ACT-f9d72c1c-3304-40a2-bf22-8bf394811942",
+			"currentBalance": "708.2",
+			"accountType": "CHECKING",
+			"currentBalanceDate": "2023-07-01T06:09:43Z"
+		}
+	],
+	"transactions": [
+		{
+			"originalDescription": "From Share 0071 Other Income",
+			"description": "Transfer from Account 0071",
+			"guid": "TRN-dd008a1d-832d-430d-a267-39d981064d32",
+			"accountGuid": "ACT-f9d72c1c-3304-40a2-bf22-8bf394811942",
+			"category": "Transfer",
+			"amount": 70.3,
+			"date": "2023-07-13T06:05:36",
+			"type": "CREDIT"
+		},
+		{
+			"originalDescription": "Apple Cash Deposit Deposits",
+			"description": "Transfer from Apple Pay",
+			"guid": "TRN-09f67a8f-b076-4bc9-adc3-643354e9d2e7",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Transfer",
+			"amount": 39.4,
+			"date": "2023-07-13T06:05:36",
+			"type": "CREDIT"
+		},
+		{
+			"originalDescription": "To Loan 0021 Loans",
+			"description": "To Loan Loans",
+			"guid": "TRN-8e119cbd-10c7-4305-9b71-309c54688f83",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Uncategorized",
+			"amount": 70.3,
+			"date": "2023-07-13T06:05:36",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "DoorDash Restaurants & Dining",
+			"description": "DoorDash",
+			"guid": "TRN-6db9385e-ace2-4ef2-9f38-91749ad20380",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Food & Dining",
+			"amount": 44.1,
+			"date": "2023-07-13T06:05:36",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Albert Corporation Online Services",
+			"description": "Albert Corporation Online Services",
+			"guid": "TRN-893744c0-e550-478f-a6bc-199979953120",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Transfer",
+			"amount": 16.99,
+			"date": "2023-07-11T06:07:26",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Albert Corporation Online Services",
+			"description": "Albert Corporation Online Services",
+			"guid": "TRN-55d11054-2fa2-4c00-8c96-ce1d5913412d",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Transfer",
+			"amount": 25.0,
+			"date": "2023-07-11T06:07:26",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "CASH MAX SUITE XX-4692 TX Date 07/07/23 3188DJNPAYHK 6012 ATM/Cash Withdrawals",
+			"description": "Cash Withdrawal",
+			"guid": "TRN-ed16e21d-9c4b-4717-abfa-db5368c43c89",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Cash",
+			"amount": 567.45,
+			"date": "2023-07-11T06:07:26",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Deposit Debit Ca EMPOWER CASH ADVANCE San Francisco CA Date 07/09/23  6536",
+			"description": "Cash Advance",
+			"guid": "TRN-be9e8088-3102-4b78-a159-cf0103c7868a",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Cash",
+			"amount": 200.0,
+			"date": "2023-07-10T06:08:38",
+			"type": "CREDIT"
+		},
+		{
+			"originalDescription": "Deposit Debit Ca APPLE CASH INST XFER CUPERTINO CA Date 07/08/23  6536",
+			"description": "Transfer from Apple Pay",
+			"guid": "TRN-8d551dbb-04ef-41ea-afc4-b466929ecedd",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Transfer",
+			"amount": 39.4,
+			"date": "2023-07-10T06:08:38",
+			"type": "CREDIT"
+		},
+		{
+			"originalDescription": "Dave Inc Online Services",
+			"description": "Dave.com",
+			"guid": "TRN-0223640d-59cf-435e-8505-188282a1d0ca",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Transfer",
+			"amount": 114.24,
+			"date": "2023-07-11T06:07:26",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "SPEEDY CASH 3527 N RIDGE RD XX1360 KS Date 07/07/23 3188DJCUX9JF 6051 ATM/Cash Withdrawals",
+			"description": "Speedy Cash",
+			"guid": "TRN-c2cd6d97-2b95-43e9-891d-b972d2780df7",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Transfer",
+			"amount": 259.08,
+			"date": "2023-07-11T06:07:26",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "DoorDash Restaurants & Dining",
+			"description": "DoorDash",
+			"guid": "TRN-e9d1bc40-36cc-4a18-9d07-30baf432950a",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Food & Dining",
+			"amount": 26.91,
+			"date": "2023-07-11T06:07:26",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Amazon Shopping",
+			"description": "Amazon",
+			"guid": "TRN-c1148394-7c75-4607-8f41-33743b41cde4",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Shopping",
+			"amount": 110.5,
+			"date": "2023-07-11T06:07:26",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Dave Inc Online Services",
+			"description": "Dave.com",
+			"guid": "TRN-5fc78e95-2542-4c51-832b-49e3c6e84fef",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Transfer",
+			"amount": 20.0,
+			"date": "2023-07-11T06:07:26",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Klover Holdings Online Services",
+			"description": "Klover Holdings Online Services",
+			"guid": "TRN-5ac31da0-8a82-4df3-870f-094745f9ede6",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Utilities",
+			"amount": 111.45,
+			"date": "2023-07-11T06:07:26",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Walmart Shopping",
+			"description": "Walmart",
+			"guid": "TRN-a3be73ef-6a6f-4c2c-81a5-1fd9d3e7d028",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Shopping",
+			"amount": 8.44,
+			"date": "2023-07-11T06:07:26",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Amazon Shopping",
+			"description": "Amazon",
+			"guid": "TRN-2c8290a0-17b7-439e-8c9e-4c1b4c095d4c",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Shopping",
+			"amount": 21.64,
+			"date": "2023-07-11T06:07:26",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "PREMIERE LUX CINEMA - 510 E WESTCHESTER PK Date 07/08/23 3189DJSWSYVL 7832 Entertainment",
+			"description": "Premiere Lux Cinema E Westchester Djswsyvl Entertainment",
+			"guid": "TRN-1592c736-fec0-4d9e-8a09-76498daba72a",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Movies & DVDs",
+			"amount": 10.99,
+			"date": "2023-07-11T06:07:26",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "CASH STORE - TX 2100 W WALNUT HILL LANE 97 Date 07/07/23 3188DJPIPT2B 6012 ATM/Cash Withdrawals",
+			"description": "The Cash Store",
+			"guid": "TRN-346885d6-bf9b-402e-8c79-6d57716d185d",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Finance Charge",
+			"amount": 389.53,
+			"date": "2023-07-11T06:07:26",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Transfer to Apple Cash Transfers",
+			"description": "Transfer to Apple Pay",
+			"guid": "TRN-5748b8a6-758f-4122-9358-04cbc1ff2567",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Transfer",
+			"amount": 40.0,
+			"date": "2023-07-11T06:07:26",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Transfer to Apple Cash Transfers",
+			"description": "Transfer to Apple Pay",
+			"guid": "TRN-0fe7eb66-1103-4532-bdbb-cb8b0bf8755f",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Transfer",
+			"amount": 110.0,
+			"date": "2023-07-11T06:07:26",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Transfer to Apple Cash Transfers",
+			"description": "Transfer to Apple Pay",
+			"guid": "TRN-7283aa59-af75-4f04-be99-f121ecd7d5ca",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Transfer",
+			"amount": 40.0,
+			"date": "2023-07-11T06:07:26",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Chick-fil-A Restaurants & Dining",
+			"description": "Chick-fil-A",
+			"guid": "TRN-e7dfd9d1-31b8-4933-85b8-918565a4f7c6",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Fast Food",
+			"amount": 38.11,
+			"date": "2023-07-11T06:07:26",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Payment to TXU Energy Utilities",
+			"description": "TXU Energy",
+			"guid": "TRN-902134be-c812-4031-8e01-1e1aff4ca166",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Utilities",
+			"amount": 108.0,
+			"date": "2023-07-10T06:08:38",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Salary/Regular Income from G&A Partners Paychecks/Salary",
+			"description": "G & A Partners",
+			"guid": "TRN-55eb5dac-13e4-4fb4-bf41-545ffc848500",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Paycheck",
+			"amount": 1971.0,
+			"date": "2023-07-10T06:08:38",
+			"type": "CREDIT"
+		},
+		{
+			"originalDescription": "American First Finance Online Services",
+			"description": "American First Finance",
+			"guid": "TRN-4aed56ce-711e-4d99-9f7a-0a3a62311154",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Transfer",
+			"amount": 143.76,
+			"date": "2023-07-10T06:08:38",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Apple Electronics & Equipment",
+			"description": "Apple Electronics & Equipment",
+			"guid": "TRN-7bf39d8c-0911-40b9-89a0-ef054c93739c",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Entertainment",
+			"amount": 6.99,
+			"date": "2023-07-10T06:08:38",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Starbucks Restaurants & Dining",
+			"description": "Starbucks",
+			"guid": "TRN-53a0bc08-a300-4612-96c8-7ced2d49fd19",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Coffee Shops",
+			"amount": 15.86,
+			"date": "2023-07-07T06:08:03",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Amazon Shopping",
+			"description": "Amazon",
+			"guid": "TRN-51314301-7a60-4ff2-8d51-a367a555ca5a",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Shopping",
+			"amount": 40.03,
+			"date": "2023-07-07T06:08:03",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Dave Inc Online Services",
+			"description": "Dave",
+			"guid": "TRN-e28de954-d9cf-4633-bc03-6f9be4134001",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Service Fee",
+			"amount": 1.0,
+			"date": "2023-07-07T06:08:03",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "#XX5067 IDENTITY INTELLIGENCE IIQ*IDENTITYIQ.COM HENDERSON NV Online Services",
+			"description": "IdentityIQ",
+			"guid": "TRN-9257353c-b7bb-41f4-a940-e1a6c6a74f7b",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Fraud Protection",
+			"amount": 22.99,
+			"date": "2023-07-05T06:08:18",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "RFS*VENDENGINE 1000 HEALTH PARK DRIVE BREN Date 3184DJYYUHVL 9399 Healthcare & Pharmacy",
+			"description": "Vendengine Health Park Drive Bren Date Djyyuhvl Healthcare & Pharmacy",
+			"guid": "TRN-9b99bc03-f3c1-42e8-a1fa-d8decfd6e7cd",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Pharmacy",
+			"amount": 8.04,
+			"date": "2023-07-05T06:08:18",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "APPLE CASH BALANCE ADD 1 INFINITE LOOP 877 Date 3184DJSEKYZB 4829 ATM/Cash Withdrawals",
+			"description": "Transfer to Apple Pay",
+			"guid": "TRN-0682346e-73f4-45e2-a53f-1d29187f8e97",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Transfer",
+			"amount": 100.0,
+			"date": "2023-07-05T06:08:18",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Rewards from Walmart",
+			"description": "Walmart",
+			"guid": "TRN-0312cab9-12e8-4f2d-a1e9-aaed7e00b5bd",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Shopping",
+			"amount": 4.31,
+			"date": "2023-07-05T06:08:18",
+			"type": "CREDIT"
+		},
+		{
+			"originalDescription": "DD's Discounts Clothing",
+			"description": "dd's Discounts",
+			"guid": "TRN-f8e76c1b-0901-47ad-8f42-c4f310a11d70",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Shopping",
+			"amount": 46.49,
+			"date": "2023-07-05T06:08:18",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "APPLE CASH BALANCE ADD 1 INFINITE LOOP 877 Date 3183DJAAL7B6 4829 ATM/Cash Withdrawals",
+			"description": "Transfer to Apple Pay",
+			"guid": "TRN-68a30c5e-a095-4541-bcc0-3271c1decf34",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Transfer",
+			"amount": 100.0,
+			"date": "2023-07-05T06:08:18",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Walmart Shopping",
+			"description": "Walmart",
+			"guid": "TRN-d66de0f3-c626-418e-b8a6-aed328ab32e1",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Shopping",
+			"amount": 66.04,
+			"date": "2023-07-05T06:08:18",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Apple Electronics & Equipment",
+			"description": "Apple Electronics & Equipment",
+			"guid": "TRN-f924ad4d-e014-454c-8474-341f2dd3bf96",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Entertainment",
+			"amount": 5.99,
+			"date": "2023-07-05T06:08:18",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "SUGARING - EULESS SUITE 400 EULESS TX Date 07/01/23 3182DJNOU738 7298 Travel & Commute",
+			"description": "Sugaring Euless Suite Tx Djnou Travel & Commute",
+			"guid": "TRN-d2df2694-1e6b-4866-886b-02ff9caa6fc6",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Travel",
+			"amount": 111.6,
+			"date": "2023-07-05T06:08:18",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Riverside Online Services",
+			"description": "Riverside Online Services",
+			"guid": "TRN-0dda054e-a8e3-4f31-8015-af44f61b873e",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Uncategorized",
+			"amount": 32.14,
+			"date": "2023-07-05T06:08:18",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "WWWPFMVERIFY1COM 8605 SANTA MONICA BLVD TE Date 3180DJL8ABRS 5817 Travel & Commute",
+			"description": "Wwwpfmverify Com Santa Monica Te Date Abrs Travel & Commute",
+			"guid": "TRN-8a7ad804-6d04-44f7-a1fb-754353ea7b7e",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Travel",
+			"amount": 1.0,
+			"date": "2023-07-05T06:08:18",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Chick-fil-A Restaurants & Dining",
+			"description": "Chick-fil-A",
+			"guid": "TRN-729e6a03-2481-40b2-88c6-cdf907a7177f",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Fast Food",
+			"amount": 20.94,
+			"date": "2023-07-05T06:08:18",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "PLS CHK CASH CC0026 2502 S CARRIER PKWY GR Date 3180DJKH0KR0 6051 Transfers",
+			"description": "Check Cash S Carrier Pkwy Date Transfers",
+			"guid": "TRN-9899f0a8-1d70-48f9-9246-59f81807f804",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Transfer",
+			"amount": 2277.6,
+			"date": "2023-07-05T06:08:18",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Payment to Empower Utilities",
+			"description": "Payment to Empower Utilities",
+			"guid": "TRN-ec2ec585-c07d-4532-baca-9dc628f77956",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Utilities",
+			"amount": 105.0,
+			"date": "2023-07-01T06:09:43",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Courtesy Pay fee Service Charges & Fees",
+			"description": "Fee",
+			"guid": "TRN-b9cf7859-1a14-44a8-b421-c7501295dd58",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Fees & Charges",
+			"amount": 26.0,
+			"date": "2023-07-01T06:09:43",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Deposit Deposits",
+			"description": "Deposit Deposits",
+			"guid": "TRN-7e761d87-983e-415d-b455-47aebb0b1c5e",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Income",
+			"amount": 775.0,
+			"date": "2023-07-01T06:09:43",
+			"type": "CREDIT"
+		},
+		{
+			"originalDescription": "Crt Pay Loan Fee Loans",
+			"description": "Pay Loan Fee Loans",
+			"guid": "TRN-e7a58634-51a8-4ca1-af5d-de02829a344f",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Fees & Charges",
+			"amount": 25.0,
+			"date": "2023-07-01T06:09:43",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Wendy's Restaurants & Dining",
+			"description": "Wendy's",
+			"guid": "TRN-a641a16f-bcc1-4718-9cb5-b4b05fdc0b94",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Fast Food",
+			"amount": 19.57,
+			"date": "2023-07-01T06:09:43",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "New Loan Add a category",
+			"description": "New Loan Add a Category",
+			"guid": "TRN-5fd3e932-b003-44f0-8c80-ed3c66434cd4",
+			"accountGuid": "ACT-f9d72c1c-3304-40a2-bf22-8bf394811942",
+			"category": "Transfer",
+			"amount": 775.0,
+			"date": "2023-07-01T06:09:44",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "DoorDash Restaurants & Dining",
+			"description": "DoorDash",
+			"guid": "TRN-5db81d60-6332-405e-9c66-191bdb745d9a",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Food & Dining",
+			"amount": 48.33,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Walmart Shopping",
+			"description": "Walmart",
+			"guid": "TRN-b2d7b9e3-47cc-435e-8cc0-27ef1cba7892",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Shopping",
+			"amount": 12.95,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Amazon Shopping",
+			"description": "Amazon",
+			"guid": "TRN-04669977-57b7-477c-a9ae-5b491da68124",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Shopping",
+			"amount": 31.37,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Apple Electronics & Equipment",
+			"description": "Apple Electronics & Equipment",
+			"guid": "TRN-2908b5eb-33cd-40eb-9175-47ce5d9fe2c1",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Entertainment",
+			"amount": 5.99,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "McDonald's Restaurants & Dining",
+			"description": "McDonald's",
+			"guid": "TRN-ee955988-42a9-41a5-b6b7-a28495a8d51c",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Fast Food",
+			"amount": 19.15,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Amazon Shopping",
+			"description": "Amazon",
+			"guid": "TRN-218050e3-a86b-4c40-95d3-cb7317522255",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Shopping",
+			"amount": 12.98,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Chick-fil-A Restaurants & Dining",
+			"description": "Chick-fil-A",
+			"guid": "TRN-d4339eff-e62a-4e8b-997c-2c9244dba948",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Fast Food",
+			"amount": 0.09,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Department Of Veteran Affairs Deposit Deposits",
+			"description": "Veterans Affairs",
+			"guid": "TRN-005d7e39-3001-40f3-aeb4-8b2c0419f868",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Health & Fitness",
+			"amount": 437.97,
+			"date": "2023-07-01T06:09:43",
+			"type": "CREDIT"
+		},
+		{
+			"originalDescription": "Deposit Debit Ca CCFOpCoLLC Dublin OH Date 6536 Deposits",
+			"description": "Deposit Debit Ca Ccfopcollc Dublin Oh Date Deposits",
+			"guid": "TRN-a46bdb32-db13-4771-a4a5-3226a3ad7431",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Uncategorized",
+			"amount": 772.36,
+			"date": "2023-07-01T06:09:43",
+			"type": "CREDIT"
+		},
+		{
+			"originalDescription": "Dave Inc Deposit Deposits",
+			"description": "Dave.com",
+			"guid": "TRN-3c43464e-43ab-453c-9f7a-4bac34901f52",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Transfer",
+			"amount": 125.0,
+			"date": "2023-06-29T19:37:06",
+			"type": "CREDIT"
+		},
+		{
+			"originalDescription": "Deposit Debit Ca EMPOWER CASH ADVANCE San Francisco CA Date 6536 Deposits",
+			"description": "Cash Advance",
+			"guid": "TRN-18f0c714-bab4-4923-9596-98ceb4ce0e33",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Cash",
+			"amount": 100.0,
+			"date": "2023-06-29T19:37:06",
+			"type": "CREDIT"
+		},
+		{
+			"originalDescription": "Klover Holdings Deposit Deposits",
+			"description": "Klover Holdings Deposit Deposits",
+			"guid": "TRN-31f72bf0-b956-4a3d-9ad9-27dbd40efd32",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Investments",
+			"amount": 100.0,
+			"date": "2023-06-29T19:37:06",
+			"type": "CREDIT"
+		},
+		{
+			"originalDescription": "Apple Cash Deposit Deposits",
+			"description": "Transfer from Apple Pay",
+			"guid": "TRN-0d9d6ecc-f915-4f54-8c63-aff790ed6373",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Transfer",
+			"amount": 620.42,
+			"date": "2023-06-29T19:37:06",
+			"type": "CREDIT"
+		},
+		{
+			"originalDescription": "Donuts Restaurants & Dining",
+			"description": "Donuts Restaurants & Dining",
+			"guid": "TRN-691c1481-a02c-4e78-a4a6-c431398ec3c1",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Fast Food",
+			"amount": 24.06,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Apple Electronics & Equipment",
+			"description": "Apple Electronics & Equipment",
+			"guid": "TRN-8015fd8f-874e-4543-a0c0-6fc57a2a50c0",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Entertainment",
+			"amount": 9.99,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Payment to Asurion Insurance Services",
+			"description": "Payment to Asurion Insurance Services",
+			"guid": "TRN-a233d504-d964-47a7-9778-5fa4ecf4e4b4",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Financial",
+			"amount": 99.0,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Payment to TXU Energy Utilities",
+			"description": "TXU Energy",
+			"guid": "TRN-feb94c76-f28c-4468-9145-2274fe83c1f8",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Utilities",
+			"amount": 0.1,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Utilities Payment Received",
+			"description": "Utilities Payment Received",
+			"guid": "TRN-bfb21087-7242-44f6-8966-518c54c297a5",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Utilities",
+			"amount": 0.1,
+			"date": "2023-06-29T19:37:06",
+			"type": "CREDIT"
+		},
+		{
+			"originalDescription": "Starbucks Restaurants & Dining",
+			"description": "Starbucks",
+			"guid": "TRN-f9d17faf-12f7-4eaa-8ec6-4a6541677555",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Coffee Shops",
+			"amount": 9.31,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "*boys & girls clubs Charitable Giving",
+			"description": "Boys & Girls Clubs of America",
+			"guid": "TRN-eee78a86-e872-4ba5-8f5c-89dee78a4fac",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Kids",
+			"amount": 100.0,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "ERENTERPLAN.COM 2201 LAKESIDE BLVD XX5124 Date 3177DJUKB6GH 6300 Insurance",
+			"description": "Erenterplan.com",
+			"guid": "TRN-453ebe85-ce2f-4256-88c0-c9b2de9b18c9",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Home Insurance",
+			"amount": 27.84,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Payment to Chrysler Capital Loans",
+			"description": "Chrysler Capital Payment",
+			"guid": "TRN-11c621dc-de44-458c-bfa9-270a9ce5df35",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Auto Payment",
+			"amount": 485.89,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Dollar General Shopping",
+			"description": "Dollar General",
+			"guid": "TRN-72b0aef7-2f70-4a91-919c-d8e50028f6f8",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Shopping",
+			"amount": 19.86,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Airbnb Deposit Deposits",
+			"description": "Airbnb",
+			"guid": "TRN-440a2bbc-d4f6-478b-aa4c-29ff0330683b",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Travel",
+			"amount": 100.0,
+			"date": "2023-06-29T19:37:06",
+			"type": "CREDIT"
+		},
+		{
+			"originalDescription": "Spirit Airlines Travel & Commute",
+			"description": "Spirit Airlines",
+			"guid": "TRN-3f1566f7-3275-4fba-9315-9a33d67b559b",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Air Travel",
+			"amount": 13.0,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Spirit Airlines Travel & Commute",
+			"description": "Spirit Airlines",
+			"guid": "TRN-d4c7b6c7-796f-48bf-82c4-d39e58e63803",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Air Travel",
+			"amount": 96.0,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "ARUNDEL MILLS G HANOVER MD Date 5542 Clothing",
+			"description": "Arundel Mills G Hanover Md Date Clothing",
+			"guid": "TRN-840151d3-2e4f-4da1-af69-77c57ec04e9e",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Gas",
+			"amount": 54.23,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "JOSTENS SPORTS 148 E BROADWAY OWATONNA MN Date 06/24/23 3175DJV8JSTO 5947 Clothing",
+			"description": "Jostens",
+			"guid": "TRN-3a2907dc-dddd-410d-816f-384283c732a5",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Shopping",
+			"amount": 40.0,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "CVS Pharmacy Healthcare & Pharmacy",
+			"description": "Pharmacy Healthcare",
+			"guid": "TRN-f392469c-8388-46d6-b825-b19efb2bd6cc",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Pharmacy",
+			"amount": 11.01,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "DC *GOV'T 2000 14TH ST NW XX-442- Date 06/23/23 3174DJNWWQ60 9399 Online Services",
+			"description": "14th St Online Services",
+			"guid": "TRN-3eb03467-d25e-4d87-8dc6-d86b67de3c53",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Uncategorized",
+			"amount": 30.0,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "SQ *BAR XX 6975 INDIAN HEAD HIGHWA BRYANS Date 3174DJOJI5D8 5813 Restaurants & Dining",
+			"description": "Bar Xx 6975 Indian Head Highwa Bryans",
+			"guid": "TRN-576d62c1-455d-431a-a4e8-3b3b9df30404",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Food & Dining",
+			"amount": 31.93,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Domino's Pizza Restaurants & Dining",
+			"description": "Domino's",
+			"guid": "TRN-8fbb511d-d412-4d86-af76-bfcc83bfa5e8",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Fast Food",
+			"amount": 37.8,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Klover Holdings Online Services",
+			"description": "Klover Holdings Online Services",
+			"guid": "TRN-170da2e4-eadf-4a4b-9069-5345a93f9476",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Utilities",
+			"amount": 81.75,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "CASH STORE - TX 2100 W WALNUT HILL LANE 97 Date 06/23/23 3174DJV9QJCF 6012 Gasoline/Fuel",
+			"description": "The Cash Store",
+			"guid": "TRN-ede845ec-c671-4b0b-9598-c8a14b62daa9",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Finance Charge",
+			"amount": 387.54,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Dave Inc Online Services",
+			"description": "Dave.com",
+			"guid": "TRN-ce8b449d-ef11-45a9-acb8-8bf6e924d3e7",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Transfer",
+			"amount": 104.99,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Salary/Regular Income from G&A Partners Paychecks/Salary",
+			"description": "G & A Partners",
+			"guid": "TRN-cbebf394-f1d9-4158-9c87-8152a4c27505",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Paycheck",
+			"amount": 2098.21,
+			"date": "2023-06-29T19:37:06",
+			"type": "CREDIT"
+		},
+		{
+			"originalDescription": "Payment to Empower Utilities",
+			"description": "Payment to Empower Utilities",
+			"guid": "TRN-88b06040-4b5b-4d42-b358-57940ef2c93f",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Utilities",
+			"amount": 79.0,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "American First Finance Online Services",
+			"description": "American First Finance",
+			"guid": "TRN-d858d54f-285f-48ee-b2e6-335220c79208",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Transfer",
+			"amount": 143.76,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "#XX0553 IDENTITY INTELLIGENCE IIQ*IDENTITYIQ.COM HENDERSON NV Online Services",
+			"description": "IdentityIQ",
+			"guid": "TRN-9631b19c-ffbc-4b48-adb3-34933c5aa7c8",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Fraud Protection",
+			"amount": 22.99,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Spirit Airlines Travel & Commute",
+			"description": "Spirit Airlines",
+			"guid": "TRN-04bb058a-e228-4b60-984a-5d1cc059eda9",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Air Travel",
+			"amount": 216.0,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Amazon Shopping",
+			"description": "Amazon",
+			"guid": "TRN-e8e45315-9bda-47ed-bf6a-e118eda80cf0",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Shopping",
+			"amount": 19.47,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "BT NAILS 2520 NE GREEN OAKS BLVD ARLINGTON Date 06/15/23 3166DJEHAQVX 7230 Personal Care & Fitness",
+			"description": "Green Oaks Arlington Djehaqvx Personal Care & Fitness",
+			"guid": "TRN-9bd74e07-9faf-4dcd-9f4f-5e8e03d733b1",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Health & Fitness",
+			"amount": 65.0,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "APPLE CASH BALANCE ADD 1 INFINITE LOOP 877 Date 3167DJLP0QOH 4829 ATM/Cash Withdrawals",
+			"description": "Transfer to Apple Pay",
+			"guid": "TRN-48835de8-dcb2-4ab5-b69c-7683bed42054",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Transfer",
+			"amount": 205.0,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Walmart Shopping",
+			"description": "Walmart",
+			"guid": "TRN-4785b3a1-b547-41cd-99be-20e50e3ef78c",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Shopping",
+			"amount": 47.58,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Rewards from Shein",
+			"description": "Rewards From Shein",
+			"guid": "TRN-c287cf40-dec0-4cac-a646-75615f6529fe",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Clothing",
+			"amount": 204.87,
+			"date": "2023-06-29T19:37:06",
+			"type": "CREDIT"
+		},
+		{
+			"originalDescription": "Amazon Shopping",
+			"description": "Amazon",
+			"guid": "TRN-650a99fd-65f1-4a6b-8a20-832cacaecd1b",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Shopping",
+			"amount": 143.06,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Chegg Education",
+			"description": "Chegg",
+			"guid": "TRN-0faa6b91-3918-4b1e-9cd2-45c321a56cce",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Education",
+			"amount": 19.95,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Raceway Gas Gasoline/Fuel",
+			"description": "Raceway Gas Gasoline Fuel",
+			"guid": "TRN-6933bfdc-c56d-40bf-87e4-6f5c2f8a0426",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Gas",
+			"amount": 46.12,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "APPLE CASH BALANCE ADD 1 INFINITE LOOP 877 Date 3166DJZDO6XQ 4829 ATM/Cash Withdrawals",
+			"description": "Transfer to Apple Pay",
+			"guid": "TRN-1d4fecbb-4bd7-4d92-b13c-5ca3cece3aeb",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Transfer",
+			"amount": 306.0,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Video Exchange Entertainment",
+			"description": "Video Exchange Entertainment",
+			"guid": "TRN-297d9c40-126d-4e2d-adcf-1540598e7f04",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Movies & DVDs",
+			"amount": 1.49,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Dairy Queen Restaurants & Dining",
+			"description": "Dairy Queen",
+			"guid": "TRN-1e2d900d-4714-4f46-89dd-c29add15de9f",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Fast Food",
+			"amount": 7.67,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Amazon Shopping",
+			"description": "Amazon",
+			"guid": "TRN-edfbafae-748f-4c2a-9ac5-330d3ca8b3f8",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Shopping",
+			"amount": 51.17,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Apple Cash Deposit Deposits",
+			"description": "Transfer from Apple Pay",
+			"guid": "TRN-0599d5aa-5af4-4c6a-adc4-ceb838b6cb37",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Transfer",
+			"amount": 12.13,
+			"date": "2023-06-29T19:37:06",
+			"type": "CREDIT"
+		},
+		{
+			"originalDescription": "Chick-fil-A Restaurants & Dining",
+			"description": "Chick-fil-A",
+			"guid": "TRN-fb2aa64d-98ca-4d8f-8ea2-017ec640224e",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Fast Food",
+			"amount": 10.12,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Amazon Shopping",
+			"description": "Amazon",
+			"guid": "TRN-6c039b4d-4c04-417d-9fc8-d6a8268447ee",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Shopping",
+			"amount": 62.75,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Chick-fil-A Restaurants & Dining",
+			"description": "Chick-fil-A",
+			"guid": "TRN-e2968bad-238b-4942-a38b-951f6d2b7dd9",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Fast Food",
+			"amount": 15.91,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "RELIANCE INMATE COMMUN 1533 S 42ND ST GRAN Date 3166DJOZGOZR 4812 Cable & Satellite",
+			"description": "Reliance Inmate Commun S 42nd St Gran Date Djozgozr Cable & Satellite",
+			"guid": "TRN-ef39f79b-a34c-4a5a-9da1-bf9053c78530",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Television",
+			"amount": 13.33,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Travel Agency Travel & Commute",
+			"description": "Travel Agency & Commute",
+			"guid": "TRN-592c399d-5ace-4af0-b6e2-78244c94ce84",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Travel",
+			"amount": 151.9,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "APPLE CASH SENT MONEY 1 INFINITE LOOP 877- Date 06/14/23 3165DJHQJ9AK 4829 ATM/Cash Withdrawals",
+			"description": "Transfer to Apple Pay",
+			"guid": "TRN-d19db3a9-6d58-4a30-9c15-df498e769f99",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Transfer",
+			"amount": 30.0,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Frontier Airlines Travel & Commute",
+			"description": "Frontier Airlines",
+			"guid": "TRN-e270f9f1-e7f9-4425-9313-e3fab42374ea",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Air Travel",
+			"amount": 74.0,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Chicken Express Restaurants & Dining",
+			"description": "Chicken Express",
+			"guid": "TRN-4d241896-6886-464b-ba5d-88c16d33f7bf",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Fast Food",
+			"amount": 12.17,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "APPLE CASH SENT MONEY 1 INFINITE LOOP 877- Date 06/14/23 3165DJJZ43ON 4829 ATM/Cash Withdrawals",
+			"description": "Transfer to Apple Pay",
+			"guid": "TRN-797a6e4b-da49-47f6-8cf4-461a8b0cb020",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Transfer",
+			"amount": 90.0,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Riverside Exxon Gasoline/Fuel",
+			"description": "ExxonMobil",
+			"guid": "TRN-81bf79ab-7778-471b-b658-72631f6347c3",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Gas",
+			"amount": 123.0,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Apple Cash Deposit Deposits",
+			"description": "Transfer from Apple Pay",
+			"guid": "TRN-0b43ddc7-a3b5-42e5-8f6f-95fc3ef2e6f6",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Transfer",
+			"amount": 267.92,
+			"date": "2023-06-29T19:37:06",
+			"type": "CREDIT"
+		},
+		{
+			"originalDescription": "RFS*VENDENGINE 1000 HEALTH PARK DRIVE BREN Date 3164DJMDMSVU 9399 Healthcare & Pharmacy",
+			"description": "Vendengine Health Park Drive Bren Date Djmdmsvu Healthcare & Pharmacy",
+			"guid": "TRN-5208b2b6-6b18-4913-aed5-964bcdd449cb",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Pharmacy",
+			"amount": 8.04,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "OPENSKY CAPITAL BANK 101 CROSSWAYS PARK DR Date 3164DJJBGRL4 6012 Other Expenses",
+			"description": "OpenSky Payment",
+			"guid": "TRN-0f1efae3-dc8d-4af6-85c2-bdca6de032d0",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Credit Card Payment",
+			"amount": 347.69,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Chevron Gasoline/Fuel",
+			"description": "Chevron",
+			"guid": "TRN-2b2f2ed4-6ff0-4e86-9b1c-e9f91b4d2107",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Gas",
+			"amount": 10.06,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "ROCHELLE FOOD MART 1101 W ROCHELLE RD IRVI Date 3163DJT1RQNF 5541 Groceries",
+			"description": "Rochelle Food Mart W Irvi Date Groceries",
+			"guid": "TRN-5ded3142-9c1e-454d-966c-c05d7788af90",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Groceries",
+			"amount": 5.38,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Amazon Shopping",
+			"description": "Amazon",
+			"guid": "TRN-919b4830-caf9-4083-8a42-0869746b8be1",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Shopping",
+			"amount": 6.64,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Enterprises Online Services",
+			"description": "Enterprises Online Services",
+			"guid": "TRN-f0df9954-47b2-4e96-851c-05d3902af912",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Home Services",
+			"amount": 6.48,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Walmart Shopping",
+			"description": "Walmart",
+			"guid": "TRN-b3b1b6df-9ded-4791-a22b-4c4be58fa515",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Shopping",
+			"amount": 42.33,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "EMPOWER 660 YORK STREET102 SAN FRANCISCO C Date 3163DJSU2ZWP 6051 Other Expenses",
+			"description": "Empower York Street San Francisco Date Djsu Other Expenses",
+			"guid": "TRN-e8f0fc05-55cc-4106-81e6-41510ff9fd9c",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Uncategorized",
+			"amount": 8.0,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Cash Store Deposit Deposits",
+			"description": "The Cash Store",
+			"guid": "TRN-2d4365dc-e83d-428a-943f-111ce88d043e",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Finance Charge",
+			"amount": 1000.0,
+			"date": "2023-06-29T19:37:06",
+			"type": "CREDIT"
+		},
+		{
+			"originalDescription": "ATM Withdrawal at Cash Store Grand Prairie TX ATM/Cash Withdrawals",
+			"description": "The Cash Store",
+			"guid": "TRN-bd26745e-b866-4ef8-a29d-0f5869fa419f",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Finance Charge",
+			"amount": 1000.0,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Cash Store Deposit Deposits",
+			"description": "The Cash Store",
+			"guid": "TRN-2c6ddc8f-d640-4054-968f-e67e3e205630",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Finance Charge",
+			"amount": 1590.0,
+			"date": "2023-06-29T19:37:06",
+			"type": "CREDIT"
+		},
+		{
+			"originalDescription": "Dave Inc Online Services",
+			"description": "Dave",
+			"guid": "TRN-5e827d74-55b7-4a92-b915-3983cedda493",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Service Fee",
+			"amount": 1.0,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Albert Corporation Online Services",
+			"description": "Albert Corporation Online Services",
+			"guid": "TRN-f07ee87a-c2c2-44f0-9aeb-c75cec10ff31",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Transfer",
+			"amount": 41.99,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Payment to Chrysler Capital Loans",
+			"description": "Chrysler Capital Payment",
+			"guid": "TRN-f3f4443d-6451-45d0-a147-e02ee311d467",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Auto Payment",
+			"amount": 250.0,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Apple Electronics & Equipment",
+			"description": "Apple Electronics & Equipment",
+			"guid": "TRN-827fea4e-9c56-4025-a2eb-8c415879d930",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Entertainment",
+			"amount": 23.99,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "RFS*VENDENGINE 1000 HEALTH PARK DRIVE BREN Date 3162DJQXJPI4 9399 Healthcare & Pharmacy",
+			"description": "Vendengine Health Park Drive Bren Date Djqxjpi Healthcare & Pharmacy",
+			"guid": "TRN-b784c81e-077f-4192-bb55-99a86d86c1ff",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Pharmacy",
+			"amount": 8.04,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Ebb & Flow Restaurants & Dining",
+			"description": "Ebb & Flow Restaurants Dining",
+			"guid": "TRN-71b0928f-2fa2-4138-a37d-d39ebbf48f18",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Food & Dining",
+			"amount": 45.0,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Apple Electronics & Equipment",
+			"description": "Apple Electronics & Equipment",
+			"guid": "TRN-3ed0d1bc-67cf-4f19-a8a3-82102d5ad38d",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Entertainment",
+			"amount": 9.99,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Apple Electronics & Equipment",
+			"description": "Apple Electronics & Equipment",
+			"guid": "TRN-a5a3f157-1f6d-4751-b35d-eaf59a3b1acc",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Entertainment",
+			"amount": 2.99,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Dfw Airport Parking Travel & Commute",
+			"description": "Airport Parking",
+			"guid": "TRN-ce99341b-4c55-4bad-b11b-4b108c726fbc",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Parking",
+			"amount": 2.0,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "McDonald's Restaurants & Dining",
+			"description": "McDonald's",
+			"guid": "TRN-d8b349f6-5581-4c6c-bd2c-61a3b1731fed",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Fast Food",
+			"amount": 12.21,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "SHEIN.COM 57 S ALAMEDA ST UNIT 22 LOS ANGE Date 3160DJHD90BO 5699 Clothing",
+			"description": "Shein",
+			"guid": "TRN-a54cd244-cc56-4543-b985-2f5128ca2b5a",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Clothing",
+			"amount": 204.87,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Chevron Gasoline/Fuel",
+			"description": "Chevron",
+			"guid": "TRN-32669164-887a-4b7f-a266-69ef6899529a",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Gas",
+			"amount": 50.78,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Dave Inc Online Services",
+			"description": "Dave.com",
+			"guid": "TRN-ecc3a902-4e51-4034-a21e-d6580b26047c",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Transfer",
+			"amount": 106.99,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Dave Inc Online Services",
+			"description": "Dave.com",
+			"guid": "TRN-22c6209c-71ac-4284-8ac1-1460ff1d0b2a",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Transfer",
+			"amount": 97.97,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Dfw Airport Parking Travel & Commute",
+			"description": "Airport Parking",
+			"guid": "TRN-83de6da7-ff5c-40a1-b4df-df613a537033",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Parking",
+			"amount": 2.0,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Chick-fil-A Restaurants & Dining",
+			"description": "Chick-fil-A",
+			"guid": "TRN-7fe66d70-b798-4096-8248-7725ddc73342",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Fast Food",
+			"amount": 20.11,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Payment to Verizon Wireless Telephone Services",
+			"description": "Verizon",
+			"guid": "TRN-0ca6b238-eb40-4691-b390-9289f29e90e5",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Mobile Phone",
+			"amount": 419.95,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "TST* NEON KITTEN IZAKA 2805 MAIN ST DALLAS Date 3162DJLIDVNJ 5813 Restaurants & Dining",
+			"description": "Neon Kitten Izaka Main St Dallas Date Djlidvnj Restaurants & Dining",
+			"guid": "TRN-cb89321a-72dc-4aad-b3c4-553a1f5e0d26",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Food & Dining",
+			"amount": 22.0,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "HOPPER TRAVEL 275 THIRD ST 3548 MA Date 3161DJXUR3WD 4722 Online Services",
+			"description": "Hopper Travel Third St Ma Date Djxur Online Services",
+			"guid": "TRN-eefbcbfb-b085-4b7e-8413-d93218fcded1",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Travel",
+			"amount": 131.97,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Shell Gasoline/Fuel",
+			"description": "Shell",
+			"guid": "TRN-bd0d7627-cc02-42c9-816f-91a055521600",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Gas",
+			"amount": 66.38,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "APPLE CASH SENT MONEY 1 INFINITE LOOP 877- Date 06/09/23 3160DJPQY9SG 4829 ATM/Cash Withdrawals",
+			"description": "Transfer to Apple Pay",
+			"guid": "TRN-8bf00fa7-6ae8-456f-a1a9-d0359d567720",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Transfer",
+			"amount": 150.0,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Deposit Debit Ca EMPOWER CASH ADVANCE San Francisco CA Date 6536 Deposits",
+			"description": "Cash Advance",
+			"guid": "TRN-9e5cf6d3-3075-4ddf-b8c5-6798c8d79b0f",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Cash",
+			"amount": 75.0,
+			"date": "2023-06-29T19:37:06",
+			"type": "CREDIT"
+		},
+		{
+			"originalDescription": "Klover Holdings Deposit Deposits",
+			"description": "Klover Holdings Deposit Deposits",
+			"guid": "TRN-1987c8e6-7a9d-4ed7-8e84-6353098f6f43",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Investments",
+			"amount": 75.0,
+			"date": "2023-06-29T19:37:06",
+			"type": "CREDIT"
+		},
+		{
+			"originalDescription": "Salary/Regular Income from G&A Partners Paychecks/Salary",
+			"description": "G & A Partners",
+			"guid": "TRN-16278ade-a5fe-4458-aafe-a5a174678544",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Paycheck",
+			"amount": 1971.0,
+			"date": "2023-06-29T19:37:06",
+			"type": "CREDIT"
+		},
+		{
+			"originalDescription": "American First Finance Online Services",
+			"description": "American First Finance",
+			"guid": "TRN-c62ea3d7-3997-4853-964b-445f5178d772",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Transfer",
+			"amount": 143.76,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "O'Reilly Auto Parts Automotive Expenses",
+			"description": "O'Reilly Auto Parts",
+			"guid": "TRN-3208d51d-854e-4b6e-8a28-48a32453b9f6",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Service & Parts",
+			"amount": 103.88,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Riverside Exxon Gasoline/Fuel",
+			"description": "ExxonMobil",
+			"guid": "TRN-05515be2-0eb0-4ae9-970a-e110222abc55",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Gas",
+			"amount": 123.0,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Amazon Shopping",
+			"description": "Amazon",
+			"guid": "TRN-6c812cca-5a2d-4a90-91d9-c06f05b635f2",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Shopping",
+			"amount": 23.4,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Starbucks Restaurants & Dining",
+			"description": "Starbucks",
+			"guid": "TRN-5adcc0b2-c137-4763-b562-34acf128fd98",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Coffee Shops",
+			"amount": 18.2,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Walmart Shopping",
+			"description": "Walmart",
+			"guid": "TRN-d5b7cd16-728c-41a1-83f6-3b9583179c70",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Shopping",
+			"amount": 22.65,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "APPLE CASH - SENT MONE 1 INFINITE LOOP 877 Date 06/01/23 3152DJQGWA5B 4829 ATM/Cash Withdrawals",
+			"description": "Transfer to Apple Pay",
+			"guid": "TRN-015d4716-8fa5-4fc1-b4a5-942f9710a3c7",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Transfer",
+			"amount": 10.0,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "APPLE CASH - SENT MONE 1 INFINITE LOOP 877 Date 06/01/23 3152DJK56CYR 4829 ATM/Cash Withdrawals",
+			"description": "Transfer to Apple Pay",
+			"guid": "TRN-5cd6a665-b39c-468c-8ac2-500d27ba2a4b",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Transfer",
+			"amount": 22.0,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Apple Electronics & Equipment",
+			"description": "Apple Electronics & Equipment",
+			"guid": "TRN-664c96e5-0dea-4339-9a7e-21baf8b8bf20",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Entertainment",
+			"amount": 5.99,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Boys & Girls Clubs of America Clothing",
+			"description": "Boys & Girls Clubs of America",
+			"guid": "TRN-da1cd0f7-b6ae-40db-a39b-13370a6342bb",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Kids",
+			"amount": 20.0,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Chick-fil-A Restaurants & Dining",
+			"description": "Chick-fil-A",
+			"guid": "TRN-488d2387-ee46-4219-894a-03322322ea9c",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Fast Food",
+			"amount": 17.2,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Boys & Girls Clubs of America Charitable Giving",
+			"description": "Boys & Girls Clubs of America",
+			"guid": "TRN-b1a08de4-3aec-4f48-aada-2b349e4da812",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Kids",
+			"amount": 100.0,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Albert Corporation Online Services",
+			"description": "Albert Corporation Online Services",
+			"guid": "TRN-cc1a1d7f-7a15-4fca-8678-79d951eea1fc",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Transfer",
+			"amount": 42.99,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Payment to Verizon Wireless Telephone Services",
+			"description": "Verizon",
+			"guid": "TRN-6b28ec5b-44cc-4966-b612-3f3d25bee554",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Mobile Phone",
+			"amount": 600.0,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "APPLE CASH - SENT MONE 1 INFINITE LOOP 877 Date 05/29/23 3149DJZ6LU9Q 4829 ATM/Cash Withdrawals",
+			"description": "Transfer to Apple Pay",
+			"guid": "TRN-c1c2ed7b-f2c3-4efd-883f-92ba63633871",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Transfer",
+			"amount": 55.0,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "APPLE CASH - ADDED TO 1 INFINITE LOOP 877- Date 05/29/23 3149DJYX75EV 4829 ATM/Cash Withdrawals",
+			"description": "Transfer to Apple Pay",
+			"guid": "TRN-892d5b9a-13a9-45fd-9b40-07a9f0002095",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Transfer",
+			"amount": 100.0,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "APPLE CASH - ADDED TO 1 INFINITE LOOP 877- Date 05/29/23 3149DJUELL62 4829 ATM/Cash Withdrawals",
+			"description": "Transfer to Apple Pay",
+			"guid": "TRN-1a574476-4846-4a9e-aa97-047f7b4a2571",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Transfer",
+			"amount": 75.0,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "APPLE CASH - SENT MONE 1 INFINITE LOOP 877 Date 05/29/23 3149DJR4NP5O 4829 ATM/Cash Withdrawals",
+			"description": "Transfer to Apple Pay",
+			"guid": "TRN-0372a076-210e-4ca5-a6fe-a9e138cc35f6",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Transfer",
+			"amount": 40.0,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Department Of Veteran Affairs Deposit Deposits",
+			"description": "Veterans Affairs",
+			"guid": "TRN-76cf9eb1-815b-48e8-9514-cb5f6ef2c8b6",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Health & Fitness",
+			"amount": 656.95,
+			"date": "2023-06-29T19:37:06",
+			"type": "CREDIT"
+		},
+		{
+			"originalDescription": "Apple Electronics & Equipment",
+			"description": "Apple Electronics & Equipment",
+			"guid": "TRN-3f3e531b-cdda-4c6f-939b-bdffda746e9f",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Entertainment",
+			"amount": 5.99,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "DALLAS BEAUTY TRENDZ 8686 FERGUSON RD STE Date 3147DJK3ZTY8 5631 Personal Care & Fitness",
+			"description": "Dallas Beauty Trendz Ferguson Ste Date Zty Personal Care & Fitness",
+			"guid": "TRN-296143de-b3d3-4f45-b117-f33ae62a1fbd",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Personal Care",
+			"amount": 6.48,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Airbnb Travel & Commute",
+			"description": "Airbnb",
+			"guid": "TRN-2b2a860f-7276-4ce9-807e-6d3d620c570f",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Travel",
+			"amount": 574.16,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Taco Bell Restaurants & Dining",
+			"description": "Taco Bell",
+			"guid": "TRN-f26a9424-265c-4d3d-8e89-0a35b456c0f3",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Fast Food",
+			"amount": 5.39,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Walmart Shopping",
+			"description": "Walmart",
+			"guid": "TRN-e601df1a-d9a9-4a74-8f99-f383ca4ac357",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Shopping",
+			"amount": 12.95,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "APPLE CASH - ADDED TO 1 INFINITE LOOP 877- Date 05/28/23 3148DJUEREUM 4829 ATM/Cash Withdrawals",
+			"description": "Transfer to Apple Pay",
+			"guid": "TRN-dc4fb6d0-1e99-4450-99bb-acc8da0f1335",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Transfer",
+			"amount": 100.0,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "DashMart Groceries",
+			"description": "Dashmart Groceries",
+			"guid": "TRN-7d61d047-5c84-4c6f-8d29-5303174ae519",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Groceries",
+			"amount": 7.66,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Jack in the Box Restaurants & Dining",
+			"description": "Jack in the Box",
+			"guid": "TRN-d6bae54c-2b5c-425c-a67a-4e62ee7f6c5f",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Fast Food",
+			"amount": 7.57,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "DoorDash Restaurants & Dining",
+			"description": "DoorDash",
+			"guid": "TRN-80103a05-6505-4715-90ca-7cd8fcfd63ab",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Food & Dining",
+			"amount": 53.41,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "ERENTERPLAN.COM 2201 LAKESIDE BLVD XX5124 Date 3146DJVNXHB6 6300 Insurance",
+			"description": "Erenterplan.com",
+			"guid": "TRN-6b27b78d-9d3f-4e60-a486-31a6769d94e3",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Home Insurance",
+			"amount": 27.84,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Amazon Shopping",
+			"description": "Amazon",
+			"guid": "TRN-b5bd550f-1122-48fb-a1d7-480d11dc0cbb",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Shopping",
+			"amount": 30.26,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "APPLE CASH - SENT MONE 1 INFINITE LOOP 877 Date 05/27/23 3147DJN785ZZ 4829 ATM/Cash Withdrawals",
+			"description": "Transfer to Apple Pay",
+			"guid": "TRN-fe36f974-fee0-4558-acea-2bcf54ead552",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Transfer",
+			"amount": 140.0,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "APPLE CASH - SENT MONE 1 INFINITE LOOP 877 Date 05/27/23 3147DJV9XMAY 4829 ATM/Cash Withdrawals",
+			"description": "Transfer to Apple Pay",
+			"guid": "TRN-eb3aeff9-e178-42a7-bac3-1841cbfc4afb",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Transfer",
+			"amount": 35.0,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Amazon Shopping",
+			"description": "Amazon",
+			"guid": "TRN-38554c83-e958-47f4-a976-9f55c1f91361",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Shopping",
+			"amount": 8.27,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "APPLE CASH - SENT MONE 1 INFINITE LOOP 877 Date 05/26/23 3146DJVOA4B6 4829 ATM/Cash Withdrawals",
+			"description": "Transfer to Apple Pay",
+			"guid": "TRN-a2e5e234-ca0b-428b-8d5c-c8a382f9a9fc",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Transfer",
+			"amount": 150.0,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "APPLE CASH - SENT MONE 1 INFINITE LOOP 877 Date 05/26/23 3146DJKZ82AU 4829 ATM/Cash Withdrawals",
+			"description": "Transfer to Apple Pay",
+			"guid": "TRN-defd8947-cde0-4c21-bd13-624aeaecd931",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Transfer",
+			"amount": 100.0,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "APPLE CASH - SENT MONE 1 INFINITE LOOP 877 Date 05/26/23 3146DJZD28N4 4829 ATM/Cash Withdrawals",
+			"description": "Transfer to Apple Pay",
+			"guid": "TRN-1e503871-1723-487a-b35f-9a79167a8d08",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Transfer",
+			"amount": 100.0,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "APPLE CASH - SENT MONE 1 INFINITE LOOP 877 Date 05/26/23 3146DJPI41QD 4829 ATM/Cash Withdrawals",
+			"description": "Transfer to Apple Pay",
+			"guid": "TRN-c47c63cc-9cec-435b-9f81-78851d4ca454",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Transfer",
+			"amount": 25.0,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "APPLE CASH - ADDED TO 1 INFINITE LOOP 877- Date 05/27/23 3147DJWHUU2V 4829 Transfers",
+			"description": "Transfer to Apple Pay",
+			"guid": "TRN-ee9378db-e1cf-40d1-8c1c-21444d9f931b",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Transfer",
+			"amount": 200.0,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "DoorDash Restaurants & Dining",
+			"description": "DoorDash",
+			"guid": "TRN-c25d1a1c-393b-4435-b8c8-48dba44f9661",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Food & Dining",
+			"amount": 18.83,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "ATM Withdrawal at Apple Cash ATM/Cash Withdrawals",
+			"description": "Transfer to Apple Pay",
+			"guid": "TRN-2a324fd7-13a3-4038-97c5-31d4dec595e3",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Transfer",
+			"amount": 20.0,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Chegg Education",
+			"description": "Chegg",
+			"guid": "TRN-3b52b28b-bc47-4b17-8ea4-fe3184fc9313",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Education",
+			"amount": 19.95,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "RELIANCE INMATE COMMUN 1533 S 42ND ST GRAN Date 3147DJO0I8NJ 4812 Cable & Satellite",
+			"description": "Reliance Inmate Commun S 42nd St Gran Date Djo I Nj Cable & Satellite",
+			"guid": "TRN-374aadb6-c7db-4bb3-88f9-6b7e29e64baf",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Television",
+			"amount": 33.99,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Dave Inc Online Services",
+			"description": "Dave.com",
+			"guid": "TRN-5d9e8b8d-a115-476b-89a8-a91fae188560",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Transfer",
+			"amount": 54.99,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Starbucks Restaurants & Dining",
+			"description": "Starbucks",
+			"guid": "TRN-01a91aed-311d-4cce-bebf-5eb2c40d98d9",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Coffee Shops",
+			"amount": 5.68,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Salary/Regular Income from G&A Partners Paychecks/Salary",
+			"description": "G & A Partners",
+			"guid": "TRN-9853de5f-b203-4dde-b683-1c7525c665d1",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Paycheck",
+			"amount": 2383.07,
+			"date": "2023-06-29T19:37:06",
+			"type": "CREDIT"
+		},
+		{
+			"originalDescription": "American First Finance Online Services",
+			"description": "American First Finance",
+			"guid": "TRN-072c0a50-c712-4198-b52a-e5eaacb2114b",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Transfer",
+			"amount": 143.76,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "APPLE CASH - ADDED TO 1 INFINITE LOOP 877- Date 05/24/23 3144DJK03MCS 4829 ATM/Cash Withdrawals",
+			"description": "Transfer to Apple Pay",
+			"guid": "TRN-da98aff1-1e90-48c4-a565-85e391e7ea0f",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Transfer",
+			"amount": 10.5,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Starbucks Restaurants & Dining",
+			"description": "Starbucks",
+			"guid": "TRN-6029f10d-9d9c-465c-b4d7-bb43d3ae2949",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Coffee Shops",
+			"amount": 2.66,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "APPLE CASH - ADDED TO 1 INFINITE LOOP 877- Date 05/23/23 3143DJC3P4JV 4829 ATM/Cash Withdrawals",
+			"description": "Transfer to Apple Pay",
+			"guid": "TRN-4a13d134-62ca-4d4a-904d-0a0a47cbcf3d",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Transfer",
+			"amount": 13.0,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Apple Cash Deposit Deposits",
+			"description": "Transfer from Apple Pay",
+			"guid": "TRN-50b87c21-b410-457d-aff7-2991be852d25",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Transfer",
+			"amount": 19.7,
+			"date": "2023-06-29T19:37:06",
+			"type": "CREDIT"
+		},
+		{
+			"originalDescription": "Whataburger Restaurants & Dining",
+			"description": "Whataburger",
+			"guid": "TRN-74875819-f1d8-4de4-b374-cd8c925d889f",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Fast Food",
+			"amount": 5.89,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Steak 'n Shake Restaurants & Dining",
+			"description": "Steak 'n Shake",
+			"guid": "TRN-e25ea437-b70c-486e-be08-776df2d4bb71",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Fast Food",
+			"amount": 9.83,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Walmart Shopping",
+			"description": "Walmart",
+			"guid": "TRN-4850e3b7-8209-42e4-8029-af2882458a25",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Shopping",
+			"amount": 46.36,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Jack in the Box Restaurants & Dining",
+			"description": "Jack in the Box",
+			"guid": "TRN-b5da56c4-9c77-4e0d-ba4c-614878e45bff",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Fast Food",
+			"amount": 8.53,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Apple Cash Deposit Deposits",
+			"description": "Transfer from Apple Pay",
+			"guid": "TRN-71ad7da9-3cb5-4f7d-b6c5-ce3ea173fd76",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Transfer",
+			"amount": 10.66,
+			"date": "2023-06-29T19:37:06",
+			"type": "CREDIT"
+		},
+		{
+			"originalDescription": "ATM Withdrawal at Apple Cash ATM/Cash Withdrawals",
+			"description": "Transfer to Apple Pay",
+			"guid": "TRN-cf11b558-cb90-4c28-ab47-8b51da8b3335",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Transfer",
+			"amount": 29.0,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Walmart Shopping",
+			"description": "Walmart",
+			"guid": "TRN-76a17708-c4be-4014-989d-1b9413dea7ac",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Shopping",
+			"amount": 4.59,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Walmart Shopping",
+			"description": "Walmart",
+			"guid": "TRN-d7bc83a6-f8e8-4f97-b17f-59becfdb738d",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Shopping",
+			"amount": 79.15,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "DoorDash Restaurants & Dining",
+			"description": "DoorDash",
+			"guid": "TRN-713e9989-cfac-4a85-856e-bfded6109de5",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Food & Dining",
+			"amount": 25.69,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Starbucks Restaurants & Dining",
+			"description": "Starbucks",
+			"guid": "TRN-f36cb692-470d-4e0c-a5e0-cda4c794e555",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Coffee Shops",
+			"amount": 12.67,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Payment to U-Haul Rent",
+			"description": "U-Haul",
+			"guid": "TRN-b68ece7b-1fd3-47c0-a528-b4dce22a14e9",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Home Services",
+			"amount": 85.13,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "APPLE CASH - SENT MONE 1 INFINITE LOOP 877 Date 05/12/23 3132DJAJBDMT 4829 ATM/Cash Withdrawals",
+			"description": "Transfer to Apple Pay",
+			"guid": "TRN-da1443f6-576d-4989-974c-6fda0f16e68d",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Transfer",
+			"amount": 70.0,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "APPLE CASH - SENT MONE 1 INFINITE LOOP 877 Date 05/12/23 3132DJI9780E 4829 ATM/Cash Withdrawals",
+			"description": "Transfer to Apple Pay",
+			"guid": "TRN-13ca7a61-91f9-48a2-b211-5317ac81e958",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Transfer",
+			"amount": 35.0,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "DoorDash Restaurants & Dining",
+			"description": "DoorDash",
+			"guid": "TRN-643715f6-5e70-4895-8751-4bb5329e8003",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Food & Dining",
+			"amount": 16.23,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "DAVE INC 1265 SOUTH COCHRAN AVEN LOS ANGEL Date 3133DJNWEFHX 4829 Other Expenses",
+			"description": "Dave.com",
+			"guid": "TRN-a9316427-56ce-413a-8697-cd6ca133f71f",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Transfer",
+			"amount": 106.99,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Texaco Gasoline/Fuel",
+			"description": "Texaco",
+			"guid": "TRN-97f54cb3-7105-4abd-b45d-2ec16d85b74f",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Gas",
+			"amount": 19.13,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "APPLE CASH - ADDED TO 1 INFINITE LOOP 877- Date 05/12/23 3132DJOWJJSY 4829 ATM/Cash Withdrawals",
+			"description": "Transfer to Apple Pay",
+			"guid": "TRN-e7ec451e-b12f-4fc4-8062-8faf46caef0b",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Transfer",
+			"amount": 32.0,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "APPLE CASH - ADDED TO 1 INFINITE LOOP 877- Date 05/12/23 3132DJU2SFKT 4829 ATM/Cash Withdrawals",
+			"description": "Transfer to Apple Pay",
+			"guid": "TRN-076dab1d-7fc8-4dd8-968e-1e6f1730b944",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Transfer",
+			"amount": 70.0,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Starbucks Restaurants & Dining",
+			"description": "Starbucks",
+			"guid": "TRN-0b04e73a-81ee-491b-9171-a47260b1061c",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Coffee Shops",
+			"amount": 12.67,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "DoorDash Restaurants & Dining",
+			"description": "DoorDash",
+			"guid": "TRN-9c5838a6-c09b-489f-b96a-ecee6e7b3c07",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Food & Dining",
+			"amount": 4.99,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "RPS*LAKESIDE VILLAS 2502 RIVERSIDE PKWY GR Date 3132DJFUJRZV 6513 Restaurants & Dining",
+			"description": "Lakeside Villas Riverside Pkwy Date Djfujrzv Restaurants & Dining",
+			"guid": "TRN-4ca00249-c705-44d5-9672-e13379f7b3fc",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Food & Dining",
+			"amount": 1243.19,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Moving Help Clothing",
+			"description": "Moving Help Clothing",
+			"guid": "TRN-a9c69de7-ceb7-4150-add2-250de5071cfc",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Shipping",
+			"amount": 145.95,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "APPLE CASH - ADDED TO 1 INFINITE LOOP 877- Date 05/11/23 3131DJVXEXSY 4829 Transfers",
+			"description": "Transfer to Apple Pay",
+			"guid": "TRN-c0298cd1-64f3-4e75-a4c4-9f5a1c71b42b",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Transfer",
+			"amount": 13.0,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "#XX2699 IDENTITY INTELLIGENCE IIQ*IDENTITYIQ.COM HENDERSON NV Online Services",
+			"description": "IdentityIQ",
+			"guid": "TRN-8e86fe32-285c-499d-bc41-19d64a0518b1",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Fraud Protection",
+			"amount": 22.99,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "ERENTERPLAN.COM 2201 LAKESIDE BLVD XX5124 Date 3130DJQU89DR 6300 Insurance",
+			"description": "Erenterplan.com",
+			"guid": "TRN-9f0257fd-8d89-45f5-8fc3-361f21b6037d",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Home Insurance",
+			"amount": 27.84,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "DEPOSITIQ 2201 LAKESIDE BLVD 0154 TX Date 3130DJYSJO56 6300 Online Services",
+			"description": "Depositiq Lakeside Tx Date Djysjo Online Services",
+			"guid": "TRN-18d222c5-b676-43d0-85d7-7a7ff9b77190",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Uncategorized",
+			"amount": 437.5,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "APPLE CASH - ADDED TO 1 INFINITE LOOP 877- Date 05/10/23 3130DJ04TP55 4829 ATM/Cash Withdrawals",
+			"description": "Transfer to Apple Pay",
+			"guid": "TRN-37a7bb97-dacb-4b3b-aeb1-e0f6a1d6e0c0",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Transfer",
+			"amount": 20.0,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "APPLE CASH - ADDED TO 1 INFINITE LOOP 877- Date 05/10/23 3130DJPWOP56 4829 ATM/Cash Withdrawals",
+			"description": "Transfer to Apple Pay",
+			"guid": "TRN-d11cc0a2-3778-4e71-b4f5-0c4c3ce9b6f1",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Transfer",
+			"amount": 10.0,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Shake Shack Restaurants & Dining",
+			"description": "Shake Shack",
+			"guid": "TRN-2e7595c8-c65b-46f6-b791-0619757d7a85",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Fast Food",
+			"amount": 20.01,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Jj Donut Shop Restaurants & Dining",
+			"description": "Donut Shop Restaurants & Dining",
+			"guid": "TRN-2c2e54c4-7f2f-434d-a3bd-2b5b649ca26a",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Fast Food",
+			"amount": 24.62,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Salary/Regular Income from G&A Partners Paychecks/Salary",
+			"description": "G & A Partners",
+			"guid": "TRN-3de10c86-1c3f-4e2b-bb9a-1d6d6ab13f97",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Paycheck",
+			"amount": 2058.47,
+			"date": "2023-06-29T19:37:06",
+			"type": "CREDIT"
+		},
+		{
+			"originalDescription": "Dave Inc Online Services",
+			"description": "Dave",
+			"guid": "TRN-2080a8e4-defb-4bdc-a35d-4eb2e4c4a510",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Service Fee",
+			"amount": 1.0,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "APPLE CASH - ADDED TO 1 INFINITE LOOP 877- Date 05/08/23 3128DJIM2941 4829 ATM/Cash Withdrawals",
+			"description": "Transfer to Apple Pay",
+			"guid": "TRN-302e1f0e-a775-4eea-ae58-b2ac26976f76",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Transfer",
+			"amount": 100.0,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Rewards from Progressive Corporation",
+			"description": "Rewards From Progressive Corporation",
+			"guid": "TRN-f4f8ce26-ffa3-4ef0-afbe-d4877d37dd9e",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Transfer",
+			"amount": 76.39,
+			"date": "2023-06-29T19:37:06",
+			"type": "CREDIT"
+		},
+		{
+			"originalDescription": "APPLE CASH - ADDED TO 1 INFINITE LOOP 877- Date 05/07/23 3127DJT8CDDG 4829 ATM/Cash Withdrawals",
+			"description": "Transfer to Apple Pay",
+			"guid": "TRN-996f334f-b135-4a92-9825-720d6aafecdb",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Transfer",
+			"amount": 200.0,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Taco Bell Restaurants & Dining",
+			"description": "Taco Bell",
+			"guid": "TRN-d36f275d-c2ca-4cfb-8f1d-5242a4a321a9",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Fast Food",
+			"amount": 10.13,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "APPLE CASH - SENT MONE 1 INFINITE LOOP 877 Date 05/05/23 3125DJQ6Y4KH 4829 ATM/Cash Withdrawals",
+			"description": "Transfer to Apple Pay",
+			"guid": "TRN-52bcc858-6f87-4feb-92ff-4b374d5febf1",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Transfer",
+			"amount": 150.0,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "APPLE CASH - SENT MONE 1 INFINITE LOOP 877 Date 05/05/23 3125DJEL8KIX 4829 ATM/Cash Withdrawals",
+			"description": "Transfer to Apple Pay",
+			"guid": "TRN-697903f6-7aec-42e5-8f08-d4df002eb964",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Transfer",
+			"amount": 150.0,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Chegg Education",
+			"description": "Chegg",
+			"guid": "TRN-afea8a3d-cca7-4ada-af72-3b81d286c646",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Education",
+			"amount": 19.95,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "APPLE CASH - SENT MONE 1 INFINITE LOOP 877 Date 05/05/23 3125DJBF9JR3 4829 ATM/Cash Withdrawals",
+			"description": "Transfer to Apple Pay",
+			"guid": "TRN-0375ffce-af1c-4e0e-aa25-f3763074b099",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Transfer",
+			"amount": 40.0,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "APPLE CASH - ADDED TO 1 INFINITE LOOP 877- Date 05/05/23 3125DJB5C88J 4829 ATM/Cash Withdrawals",
+			"description": "Transfer to Apple Pay",
+			"guid": "TRN-03f10508-0006-4c35-8c51-4c3bf140c683",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Transfer",
+			"amount": 100.0,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "DAVE.COM 1265 S COCHRAN AVE 5209 CA Date 3125DJSVNULR 6012 Other Expenses",
+			"description": "Dave.com",
+			"guid": "TRN-2cb08a48-2e94-4798-a594-146d676441e8",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Transfer",
+			"amount": 75.75,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "APPLE CASH - ADDED TO 1 INFINITE LOOP 877- Date 05/06/23 3126DJAILWD5 4829 ATM/Cash Withdrawals",
+			"description": "Transfer to Apple Pay",
+			"guid": "TRN-119b71cd-c8de-4534-b8e4-9b2ca7c044f5",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Transfer",
+			"amount": 100.0,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Upscale Nails Personal Care & Fitness",
+			"description": "Upscale Nails Personal Care & Fitness",
+			"guid": "TRN-17018016-a51b-452c-b01c-e357405e8908",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Health & Fitness",
+			"amount": 73.0,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Department Of Veteran Affairs Deposit Deposits",
+			"description": "Veterans Affairs",
+			"guid": "TRN-b9b9e70d-a925-4f8b-a248-03f3d630529f",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Health & Fitness",
+			"amount": 613.15,
+			"date": "2023-06-29T19:37:06",
+			"type": "CREDIT"
+		},
+		{
+			"originalDescription": "7-Eleven Groceries",
+			"description": "7-Eleven",
+			"guid": "TRN-fdc82ec2-a68b-4617-97a0-5c04f1ffc1e7",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Gas",
+			"amount": 60.0,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Deposit by Check MOBILE CHECK DEPOSIT: REF: 9398 Deposits",
+			"description": "Mobile Check Deposit",
+			"guid": "TRN-fc214299-4456-4055-8b69-e481831acd72",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Income",
+			"amount": 1065.57,
+			"date": "2023-06-29T19:37:06",
+			"type": "CREDIT"
+		},
+		{
+			"originalDescription": "Transfer to Transform Transfers",
+			"description": "Transfer to Transform Transfers",
+			"guid": "TRN-236f85b6-3341-4e2f-ba09-59e29478eaf2",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Transfer",
+			"amount": 5.0,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Courtesy Pay fee Service Charges & Fees",
+			"description": "Fee",
+			"guid": "TRN-be250e30-e38f-4789-ad2c-3b2febdb23a3",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Fees & Charges",
+			"amount": 26.0,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Albert Corporation Online Services",
+			"description": "Albert Corporation Online Services",
+			"guid": "TRN-fde7c472-c962-4e9b-94ec-167b8ef6d358",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Transfer",
+			"amount": 41.99,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Courtesy Pay fee Service Charges & Fees",
+			"description": "Fee",
+			"guid": "TRN-e8b24ce7-b1ee-44c0-865d-373db93ceb41",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Fees & Charges",
+			"amount": 26.0,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "APPLE CASH - ADDED TO 1 INFINITE LOOP 877- Date 04/15/23 3105DJQHNACB 4829 ATM/Cash Withdrawals",
+			"description": "Transfer to Apple Pay",
+			"guid": "TRN-6419c080-c6fc-47b2-a03a-ae24fc4ae6ca",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Transfer",
+			"amount": 76.76,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "DAVE.COM 1265 S COCHRAN AVE 5209 CA Date 3104DJMSDFFE 6012 Restaurants & Dining",
+			"description": "Dave.com",
+			"guid": "TRN-8218f0f0-fce3-43e6-bb6d-f03149fa2418",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Transfer",
+			"amount": 60.6,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "U-HAULDUNWOODY FOOD MA 4639 N SHALLOWFORD Date 04/14/23 3104DJI7N98N 7513 Rent",
+			"description": "U-Haul",
+			"guid": "TRN-722ff764-2ea6-40c7-b8d6-0992a75c471b",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Home Services",
+			"amount": 1345.8,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Chick-fil-A Restaurants & Dining",
+			"description": "Chick-fil-A",
+			"guid": "TRN-bbaea164-72fc-449e-8e2d-660e1add37e3",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Fast Food",
+			"amount": 20.78,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Apple Cash Deposit Deposits",
+			"description": "Transfer from Apple Pay",
+			"guid": "TRN-92d9e83e-101b-47f3-9738-338584b979bc",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Transfer",
+			"amount": 197.0,
+			"date": "2023-06-29T19:37:06",
+			"type": "CREDIT"
+		},
+		{
+			"originalDescription": "Apple Electronics & Equipment",
+			"description": "Apple Electronics & Equipment",
+			"guid": "TRN-11a0bae7-0b90-41e3-8d3d-63474bf3921f",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Entertainment",
+			"amount": 2.99,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "BYE BYE HAIR BRAZILIAN 2500 OLD ALABAMA RD Date 3102DJVZDJY5 7230 Personal Care & Fitness",
+			"description": "Bye Hair Brazilian Old Alabama Date Djvzdjy Personal Care & Fitness",
+			"guid": "TRN-4bcf6572-bba9-46c0-821c-b82854f01d18",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Hair",
+			"amount": 67.0,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "HelloFresh Groceries",
+			"description": "HelloFresh",
+			"guid": "TRN-c49789bc-138b-45f0-9fee-e1de57981731",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Groceries",
+			"amount": 73.57,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Delta Community Credit Union Online Services",
+			"description": "Delta Community Credit Union Online Services",
+			"guid": "TRN-a6b55655-a971-4042-be84-d01656ffd042",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Uncategorized",
+			"amount": 1499.99,
+			"date": "2023-06-29T19:37:06",
+			"type": "CREDIT"
+		},
+		{
+			"originalDescription": "Starbucks Restaurants & Dining",
+			"description": "Starbucks",
+			"guid": "TRN-15fe289a-8b68-4778-a221-78dc120f464c",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Coffee Shops",
+			"amount": 27.81,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Chick-fil-A Restaurants & Dining",
+			"description": "Chick-fil-A",
+			"guid": "TRN-1c5bf977-5845-4b7f-ab3f-63b097abbca3",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Fast Food",
+			"amount": 10.23,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Starbucks Restaurants & Dining",
+			"description": "Starbucks",
+			"guid": "TRN-d23e0460-c32f-4926-81bf-2e02fa8d5ef2",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Coffee Shops",
+			"amount": 12.45,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "ATM Withdrawal at Apple Cash ATM/Cash Withdrawals",
+			"description": "Transfer to Apple Pay",
+			"guid": "TRN-717b3374-7367-4f92-8a52-9693bac2d93f",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Transfer",
+			"amount": 28.5,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Transfer to Dave.com Transfers",
+			"description": "Dave.com",
+			"guid": "TRN-195d656d-eab9-489b-9700-c4b658fd2b42",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Transfer",
+			"amount": 104.99,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Courtesy Pay fee Service Charges & Fees",
+			"description": "Fee",
+			"guid": "TRN-c09643fc-3ae3-40bc-a6bf-335fe6e8a10f",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Fees & Charges",
+			"amount": 26.0,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "APPLE CASH - SENT MONE 1 INFINITE LOOP 877 Date 04/04/23 3094DJMFZL5L 4829 ATM/Cash Withdrawals",
+			"description": "Transfer to Apple Pay",
+			"guid": "TRN-6b92317a-53be-4d14-8998-b8c58e84469e",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Transfer",
+			"amount": 20.0,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Cactus Cantina Restaurants & Dining",
+			"description": "Cactus Cantina Restaurants & Dining",
+			"guid": "TRN-77bae96d-f860-4fea-a3ef-05cdce68733e",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Restaurants",
+			"amount": 46.0,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "APPLE CASH - SENT MONE 1 INFINITE LOOP 877 Date 04/03/23 3093DJQZXG13 4829 ATM/Cash Withdrawals",
+			"description": "Transfer to Apple Pay",
+			"guid": "TRN-567a1819-9505-4bb3-b93c-3e5861215783",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Transfer",
+			"amount": 155.0,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "USPS Postage and Shipping",
+			"description": "US Postal Service",
+			"guid": "TRN-fb66e406-b09b-496d-963e-ec9b74beea88",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Shipping",
+			"amount": 28.75,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Sports & Social Detroit Restaurants & Dining",
+			"description": "Sports & Social Detroit Restaurants Dining",
+			"guid": "TRN-3bbb1468-d66d-443e-be6f-f90ff213ee45",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Sporting Goods",
+			"amount": 19.0,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Waffle House Restaurants & Dining",
+			"description": "Waffle House",
+			"guid": "TRN-351bd397-f80a-41e0-b9cf-6b95b5849b5c",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Restaurants",
+			"amount": 13.0,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "WWW.SPRINGSCINEMA.COM 3652 CHERBOURG WAYSU Date 3092DJGIQ2H3 5999 Entertainment",
+			"description": "Springscinema.com",
+			"guid": "TRN-295b5b14-b4e2-4e66-8210-343b3b16cc9b",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Movies & DVDs",
+			"amount": 17.24,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Chick-fil-A Restaurants & Dining",
+			"description": "Chick-fil-A",
+			"guid": "TRN-47d6d6a5-c799-477a-8539-121a2cc4961c",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Fast Food",
+			"amount": 20.54,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Navy Federal Credit Union Online Services",
+			"description": "Navy Federal Credit Union Online Services",
+			"guid": "TRN-c11f67ad-fe63-4921-9d85-ece0ae7ffad4",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Credit Card Payment",
+			"amount": 103.0,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "First Watch Restaurants & Dining",
+			"description": "First Watch",
+			"guid": "TRN-62f4281f-4ba6-4980-b1ee-9f23ac6b0922",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Restaurants",
+			"amount": 44.7,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Apple Electronics & Equipment",
+			"description": "Apple Electronics & Equipment",
+			"guid": "TRN-7cabb1be-60ba-4f42-99ea-f339904d981e",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Entertainment",
+			"amount": 5.99,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Starbucks Restaurants & Dining",
+			"description": "Starbucks",
+			"guid": "TRN-019cde63-d383-4e6f-b567-e73b89a1d183",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Coffee Shops",
+			"amount": 9.91,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Walgreens Healthcare & Pharmacy",
+			"description": "Walgreens",
+			"guid": "TRN-38ce0865-41a4-4796-a010-db76b13a5915",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Pharmacy",
+			"amount": 25.92,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Department Of Veteran Affairs Deposit Deposits",
+			"description": "Veterans Affairs",
+			"guid": "TRN-e72698f1-d349-4960-be3e-6c6eea5fd76c",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Health & Fitness",
+			"amount": 625.67,
+			"date": "2023-06-29T19:37:06",
+			"type": "CREDIT"
+		},
+		{
+			"originalDescription": "Apple Cash Deposit Deposits",
+			"description": "Transfer from Apple Pay",
+			"guid": "TRN-1803648e-7763-40c4-bb57-66cd9cd96cfe",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Transfer",
+			"amount": 108.35,
+			"date": "2023-06-29T19:37:06",
+			"type": "CREDIT"
+		},
+		{
+			"originalDescription": "Chevron Gasoline/Fuel",
+			"description": "Chevron",
+			"guid": "TRN-61658728-7a37-4faf-9144-cdef8f6a0a22",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Gas",
+			"amount": 103.0,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Transfer to Transform Transfers",
+			"description": "Transfer to Transform Transfers",
+			"guid": "TRN-af3d25e9-0f97-448e-a7bb-dc9bef9f3d8d",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Transfer",
+			"amount": 5.0,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "KFC Restaurants & Dining",
+			"description": "KFC",
+			"guid": "TRN-54e03eae-ac01-49ed-beb3-6d8d41917523",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Fast Food",
+			"amount": 16.87,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "SQ *SBL SALON AND SUIT 1901 TERRELL MILL R Date 3086DJLKTQ3V 7298 Personal Care & Fitness",
+			"description": "Sbl Salon and Suit 1901 Terrell Mill R",
+			"guid": "TRN-63749878-9801-4375-9c43-3cc0df97a50b",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Hair",
+			"amount": 147.5,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "#272305 DELTA COMMUNITY CREDIT UN 11575 HAYNES BRIDGE ROA ALPHARETTA GE Other Income",
+			"description": "Delta Community Credit Un Haynes Bridge Roa Alpharetta Ge Other Income",
+			"guid": "TRN-211d70b3-5f81-4232-aba9-d322596a8d3c",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Income",
+			"amount": 201.22,
+			"date": "2023-06-29T19:37:06",
+			"type": "CREDIT"
+		},
+		{
+			"originalDescription": "THE VAULT OF DOWNTOWN 1920 3RD AVENUE NORT Date 03/26/23 3085DJ6AO1MV 5813 Restaurants & Dining",
+			"description": "The Vault of Downtown 3rd Avenue Nort Ao Restaurants & Dining",
+			"guid": "TRN-e789dd86-8937-4676-aa9c-6eeef4a62a3e",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Food & Dining",
+			"amount": 45.0,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Cru Charitable Giving",
+			"description": "Cru Charitable Giving",
+			"guid": "TRN-6c8e9c0d-18ae-45a8-9988-710ca98a92bd",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Transfer",
+			"amount": 38.1,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "CASSANOVA BAR LOUNGE 2312 1ST AVE N BIRMIN Date 3083DJJV515G 5813 Restaurants & Dining",
+			"description": "Cassanova Bar Lounge 1st Ave N Birmin Date G Restaurants & Dining",
+			"guid": "TRN-a068b3ca-cc3b-4353-aab9-b464dce70797",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Food & Dining",
+			"amount": 20.68,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Cru Charitable Giving",
+			"description": "Cru Charitable Giving",
+			"guid": "TRN-3933a887-a9df-46c1-a7b5-aeec45989b78",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Transfer",
+			"amount": 7.44,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Big Daddy's Restaurants & Dining",
+			"description": "Big Daddy's Restaurants & Dining",
+			"guid": "TRN-2d464fc3-42c6-4604-8989-400a67e2ac69",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Food & Dining",
+			"amount": 5.03,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "ParkMobile Travel & Commute",
+			"description": "ParkMobile",
+			"guid": "TRN-028e1f2e-4494-4b63-a1c9-9fcc064d7eea",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Parking",
+			"amount": 0.45,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Apple Cash Deposit Deposits",
+			"description": "Transfer from Apple Pay",
+			"guid": "TRN-c6885422-9df0-4495-a2c4-4ca0c87e6888",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Transfer",
+			"amount": 39.4,
+			"date": "2023-06-29T19:37:06",
+			"type": "CREDIT"
+		},
+		{
+			"originalDescription": "#XX4274 S and G x 610 3rd Ave West Birmingham AL Other Expenses",
+			"description": "S and G X 3rd Ave West Birmingham Al Other Expenses",
+			"guid": "TRN-85f5e245-02ff-4b9f-a2f5-aa3b9bac6656",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Uncategorized",
+			"amount": 105.0,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Apple Cash Deposit Deposits",
+			"description": "Transfer from Apple Pay",
+			"guid": "TRN-dd4639fb-7010-4c54-8c29-42cf38ca6d7f",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Transfer",
+			"amount": 49.25,
+			"date": "2023-06-29T19:37:06",
+			"type": "CREDIT"
+		},
+		{
+			"originalDescription": "Chevron Gasoline/Fuel",
+			"description": "Chevron",
+			"guid": "TRN-21b6d947-be91-4bb5-af5a-a0c30379006e",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Gas",
+			"amount": 4.07,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Chevron Gasoline/Fuel",
+			"description": "Chevron",
+			"guid": "TRN-ed25dd4e-1784-4d11-a369-e748e35952d5",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Gas",
+			"amount": 7.52,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Apple Cash Deposit Deposits",
+			"description": "Transfer from Apple Pay",
+			"guid": "TRN-8ce5b2ce-f2e9-4efa-9696-ba28d2987123",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Transfer",
+			"amount": 118.2,
+			"date": "2023-06-29T19:37:06",
+			"type": "CREDIT"
+		},
+		{
+			"originalDescription": "Walmart Shopping",
+			"description": "Walmart",
+			"guid": "TRN-34f663e3-4fea-4c11-9d40-2ba7bc8700d0",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Shopping",
+			"amount": 41.9,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Chevron Gasoline/Fuel",
+			"description": "Chevron",
+			"guid": "TRN-29c2823a-de09-47be-9f14-86cf275d6a72",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Gas",
+			"amount": 9.22,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Chevron Gasoline/Fuel",
+			"description": "Chevron",
+			"guid": "TRN-940f9b03-69f3-4e91-b760-156346182ce8",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Gas",
+			"amount": 7.09,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Payment to Chrysler Capital Loans",
+			"description": "Chrysler Capital Payment",
+			"guid": "TRN-8627b101-9d17-45ae-bbaf-f24bb84b003d",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Auto Payment",
+			"amount": 600.0,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "SNOOKS GRILL 8465 HOLCOMB BRIDGE RD MARIET Date 3074DJBNKP49 5812 Restaurants & Dining",
+			"description": "Snooks Grill Holcomb Bridge Mariet Date Restaurants & Dining",
+			"guid": "TRN-2336ad4c-948c-4f84-a256-757f0dac344b",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Restaurants",
+			"amount": 52.98,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Payment to Amazon Prime Dues and Subscriptions",
+			"description": "Amazon Prime Membership",
+			"guid": "TRN-b8778a17-c5b4-45fe-a5f1-123e3f0cab6f",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Shopping",
+			"amount": 16.19,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Waffle House Restaurants & Dining",
+			"description": "Waffle House",
+			"guid": "TRN-1f4e87c0-1269-4bd7-8de7-3d3f7954a92f",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Restaurants",
+			"amount": 9.8,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "McDonald's Restaurants & Dining",
+			"description": "McDonald's",
+			"guid": "TRN-cfa79ecc-889d-4726-a1d6-8bde6f2b7870",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Fast Food",
+			"amount": 7.41,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "SAWNEE EMC 543 ATLANTA RD 2363 GA Date 3076DJUQIP7Y 4900 Utilities",
+			"description": "Sawnee Emc Atlanta Ga Date Djuqip Y Utilities",
+			"guid": "TRN-880f3c79-6ff6-4045-a8bc-9aea2b29f889",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Utilities",
+			"amount": 55.0,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Amazon Shopping",
+			"description": "Amazon",
+			"guid": "TRN-6adbcead-fab2-4a89-b57c-57301055dde9",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Shopping",
+			"amount": 10.66,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "SQ *WEST SEATTLE HOOKA 2847 BUFORD HWY NE Date 03/18/23 3077DJC1N5TO 7991 Clothing",
+			"description": "West Seattle Hooka 2847 Buford Hwy Ne",
+			"guid": "TRN-b76f15c8-1d49-4f2e-b50b-e42b5a8efcd6",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Shopping",
+			"amount": 48.64,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Dave Inc Online Services",
+			"description": "Dave.com",
+			"guid": "TRN-f4093d60-2565-47cf-b4c4-b72cd21e6752",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Transfer",
+			"amount": 79.99,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Payment to Opensky Credit Card Payments",
+			"description": "Credit Card Payment",
+			"guid": "TRN-d3a85c8e-98c6-4c30-af51-fe3d9c132ee2",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Credit Card Payment",
+			"amount": 291.55,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Courtesy Pay fee Service Charges & Fees",
+			"description": "Fee",
+			"guid": "TRN-801a4eb3-7c3d-4519-9662-6bc6e41f6f3b",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Fees & Charges",
+			"amount": 26.0,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Amazon Shopping",
+			"description": "Amazon",
+			"guid": "TRN-ac5aa1ce-0575-4038-a90f-df6cd19787dd",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Shopping",
+			"amount": 8.61,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Amazon Shopping",
+			"description": "Amazon",
+			"guid": "TRN-60a72f04-d613-4078-a9af-eb1852032474",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Shopping",
+			"amount": 140.22,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "CAFE AU LAIT 2300 HOLCOMB BRIDGE RD ROSWEL Date 3075DJX31GEA 5814 Restaurants & Dining",
+			"description": "Cafe Au Lait Holcomb Bridge Roswel Date Gea Restaurants & Dining",
+			"guid": "TRN-af20398d-4cf1-4d5f-9ae9-013264768f42",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Food & Dining",
+			"amount": 18.0,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Apple Cash Deposit Deposits",
+			"description": "Transfer from Apple Pay",
+			"guid": "TRN-edcb88cf-17f2-482d-9a61-142f4b390e37",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Transfer",
+			"amount": 845.13,
+			"date": "2023-06-29T19:37:06",
+			"type": "CREDIT"
+		},
+		{
+			"originalDescription": "Apple Cash Deposit Deposits",
+			"description": "Transfer from Apple Pay",
+			"guid": "TRN-86e97bf0-b6eb-4efb-91d1-a65e09f4f892",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Transfer",
+			"amount": 157.6,
+			"date": "2023-06-29T19:37:06",
+			"type": "CREDIT"
+		},
+		{
+			"originalDescription": "Finish Line Clothing",
+			"description": "Finish Line",
+			"guid": "TRN-a3daaec4-6a0e-44f2-bb69-3de0caaf482f",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Clothing",
+			"amount": 218.72,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Amazon Shopping",
+			"description": "Amazon",
+			"guid": "TRN-3d7262f0-2abe-40bf-9912-15ffc7f08145",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Shopping",
+			"amount": 14.0,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Chevron Gasoline/Fuel",
+			"description": "Chevron",
+			"guid": "TRN-cffc5b17-cdcc-4e8b-8eeb-f623ffaa20f5",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Gas",
+			"amount": 50.0,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "APPLE CASH - SENT MONE 1 INFINITE LOOP 877 Date 03/15/23 3074DJL4D3NH 4829 ATM/Cash Withdrawals",
+			"description": "Transfer to Apple Pay",
+			"guid": "TRN-b2be24c1-4222-423a-96d7-1778efa23a55",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Transfer",
+			"amount": 10.0,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Chegg Education",
+			"description": "Chegg",
+			"guid": "TRN-56672cd4-a53f-4ad8-b49d-d9eeceeead63",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Education",
+			"amount": 19.95,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Amazon Shopping",
+			"description": "Amazon",
+			"guid": "TRN-84b0a063-4eb4-40a3-ac4e-3e8ee7acce36",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Shopping",
+			"amount": 87.44,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "SHEIN.COM 57 S ALAMEDA ST UNIT 22 LOS ANGE Date 3073DJFBW6RX 5699 Clothing",
+			"description": "Shein",
+			"guid": "TRN-f9192090-2c37-4a72-986e-0d7714a64776",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Clothing",
+			"amount": 244.91,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Southern Kitchen Restaurants & Dining",
+			"description": "Southern Kitchen Restaurants & Dining",
+			"guid": "TRN-d8fa8f7b-3b25-40fe-a048-6f26994c76f0",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Food & Dining",
+			"amount": 46.02,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "AMC Theatres Entertainment",
+			"description": "AMC Theatres",
+			"guid": "TRN-ee776959-a3db-4e96-a8f4-1d9a4a49c660",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Movies & DVDs",
+			"amount": 46.61,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Starbucks Restaurants & Dining",
+			"description": "Starbucks",
+			"guid": "TRN-e25fb154-1b2a-4a3e-85dd-571ef4249364",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Coffee Shops",
+			"amount": 28.37,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "AMC Theatres Entertainment",
+			"description": "AMC Theatres",
+			"guid": "TRN-f0ed60d7-2fca-4bbe-9b59-d44852846aa2",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Movies & DVDs",
+			"amount": 17.94,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Chevron Gasoline/Fuel",
+			"description": "Chevron",
+			"guid": "TRN-672846f6-73ed-49e7-85a9-8da89333b792",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Gas",
+			"amount": 10.0,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Amazon Shopping",
+			"description": "Amazon",
+			"guid": "TRN-e06aed86-e2ab-4588-b107-0082b7845c68",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Shopping",
+			"amount": 30.16,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Amazon Shopping",
+			"description": "Amazon",
+			"guid": "TRN-1f9c61a6-0119-4149-9ac0-e1ec33ec3c24",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Shopping",
+			"amount": 73.25,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Nike Clothing",
+			"description": "Nike",
+			"guid": "TRN-5c64229b-62b7-41ad-bc46-aee90f80ed77",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Clothing",
+			"amount": 96.98,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Nike Clothing",
+			"description": "Nike",
+			"guid": "TRN-0aa858c7-82ae-4f55-8456-8fba6d5988d5",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Clothing",
+			"amount": 325.38,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "EMPOWER 660 YORK STREET102 SAN FRANCISCO C Date 3072DJNURQFY 6051 Other Expenses",
+			"description": "Empower York Street San Francisco Date Djnurqfy Other Expenses",
+			"guid": "TRN-a42e6452-6a55-4853-82b0-62c9b8747a20",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Uncategorized",
+			"amount": 8.0,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Amazon Shopping",
+			"description": "Amazon",
+			"guid": "TRN-da3ae9a0-d912-4e13-9dba-eae6ef0677a1",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Shopping",
+			"amount": 25.74,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "SNOOKS GRILL 8465 HOLCOMB BRIDGE RD MARIET Date 3067DJ9WTC49 5812 Restaurants & Dining",
+			"description": "Snooks Grill Holcomb Bridge Mariet Date Restaurants & Dining",
+			"guid": "TRN-1efe0d7a-ac25-4b15-baab-ab5566833f90",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Restaurants",
+			"amount": 52.33,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Taco Bell Restaurants & Dining",
+			"description": "Taco Bell",
+			"guid": "TRN-a658d5b8-2d2e-438d-86f0-26319406f74c",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Fast Food",
+			"amount": 10.55,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Chick-fil-A Restaurants & Dining",
+			"description": "Chick-fil-A",
+			"guid": "TRN-ff3c39b8-fb87-4ba5-b7a7-46ed5847404c",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Fast Food",
+			"amount": 15.52,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "APPLE CASH - SENT MONE 1 INFINITE LOOP 877 Date 03/11/23 3070DJCRM7D6 4829 ATM/Cash Withdrawals",
+			"description": "Transfer to Apple Pay",
+			"guid": "TRN-6a3665c4-e0f2-4bf7-a85f-1345c35309d3",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Transfer",
+			"amount": 20.0,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Apple Electronics & Equipment",
+			"description": "Apple Electronics & Equipment",
+			"guid": "TRN-69fc4c6b-7928-42b1-995f-76562086f9b4",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Entertainment",
+			"amount": 9.99,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "BYE BYE HAIR BRAZILIAN 2500 OLD ALABAMA RD Date 3069DJE8VBRO 7230 Personal Care & Fitness",
+			"description": "Bye Hair Brazilian Old Alabama Date Dje Vbro Personal Care & Fitness",
+			"guid": "TRN-2c08ce9a-842a-455a-be00-39120516f462",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Hair",
+			"amount": 60.0,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Apple Electronics & Equipment",
+			"description": "Apple Electronics & Equipment",
+			"guid": "TRN-2147d3d1-84ce-4aad-a6e0-01d599b5e72f",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Entertainment",
+			"amount": 23.99,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Apple Electronics & Equipment",
+			"description": "Apple Electronics & Equipment",
+			"guid": "TRN-e1ddf8ee-72c4-4544-864c-44ff391b49f6",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Entertainment",
+			"amount": 2.99,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "RaceTrac Gasoline/Fuel",
+			"description": "Racetrac",
+			"guid": "TRN-1d5f2623-b8b1-4375-bddb-efb120daf7d0",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Gas",
+			"amount": 46.67,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Rewards from Walmart",
+			"description": "Walmart",
+			"guid": "TRN-22bb6bc2-51db-41ab-8551-60d8441bfa3f",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Shopping",
+			"amount": 1.56,
+			"date": "2023-06-29T19:37:06",
+			"type": "CREDIT"
+		},
+		{
+			"originalDescription": "DAVE.COM 1265 S COCHRAN AVE 5209 CA Date 3068DJRLDHVH 6012 Other Expenses",
+			"description": "Dave.com",
+			"guid": "TRN-495fed83-8c89-4400-8c62-701cb67da864",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Transfer",
+			"amount": 101.0,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "APPLE CASH - SENT MONE 1 INFINITE LOOP 877 Date 03/09/23 3068DJLKTH0P 4829 ATM/Cash Withdrawals",
+			"description": "Transfer to Apple Pay",
+			"guid": "TRN-f3adb23f-5b68-4ae6-98e2-bbe6ac490296",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Transfer",
+			"amount": 110.0,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "SQ *SBL SALON AND SUIT 1810 WATER PL SE GO Date 3068DJS48ZJK 7298 Personal Care & Fitness",
+			"description": "Sbl Salon and Suit 1810 Water Pl Se Go",
+			"guid": "TRN-502fdfae-3ab8-4d15-9988-a23528206a79",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Hair",
+			"amount": 145.0,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Payment to Progressive Corporation Insurance",
+			"description": "Payment to Progressive Corporation Insurance",
+			"guid": "TRN-2b66acab-393f-480f-9ca0-733356a9f57a",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Financial",
+			"amount": 301.6,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "APPLE CASH - SENT MONE 1 INFINITE LOOP 877 Date 03/09/23 3068DJAHSPHM 4829 ATM/Cash Withdrawals",
+			"description": "Transfer to Apple Pay",
+			"guid": "TRN-62e2741e-33f0-40dd-bb9c-5b1140ea22d9",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Transfer",
+			"amount": 25.0,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Walmart Shopping",
+			"description": "Walmart",
+			"guid": "TRN-46b3641b-69ea-4ab0-ac80-bb7d50465744",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Shopping",
+			"amount": 23.74,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Wells Fargo Bank Other Expenses",
+			"description": "Wells Fargo",
+			"guid": "TRN-c85aefa6-83f9-4bcc-b90c-1aa4595be2b4",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Financial",
+			"amount": 603.0,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "APPLE CASH - SENT MONE 1 INFINITE LOOP 877 Date 03/08/23 3067DJPIH00K 4829 ATM/Cash Withdrawals",
+			"description": "Transfer to Apple Pay",
+			"guid": "TRN-e0644469-9bd9-4513-b725-675491719f42",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Transfer",
+			"amount": 72.79,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Walmart Shopping",
+			"description": "Walmart",
+			"guid": "TRN-20f2de23-832a-4c16-b11d-7a5249e3208a",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Shopping",
+			"amount": 5.0,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "DoorDash Restaurants & Dining",
+			"description": "DoorDash",
+			"guid": "TRN-57742c5c-d213-42bb-b3ae-f589e856ef00",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Food & Dining",
+			"amount": 29.83,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Amazon Shopping",
+			"description": "Amazon",
+			"guid": "TRN-bbb8471c-9193-447b-8e24-17fa6f63a372",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Shopping",
+			"amount": 183.01,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Amazon Shopping",
+			"description": "Amazon",
+			"guid": "TRN-bfef9520-d913-47d6-8482-cf4ea62e3545",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Shopping",
+			"amount": 84.12,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Amazon Shopping",
+			"description": "Amazon",
+			"guid": "TRN-77d8103f-d790-4a60-b489-3c84e56c8acb",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Shopping",
+			"amount": 53.75,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Amazon Shopping",
+			"description": "Amazon",
+			"guid": "TRN-f9c741fe-9833-497b-b3b1-564dda83da66",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Shopping",
+			"amount": 107.7,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Payment to Oscar Health Insurance",
+			"description": "Payment to Oscar Health Insurance",
+			"guid": "TRN-a609ee3f-7090-4952-8bfd-4c78d27c3d2f",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Health Insurance",
+			"amount": 226.65,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "SHEIN.COM 57 S ALAMEDA ST UNIT 22 LOS ANGE Date 3066DJ8FQG61 5699 Clothing",
+			"description": "Shein",
+			"guid": "TRN-2c83084e-e93c-49be-b216-1a3fe56edd70",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Clothing",
+			"amount": 180.87,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Amazon Shopping",
+			"description": "Amazon",
+			"guid": "TRN-58c0b5b2-743f-457d-adf3-1e2ff653d984",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Shopping",
+			"amount": 8.61,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Chick-fil-A Restaurants & Dining",
+			"description": "Chick-fil-A",
+			"guid": "TRN-8c4640e8-bc57-407e-8c1d-366de0dc65ed",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Fast Food",
+			"amount": 20.78,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Amazon Shopping",
+			"description": "Amazon",
+			"guid": "TRN-26180517-4f40-4613-b2eb-347f5bf053de",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Shopping",
+			"amount": 16.15,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Amazon Shopping",
+			"description": "Amazon",
+			"guid": "TRN-fd5317c8-3c4c-4018-8910-42a4813dbc79",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Shopping",
+			"amount": 28.02,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Walmart Shopping",
+			"description": "Walmart",
+			"guid": "TRN-d195a5e5-55dd-4ce7-8848-078c316e464f",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Shopping",
+			"amount": 94.82,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Amazon Shopping",
+			"description": "Amazon",
+			"guid": "TRN-db40701e-391b-49b0-ba89-755abbd0cce1",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Shopping",
+			"amount": 118.51,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "DoorDash Restaurants & Dining",
+			"description": "DoorDash",
+			"guid": "TRN-9cd2b0aa-721f-41d3-ab53-df5dbc86c4ee",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Food & Dining",
+			"amount": 52.92,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "APPLE CASH - SENT MONE 1 INFINITE LOOP 877 Date 03/06/23 3065DJWAZ85U 4829 ATM/Cash Withdrawals",
+			"description": "Transfer to Apple Pay",
+			"guid": "TRN-9d33b16f-4a2b-4d1b-bac4-b96c4fb30233",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Transfer",
+			"amount": 38.8,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Payment to Verizon Wireless Telephone Services",
+			"description": "Verizon",
+			"guid": "TRN-4a0a4a58-b08c-449c-b25c-c2ec2469e84c",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Mobile Phone",
+			"amount": 321.1,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "RFS*VENDENGINE 1000 HEALTH PARK DRIVE 855- Date 03/05/23 3064DJFXM9U2 9399 Healthcare & Pharmacy",
+			"description": "Vendengine Health Park Drive U Healthcare & Pharmacy",
+			"guid": "TRN-8184cfd5-8123-4263-b9d3-f1a01365a7fd",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Pharmacy",
+			"amount": 30.19,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "AMC Theatres Entertainment",
+			"description": "AMC Theatres",
+			"guid": "TRN-8350e758-7ed4-4177-8285-088efed29e50",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Movies & DVDs",
+			"amount": 32.41,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "YMCA Personal Care & Fitness",
+			"description": "the YMCA",
+			"guid": "TRN-a6ace5e9-6a6e-4911-a426-584f86c21f88",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Health & Fitness",
+			"amount": 282.5,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Salary/Regular Income from Treasury.gov Paychecks/Salary",
+			"description": "Salary Regular Income From Treasury Gov Paychecks",
+			"guid": "TRN-19fc4f5c-2878-4df0-8580-c08312fdeeea",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Paycheck",
+			"amount": 938.5,
+			"date": "2023-06-29T19:37:06",
+			"type": "CREDIT"
+		},
+		{
+			"originalDescription": "ATM Withdrawal at Albert Corporation ATM/Cash Withdrawals",
+			"description": "ATM Withdrawal",
+			"guid": "TRN-20d958d5-7aa5-4fdd-bb88-1816decef20c",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Cash",
+			"amount": 50.0,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "SNOOKS GRILL 8465 HOLCOMB BRIDGE RD MARIET Date 3062DJZKN9FK 5812 Restaurants & Dining",
+			"description": "Snooks Grill Holcomb Bridge Mariet Date Restaurants & Dining",
+			"guid": "TRN-5fa22e8b-d392-4c14-b3e9-f56517e9275b",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Restaurants",
+			"amount": 181.88,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "APPLE CASH - ADDED TO 1 INFINITE LOOP 877- Date 03/05/23 3064DJNXDF2C 4829 ATM/Cash Withdrawals",
+			"description": "Transfer to Apple Pay",
+			"guid": "TRN-24d4ae49-af3b-4f6c-936d-53250720ffcd",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Transfer",
+			"amount": 10.0,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "SNOOKS GRILL 8465 HOLCOMB BRIDGE RD MARIET Date 3061DJM24TPF 5812 Restaurants & Dining",
+			"description": "Snooks Grill Holcomb Bridge Mariet Date Restaurants & Dining",
+			"guid": "TRN-949431d9-b9ac-4686-9f4f-ab44108dff8b",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Restaurants",
+			"amount": 58.15,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "SNOOKS GRILL 8465 HOLCOMB BRIDGE RD MARIET Date 3062DJVHMYFN 5812 Restaurants & Dining",
+			"description": "Snooks Grill Holcomb Bridge Mariet Date Djvhmyfn Restaurants & Dining",
+			"guid": "TRN-9bf2e01c-5a8f-4ef7-a211-f0aea24937e0",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Restaurants",
+			"amount": 28.39,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "SQ *SBL SALON AND SUIT 1901 TERRELL MILL R Date 3064DJKTAQV6 7298 Personal Care & Fitness",
+			"description": "Sbl Salon and Suit 1901 Terrell Mill R",
+			"guid": "TRN-a7eeeab6-9594-4865-8626-19941ec61b73",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Hair",
+			"amount": 155.25,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "APPLE CASH - SENT MONE 1 INFINITE LOOP 877 Date 03/03/23 3062DJWNE8E4 4829 ATM/Cash Withdrawals",
+			"description": "Transfer to Apple Pay",
+			"guid": "TRN-c4207398-9d44-4dd2-9cbd-750202d7c528",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Transfer",
+			"amount": 70.0,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Chick-fil-A Restaurants & Dining",
+			"description": "Chick-fil-A",
+			"guid": "TRN-0d7beb67-0751-4b17-82fa-9c62f09965d8",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Fast Food",
+			"amount": 30.66,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "APPLE CASH - ADDED TO 1 INFINITE LOOP 877- Date 03/03/23 3062DJFQMG7X 4829 ATM/Cash Withdrawals",
+			"description": "Transfer to Apple Pay",
+			"guid": "TRN-60b9a3f2-71cb-45e7-8eec-737e2e675a75",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Transfer",
+			"amount": 30.0,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "TST* CRU - ALPHARETTA x1105 STATE BRIDGE R Date 03/05/23 3064DJLNTON9 5813 Restaurants & Dining",
+			"description": "Cru Alpharetta X State Bridge R Djlnton Restaurants & Dining",
+			"guid": "TRN-ea20107d-1988-4855-a315-b66cff8ef01d",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Food & Dining",
+			"amount": 85.21,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Amazon Shopping",
+			"description": "Amazon",
+			"guid": "TRN-ac5808b8-8cfc-4650-8cf0-07beb5640001",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Shopping",
+			"amount": 57.29,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "APPLE CASH - ADDED TO 1 INFINITE LOOP 877- Date 03/04/23 3063DJHBMZBZ 4829 ATM/Cash Withdrawals",
+			"description": "Transfer to Apple Pay",
+			"guid": "TRN-4be2ee1d-9a0a-466f-8098-4956479f5da3",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Transfer",
+			"amount": 200.0,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "APPLE CASH - SENT MONE 1 INFINITE LOOP 877 Date 03/04/23 3063DJPR7154 4829 ATM/Cash Withdrawals",
+			"description": "Transfer to Apple Pay",
+			"guid": "TRN-de45fe0a-f855-4924-b878-937f31c0f2e8",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Transfer",
+			"amount": 35.0,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "BP Global Gasoline/Fuel",
+			"description": "Global Gasoline Fuel",
+			"guid": "TRN-9499c334-d0fe-4982-81d1-05f9ae592818",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Gas",
+			"amount": 10.0,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Chevron Gasoline/Fuel",
+			"description": "Chevron",
+			"guid": "TRN-2e755a59-76d6-4b79-83c5-fe2f43974e39",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Gas",
+			"amount": 123.0,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "#XX7041 IDENTITY INTELLIGENCE IIQ*IDENTITYIQ.COM HENDERSON NV Online Services",
+			"description": "IdentityIQ",
+			"guid": "TRN-1d9d4b28-e60b-4e26-9219-ebee2ab8ca81",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Fraud Protection",
+			"amount": 22.99,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Dave Inc Online Services",
+			"description": "Dave",
+			"guid": "TRN-b9dbd633-1c0c-4321-841d-e7b8507faae3",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Service Fee",
+			"amount": 1.0,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "#030610 DELTA COMMUNITY CREDIT UN 11575 HAYNES BRIDGE ROA ALPHARETTA GE Other Income",
+			"description": "Delta Community Credit Un Haynes Bridge Roa Alpharetta Ge Other Income",
+			"guid": "TRN-e411bd86-6377-4602-8c1b-60298b40eb1c",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Income",
+			"amount": 4680.33,
+			"date": "2023-06-29T19:37:06",
+			"type": "CREDIT"
+		},
+		{
+			"originalDescription": "Amazon Shopping",
+			"description": "Amazon",
+			"guid": "TRN-f149acb1-7db3-41ed-a75a-bc4121a55685",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Shopping",
+			"amount": 32.04,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Peachtree Home Supplies",
+			"description": "Peachtree Home Supplies",
+			"guid": "TRN-76f15f07-61e9-4562-915a-1d17b2c36cdb",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Transfer",
+			"amount": 60.0,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Payment to Comcast Cable & Satellite",
+			"description": "Comcast",
+			"guid": "TRN-c37dd78e-b0f2-436e-b975-a27b1d5f5d37",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Utilities",
+			"amount": 164.58,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Walgreens Healthcare & Pharmacy",
+			"description": "Walgreens",
+			"guid": "TRN-5ba28ecf-34d2-43c0-bd41-7ada61c4afd5",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Pharmacy",
+			"amount": 139.99,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Amazon Shopping",
+			"description": "Amazon",
+			"guid": "TRN-3aed0d6b-5f9a-4fbd-a425-348cf56315c1",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Shopping",
+			"amount": 29.62,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Amazon Shopping",
+			"description": "Amazon",
+			"guid": "TRN-15c294f4-5551-4274-a642-e19257643f7e",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Shopping",
+			"amount": 30.14,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "APPLE CASH - SENT MONE 1 INFINITE LOOP 877 Date 03/02/23 3061DJMLQ4JO 4829 ATM/Cash Withdrawals",
+			"description": "Transfer to Apple Pay",
+			"guid": "TRN-532d014a-18c0-458d-adf6-93886a96255d",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Transfer",
+			"amount": 70.0,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Amazon Shopping",
+			"description": "Amazon",
+			"guid": "TRN-795ec9d9-48e9-47a0-9e7d-cf19a023bfa0",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Shopping",
+			"amount": 12.25,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Chick-fil-A Restaurants & Dining",
+			"description": "Chick-fil-A",
+			"guid": "TRN-6b49537c-dc13-48ef-ac66-b87cbbadc13d",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Fast Food",
+			"amount": 10.23,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Apple Cash Deposit Deposits",
+			"description": "Transfer from Apple Pay",
+			"guid": "TRN-ca401a25-591e-45f2-add2-023961f079cf",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Transfer",
+			"amount": 137.9,
+			"date": "2023-06-29T19:37:06",
+			"type": "CREDIT"
+		},
+		{
+			"originalDescription": "McDonald's Restaurants & Dining",
+			"description": "McDonald's",
+			"guid": "TRN-9453fd73-bd67-4823-b396-c5e22c643b6b",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Fast Food",
+			"amount": 7.52,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Transfer to Dave.com Transfers",
+			"description": "Dave.com",
+			"guid": "TRN-cf0e51e6-cb9c-471f-b91d-3e75e22e775e",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Transfer",
+			"amount": 132.24,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Payment to Chrysler Capital Loans",
+			"description": "Chrysler Capital Payment",
+			"guid": "TRN-25c54d51-691e-430e-bb92-1e698ce33fee",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Auto Payment",
+			"amount": 556.62,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Amazon Shopping",
+			"description": "Amazon",
+			"guid": "TRN-caef0550-199a-4b59-b317-2786739646e4",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Shopping",
+			"amount": 290.93,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Amazon Shopping",
+			"description": "Amazon",
+			"guid": "TRN-af0e63da-cd80-4943-9bd5-f6aba2f99ba5",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Shopping",
+			"amount": 650.24,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Amazon Shopping",
+			"description": "Amazon",
+			"guid": "TRN-71686e39-acef-4089-b5f2-f3737c1cd22f",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Shopping",
+			"amount": 74.13,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Amazon Shopping",
+			"description": "Amazon",
+			"guid": "TRN-ca3e4fa7-a96d-4d7a-a2ab-b847b0a965cf",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Shopping",
+			"amount": 53.85,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Amazon Shopping",
+			"description": "Amazon",
+			"guid": "TRN-834261e7-19bb-49f3-b2bf-1264842a241d",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Shopping",
+			"amount": 32.3,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Amazon Marketplace Shopping",
+			"description": "Amazon",
+			"guid": "TRN-518db9d6-74c8-461d-9931-f328de94d1b5",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Shopping",
+			"amount": 96.96,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Walmart Shopping",
+			"description": "Walmart",
+			"guid": "TRN-9c7b8d3b-fdc4-47ac-aeaa-ef49331ec822",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Shopping",
+			"amount": 182.1,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Amazon Shopping",
+			"description": "Amazon",
+			"guid": "TRN-060da9cb-a142-470a-ae7d-0dccd78261a0",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Shopping",
+			"amount": 252.51,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Mr. Clean Carpet & Upholstery Cleaning Automotive Expenses",
+			"description": "Clean Carpet & Upholstery Cleaning Automotive Expenses",
+			"guid": "TRN-53882d04-edad-426b-a8be-e2eb1c1ca7cf",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Service & Parts",
+			"amount": 55.0,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "TIRES.COM-ONLINE-ORDER x0225 N SCOTTSDALE Date 02/27/23 3058DJPKUI6I 5532 Automotive Expenses",
+			"description": "Tires.com",
+			"guid": "TRN-835077ab-1618-4fdb-ac8c-de1fd1803938",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Service & Parts",
+			"amount": 736.35,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Mr. Clean Carpet & Upholstery Cleaning Automotive Expenses",
+			"description": "Clean Carpet & Upholstery Cleaning Automotive Expenses",
+			"guid": "TRN-e501dac5-0606-4ec7-953a-95363d610a29",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Service & Parts",
+			"amount": 249.95,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Walmart Shopping",
+			"description": "Walmart",
+			"guid": "TRN-677650bb-dc01-4fbb-abaf-4c430046c7ee",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Shopping",
+			"amount": 12.95,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Starbucks Restaurants & Dining",
+			"description": "Starbucks",
+			"guid": "TRN-82cfa0aa-1d72-4407-b5c6-a57dbec43218",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Coffee Shops",
+			"amount": 26.81,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Chick-fil-A Restaurants & Dining",
+			"description": "Chick-fil-A",
+			"guid": "TRN-bf7a142a-3634-4e3e-8af5-5722b9efb0d3",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Fast Food",
+			"amount": 9.27,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Transfer to Transform Transfers",
+			"description": "Transfer to Transform Transfers",
+			"guid": "TRN-4db2a0d6-0661-4143-9cbe-d5010e58b4c9",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Transfer",
+			"amount": 5.0,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "RELIANCE INMATE COMMUN 1533 S 42ND ST 7017 Date 3059DJCTW6BN 4812 Cable & Satellite",
+			"description": "Reliance Inmate Commun S 42nd St Date Cable & Satellite",
+			"guid": "TRN-4a2196f9-1df8-40aa-a9d2-1ec07947d7d0",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Television",
+			"amount": 33.99,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "ATM Withdrawal at Apple Cash ATM/Cash Withdrawals",
+			"description": "Transfer to Apple Pay",
+			"guid": "TRN-524c949f-f724-4e40-8ea6-a557c1502c74",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Transfer",
+			"amount": 659.97,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Pavilion Dental Personal Care & Fitness",
+			"description": "Pavilion Dental Personal Care & Fitness",
+			"guid": "TRN-5a154ac9-38c5-4546-a390-69c384ddae55",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Dentist",
+			"amount": 95.0,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "APPLE CASH - SENT MONE 1 INFINITE LOOP 877 Date 02/27/23 3058DJGLB6BN 4829 ATM/Cash Withdrawals",
+			"description": "Transfer to Apple Pay",
+			"guid": "TRN-8c85a726-fed0-48c9-a075-f9dc5f60cf93",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Transfer",
+			"amount": 150.0,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Amazon Shopping",
+			"description": "Amazon",
+			"guid": "TRN-70efa24b-ce6b-45b2-a2b9-68d044d65c31",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Shopping",
+			"amount": 10.76,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "APPLE CASH - SENT MONE 1 INFINITE LOOP 877 Date 02/27/23 3058DJZ4H57O 4829 ATM/Cash Withdrawals",
+			"description": "Transfer to Apple Pay",
+			"guid": "TRN-2e748cbe-407d-4eaa-9ae4-d56380ae675e",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Transfer",
+			"amount": 25.0,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Amazon Shopping",
+			"description": "Amazon",
+			"guid": "TRN-b25e10d8-23e4-4ffe-8aec-2ce66f3aad0a",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Shopping",
+			"amount": 3.02,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Amazon Shopping",
+			"description": "Amazon",
+			"guid": "TRN-d068e06a-cbaf-4458-9a4c-db176ab35818",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Shopping",
+			"amount": 33.77,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Chevron Gasoline/Fuel",
+			"description": "Chevron",
+			"guid": "TRN-f6226f33-2992-4719-8591-60ae615b3942",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Gas",
+			"amount": 7.52,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "ATM Withdrawal at Apple Cash ATM/Cash Withdrawals",
+			"description": "Transfer to Apple Pay",
+			"guid": "TRN-0b852db6-5314-4538-979a-5436c4af8a0f",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Transfer",
+			"amount": 250.0,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "SQ *AL'S THREADING & W 8465 HOLCOMB BRIDGE Date 3058DJDJW5B4 7230 Personal Care & Fitness",
+			"description": "Al's Threading & W 8465 Holcomb Bridge",
+			"guid": "TRN-d0d0eda8-36ee-480a-8fd5-afba96083d7b",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Health & Fitness",
+			"amount": 26.4,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "El Potrillo Restaurant Restaurants & Dining",
+			"description": "El Potrillo Restaurant Restaurants & Dining",
+			"guid": "TRN-3a205e55-608e-4ab2-936f-cf7053953f60",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Food & Dining",
+			"amount": 71.48,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Ideal Image - San Antonio Clothing",
+			"description": "Ideal Image San Antonio Clothing",
+			"guid": "TRN-682d7d16-873c-4169-923c-38f7222ae22d",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Clothing",
+			"amount": 3000.0,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "SQ *SBL SALON AND SUIT 1810 WATER PL SE GO Date 3058DJEXFQ7X 7298 Personal Care & Fitness",
+			"description": "Sbl Salon and Suit 1810 Water Pl Se Go",
+			"guid": "TRN-8f1f4f47-ad7d-48ca-a0b4-82544f46b545",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Hair",
+			"amount": 20.0,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Corporate Filings Llc Online Services",
+			"description": "Corporate Filings Online Services",
+			"guid": "TRN-d842630e-fe85-4ba3-afd9-b77dac6ead54",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Utilities",
+			"amount": 225.0,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Starbucks Restaurants & Dining",
+			"description": "Starbucks",
+			"guid": "TRN-16117969-adba-4a4a-a6e2-f3df6fbebbad",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Coffee Shops",
+			"amount": 19.64,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Amazon Shopping",
+			"description": "Amazon",
+			"guid": "TRN-8432e049-32f4-4255-a76f-76c2f5d00f9a",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Shopping",
+			"amount": 96.96,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "TAX REFUND PROC CO: TAX REFUND PROC Deposits",
+			"description": "Tax Refund Procs",
+			"guid": "TRN-aa9a7fdf-5806-4166-bf59-969aef6d745f",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Taxes",
+			"amount": 9572.1,
+			"date": "2023-06-29T19:37:06",
+			"type": "CREDIT"
+		},
+		{
+			"originalDescription": "Dave Inc Online Services",
+			"description": "Dave.com",
+			"guid": "TRN-3d2a50ce-87ca-45f8-a06b-8e6fe3af3195",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Transfer",
+			"amount": 130.99,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Amazon Shopping",
+			"description": "Amazon",
+			"guid": "TRN-4f092a19-f8b0-4cd4-9575-3d21634aac46",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Shopping",
+			"amount": 31.76,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Payment to Liberty Mutual Insurance",
+			"description": "Liberty Mutual",
+			"guid": "TRN-c158dfac-d45e-4afd-8eb7-f1e5fa0d50df",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Financial",
+			"amount": 129.86,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Courtesy Pay fee Service Charges & Fees",
+			"description": "Fee",
+			"guid": "TRN-cbd40dbc-e503-4e66-915d-e8eed38f4b65",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Fees & Charges",
+			"amount": 26.0,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "APPLE CASH - SENT MONE 1 INFINITE LOOP 877 Date 02/15/23 3046DJM7W6FZ 4829 ATM/Cash Withdrawals",
+			"description": "Transfer to Apple Pay",
+			"guid": "TRN-01b0fec0-4254-4671-b5d6-56e39015ec13",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Transfer",
+			"amount": 25.0,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "BCS*MPP FULTON COUNTY 786 CLEVELAND AVE SW Date 02/15/23 3046DJOFZSJA 8211 Online Services",
+			"description": "MyPaymentsPlus",
+			"guid": "TRN-046484ec-bfec-430d-a1fe-6bdbd1c2e1c0",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Education",
+			"amount": 16.69,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Apple Electronics & Equipment",
+			"description": "Apple Electronics & Equipment",
+			"guid": "TRN-e7963afe-ea57-4b81-be2a-ddb727ecc238",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Entertainment",
+			"amount": 4.99,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Apple Electronics & Equipment",
+			"description": "Apple Electronics & Equipment",
+			"guid": "TRN-4534786d-d31b-4346-9d56-dbffb9bcb9ab",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Entertainment",
+			"amount": 4.99,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "#XX9454 IDENTITY INTELLIGENCE IIQ*IDENTITYIQ.COM HENDERSON NV Online Services",
+			"description": "IdentityIQ",
+			"guid": "TRN-d028759b-bc02-4a8a-9067-9ffaf98752dd",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Fraud Protection",
+			"amount": 22.99,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Apple Electronics & Equipment",
+			"description": "Apple Electronics & Equipment",
+			"guid": "TRN-a824c63a-551e-451b-b4a1-8e9e9282c797",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Entertainment",
+			"amount": 3.99,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "SAWNEE EMC 543 ATLANTA RD 2363 GA Date 3045DJVYT9LM 4900 Utilities",
+			"description": "Sawnee Emc Atlanta Ga Date Djvyt Utilities",
+			"guid": "TRN-115a28ea-d3ea-4cb3-9f73-dab862208c42",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Utilities",
+			"amount": 100.0,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Payment to Oscar Health Insurance",
+			"description": "Payment to Oscar Health Insurance",
+			"guid": "TRN-b7d0aa1a-890f-4ef8-aa43-2cf9d807450a",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Health Insurance",
+			"amount": 226.65,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Apple Cash Deposit Deposits",
+			"description": "Transfer from Apple Pay",
+			"guid": "TRN-35b26000-7f77-4d4b-be6d-0d09b4528965",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Transfer",
+			"amount": 591.0,
+			"date": "2023-06-29T19:37:06",
+			"type": "CREDIT"
+		},
+		{
+			"originalDescription": "DAVE.COM 1265 S COCHRAN AVE 5209 CA Date 3039DJQHCBMB 6012 Restaurants & Dining",
+			"description": "Dave.com",
+			"guid": "TRN-102b5ff8-b1aa-49a1-8ed7-96a9fb1e6d8e",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Transfer",
+			"amount": 20.2,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Amazon Digital Services Entertainment",
+			"description": "Amazon Digital Services",
+			"guid": "TRN-e15b5301-963b-4bad-a1de-6d7843f50a33",
+			"accountGuid": "ACT-bf9ff11b-2933-4bfb-b589-b721acc64a66",
+			"category": "Entertainment",
+			"amount": 9.71,
+			"date": "2023-06-29T19:37:06",
+			"type": "DEBIT"
+		}
+	]
+}

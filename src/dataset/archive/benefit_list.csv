@@ -1,0 +1,15 @@
+,Full description,Regex,Category
+0,SSI TREAS 310,ssi\s*treas,Benefits
+1,VACP TREAS 310,vacp\s*treas,Benefits
+2,VAED TREAS 310,vaed\s*treas,Benefits
+3,OPM1 TREAS 310,opm1\s*treas,Benefits
+4,Unemployment,unemploy,Benefits
+5,Child Suppot,child\s*sup,Benefits
+6,Child Suppot,\soag[^\w]*,Benefits
+7,Pension,pension,Benefits
+8,Retirement,retir,Benefits
+9,Unemployment Insurance Benefit,ui\s*benefit,Benefits
+10,Defense Finance and Account Service,dfas,Benefits
+11,Social Security Administration,social security,Benefits
+12,SSA TREAS 310,ssa\s*treas\s*310,Benefits
+13,US Department of Veterans Affairs,us department of veterans affairs,Benefits

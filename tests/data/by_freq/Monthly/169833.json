@@ -1,0 +1,1467 @@
+{
+  "accounts": [
+    {
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "currentBalance": -170.75,
+      "currentBalanceDate": "2024-01-21"
+    },
+    {
+      "accountGuid": "KwAJN4A0Qvc0xoRog66MUkYg5K6LpeC1VJ4Ra",
+      "currentBalance": 0.0,
+      "currentBalanceDate": "2024-01-21"
+    }
+  ],
+  "transactions": [
+    {
+      "originalDescription": "WITHDRAWAL PRIVILEGEPAY FEE ENTRY CLASS CODE: WEB ACH NUMBER: 096016932430306",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 33.0,
+      "date": "2024-01-16",
+      "description": "WITHDRAWAL PRIVILEGEPAY FEE ENTRY CLASS CODE: WEB ACH NUMBER: 096016932430306",
+      "guid": "ed0Vab0qyxsg47z7Q33ESeQD8JdO7dfbeagLP",
+      "type": "DEBIT",
+      "category": "[\"Bank Fees\"]"
+    },
+    {
+      "originalDescription": "RECURRING DEBIT CARD AFTERPAY 760 MARKET STREET, FLOO SAN FRANC",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 12.5,
+      "date": "2023-11-24",
+      "description": "RECURRING DEBIT CARD AFTERPAY 760 MARKET STREET, FLOO SAN FRANC",
+      "guid": "ed0Vab0qyxsg47z7Q33ESeQBD7memMFLrDeJv",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Digital Purchase\"]"
+    },
+    {
+      "originalDescription": "Social Security Administration",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 705.0,
+      "date": "2023-11-08",
+      "description": "Social Security Administration",
+      "guid": "DMPqR4PBOkc4j6a6vAAEIQarPmoQoJszBNzAr",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Deposit\"]"
+    },
+    {
+      "originalDescription": "RECURRING DEBIT CARD AFTERPAY 760 MARKET STREET, FLOO SAN FRANC",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 12.5,
+      "date": "2023-12-08",
+      "description": "RECURRING DEBIT CARD AFTERPAY 760 MARKET STREET, FLOO SAN FRANC",
+      "guid": "DMPqR4PBOkc4j6a6vAAEIQarPmoQoJszBNqvw",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Digital Purchase\"]"
+    },
+    {
+      "originalDescription": "DEPOSIT DEBIT CARD ZELRICK KOOMEN",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 50.0,
+      "date": "2023-12-01",
+      "description": "DEPOSIT DEBIT CARD ZELRICK KOOMEN",
+      "guid": "DMPqR4PBOkc4j6a6vAAEIQarPmoQoJszBNqvr",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Deposit\"]"
+    },
+    {
+      "originalDescription": "DEPOSIT DEBIT CARD DAVE INC",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 25.0,
+      "date": "2023-12-16",
+      "description": "DEPOSIT DEBIT CARD DAVE INC",
+      "guid": "EMq3R4qm0NcaXm9mZQQJc37QZXP3PMcZzA5qD",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Deposit\"]"
+    },
+    {
+      "originalDescription": "DEBIT CARD TARGET 0 3456 W SHORE DR",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 156.41,
+      "date": "2023-11-23",
+      "description": "DEBIT CARD TARGET 0 3456 W SHORE DR",
+      "guid": "EMq3R4qm0NcaXm9mZQQJc37QZXP3PMcZzAZPP",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Department Stores\"]"
+    },
+    {
+      "originalDescription": "DEBIT CARD FAMILY FARE WASHINGTON AVE HOLLAN MERCHANT CATEGORY CODE: 5411",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 96.35,
+      "date": "2024-01-11",
+      "description": "DEBIT CARD FAMILY FARE WASHINGTON AVE HOLLAN MERCHANT CATEGORY CODE: 5411",
+      "guid": "EMq3R4qm0NcaXm9mZQQJc37Z4On6Xncn5EbZX",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "WITHDRAWAL AT ATM #000282 PARDA FCU 12345 FELCH",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 500.0,
+      "date": "2023-11-08",
+      "description": "WITHDRAWAL AT ATM #000282 PARDA FCU 12345 FELCH",
+      "guid": "dbv7ajvPyxcgX9O9eAA0SNQY4JXNXvU8Jq8ge",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "DEPOSIT DEBIT CARD DAVE INC",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 50.0,
+      "date": "2023-11-27",
+      "description": "DEPOSIT DEBIT CARD DAVE INC",
+      "guid": "dbv7ajvPyxcgX9O9eAA0SNQY4JXNXvU8Jq13e",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Deposit\"]"
+    },
+    {
+      "originalDescription": "WITHDRAWAL TRANSFER TO SHARE 0040",
+      "accountGuid": "KwAJN4A0Qvc0xoRog66MUkYg5K6LpeC1VJ4Ra",
+      "amount": 24.0,
+      "date": "2024-01-16",
+      "description": "WITHDRAWAL TRANSFER TO SHARE 0040",
+      "guid": "dbv7ajvPyxcgX9O9eAA0SNQ483b1JbCQ1D68K",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\"]"
+    },
+    {
+      "originalDescription": "DEPOSIT DEBIT CARD ZELRICK KOOMEN",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 200.0,
+      "date": "2023-12-04",
+      "description": "DEPOSIT DEBIT CARD ZELRICK KOOMEN",
+      "guid": "BRDLjODP3yuYNxRxQKKosKJX34nKnLt8JDjqV",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Deposit\"]"
+    },
+    {
+      "originalDescription": "FEE MASTERCARD ISSUER CROSS-BORDER FEE",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 0.23,
+      "date": "2023-12-13",
+      "description": "FEE MASTERCARD ISSUER CROSS-BORDER FEE",
+      "guid": "BRDLjODP3yuYNxRxQKKosKJX34nKnLt8JDjq8",
+      "type": "DEBIT",
+      "category": "[\"Bank Fees\"]"
+    },
+    {
+      "originalDescription": "WITHDRAWAL BILL PAYMENT #501889 ICI SEMCOENERGYINC",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 149.62,
+      "date": "2023-11-09",
+      "description": "WITHDRAWAL BILL PAYMENT #501889 ICI SEMCOENERGYINC",
+      "guid": "BRDLjODP3yuYNxRxQKKosKJX34nKnLt8JD8wV",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Utilities\",\"Gas\"]"
+    },
+    {
+      "originalDescription": "Meijer",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 59.23,
+      "date": "2023-12-14",
+      "description": "Meijer",
+      "guid": "g6rRajr3kzTkna0awddbhZLmynjZj4HMRpbEp",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "DEBIT CARD BUNTE PHARMACY 115 E MAIN AVE",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 38.18,
+      "date": "2023-11-22",
+      "description": "DEBIT CARD BUNTE PHARMACY 115 E MAIN AVE",
+      "guid": "g6rRajr3kzTkna0awddbhZLmynjZj4HMRpMn4",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Pharmacies\"]"
+    },
+    {
+      "originalDescription": "RECURRING DEBIT CARD HULU 877-824485 2500 BROADWAY SANTA MONICA MERCHANT CATEGORY CODE: 4899",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 17.99,
+      "date": "2024-01-11",
+      "description": "RECURRING DEBIT CARD HULU 877-824485 2500 BROADWAY SANTA MONICA MERCHANT CATEGORY CODE: 4899",
+      "guid": "g6rRajr3kzTkna0awddbhZLyvOqrnqtKbAkMo",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Subscription\"]"
+    },
+    {
+      "originalDescription": "WITHDRAWAL POS #225002 CASH APPJACKLY SQUAREUP.COM SAN FRANCISCO CA MERCHANT CATEGORY CODE: 7299",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 110.0,
+      "date": "2024-01-11",
+      "description": "WITHDRAWAL POS #225002 CASH APPJACKLY SQUAREUP.COM SAN FRANCISCO CA MERCHANT CATEGORY CODE: 7299",
+      "guid": "bmk5MjkDo9iPM9n9k443CN8QORqZeqCDd9exp",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\"]"
+    },
+    {
+      "originalDescription": "DEBIT CARD FAMILY FARE WASHINGTON AVE HOLLAN",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 127.12,
+      "date": "2023-11-22",
+      "description": "DEBIT CARD FAMILY FARE WASHINGTON AVE HOLLAN",
+      "guid": "bmk5MjkDo9iPM9n9k443CN8LQeDND1Ux1QxKo",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Advance America",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 169.34,
+      "date": "2023-12-14",
+      "description": "Advance America",
+      "guid": "bmk5MjkDo9iPM9n9k443CN8LQeDND1Ux1QdaM",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]"
+    },
+    {
+      "originalDescription": "WITHDRAWAL ACH BRIGIT-COM TYPE: PROTECTION ID: 2823136030 CO: BRIGIT-COM NAME: TERESA KOOMEN ENTRY CLASS CODE: WEB ACH NUMBER: 084106760262276",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 70.99,
+      "date": "2024-01-10",
+      "description": "WITHDRAWAL ACH BRIGIT-COM TYPE: PROTECTION ID: 2823136030 CO: BRIGIT-COM NAME: TERESA KOOMEN ENTRY CLASS CODE: WEB ACH NUMBER: 084106760262276",
+      "guid": "aZK8RoKLDnTayw7wOQQgcPmDOX7RN7f1a4OyJ",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\"]"
+    },
+    {
+      "originalDescription": "WITHDRAWAL POS #248049 CASH APPJACKLY SQUAREUP.COM",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 40.0,
+      "date": "2023-11-18",
+      "description": "WITHDRAWAL POS #248049 CASH APPJACKLY SQUAREUP.COM",
+      "guid": "aZK8RoKLDnTayw7wOQQgcPmbDNvPv6CyEDyr7",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\"]"
+    },
+    {
+      "originalDescription": "DEBIT CARD MARATHON PETRO1 9170 US HWY 31 WEST OLIVE",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 7.55,
+      "date": "2023-11-14",
+      "description": "DEBIT CARD MARATHON PETRO1 9170 US HWY 31 WEST OLIVE",
+      "guid": "j1xepjxkAXUROKmKBqqdHVPJjzoVo7fQKzQDV",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "DEBIT CARD ANEW 6398 96TH AVE",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 57.09,
+      "date": "2023-12-14",
+      "description": "DEBIT CARD ANEW 6398 96TH AVE",
+      "guid": "j1xepjxkAXUROKmKBqqdHVPJjzoVo7fQKzYOX",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "WITHDRAWAL PRIVILEGEPAY FEE ENTRY CLASS CODE: WEB ACH NUMBER: 113024160303603",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 33.0,
+      "date": "2024-01-03",
+      "description": "WITHDRAWAL PRIVILEGEPAY FEE ENTRY CLASS CODE: WEB ACH NUMBER: 113024160303603",
+      "guid": "j1xepjxkAXUROKmKBqqdHVPjp6DgzDFjY37Qk",
+      "type": "DEBIT",
+      "category": "[\"Bank Fees\"]"
+    },
+    {
+      "originalDescription": "RECURRING DEBIT CARD KLARNA 629 N HIGH ST FLOOR 3",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 37.83,
+      "date": "2023-12-14",
+      "description": "RECURRING DEBIT CARD KLARNA 629 N HIGH ST FLOOR 3",
+      "guid": "aZK8RoKLDnTayw7wOQQgcPmbDNvPv6CyEDa3Y",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\"]"
+    },
+    {
+      "originalDescription": "WITHDRAWAL AT ATM #002947 PARDA FCU 259 EAST 24TH STREET",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 80.0,
+      "date": "2023-11-11",
+      "description": "WITHDRAWAL AT ATM #002947 PARDA FCU 259 EAST 24TH STREET",
+      "guid": "AMLw0RL1K3cB83P3vXXzi73OEqV7VpTZepZXm",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "WITHDRAWAL POS #142212 CASH APPJACKLY SQUAREUP.COM",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 143.0,
+      "date": "2023-12-13",
+      "description": "WITHDRAWAL POS #142212 CASH APPJACKLY SQUAREUP.COM",
+      "guid": "AMLw0RL1K3cB83P3vXXzi73OEqV7VpTZepBgO",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\"]"
+    },
+    {
+      "originalDescription": "DEBIT CARD SOLO FUNDS 888- 301 SHOPPINGWAY BOULEVA SA",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 184.5,
+      "date": "2023-12-05",
+      "description": "DEBIT CARD SOLO FUNDS 888- 301 SHOPPINGWAY BOULEVA SA",
+      "guid": "AMLw0RL1K3cB83P3vXXzi73OEqV7VpTZepBgm",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "DEPOSIT DEBIT CARD ZELRICK KOOMEN",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 50.0,
+      "date": "2023-12-30",
+      "description": "DEPOSIT DEBIT CARD ZELRICK KOOMEN",
+      "guid": "AMLw0RL1K3cB83P3vXXzi73EPwnNqnhnBj4bY",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Deposit\"]"
+    },
+    {
+      "originalDescription": "Social Security Administration",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 1281.0,
+      "date": "2024-01-10",
+      "description": "Social Security Administration",
+      "guid": "JdkaR4kvyrsBQpzpYyyAiqaygm7ZN7c7QkDAz",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Deposit\"]"
+    },
+    {
+      "originalDescription": "WITHDRAWAL POS #234259 CASH APPJACKLY SQUAREUP.COM",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 55.0,
+      "date": "2023-11-20",
+      "description": "WITHDRAWAL POS #234259 CASH APPJACKLY SQUAREUP.COM",
+      "guid": "JdkaR4kvyrsBQpzpYyyAiqaYyN6q6pTAnLAE7",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\"]"
+    },
+    {
+      "originalDescription": "DEBIT CARD KLARNA 629 NORTH HIGH STREETSU",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 69.27,
+      "date": "2023-12-14",
+      "description": "DEBIT CARD KLARNA 629 NORTH HIGH STREETSU",
+      "guid": "JdkaR4kvyrsBQpzpYyyAiqaYyN6q6pTAnLQ3B",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\"]"
+    },
+    {
+      "originalDescription": "WITHDRAWAL AT ATM #002331 PARDA FCU 12345 FELCH",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 300.0,
+      "date": "2023-12-15",
+      "description": "WITHDRAWAL AT ATM #002331 PARDA FCU 12345 FELCH",
+      "guid": "9Mo7q8ovJwc4EJqJ066MID0B6VmDmNtPQMrJb",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "DEBIT CARD PYNSOUTHFACES D02 UNIT 10 1 F HEWLETT ONL",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 25.87,
+      "date": "2023-12-13",
+      "description": "DEBIT CARD PYNSOUTHFACES D02 UNIT 10 1 F HEWLETT ONL",
+      "guid": "kPJzpjJAgxiBAOmOdjjvi4Q5ZP141qfpJPDwj",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "DEBIT CARD DAVE INC 1265 SOUTH COCHRAN AVEN LOS ANGEL",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 15.0,
+      "date": "2023-12-05",
+      "description": "DEBIT CARD DAVE INC 1265 SOUTH COCHRAN AVEN LOS ANGEL",
+      "guid": "kPJzpjJAgxiBAOmOdjjvi4Q5ZP141qfpJPDwL",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]"
+    },
+    {
+      "originalDescription": "WITHDRAWAL AT ATM #002865 PARDA FCU 259 EAST 24TH STREET",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 120.0,
+      "date": "2023-11-10",
+      "description": "WITHDRAWAL AT ATM #002865 PARDA FCU 259 EAST 24TH STREET",
+      "guid": "kPJzpjJAgxiBAOmOdjjvi4Q5ZP141qfpJPpaL",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "WITHDRAWAL AT ATM #002811 PARDA FCU 12345 FELCH",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 50.0,
+      "date": "2023-12-23",
+      "description": "WITHDRAWAL AT ATM #002811 PARDA FCU 12345 FELCH",
+      "guid": "kPJzpjJAgxiBAOmOdjjvi4QZ8wRePRfvDEe3B",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "Meijer",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 28.63,
+      "date": "2023-11-22",
+      "description": "Meijer",
+      "guid": "9Mo7q8ovJwc4EJqJ066MID0B6VmDmNtPQMPwR",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "DEBIT CARD SOLO FUNDS 888- 301 SHOPPINGWAY BOULEVA SA MERCHANT CATEGORY CODE: 6012",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 61.5,
+      "date": "2024-01-11",
+      "description": "DEBIT CARD SOLO FUNDS 888- 301 SHOPPINGWAY BOULEVA SA MERCHANT CATEGORY CODE: 6012",
+      "guid": "9Mo7q8ovJwc4EJqJ066MID06d3qXVqCxryqPB",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "RECURRING DEBIT CARD KLARNA 629 NORTH HIGH STREETSU COLUMBUS OH MERCHANT CATEGORY CODE: 5999",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 53.18,
+      "date": "2024-01-10",
+      "description": "RECURRING DEBIT CARD KLARNA 629 NORTH HIGH STREETSU COLUMBUS OH MERCHANT CATEGORY CODE: 5999",
+      "guid": "8MobPnoAJdcKnQAQZwwbhpAzBPN1XNIvKZ4mw",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\"]"
+    },
+    {
+      "originalDescription": "DEBIT CARD ETSY.COMINNOVA ADAMS STREET",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 53.0,
+      "date": "2023-11-10",
+      "description": "DEBIT CARD ETSY.COMINNOVA ADAMS STREET",
+      "guid": "KwAJN4A0Qvc0xoRog66MUkYaJAoko5uL8VLDx",
+      "type": "DEBIT",
+      "category": "[\"Shops\"]"
+    },
+    {
+      "originalDescription": "WITHDRAWAL ACH BRIGIT-COM TYPE: MEMBERSHIP ID: 2823136030 CO: BRIGIT-COM NAME: TERESA KOOMEN ENTRY CLASS CODE: WEB ACH NUMBER: 084106760086052",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 9.99,
+      "date": "2023-12-13",
+      "description": "WITHDRAWAL ACH BRIGIT-COM TYPE: MEMBERSHIP ID: 2823136030 CO: BRIGIT-COM NAME: TERESA KOOMEN ENTRY CLASS CODE: WEB ACH NUMBER: 084106760086052",
+      "guid": "KwAJN4A0Qvc0xoRog66MUkYaJAoko5uL8VvYA",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\"]"
+    },
+    {
+      "originalDescription": "Meijer",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 6.44,
+      "date": "2023-12-05",
+      "description": "Meijer",
+      "guid": "KwAJN4A0Qvc0xoRog66MUkYaJAoko5uL8VvYx",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "DEPOSIT DEBIT CARD SOLO FUNDS 888-295-162",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 49.13,
+      "date": "2023-12-23",
+      "description": "DEPOSIT DEBIT CARD SOLO FUNDS 888-295-162",
+      "guid": "KwAJN4A0Qvc0xoRog66MUkYJgOmVAmtmvNo1J",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Deposit\"]"
+    },
+    {
+      "originalDescription": "DEPOSIT DEBIT CARD DAVE INC",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 25.0,
+      "date": "2023-11-20",
+      "description": "DEPOSIT DEBIT CARD DAVE INC",
+      "guid": "8MobPnoAJdcKnQAQZwwbhpAnzXJpJaFm06mjJ",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Deposit\"]"
+    },
+    {
+      "originalDescription": "WITHDRAWAL POS #261298 CASH APPRYLEY SQUAREUP.COM",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 20.0,
+      "date": "2023-12-14",
+      "description": "WITHDRAWAL POS #261298 CASH APPRYLEY SQUAREUP.COM",
+      "guid": "8MobPnoAJdcKnQAQZwwbhpAnzXJpJaFm06KkX",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\"]"
+    },
+    {
+      "originalDescription": "DEBIT CARD FAMILY FARE QUI 1149 WASHINGTON AVE HOLLAN MERCHANT CATEGORY CODE: 5542",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 36.6,
+      "date": "2024-01-11",
+      "description": "DEBIT CARD FAMILY FARE QUI 1149 WASHINGTON AVE HOLLAN MERCHANT CATEGORY CODE: 5542",
+      "guid": "7zQ51OQkRmuo9N4NQddYcjXq8kYwgYt5zYJ4e",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "DEBIT CARD SP OLIVIA JEWEL 110 LIBERATOR DRIVE PARALO",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 33.98,
+      "date": "2023-12-14",
+      "description": "DEBIT CARD SP OLIVIA JEWEL 110 LIBERATOR DRIVE PARALO",
+      "guid": "7zQ51OQkRmuo9N4NQddYcjXLqg9j9dt4N9zZP",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "DEBIT CARD ANEW 6398 96TH AVE",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 40.0,
+      "date": "2023-11-22",
+      "description": "DEBIT CARD ANEW 6398 96TH AVE",
+      "guid": "7zQ51OQkRmuo9N4NQddYcjXLqg9j9dt4N94pA",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "WITHDRAWAL ACH BRIGIT-COM TYPE: MEMBERSHIP ID: 2823136030 CO: BRIGIT-COM NAME: TERESA KOOMEN ENTRY CLASS CODE: WEB ACH NUMBER: 084106760260724",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 9.99,
+      "date": "2023-11-08",
+      "description": "WITHDRAWAL ACH BRIGIT-COM TYPE: MEMBERSHIP ID: 2823136030 CO: BRIGIT-COM NAME: TERESA KOOMEN ENTRY CLASS CODE: WEB ACH NUMBER: 084106760260724",
+      "guid": "L6vZRYvjbETRbv3voddkHqNbYVxqxKTdrLdEq",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\"]"
+    },
+    {
+      "originalDescription": "DEBIT CARD WESCO #66 7661 36TH AVE",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 20.01,
+      "date": "2023-12-07",
+      "description": "DEBIT CARD WESCO #66 7661 36TH AVE",
+      "guid": "L6vZRYvjbETRbv3voddkHqNbYVxqxKTdrLPK0",
+      "type": "DEBIT",
+      "category": "[\"Service\"]"
+    },
+    {
+      "originalDescription": "WITHDRAWAL POS #147954 CASH APPCATRIN SQUAREUP.COM",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 50.0,
+      "date": "2023-11-30",
+      "description": "WITHDRAWAL POS #147954 CASH APPCATRIN SQUAREUP.COM",
+      "guid": "L6vZRYvjbETRbv3voddkHqNbYVxqxKTdrLPKq",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\"]"
+    },
+    {
+      "originalDescription": "RECURRING DEBIT CARD AFTERPAY 222 KEARNY STREET SUITE AFTERPAY",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 31.39,
+      "date": "2023-11-08",
+      "description": "RECURRING DEBIT CARD AFTERPAY 222 KEARNY STREET SUITE AFTERPAY",
+      "guid": "6Mo8D7oKbrcA6ByBXnnosZX98PpZpKHV1eVdP",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Digital Purchase\"]"
+    },
+    {
+      "originalDescription": "DEPOSIT",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 50.0,
+      "date": "2023-11-30",
+      "description": "DEPOSIT",
+      "guid": "6Mo8D7oKbrcA6ByBXnnosZX98PpZpKHV1e9oP",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Deposit\"]"
+    },
+    {
+      "originalDescription": "DEBIT CARD DAVE INC 1265 SOUTH COCHRAN AVEN LOS ANGEL",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 5.0,
+      "date": "2023-12-07",
+      "description": "DEBIT CARD DAVE INC 1265 SOUTH COCHRAN AVEN LOS ANGEL",
+      "guid": "6Mo8D7oKbrcA6ByBXnnosZX98PpZpKHV1e9o0",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]"
+    },
+    {
+      "originalDescription": "WITHDRAWAL POS #153740 CASH APPTERESA SQUAREUP.COM SAN FRANCISCO CA MERCHANT CATEGORY CODE: 7299",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 60.0,
+      "date": "2024-01-16",
+      "description": "WITHDRAWAL POS #153740 CASH APPTERESA SQUAREUP.COM SAN FRANCISCO CA MERCHANT CATEGORY CODE: 7299",
+      "guid": "mBZLp8Z0jwsnXZxZaAAjUdYp1kMQ0MFv4NnmM",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\"]"
+    },
+    {
+      "originalDescription": "DEBIT CARD ZIP.CO BEST BU 27 WEST 24TH STREETFLOO",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 11.06,
+      "date": "2023-11-25",
+      "description": "DEBIT CARD ZIP.CO BEST BU 27 WEST 24TH STREETFLOO",
+      "guid": "mBZLp8Z0jwsnXZxZaAAjUdYvp0NdNVUmk04DO",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "WITHDRAWAL POS #219656 CASH APPJACKLY SQUAREUP.COM",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 55.0,
+      "date": "2023-11-08",
+      "description": "WITHDRAWAL POS #219656 CASH APPJACKLY SQUAREUP.COM",
+      "guid": "mBZLp8Z0jwsnXZxZaAAjUdYvp0NdNVUmk0m9O",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\"]"
+    },
+    {
+      "originalDescription": "WITHDRAWAL ACH BRIGIT-COM TYPE: MEMBERSHIP ID: 2823136030 CO: BRIGIT-COM NAME: TERESA KOOMEN ENTRY CLASS CODE: WEB ACH NUMBER: 084106760139702",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 9.99,
+      "date": "2024-01-10",
+      "description": "WITHDRAWAL ACH BRIGIT-COM TYPE: MEMBERSHIP ID: 2823136030 CO: BRIGIT-COM NAME: TERESA KOOMEN ENTRY CLASS CODE: WEB ACH NUMBER: 084106760139702",
+      "guid": "5MoxLNoyJrcpOjnj4kkztOBvK3ZDJZT4dVxbX",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\"]"
+    },
+    {
+      "originalDescription": "DEBIT CARD DAVE INC 1265 SOUTH COCHRAN AVEN LOS ANGEL",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 35.0,
+      "date": "2023-12-14",
+      "description": "DEBIT CARD DAVE INC 1265 SOUTH COCHRAN AVEN LOS ANGEL",
+      "guid": "5MoxLNoyJrcpOjnj4kkztOB5vJ8O8aibopdmM",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]"
+    },
+    {
+      "originalDescription": "DEPOSIT ACH TAB BANK TYPE: NETCREDIT ID: 1300302158 CO: TAB BANK ENTRY CLASS CODE: PPD ACH NUMBER: 124384653573955",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 1125.0,
+      "date": "2023-11-21",
+      "description": "DEPOSIT ACH TAB BANK TYPE: NETCREDIT ID: 1300302158 CO: TAB BANK ENTRY CLASS CODE: PPD ACH NUMBER: 124384653573955",
+      "guid": "5MoxLNoyJrcpOjnj4kkztOB5vJ8O8aibopb5d",
+      "type": "CREDIT",
+      "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]"
+    },
+    {
+      "originalDescription": "Social Security Administration",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 728.0,
+      "date": "2024-01-10",
+      "description": "Social Security Administration",
+      "guid": "4MO46ZO3NJcmBgJg6KKXsM8Ozn4A64UnEq41m",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Deposit\"]"
+    },
+    {
+      "originalDescription": "FEE MASTERCARD ISSUER CROSS-BORDER FEE",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 0.31,
+      "date": "2023-12-14",
+      "description": "FEE MASTERCARD ISSUER CROSS-BORDER FEE",
+      "guid": "4MO46ZO3NJcmBgJg6KKXsM85O6oMops1OLENd",
+      "type": "DEBIT",
+      "category": "[\"Bank Fees\"]"
+    },
+    {
+      "originalDescription": "DEBIT CARD SP PINK DUST CO 421 E 20TH ST COSTA MESA C MERCHANT CATEGORY CODE: 5977",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 31.1,
+      "date": "2024-01-11",
+      "description": "DEBIT CARD SP PINK DUST CO 421 E 20TH ST COSTA MESA C MERCHANT CATEGORY CODE: 5977",
+      "guid": "ML0oRb0nPZS80oMov99bUvajL9pwzpCpkPaBK",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "WITHDRAWAL POS #257667 CASH APPJACKLY SQUAREUP.COM",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 165.0,
+      "date": "2023-11-22",
+      "description": "WITHDRAWAL POS #257667 CASH APPJACKLY SQUAREUP.COM",
+      "guid": "ML0oRb0nPZS80oMov99bUvaZjzkvkKfBENB9D",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\"]"
+    },
+    {
+      "originalDescription": "DEPOSIT DEBIT CARD SOLO FUNDS INC",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 0.04,
+      "date": "2023-10-26",
+      "description": "DEPOSIT DEBIT CARD SOLO FUNDS INC",
+      "guid": "ML0oRb0nPZS80oMov99bUvaZjzkvkKfBENBDD",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Deposit\"]"
+    },
+    {
+      "originalDescription": "WITHDRAWAL POS #148643 CASH APPJACKLY SQUAREUP.COM",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 110.0,
+      "date": "2023-12-16",
+      "description": "WITHDRAWAL POS #148643 CASH APPJACKLY SQUAREUP.COM",
+      "guid": "ML0oRb0nPZS80oMov99bUvaZjzkvkKfBENkgo",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\"]"
+    },
+    {
+      "originalDescription": "DEPOSIT DEBIT CARD SOLO FUNDS 888-295-162",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 147.38,
+      "date": "2023-11-14",
+      "description": "DEPOSIT DEBIT CARD SOLO FUNDS 888-295-162",
+      "guid": "4MO46ZO3NJcmBgJg6KKXsM85O6oMops1OL1dk",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Deposit\"]"
+    },
+    {
+      "originalDescription": "DEBIT CARD SOLO FUNDS 888- 301 SHOPPINGWAY BOULEVA SA",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 123.0,
+      "date": "2023-11-09",
+      "description": "DEBIT CARD SOLO FUNDS 888- 301 SHOPPINGWAY BOULEVA SA",
+      "guid": "3eojwNoB0RUMeDQDbyyaSdPb01KdKkUz4vzwj",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "DEPOSIT ACH SOLO FUNDS INC. TYPE: CREDIT ID: 1465396710 CO: SOLO FUNDS INC. ENTRY CLASS CODE: WEB ACH NUMBER: 064109560541616",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 0.03,
+      "date": "2023-10-27",
+      "description": "DEPOSIT ACH SOLO FUNDS INC. TYPE: CREDIT ID: 1465396710 CO: SOLO FUNDS INC. ENTRY CLASS CODE: WEB ACH NUMBER: 064109560541616",
+      "guid": "n3d1prdjX6fvm8Y8X66ZUNyEedQNQ8UMoxM3L",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Deposit\"]"
+    },
+    {
+      "originalDescription": "DEBIT CARD DOLLARTREE 3530 W SHORE DR",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 12.88,
+      "date": "2023-11-23",
+      "description": "DEBIT CARD DOLLARTREE 3530 W SHORE DR",
+      "guid": "n3d1prdjX6fvm8Y8X66ZUNyEedQNQ8UMoxqnL",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Discount Stores\"]"
+    },
+    {
+      "originalDescription": "WITHDRAWAL POS #194910 CASH APPJACKLY SQUAREUP.COM",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 70.0,
+      "date": "2023-12-17",
+      "description": "WITHDRAWAL POS #194910 CASH APPJACKLY SQUAREUP.COM",
+      "guid": "n3d1prdjX6fvm8Y8X66ZUNyEedQNQ8UMoxqXk",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\"]"
+    },
+    {
+      "originalDescription": "WITHDRAWAL AT ATM #006211 PARDA FCU 259 EAST 24TH STREET HOLLAND MI MERCHANT CATEGORY CODE: 6011",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 80.0,
+      "date": "2024-01-12",
+      "description": "WITHDRAWAL AT ATM #006211 PARDA FCU 259 EAST 24TH STREET HOLLAND MI MERCHANT CATEGORY CODE: 6011",
+      "guid": "n3d1prdjX6fvm8Y8X66ZUNyePMAJdACpq7vMP",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "WITHDRAWAL AT ATM #001732 PARDA FCU 12345 FELCH",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 20.0,
+      "date": "2023-12-04",
+      "description": "WITHDRAWAL AT ATM #001732 PARDA FCU 12345 FELCH",
+      "guid": "3eojwNoB0RUMeDQDbyyaSdPb01KdKkUz4v0Zj",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "WITHDRAWAL AT ATM #002194 PARDA FCU 12345 FELCH",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 360.0,
+      "date": "2023-12-13",
+      "description": "WITHDRAWAL AT ATM #002194 PARDA FCU 12345 FELCH",
+      "guid": "3eojwNoB0RUMeDQDbyyaSdPb01KdKkUz4v0Z0",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "DEBIT CARD FAMILY FARE 239 648028TH AVE HUDSONVILLE",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 41.34,
+      "date": "2023-10-28",
+      "description": "DEBIT CARD FAMILY FARE 239 648028TH AVE HUDSONVILLE",
+      "guid": "ed0Vab0qyxsg47z7Q33ESeQBD7memMFLrDLXv",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "WITHDRAWAL CASH DISBURSED",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 200.0,
+      "date": "2023-12-13",
+      "description": "WITHDRAWAL CASH DISBURSED",
+      "guid": "1MokJmoP74c843m3QBBwU58Bd7Y5YZToLVqBY",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\"]"
+    },
+    {
+      "originalDescription": "WITHDRAWAL POS #215353 CASH APPRICK K SQUAREUP.COM",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 50.0,
+      "date": "2023-12-01",
+      "description": "WITHDRAWAL POS #215353 CASH APPRICK K SQUAREUP.COM",
+      "guid": "1MokJmoP74c843m3QBBwU58Bd7Y5YZToLVqBN",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\"]"
+    },
+    {
+      "originalDescription": "DEBIT CARD QUALITY CAR WAS 809 WASHINGTON AVE HOLLAND",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 40.02,
+      "date": "2023-11-09",
+      "description": "DEBIT CARD QUALITY CAR WAS 809 WASHINGTON AVE HOLLAND",
+      "guid": "1MokJmoP74c843m3QBBwU58Bd7Y5YZToLVoaN",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Automotive\",\"Car Wash and Detail\"]"
+    },
+    {
+      "originalDescription": "McDonald's",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 27.83,
+      "date": "2023-11-24",
+      "description": "McDonald's",
+      "guid": "NDjgRXjn7vSL6aZaD559U8dnqEk8k6tpwXbJ4",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "WITHDRAWAL ACH BRIGIT.COM TYPE: MICROVERIF ID: 1823136030 CO: BRIGIT.COM NAME: TERESA KOOMEN",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 0.01,
+      "date": "2023-10-27",
+      "description": "WITHDRAWAL ACH BRIGIT.COM TYPE: MICROVERIF ID: 1823136030 CO: BRIGIT.COM NAME: TERESA KOOMEN",
+      "guid": "NDjgRXjn7vSL6aZaD559U8dnqEk8k6tpwXpO4",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\"]"
+    },
+    {
+      "originalDescription": "WITHDRAWAL AT ATM #006285 PARDA FCU 259 EAST 24TH STREET HOLLAND MI MERCHANT CATEGORY CODE: 6011",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 320.0,
+      "date": "2024-01-14",
+      "description": "WITHDRAWAL AT ATM #006285 PARDA FCU 259 EAST 24TH STREET HOLLAND MI MERCHANT CATEGORY CODE: 6011",
+      "guid": "NDjgRXjn7vSL6aZaD559U8dqgmreErFLb37p1",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "WITHDRAWAL ACH NETCREDIT/TABLOC TYPE: PAYMENT ID: 3839791690 CO: NETCREDIT/TABLOC NAME: TERESA KOOMEN",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 192.5,
+      "date": "2024-01-03",
+      "description": "WITHDRAWAL ACH NETCREDIT/TABLOC TYPE: PAYMENT ID: 3839791690 CO: NETCREDIT/TABLOC NAME: TERESA KOOMEN",
+      "guid": "0MzyOkz1QrcBe7K7kqqOiPLpMy6eq6fv5Jqx8",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]"
+    },
+    {
+      "originalDescription": "RECURRING DEBIT CARD AR3 LLC PAYMEN 27 WEST 24TH STREET NEW YO MERCHANT CATEGORY CODE: 6012",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 36.14,
+      "date": "2024-01-11",
+      "description": "RECURRING DEBIT CARD AR3 LLC PAYMEN 27 WEST 24TH STREET NEW YO MERCHANT CATEGORY CODE: 6012",
+      "guid": "O1r9X4rnBQUEx1b1N44qcBN0JQg79gUgN4vZv",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "Chick-fil-A",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 23.21,
+      "date": "2023-12-16",
+      "description": "Chick-fil-A",
+      "guid": "O1r9X4rnBQUEx1b1N44qcBNM09pBpOIZYANPr",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "RECURRING DEBIT CARD HULU 877-824485 2500 BROADWAY SANTA MONICA",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 17.99,
+      "date": "2023-11-22",
+      "description": "RECURRING DEBIT CARD HULU 877-824485 2500 BROADWAY SANTA MONICA",
+      "guid": "O1r9X4rnBQUEx1b1N44qcBNM09pBpOIZYAZb3",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Subscription\"]"
+    },
+    {
+      "originalDescription": "DEPOSIT DEBIT CARD BRIGIT",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 0.01,
+      "date": "2023-10-26",
+      "description": "DEPOSIT DEBIT CARD BRIGIT",
+      "guid": "O1r9X4rnBQUEx1b1N44qcBNM09pBpOIZYAZX3",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Deposit\"]"
+    },
+    {
+      "originalDescription": "DEPOSIT DEBIT CARD BRIGIT",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 70.0,
+      "date": "2023-11-13",
+      "description": "DEPOSIT DEBIT CARD BRIGIT",
+      "guid": "0MzyOkz1QrcBe7K7kqqOiPL1pqXPXzCxQ7xdk",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Deposit\"]"
+    },
+    {
+      "originalDescription": "Meijer",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 159.96,
+      "date": "2023-12-05",
+      "description": "Meijer",
+      "guid": "0MzyOkz1QrcBe7K7kqqOiPL1pqXPXzCxQ758k",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Social Security Administration",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 1246.0,
+      "date": "2023-12-13",
+      "description": "Social Security Administration",
+      "guid": "0MzyOkz1QrcBe7K7kqqOiPL1pqXPXzCxQ758E",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Deposit\"]"
+    },
+    {
+      "originalDescription": "WITHDRAWAL PRIVILEGEPAY FEE ENTRY CLASS CODE: WEB ACH NUMBER: 084106760047928",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 33.0,
+      "date": "2023-10-26",
+      "description": "WITHDRAWAL PRIVILEGEPAY FEE ENTRY CLASS CODE: WEB ACH NUMBER: 084106760047928",
+      "guid": "EMq3R4qm0NcaXm9mZQQJc37QZXP3PMcZzAZrP",
+      "type": "DEBIT",
+      "category": "[\"Bank Fees\"]"
+    },
+    {
+      "originalDescription": "WITHDRAWAL POS #231899 CASH APPJACKLY SQUAREUP.COM SAN FRANCISCO CA MERCHANT CATEGORY CODE: 7299",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 55.0,
+      "date": "2024-01-11",
+      "description": "WITHDRAWAL POS #231899 CASH APPJACKLY SQUAREUP.COM SAN FRANCISCO CA MERCHANT CATEGORY CODE: 7299",
+      "guid": "oywqpkwOnLULzYbYVOOqUMONm1BPyBUbkOAdj",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\"]"
+    },
+    {
+      "originalDescription": "WITHDRAWAL POS #240928 CASH APPJACKLY SQUAREUP.COM",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 220.0,
+      "date": "2023-11-21",
+      "description": "WITHDRAWAL POS #240928 CASH APPJACKLY SQUAREUP.COM",
+      "guid": "oywqpkwOnLULzYbYVOOqUMOXNykMkgsd7zdKO",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\"]"
+    },
+    {
+      "originalDescription": "RECURRING DEBIT CARD ZIP.CO BEST BU 27 WEST 24TH STREETFLOO",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 18.07,
+      "date": "2023-12-14",
+      "description": "RECURRING DEBIT CARD ZIP.CO BEST BU 27 WEST 24TH STREETFLOO",
+      "guid": "oywqpkwOnLULzYbYVOOqUMOXNykMkgsd7zk01",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "DEPOSIT ACH SOLO FUNDS INC. TYPE: CREDIT ID: 1465396710 CO: SOLO FUNDS INC. ENTRY CLASS CODE: WEB ACH NUMBER: 064109560541615",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 0.03,
+      "date": "2023-10-27",
+      "description": "DEPOSIT ACH SOLO FUNDS INC. TYPE: CREDIT ID: 1465396710 CO: SOLO FUNDS INC. ENTRY CLASS CODE: WEB ACH NUMBER: 064109560541615",
+      "guid": "pK63pV68mDFxOKyKNJJoIje8MnyjyAt7bd7yB",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Deposit\"]"
+    },
+    {
+      "originalDescription": "Meijer",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 36.37,
+      "date": "2023-11-23",
+      "description": "Meijer",
+      "guid": "pK63pV68mDFxOKyKNJJoIje8MnyjyAt7bdQ1B",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "DEBIT CARD MARATHON PETRO1 9170 US HWY 31 WEST OLIVE",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 11.43,
+      "date": "2023-12-17",
+      "description": "DEBIT CARD MARATHON PETRO1 9170 US HWY 31 WEST OLIVE",
+      "guid": "pK63pV68mDFxOKyKNJJoIje8MnyjyAt7bdQL5",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "Carter's",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 55.95,
+      "date": "2024-01-12",
+      "description": "Carter's",
+      "guid": "pK63pV68mDFxOKyKNJJoIjeMBdJOnJt4Qax7P",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Clothing and Accessories\"]"
+    },
+    {
+      "originalDescription": "DEBIT CARD PYNSOUTHFACES D02 UNIT 10 1 F HEWLETT ONL",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 25.87,
+      "date": "2023-12-13",
+      "description": "DEBIT CARD PYNSOUTHFACES D02 UNIT 10 1 F HEWLETT ONL",
+      "guid": "PP4ORa4n3jip1VZVe99jty65dERyRqCa4y7QA",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "DEPOSIT DEBIT CARD ZELRICK KOOMEN",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 180.0,
+      "date": "2023-12-04",
+      "description": "DEPOSIT DEBIT CARD ZELRICK KOOMEN",
+      "guid": "PP4ORa4n3jip1VZVe99jty65dERyRqCa4y7QN",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Deposit\"]"
+    },
+    {
+      "originalDescription": "WITHDRAWAL POS #260601 CASH APPJACKLY SQUAREUP.COM",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 220.0,
+      "date": "2023-11-09",
+      "description": "WITHDRAWAL POS #260601 CASH APPJACKLY SQUAREUP.COM",
+      "guid": "PP4ORa4n3jip1VZVe99jty65dERyRqCa4yapN",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\"]"
+    },
+    {
+      "originalDescription": "WITHDRAWAL ADJUSTMENT POS #178168 CASH APPTERESA SQUAREUP.COM",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 30.08,
+      "date": "2023-12-04",
+      "description": "WITHDRAWAL ADJUSTMENT POS #178168 CASH APPTERESA SQUAREUP.COM",
+      "guid": "qkLKpgL8o1SxBeAev88yI08pMvk0kzUx3jrZ6",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "WITHDRAWAL ACH BRIGIT-COM TYPE: PROTECTION ID: 2823136030 CO: BRIGIT-COM NAME: TERESA KOOMEN ENTRY CLASS CODE: WEB ACH NUMBER: 084106760403351",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 70.99,
+      "date": "2023-12-13",
+      "description": "WITHDRAWAL ACH BRIGIT-COM TYPE: PROTECTION ID: 2823136030 CO: BRIGIT-COM NAME: TERESA KOOMEN ENTRY CLASS CODE: WEB ACH NUMBER: 084106760403351",
+      "guid": "qkLKpgL8o1SxBeAev88yI08pMvk0kzUx3jrZB",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\"]"
+    },
+    {
+      "originalDescription": "Meijer",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 92.97,
+      "date": "2023-11-09",
+      "description": "Meijer",
+      "guid": "qkLKpgL8o1SxBeAev88yI08pMvk0kzUx3jx86",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "McDonald's",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 21.77,
+      "date": "2024-01-12",
+      "description": "McDonald's",
+      "guid": "QqaER7aXB5soeNwN933kcL9DqA4Qa4F4bJqw6",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "DEBIT CARD QUALITY CAR WAS 809 WASHINGTON AVE HOLLAND",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 9.89,
+      "date": "2023-11-23",
+      "description": "DEBIT CARD QUALITY CAR WAS 809 WASHINGTON AVE HOLLAND",
+      "guid": "QqaER7aXB5soeNwN933kcL9YDaXLXPHw6KbDo",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Automotive\",\"Car Wash and Detail\"]"
+    },
+    {
+      "originalDescription": "WITHDRAWAL ADJUSTMENT POS #192230 CASH APPTERESA SQUAREUP.COM",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 39.3,
+      "date": "2023-12-17",
+      "description": "WITHDRAWAL ADJUSTMENT POS #192230 CASH APPTERESA SQUAREUP.COM",
+      "guid": "QqaER7aXB5soeNwN933kcL9YDaXLXPHw6Kboq",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "DEPOSIT DEBIT CARD SOLO FUNDS 888-295-162",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 98.25,
+      "date": "2023-10-26",
+      "description": "DEPOSIT DEBIT CARD SOLO FUNDS 888-295-162",
+      "guid": "QqaER7aXB5soeNwN933kcL9YDaXLXPHw6KwLo",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Deposit\"]"
+    },
+    {
+      "originalDescription": "DEPOSIT DEBIT CARD BRIGIT NEW YORK NY MERCHANT CATEGORY CODE: 6536",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 70.0,
+      "date": "2024-01-12",
+      "description": "DEPOSIT DEBIT CARD BRIGIT NEW YORK NY MERCHANT CATEGORY CODE: 6536",
+      "guid": "RBxQRKxnbjsxQkOkzjjJIyDbBXq6jqfqd1mK0",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Deposit\"]"
+    },
+    {
+      "originalDescription": "DEBIT CARD NOODLES #8022 10539 JAMES ST #10 HOLLAND",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 35.35,
+      "date": "2023-11-23",
+      "description": "DEBIT CARD NOODLES #8022 10539 JAMES ST #10 HOLLAND",
+      "guid": "RBxQRKxnbjsxQkOkzjjJIyDMbjQyQZCKYkdQQ",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "DEPOSIT DEBIT CARD BRIGIT",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 70.0,
+      "date": "2023-12-16",
+      "description": "DEPOSIT DEBIT CARD BRIGIT",
+      "guid": "RBxQRKxnbjsxQkOkzjjJIyDMbjQyQZCKYkdr7",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Deposit\"]"
+    },
+    {
+      "originalDescription": "WITHDRAWAL ACH DAVE.COM TYPE: P2P ID: 1475235605 CO: DAVE.COM NAME: ACCOUNT 8646",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 31.75,
+      "date": "2023-10-26",
+      "description": "WITHDRAWAL ACH DAVE.COM TYPE: P2P ID: 1475235605 CO: DAVE.COM NAME: ACCOUNT 8646",
+      "guid": "RBxQRKxnbjsxQkOkzjjJIyDMbjQyQZCKYkKnQ",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\"]"
+    },
+    {
+      "originalDescription": "DEBIT CARD BUNTE PHARMACY 115 E MAIN AVE",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 11.8,
+      "date": "2023-12-14",
+      "description": "DEBIT CARD BUNTE PHARMACY 115 E MAIN AVE",
+      "guid": "rmDApRD8XPid7zwzP88RHqQ3Mmpqp7TK09AEY",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Pharmacies\"]"
+    },
+    {
+      "originalDescription": "WITHDRAWAL AT ATM #003080 PARDA FCU 259 EAST 24TH STREET",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 150.0,
+      "date": "2023-11-14",
+      "description": "WITHDRAWAL AT ATM #003080 PARDA FCU 259 EAST 24TH STREET",
+      "guid": "rmDApRD8XPid7zwzP88RHqQ3Mmpqp7TK09K1Z",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "WITHDRAWAL POS #173749 CASH APPRYLEY SQUAREUP.COM SAN FRANCISCO CA MERCHANT CATEGORY CODE: 7299",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 55.0,
+      "date": "2024-01-10",
+      "description": "WITHDRAWAL POS #173749 CASH APPRYLEY SQUAREUP.COM SAN FRANCISCO CA MERCHANT CATEGORY CODE: 7299",
+      "guid": "rmDApRD8XPid7zwzP88RHqQMywBJmBcwAbDKd",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\"]"
+    },
+    {
+      "originalDescription": "DEBIT CARD DAVE INC 1265 SOUTH COCHRAN AVEN LOS ANGEL MERCHANT CATEGORY CODE: 4829",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 33.75,
+      "date": "2024-01-11",
+      "description": "DEBIT CARD DAVE INC 1265 SOUTH COCHRAN AVEN LOS ANGEL MERCHANT CATEGORY CODE: 4829",
+      "guid": "Vkmd8xmnMOSVQ0R0PLLoIQB1JmjvpjFjak3zg",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]"
+    },
+    {
+      "originalDescription": "WITHDRAWAL POS #194926 CASH APPJACKLY SQUAREUP.COM",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 132.0,
+      "date": "2023-12-15",
+      "description": "WITHDRAWAL POS #194926 CASH APPJACKLY SQUAREUP.COM",
+      "guid": "Vkmd8xmnMOSVQ0R0PLLoIQBN1pYQYMszBpaJR",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\"]"
+    },
+    {
+      "originalDescription": "WITHDRAWAL POS #248376 CASH APPJACKLY SQUAREUP.COM",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 55.0,
+      "date": "2023-10-26",
+      "description": "WITHDRAWAL POS #248376 CASH APPJACKLY SQUAREUP.COM",
+      "guid": "Vkmd8xmnMOSVQ0R0PLLoIQBN1pYQYMszBpz6D",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\"]"
+    },
+    {
+      "originalDescription": "WITHDRAWAL POS #139506 CASH APPBRANDI SQUAREUP.COM",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 100.0,
+      "date": "2023-11-22",
+      "description": "WITHDRAWAL POS #139506 CASH APPBRANDI SQUAREUP.COM",
+      "guid": "Vkmd8xmnMOSVQ0R0PLLoIQBN1pYQYMszBpzED",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\"]"
+    },
+    {
+      "originalDescription": "DEBIT CARD DAVE INC 1265 SOUTH COCHRAN AVEN LOS ANGEL",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 5.0,
+      "date": "2023-12-05",
+      "description": "DEBIT CARD DAVE INC 1265 SOUTH COCHRAN AVEN LOS ANGEL",
+      "guid": "vrBJpEB8OyuLjZRZ6rrgU3XJMPw3w9cY6y7NA",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]"
+    },
+    {
+      "originalDescription": "Social Security Administration",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 705.0,
+      "date": "2023-12-13",
+      "description": "Social Security Administration",
+      "guid": "vrBJpEB8OyuLjZRZ6rrgU3XJMPw3w9cY6y7ND",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Deposit\"]"
+    },
+    {
+      "originalDescription": "WITHDRAWAL AT ATM #003022 PARDA FCU 259 EAST 24TH STREET",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 280.0,
+      "date": "2023-11-13",
+      "description": "WITHDRAWAL AT ATM #003022 PARDA FCU 259 EAST 24TH STREET",
+      "guid": "vrBJpEB8OyuLjZRZ6rrgU3XJMPw3w9cY6yYnA",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "WITHDRAWAL POS #259581 CASH APPJACKLY SQUAREUP.COM",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 50.0,
+      "date": "2023-12-30",
+      "description": "WITHDRAWAL POS #259581 CASH APPJACKLY SQUAREUP.COM",
+      "guid": "vrBJpEB8OyuLjZRZ6rrgU3XMQOmBPmc07gekn",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\"]"
+    },
+    {
+      "originalDescription": "DEBIT CARD KLARNA 629 NORTH HIGH STREETSU",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 37.82,
+      "date": "2023-11-08",
+      "description": "DEBIT CARD KLARNA 629 NORTH HIGH STREETSU",
+      "guid": "w43ZpE38qKcLY7j7yrrdUYQ4MbjYjDsepEewa",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\"]"
+    },
+    {
+      "originalDescription": "WITHDRAWAL AT ATM #001309 PARDA FCU 12345 FELCH",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 60.0,
+      "date": "2023-11-27",
+      "description": "WITHDRAWAL AT ATM #001309 PARDA FCU 12345 FELCH",
+      "guid": "w43ZpE38qKcLY7j7yrrdUYQ4MbjYjDsepEM6a",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "DEPOSIT DEBIT CARD ZELRICK KOOMEN",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 25.0,
+      "date": "2023-12-06",
+      "description": "DEPOSIT DEBIT CARD ZELRICK KOOMEN",
+      "guid": "w43ZpE38qKcLY7j7yrrdUYQ4MbjYjDsepEM6Z",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Deposit\"]"
+    },
+    {
+      "originalDescription": "WITHDRAWAL POS #235402 CASH APPBRANDI SQUAREUP.COM SAN FRANCISCO CA MERCHANT CATEGORY CODE: 7299",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 100.0,
+      "date": "2024-01-10",
+      "description": "WITHDRAWAL POS #235402 CASH APPBRANDI SQUAREUP.COM SAN FRANCISCO CA MERCHANT CATEGORY CODE: 7299",
+      "guid": "xayoXEy7mksb49J9n77Psz784BMLpMCKjoxAq",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\"]"
+    },
+    {
+      "originalDescription": "WITHDRAWAL ADJUSTMENT POS #232705 CASH APPTERESA SQUAREUP.COM",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 40.51,
+      "date": "2023-11-18",
+      "description": "WITHDRAWAL ADJUSTMENT POS #232705 CASH APPTERESA SQUAREUP.COM",
+      "guid": "xayoXEy7mksb49J9n77Psz7o8pJzJ5HAn6ABm",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "DEBIT CARD THE BUCKLE ECOM 2407 W 24TH STREET KEARNEY",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 75.88,
+      "date": "2023-12-14",
+      "description": "DEBIT CARD THE BUCKLE ECOM 2407 W 24TH STREET KEARNEY",
+      "guid": "xayoXEy7mksb49J9n77Psz7o8pJzJ5HAn6jpp",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Clothing and Accessories\"]"
+    },
+    {
+      "originalDescription": "RECURRING DEBIT CARD KLARNA 629 NORTH HIGH STREETSU COLUMBUS OH MERCHANT CATEGORY CODE: 5999",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 44.83,
+      "date": "2024-01-14",
+      "description": "RECURRING DEBIT CARD KLARNA 629 NORTH HIGH STREETSU COLUMBUS OH MERCHANT CATEGORY CODE: 5999",
+      "guid": "Xv6Dao6nrji4xBoBw11gI7y9JmaqjahaP6LOY",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\"]"
+    },
+    {
+      "originalDescription": "WITHDRAWAL PRIVILEGEPAY FEE ENTRY CLASS CODE: WEB ACH NUMBER: 084106760634839",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 33.0,
+      "date": "2023-10-27",
+      "description": "WITHDRAWAL PRIVILEGEPAY FEE ENTRY CLASS CODE: WEB ACH NUMBER: 084106760634839",
+      "guid": "Xv6Dao6nrji4xBoBw11gI7yP9j878NTObVOxA",
+      "type": "DEBIT",
+      "category": "[\"Bank Fees\"]"
+    },
+    {
+      "originalDescription": "RECURRING DEBIT CARD KLARNA 629 NORTH HIGH STREETSU",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 37.82,
+      "date": "2023-11-23",
+      "description": "RECURRING DEBIT CARD KLARNA 629 NORTH HIGH STREETSU",
+      "guid": "Xv6Dao6nrji4xBoBw11gI7yP9j878NTObVPwA",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\"]"
+    },
+    {
+      "originalDescription": "DEPOSIT TRANSFER FROM SHARE 0000",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 24.0,
+      "date": "2024-01-16",
+      "description": "DEPOSIT TRANSFER FROM SHARE 0000",
+      "guid": "Y0LP7oLnMjidB6R6bmmeHrg1eBAo0AFqp9Xnr",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "Social Security Administration",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 1246.0,
+      "date": "2023-11-08",
+      "description": "Social Security Administration",
+      "guid": "Y0LP7oLnMjidB6R6bmmeHrgm107r7MfnPanDm",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Deposit\"]"
+    },
+    {
+      "originalDescription": "DEBIT CARD DAVE INC 1265 SOUTH COCHRAN AVEN LOS ANGEL",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 33.75,
+      "date": "2023-11-25",
+      "description": "DEBIT CARD DAVE INC 1265 SOUTH COCHRAN AVEN LOS ANGEL",
+      "guid": "Y0LP7oLnMjidB6R6bmmeHrgm107r7MfnPapxm",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]"
+    },
+    {
+      "originalDescription": "DEBIT CARD KFC K980088 131 E. LAKEWOOD BLVD. HOLLAND",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 48.42,
+      "date": "2023-11-09",
+      "description": "DEBIT CARD KFC K980088 131 E. LAKEWOOD BLVD. HOLLAND",
+      "guid": "yxKgpEK8RXikg303xpp8hNvXMq0N0KUDdzDAd",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "FEE MASTERCARD ISSUER CROSS-BORDER FEE",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 0.23,
+      "date": "2023-12-13",
+      "description": "FEE MASTERCARD ISSUER CROSS-BORDER FEE",
+      "guid": "yxKgpEK8RXikg303xpp8hNvXMq0N0KUDdzo1a",
+      "type": "DEBIT",
+      "category": "[\"Bank Fees\"]"
+    },
+    {
+      "originalDescription": "DEBIT CARD TARGET 0 3456 W SHORE DR",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 16.49,
+      "date": "2023-12-05",
+      "description": "DEBIT CARD TARGET 0 3456 W SHORE DR",
+      "guid": "yxKgpEK8RXikg303xpp8hNvXMq0N0KUDdzo1d",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Department Stores\"]"
+    },
+    {
+      "originalDescription": "Amazon Prime",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 2.11,
+      "date": "2023-12-14",
+      "description": "Amazon Prime",
+      "guid": "ZjDBaQDnyJsYNyPy4qq5sQx8JwnQngszOZ9PY",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Subscription\"]"
+    },
+    {
+      "originalDescription": "WITHDRAWAL ADJUSTMENT POS #238915 CASH APPTERESA SQUAREUP.COM",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 24.56,
+      "date": "2023-11-20",
+      "description": "WITHDRAWAL ADJUSTMENT POS #238915 CASH APPTERESA SQUAREUP.COM",
+      "guid": "ZjDBaQDnyJsYNyPy4qq5sQx8JwnQngszOZzpz",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "WITHDRAWAL AT ATM #006100 PARDA FCU 259 EAST 24TH STREET HOLLAND MI MERCHANT CATEGORY CODE: 6011",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 500.0,
+      "date": "2024-01-10",
+      "description": "WITHDRAWAL AT ATM #006100 PARDA FCU 259 EAST 24TH STREET HOLLAND MI MERCHANT CATEGORY CODE: 6011",
+      "guid": "ZjDBaQDnyJsYNyPy4qq5sQxJOXK7wKFk9vazZ",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "DEBIT CARD BUNTE PHARMACY 115 E MAIN AVE",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 6.71,
+      "date": "2023-11-25",
+      "description": "DEBIT CARD BUNTE PHARMACY 115 E MAIN AVE",
+      "guid": "zJk9dEkVRXskemRmzrrdh9dB8jR9R1UzymBZm",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Pharmacies\"]"
+    },
+    {
+      "originalDescription": "WITHDRAWAL ACH BRIGIT-COM TYPE: PROTECTION ID: 2823136030 CO: BRIGIT-COM NAME: TERESA KOOMEN ENTRY CLASS CODE: WEB ACH NUMBER: 084106760499440",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 70.0,
+      "date": "2023-11-08",
+      "description": "WITHDRAWAL ACH BRIGIT-COM TYPE: PROTECTION ID: 2823136030 CO: BRIGIT-COM NAME: TERESA KOOMEN ENTRY CLASS CODE: WEB ACH NUMBER: 084106760499440",
+      "guid": "zJk9dEkVRXskemRmzrrdh9dB8jR9R1UzymzLm",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\"]"
+    },
+    {
+      "originalDescription": "Advance America",
+      "accountGuid": "yxKgpEK8RXikg303xpp8hNveK7VYowI3zYqN0",
+      "amount": 169.34,
+      "date": "2024-01-16",
+      "description": "Advance America",
+      "guid": "zJk9dEkVRXskemRmzrrdh9d8aNO4jOInBKDzA",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]"
+    }
+  ],
+  "asOfDate": "2024-01-21"
+}

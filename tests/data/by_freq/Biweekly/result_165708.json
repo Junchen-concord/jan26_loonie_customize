@@ -1,0 +1,3162 @@
+{
+  "accounts": [
+    {
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "currentBalance": 914.98,
+      "currentBalanceDate": "2024-01-10"
+    }
+  ],
+  "transactions": [
+    {
+      "originalDescription": "CHECKCARD 1021 RENT A CENTER E-C XXXXX52696 TX MDJXXXXX8432XXXXX0460",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 56.29,
+      "date": "2023-10-27",
+      "description": "CHECKCARD 1021 RENT A CENTER E-C XXXXX52696 TX MDJXXXXX8432XXXXX0460",
+      "guid": "j5LE64raqAuNemPKeNg5hgzL9jVArYIj8OP4k",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Equipment Rental\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1019 RAINBOW #208 ORLANDO FL MDJXXXXX8432XXXXX1401",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 48.96,
+      "date": "2023-10-20",
+      "description": "CHECKCARD 1019 RAINBOW #208 ORLANDO FL MDJXXXXX8432XXXXX1401",
+      "guid": "j5LE64raqAuNemPKeNg5hgzL9jVArYIj8OPNk",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Clothing and Accessories\",\"Women\\u0027s Store\"]"
+    },
+    {
+      "originalDescription": "7-Eleven",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 15.0,
+      "date": "2023-11-10",
+      "description": "7-Eleven",
+      "guid": "j5LE64raqAuNemPKeNg5hgzL9jVArYIj8OPpv",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Convenience Stores\"]"
+    },
+    {
+      "originalDescription": "OMO PRISTINE N 11/24 #XXXXX0614 PURCHASE 4649 MILLENIA PLA",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 60.0,
+      "date": "2023-11-24",
+      "description": "OMO PRISTINE N 11/24 #XXXXX0614 PURCHASE 4649 MILLENIA PLA",
+      "guid": "j5LE64raqAuNemPKeNg5hgzL9jVArYIj8OPqv",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Convenience Stores\"]"
+    },
+    {
+      "originalDescription": "CASH APP*DONAI 01/11 #XXXXX3112 PMNT RCVD CASH APP*DONAI CL",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 42.25,
+      "date": "2024-01-10",
+      "description": "CASH APP*DONAI 01/11 #XXXXX3112 PMNT RCVD CASH APP*DONAI CL",
+      "guid": "j5LE64raqAuNemPKeNgmIvpoABOmMNtv70Kd9",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "Wendy's",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 2.46,
+      "date": "2023-11-08",
+      "description": "Wendy's",
+      "guid": "JXw0qKeZ5yc8DzLpD85osZNbPyq8z0I7BoZ1k",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "Publix",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 48.68,
+      "date": "2023-10-26",
+      "description": "Publix",
+      "guid": "JXw0qKeZ5yc8DzLpD85osZNbPyq8z0I7BoZOz",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Zelle payment from COLL BUILDERS INC Conf# druvxz4b6",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 961.53,
+      "date": "2023-10-19",
+      "description": "Zelle payment from COLL BUILDERS INC Conf# druvxz4b6",
+      "guid": "JXw0qKeZ5yc8DzLpD85osZNbPyq8z0I7BoZwz",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "Dollar Tree",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 27.96,
+      "date": "2023-11-22",
+      "description": "Dollar Tree",
+      "guid": "JXw0qKeZ5yc8DzLpD85osZNbPyq8z0I7BoZzk",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Discount Stores\"]"
+    },
+    {
+      "originalDescription": "PMNT SENT 1216 CASH APP*BEE RICH XXXXX91940 CA XXXXX0233XXXXXXXXXX0074",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 30.0,
+      "date": "2023-12-18",
+      "description": "PMNT SENT 1216 CASH APP*BEE RICH XXXXX91940 CA XXXXX0233XXXXXXXXXX0074",
+      "guid": "JXw0qKeZ5yc8DzLpD85osZNMgeaABeC06zQy9",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "7-Eleven",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 22.03,
+      "date": "2023-11-20",
+      "description": "7-Eleven",
+      "guid": "gMdEn0vKDkCE10La1ExJFrngeyZ3b7UKxLwQD",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Convenience Stores\"]"
+    },
+    {
+      "originalDescription": "BKOFAMERICA ATM 11/24 #XXXXX5196 WITHDRWL ORANGE BLOSSOM TRA",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 20.0,
+      "date": "2023-11-24",
+      "description": "BKOFAMERICA ATM 11/24 #XXXXX5196 WITHDRWL ORANGE BLOSSOM TRA",
+      "guid": "Ko6jBkeKEQSqVRQoVq41HVAznJkMdKIm3Yxje",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "ASSISTRX INC DES:DIRECT DEP ID:XXXXX1045541VP8 INDN:CLARK,RIA DONAI CO ID:XXXXX11103 PPD",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 1460.83,
+      "date": "2023-12-01",
+      "description": "ASSISTRX INC DES:DIRECT DEP ID:XXXXX1045541VP8 INDN:CLARK,RIA DONAI CO ID:XXXXX11103 PPD",
+      "guid": "Ko6jBkeKEQSqVRQoVq41HVAznJkMdKIm3YxjR",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Payroll\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1021 LUXS BLING Long Beach CA MDJXXXXX8632XXXXX0028",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 58.99,
+      "date": "2023-10-23",
+      "description": "CHECKCARD 1021 LUXS BLING Long Beach CA MDJXXXXX8632XXXXX0028",
+      "guid": "Ko6jBkeKEQSqVRQoVq41HVAznJkMdKIm3YxkJ",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Third Party\",\"Square\"]"
+    },
+    {
+      "originalDescription": "Zelle payment from TRAVIS EUGENE NEWMAN Conf# 99a4y13xt",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 100.0,
+      "date": "2023-11-13",
+      "description": "Zelle payment from TRAVIS EUGENE NEWMAN Conf# 99a4y13xt",
+      "guid": "Ko6jBkeKEQSqVRQoVq41HVAznJkMdKIm3YxPe",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "Zelle payment from HELENA CLARK Conf# l6poipa9f",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 50.0,
+      "date": "2023-11-01",
+      "description": "Zelle payment from HELENA CLARK Conf# l6poipa9f",
+      "guid": "Ko6jBkeKEQSqVRQoVq41HVAznJkMdKIm3YxVe",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "Zelle payment from HELENA CLARK Conf# pvrfim6iy",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 50.0,
+      "date": "2023-10-30",
+      "description": "Zelle payment from HELENA CLARK Conf# pvrfim6iy",
+      "guid": "Ko6jBkeKEQSqVRQoVq41HVAznJkMdKIm3YxVJ",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "Zelle payment from TULIPS BLOOMS INC Conf# ndsob7d0n",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 20.0,
+      "date": "2023-10-26",
+      "description": "Zelle payment from TULIPS BLOOMS INC Conf# ndsob7d0n",
+      "guid": "gMdEn0vKDkCE10La1ExJFrngeyZ3b7UKxLw7o",
+      "type": "CREDIT",
+      "category": "[\"Shops\",\"Florists\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1016 FOOD MART ORLANDO FL MDJXXXXX4232XXXXX0002",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 25.0,
+      "date": "2023-10-17",
+      "description": "CHECKCARD 1016 FOOD MART ORLANDO FL MDJXXXXX4232XXXXX0002",
+      "guid": "gMdEn0vKDkCE10La1ExJFrngeyZ3b7UKxLw1o",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "FL TLR transfer Banking Ctr SOUTH NOVA ROAD #0001464 FL Confirmation# XXXXX23995",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 100.0,
+      "date": "2023-11-13",
+      "description": "FL TLR transfer Banking Ctr SOUTH NOVA ROAD #0001464 FL Confirmation# XXXXX23995",
+      "guid": "kXDELa4oBgcQ3mqO3QoJteP0YZ43xmivxwV84",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1021 FRONTIER XXXXX44390 CO MDJXXXXX3432XXXXX9504",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 112.0,
+      "date": "2023-10-23",
+      "description": "CHECKCARD 1021 FRONTIER XXXXX44390 CO MDJXXXXX3432XXXXX9504",
+      "guid": "kXDELa4oBgcQ3mqO3QoJteP0YZ43xmivxwVgB",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Internet Services\"]"
+    },
+    {
+      "originalDescription": "RAINBOW # 7669 11/24 #XXXXX6464 PURCHASE RAINBOW # 7669 S",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 18.09,
+      "date": "2023-11-24",
+      "description": "RAINBOW # 7669 11/24 #XXXXX6464 PURCHASE RAINBOW # 7669 S",
+      "guid": "kXDELa4oBgcQ3mqO3QoJteP0YZ43xmivxwVm4",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Clothing and Accessories\",\"Women\\u0027s Store\"]"
+    },
+    {
+      "originalDescription": "Amazon",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 38.32,
+      "date": "2023-11-30",
+      "description": "Amazon",
+      "guid": "kXDELa4oBgcQ3mqO3QoJteP0YZ43xmivxwVmq",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Digital Purchase\"]"
+    },
+    {
+      "originalDescription": "WAWA 5130 10/31 #XXXXX6288 PURCHASE WAWA 5130",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 9.93,
+      "date": "2023-10-31",
+      "description": "WAWA 5130 10/31 #XXXXX6288 PURCHASE WAWA 5130",
+      "guid": "kXDELa4oBgcQ3mqO3QoJteP0YZ43xmivxwVP4",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "SPECTRUM DES:ACH ID:888-235-4635 INDN:ACCOUNT CO ID:XXXXX03620 WEB",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 210.0,
+      "date": "2023-10-27",
+      "description": "SPECTRUM DES:ACH ID:888-235-4635 INDN:ACCOUNT CO ID:XXXXX03620 WEB",
+      "guid": "kXDELa4oBgcQ3mqO3QoJteP0YZ43xmivxwVPB",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Cable\"]"
+    },
+    {
+      "originalDescription": "ADVANCE REALTY L DES:274039-618 ID:321-278-5835 INDN:RIA CLARK CO ID:XXXXX63633 WEB",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 1301.0,
+      "date": "2023-11-06",
+      "description": "ADVANCE REALTY L DES:274039-618 ID:321-278-5835 INDN:RIA CLARK CO ID:XXXXX63633 WEB",
+      "guid": "gMdEn0vKDkCE10La1ExJFrngeyZ3b7UKxLw0D",
+      "type": "DEBIT",
+      "category": "[\"Payment\",\"Rent\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1215 CASH APP*DONAI CL XXXXX91940 CA XXXXX0233XXXXXXXXXX1062",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 28.8,
+      "date": "2023-12-18",
+      "description": "CHECKCARD 1215 CASH APP*DONAI CL XXXXX91940 CA XXXXX0233XXXXXXXXXX1062",
+      "guid": "gMdEn0vKDkCE10La1ExJFrnavNLPdNH6BQbJM",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 0109 RJIMENEZ COUNSELI CORAL GABLES FL XXXXX1640XXXXXXXXXX5781",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 15.99,
+      "date": "2024-01-10",
+      "description": "CHECKCARD 0109 RJIMENEZ COUNSELI CORAL GABLES FL XXXXX1640XXXXXXXXXX5781",
+      "guid": "kXDELa4oBgcQ3mqO3Qomib813Brdg7CbeMJrP",
+      "type": "DEBIT",
+      "category": "[\"Healthcare\",\"Healthcare Services\",\"Mental Health\"]"
+    },
+    {
+      "originalDescription": "Zelle payment from TULIPS BLOOMS INC Conf# j1ehcrob2",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 50.0,
+      "date": "2023-10-25",
+      "description": "Zelle payment from TULIPS BLOOMS INC Conf# j1ehcrob2",
+      "guid": "ezBpRAko6yc0Lzw7L05aFO7XRDekaKCbQJqVP",
+      "type": "CREDIT",
+      "category": "[\"Shops\",\"Florists\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1204 AUTO LOAN ACCEPTA XXX-XX85786 SD XXXXX9233XXXXXXXXXX0870",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 300.0,
+      "date": "2023-12-06",
+      "description": "CHECKCARD 1204 AUTO LOAN ACCEPTA XXX-XX85786 SD XXXXX9233XXXXXXXXXX0870",
+      "guid": "ezBpRAko6yc0Lzw7L05aFO7XRDekaKCbQJqR5",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]"
+    },
+    {
+      "originalDescription": "CASH APP*DONAI 10/14 #XXXXX1854 PMNT RCVD CASH APP*DONAI CL",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 49.12,
+      "date": "2023-10-16",
+      "description": "CASH APP*DONAI 10/14 #XXXXX1854 PMNT RCVD CASH APP*DONAI CL",
+      "guid": "ezBpRAko6yc0Lzw7L05aFO7XRDekaKCbQJqEP",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "Netflix",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 21.57,
+      "date": "2023-10-12",
+      "description": "Netflix",
+      "guid": "LoLr3AenkbSzP3LvPzaei6V0OYqer1IBAK6em",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Subscription\"]"
+    },
+    {
+      "originalDescription": "7-Eleven",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 1.69,
+      "date": "2023-10-30",
+      "description": "7-Eleven",
+      "guid": "LoLr3AenkbSzP3LvPzaei6V0OYqer1IBAK6Lm",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Convenience Stores\"]"
+    },
+    {
+      "originalDescription": "CAPITAL ONE DES:ONLINE PMT ID:3SMKZNQF8O32OQ2 INDN:RIA D CLARK CO ID:XXXXX44391 WEB",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 50.0,
+      "date": "2023-11-02",
+      "description": "CAPITAL ONE DES:ONLINE PMT ID:3SMKZNQF8O32OQ2 INDN:RIA D CLARK CO ID:XXXXX44391 WEB",
+      "guid": "LoLr3AenkbSzP3LvPzaei6V0OYqer1IBAK6LX",
+      "type": "DEBIT",
+      "category": "[\"Payment\",\"Credit Card\"]"
+    },
+    {
+      "originalDescription": "7-Eleven",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 25.14,
+      "date": "2023-12-04",
+      "description": "7-Eleven",
+      "guid": "LoLr3AenkbSzP3LvPzaei6V0OYqer1IBAK6MA",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Convenience Stores\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1125 Pandor",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 6.89,
+      "date": "2023-11-27",
+      "description": "CHECKCARD 1125 Pandor",
+      "guid": "LoLr3AenkbSzP3LvPzaei6V0OYqer1IBAK6MX",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Digital Purchase\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1022 ROSEN PLAZA BQT B ORLANDO FL MDJXXXXX1332XXXXX6000",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 7.0,
+      "date": "2023-10-24",
+      "description": "CHECKCARD 1022 ROSEN PLAZA BQT B ORLANDO FL MDJXXXXX1332XXXXX6000",
+      "guid": "LoLr3AenkbSzP3LvPzaei6V0OYqer1IBAK6wm",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Lodging\"]"
+    },
+    {
+      "originalDescription": "Amazon Prime",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 15.13,
+      "date": "2023-11-13",
+      "description": "Amazon Prime",
+      "guid": "LoLr3AenkbSzP3LvPzaei6V0OYqer1IBAK6zX",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Subscription\"]"
+    },
+    {
+      "originalDescription": "CAPITAL ONE DES:PHONE PYMT ID:3SMSAIWQRNE42OV INDN:BRADFORD D NEWMAN CO ID:XXXXX19387 PPD",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 90.0,
+      "date": "2023-11-03",
+      "description": "CAPITAL ONE DES:PHONE PYMT ID:3SMSAIWQRNE42OV INDN:BRADFORD D NEWMAN CO ID:XXXXX19387 PPD",
+      "guid": "ezBpRAko6yc0Lzw7L05aFO7XRDekaKCbQJqDE",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "7-Eleven",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 15.01,
+      "date": "2023-11-13",
+      "description": "7-Eleven",
+      "guid": "ezBpRAko6yc0Lzw7L05aFO7XRDekaKCbQJq6E",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Convenience Stores\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1102 MILLER S ALE HOUS ORLANDO FL MDJXXXXX8433XXXXX0518",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 10.63,
+      "date": "2023-11-03",
+      "description": "CHECKCARD 1102 MILLER S ALE HOUS ORLANDO FL MDJXXXXX8433XXXXX0518",
+      "guid": "mdXE1JxmyjsYKx3ZKYgEFQ0yOpd3b6svqDw0b",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1030 Afterpay XXXXX23456 CA MDJXXXXX0233XXXXX1047",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 26.09,
+      "date": "2023-10-31",
+      "description": "CHECKCARD 1030 Afterpay XXXXX23456 CA MDJXXXXX0233XXXXX1047",
+      "guid": "mdXE1JxmyjsYKx3ZKYgEFQ0yOpd3b6svqDw0M",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Digital Purchase\"]"
+    },
+    {
+      "originalDescription": "CASH APP*DONAI 11/29 #XXXXX5552 PMNT RCVD CASH APP*DONAI CL",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 16.31,
+      "date": "2023-11-29",
+      "description": "CASH APP*DONAI 11/29 #XXXXX5552 PMNT RCVD CASH APP*DONAI CL",
+      "guid": "mdXE1JxmyjsYKx3ZKYgEFQ0yOpd3b6svqDw5b",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "Zelle payment from HELENA CLARK Conf# jboy6le17",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 656.0,
+      "date": "2023-12-05",
+      "description": "Zelle payment from HELENA CLARK Conf# jboy6le17",
+      "guid": "mdXE1JxmyjsYKx3ZKYgEFQ0yOpd3b6svqDwKR",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "OFFICE DE 2847 10/24 #XXXXX3128 PURCHASE OFFICE DE 2847 S.",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 19.38,
+      "date": "2023-10-24",
+      "description": "OFFICE DE 2847 10/24 #XXXXX3128 PURCHASE OFFICE DE 2847 S.",
+      "guid": "mdXE1JxmyjsYKx3ZKYgEFQ0yOpd3b6svqDwOM",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Office Supplies\"]"
+    },
+    {
+      "originalDescription": "Dollar Tree",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 36.65,
+      "date": "2023-11-13",
+      "description": "Dollar Tree",
+      "guid": "mdXE1JxmyjsYKx3ZKYgEFQ0yOpd3b6svqDwpb",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Discount Stores\"]"
+    },
+    {
+      "originalDescription": "Zelle payment from COLL BUILDERS INC Conf# e0phs2t28",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 961.53,
+      "date": "2023-10-13",
+      "description": "Zelle payment from COLL BUILDERS INC Conf# e0phs2t28",
+      "guid": "mdXE1JxmyjsYKx3ZKYgEFQ0yOpd3b6svqDwxM",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "Publix",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 20.36,
+      "date": "2023-12-14",
+      "description": "Publix",
+      "guid": "mdXE1JxmyjsYKx3ZKYgEFQ0Z1PYxJPI8R54PK",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "PURCHASE 1215 DOORDASH DASHPASS XXXXX19470 CA XXXXX0933XXXXXXXXXX6335 RECURRING",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 9.99,
+      "date": "2023-12-15",
+      "description": "PURCHASE 1215 DOORDASH DASHPASS XXXXX19470 CA XXXXX0933XXXXXXXXXX6335 RECURRING",
+      "guid": "ezBpRAko6yc0Lzw7L05aFO7E8bQ1ybc4MveKQ",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Subscription\"]"
+    },
+    {
+      "originalDescription": "Zelle payment from JOHANNA M MURILLO for \"Loan for Ria\"; Conf# 99a6nld12",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 100.0,
+      "date": "2023-12-18",
+      "description": "Zelle payment from JOHANNA M MURILLO for \"Loan for Ria\"; Conf# 99a6nld12",
+      "guid": "MED4yvejQPcjNMwoNj1Viwz3LDab8Du0DAkow",
+      "type": "CREDIT",
+      "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]"
+    },
+    {
+      "originalDescription": "Amazon",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 9.99,
+      "date": "2023-10-25",
+      "description": "Amazon",
+      "guid": "MED4yvejQPcjNMwoNj1Viwz5RjvMJAIpmen1K",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Digital Purchase\"]"
+    },
+    {
+      "originalDescription": "LK480617 10/16 #XXXXX8991 WITHDRWL ATM AMSCOT 0-K480",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 602.0,
+      "date": "2023-10-16",
+      "description": "LK480617 10/16 #XXXXX8991 WITHDRWL ATM AMSCOT 0-K480",
+      "guid": "MED4yvejQPcjNMwoNj1Viwz5RjvMJAIpmen3K",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "CASH APP*DONAI 11/18 #XXXXX9229 PMNT RCVD CASH APP*DONAI CL",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 147.38,
+      "date": "2023-11-20",
+      "description": "CASH APP*DONAI 11/18 #XXXXX9229 PMNT RCVD CASH APP*DONAI CL",
+      "guid": "MED4yvejQPcjNMwoNj1Viwz5RjvMJAIpmenJm",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "PURCHASE 1104 DD DOORDASH MILLE XXXXX31040 CA MDJXXXXX5033XXXXX5163",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 62.26,
+      "date": "2023-11-06",
+      "description": "PURCHASE 1104 DD DOORDASH MILLE XXXXX31040 CA MDJXXXXX5033XXXXX5163",
+      "guid": "MED4yvejQPcjNMwoNj1Viwz5RjvMJAIpmenNm",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Food and Beverage\"]"
+    },
+    {
+      "originalDescription": "Amazon",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 12.94,
+      "date": "2023-10-25",
+      "description": "Amazon",
+      "guid": "EoYy6PeQZ0SgM9xmMgkqH6XvwZ3K5rIn1k0YX",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Digital Purchase\"]"
+    },
+    {
+      "originalDescription": "PURCHASE 1015 DD DOORDASH KFC XXXXX31040 CA MDJXXXXX5032XXXXX1463",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 26.76,
+      "date": "2023-10-16",
+      "description": "PURCHASE 1015 DD DOORDASH KFC XXXXX31040 CA MDJXXXXX5032XXXXX1463",
+      "guid": "EoYy6PeQZ0SgM9xmMgkqH6XvwZ3K5rIn1k0BX",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1103 BUDGET NOTARY FL- XXXXX98137 FL MDJXXXXX3633XXXXX7339",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 44.3,
+      "date": "2023-11-06",
+      "description": "CHECKCARD 1103 BUDGET NOTARY FL- XXXXX98137 FL MDJXXXXX3633XXXXX7339",
+      "guid": "EoYy6PeQZ0SgM9xmMgkqH6XvwZ3K5rIn1k0Ay",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]"
+    },
+    {
+      "originalDescription": "BKOFAMERICA ATM 11/19 #XXXXX8721 DEPOSIT KIRKMAN ROAD",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 110.0,
+      "date": "2023-11-20",
+      "description": "BKOFAMERICA ATM 11/19 #XXXXX8721 DEPOSIT KIRKMAN ROAD",
+      "guid": "EoYy6PeQZ0SgM9xmMgkqH6XvwZ3K5rIn1k09y",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Deposit\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "Dollar Tree",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 18.64,
+      "date": "2023-12-15",
+      "description": "Dollar Tree",
+      "guid": "EoYy6PeQZ0SgM9xmMgkqH6XR4m7JamfdrK5xv",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Discount Stores\"]"
+    },
+    {
+      "originalDescription": "Zelle payment to Patrice Mack Conf# rlcg8vjf5",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 100.0,
+      "date": "2023-12-15",
+      "description": "Zelle payment to Patrice Mack Conf# rlcg8vjf5",
+      "guid": "No1aK0YZ57SqBZ4aBqvbHeEpg7d9x7Sy5Bbkz",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "Amazon",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 10.63,
+      "date": "2023-12-06",
+      "description": "Amazon",
+      "guid": "No1aK0YZ57SqBZ4aBqvbHeERbq8LQYiLvJM48",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Digital Purchase\"]"
+    },
+    {
+      "originalDescription": "PURCHASE 1013 DD DOORDASH CH XXXXX31040 CA MDJXXXXX5032XXXXX7677",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 17.62,
+      "date": "2023-10-16",
+      "description": "PURCHASE 1013 DD DOORDASH CH XXXXX31040 CA MDJXXXXX5032XXXXX7677",
+      "guid": "No1aK0YZ57SqBZ4aBqvbHeERbq8LQYiLvJMa1",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Food and Beverage\"]"
+    },
+    {
+      "originalDescription": "Monthly Maintenance Fee",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 12.0,
+      "date": "2023-11-13",
+      "description": "Monthly Maintenance Fee",
+      "guid": "No1aK0YZ57SqBZ4aBqvbHeERbq8LQYiLvJMAP",
+      "type": "DEBIT",
+      "category": "[\"Bank Fees\"]"
+    },
+    {
+      "originalDescription": "INC TUL 10/24 #XXXXX0527 PMNT RCVD PAYPAL*INC TULIPS",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 27.96,
+      "date": "2023-10-25",
+      "description": "INC TUL 10/24 #XXXXX0527 PMNT RCVD PAYPAL*INC TULIPS",
+      "guid": "No1aK0YZ57SqBZ4aBqvbHeERbq8LQYiLvJMP1",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Third Party\",\"PayPal\"]"
+    },
+    {
+      "originalDescription": "Credit One Bank DES:Payment ID:60947210 INDN:RIA CLARK CO ID:WEB000004 WEB",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 30.0,
+      "date": "2023-11-03",
+      "description": "Credit One Bank DES:Payment ID:60947210 INDN:RIA CLARK CO ID:WEB000004 WEB",
+      "guid": "No1aK0YZ57SqBZ4aBqvbHeERbq8LQYiLvJMXP",
+      "type": "DEBIT",
+      "category": "[\"Payment\",\"Credit Card\"]"
+    },
+    {
+      "originalDescription": "PMNT SENT 1215 CASH APP*GENA AUS XXXXX91940 CA XXXXX0233XXXXXXXXXX6020",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 25.0,
+      "date": "2023-12-15",
+      "description": "PMNT SENT 1215 CASH APP*GENA AUS XXXXX91940 CA XXXXX0233XXXXXXXXXX6020",
+      "guid": "nwZnP8JqKXCokYy8koR3FJdoP6yY46fj5mqz5",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "CASH APP*DONAI 11/16 #XXXXX3713 PMNT RCVD CASH APP*DONAI CL",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 39.3,
+      "date": "2023-11-16",
+      "description": "CASH APP*DONAI 11/16 #XXXXX3713 PMNT RCVD CASH APP*DONAI CL",
+      "guid": "nwZnP8JqKXCokYy8koR3FJdr7eN01LUpLnPEm",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "PURCHASE 1015 DD DOORDASH MCDON XXXXX31040 CA MDJXXXXX5032XXXXX0707",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 14.93,
+      "date": "2023-10-16",
+      "description": "PURCHASE 1015 DD DOORDASH MCDON XXXXX31040 CA MDJXXXXX5032XXXXX0707",
+      "guid": "nwZnP8JqKXCokYy8koR3FJdr7eN01LUpLnPeP",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Food and Beverage\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1207 Wix.Com, Inc. XXXXX99034 NY XXXXX2133XXXXXXXXXX5079 RECURRING",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 34.0,
+      "date": "2023-12-07",
+      "description": "CHECKCARD 1207 Wix.Com, Inc. XXXXX99034 NY XXXXX2133XXXXXXXXXX5079 RECURRING",
+      "guid": "nwZnP8JqKXCokYy8koR3FJdr7eN01LUpLnPK7",
+      "type": "DEBIT",
+      "category": "[\"Service\"]"
+    },
+    {
+      "originalDescription": "Zelle payment from HELENA CLARK Conf# m6q3j4zpi",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 150.0,
+      "date": "2023-11-06",
+      "description": "Zelle payment from HELENA CLARK Conf# m6q3j4zpi",
+      "guid": "nwZnP8JqKXCokYy8koR3FJdr7eN01LUpLnPxm",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "PURCHASE 1024 Roku for AFROTAIN XXXXX28107 DE MDJXXXXX2132XXXXX0444 RECURRING",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 3.99,
+      "date": "2023-10-25",
+      "description": "PURCHASE 1024 Roku for AFROTAIN XXXXX28107 DE MDJXXXXX2132XXXXX0444 RECURRING",
+      "guid": "nwZnP8JqKXCokYy8koR3FJdr7eN01LUpLnPyP",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Music, Video and DVD\"]"
+    },
+    {
+      "originalDescription": "Public Storage",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 21.29,
+      "date": "2023-12-18",
+      "description": "Public Storage",
+      "guid": "o6oYmZ8agni3AbKYA30eIPydmjObEjfrp1kwb",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Storage\"]"
+    },
+    {
+      "originalDescription": "PURCHASE 1119 DD DOORDASH POPEY XXXXX31040 CA XXXXX5033XXXXXXXXXX7373",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 24.38,
+      "date": "2023-11-20",
+      "description": "PURCHASE 1119 DD DOORDASH POPEY XXXXX31040 CA XXXXX5033XXXXXXXXXX7373",
+      "guid": "o6oYmZ8agni3AbKYA30eIPyvJNMaDptb3Ze1M",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Food and Beverage\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1017 RENT A CENTER E-C XXXXX52696 TX MDJXXXXX8432XXXXX2106",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 31.03,
+      "date": "2023-10-18",
+      "description": "CHECKCARD 1017 RENT A CENTER E-C XXXXX52696 TX MDJXXXXX8432XXXXX2106",
+      "guid": "o6oYmZ8agni3AbKYA30eIPyvJNMaDptb3Zejj",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Equipment Rental\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1107 Wix.Com, Inc. XXXXX99034 NY MDJXXXXX2133XXXXX5783 RECURRING",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 34.0,
+      "date": "2023-11-07",
+      "description": "CHECKCARD 1107 Wix.Com, Inc. XXXXX99034 NY MDJXXXXX2133XXXXX5783 RECURRING",
+      "guid": "o6oYmZ8agni3AbKYA30eIPyvJNMaDptb3ZevM",
+      "type": "DEBIT",
+      "category": "[\"Service\"]"
+    },
+    {
+      "originalDescription": "Amazon",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 57.8,
+      "date": "2023-10-26",
+      "description": "Amazon",
+      "guid": "o6oYmZ8agni3AbKYA30eIPyvJNMaDptb3Zexj",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Digital Purchase\"]"
+    },
+    {
+      "originalDescription": "CASH APP*DONAI 12/13 #XXXXX3684 PMNT RCVD CASH APP*DONAI CL",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 88.42,
+      "date": "2023-12-12",
+      "description": "CASH APP*DONAI 12/13 #XXXXX3684 PMNT RCVD CASH APP*DONAI CL",
+      "guid": "DoK3w1eDXOSM3ab63MnoCYmZ75aE45fXMaqrD",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "Domino's",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 21.58,
+      "date": "2023-11-06",
+      "description": "Domino's",
+      "guid": "OoMxkje7aBS03ba130yKF798R0BVDYhgJaBAP",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "LK480617 10/16 #XXXXX8991 WITHDRWL ATM AMSCOT 0-K480 ORLANDO FL FEE",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 2.5,
+      "date": "2023-10-16",
+      "description": "LK480617 10/16 #XXXXX8991 WITHDRWL ATM AMSCOT 0-K480 ORLANDO FL FEE",
+      "guid": "OoMxkje7aBS03ba130yKF798R0BVDYhgJaBKv",
+      "type": "DEBIT",
+      "category": "[\"Bank Fees\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "BKOFAMERICA ATM 11/20 #XXXXX6611 DEPOSIT METRO PLAZA",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 60.0,
+      "date": "2023-11-20",
+      "description": "BKOFAMERICA ATM 11/20 #XXXXX6611 DEPOSIT METRO PLAZA",
+      "guid": "OoMxkje7aBS03ba130yKF798R0BVDYhgJaBnP",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Deposit\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "PMNT SENT 1215 CASH APP*CHRISTY XXXXX91940 CA XXXXX0233XXXXXXXXXX4021",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 100.0,
+      "date": "2023-12-18",
+      "description": "PMNT SENT 1215 CASH APP*CHRISTY XXXXX91940 CA XXXXX0233XXXXXXXXXX4021",
+      "guid": "OoMxkje7aBS03ba130yKF79PJ5NqE5fpX7Ny5",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "BKOFAMERICA ATM 11/06 #XXXXX2440 DEPOSIT KIRKMAN ROAD",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 675.0,
+      "date": "2023-11-06",
+      "description": "BKOFAMERICA ATM 11/06 #XXXXX2440 DEPOSIT KIRKMAN ROAD",
+      "guid": "pLOMB5ZXNmTkvyQKvkmzCOnkQMjKZYC4z1MdK",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Deposit\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "Walgreens",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 15.1,
+      "date": "2023-11-14",
+      "description": "Walgreens",
+      "guid": "pLOMB5ZXNmTkvyQKvkmzCOnkQMjKZYC4z1MKK",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Pharmacies\"]"
+    },
+    {
+      "originalDescription": "PURCHASE 1014 DD DOORDASH MI XXXXX31040 CA MDJXXXXX5032XXXXX9454",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 27.06,
+      "date": "2023-10-16",
+      "description": "PURCHASE 1014 DD DOORDASH MI XXXXX31040 CA MDJXXXXX5032XXXXX9454",
+      "guid": "pLOMB5ZXNmTkvyQKvkmzCOnkQMjKZYC4z1MkP",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Food and Beverage\"]"
+    },
+    {
+      "originalDescription": "ADVANCE REALTY L DES:274039-618 ID:321-278-5835 INDN:RIA CLARK CO ID:XXXXX63633 WEB",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 1301.0,
+      "date": "2023-12-06",
+      "description": "ADVANCE REALTY L DES:274039-618 ID:321-278-5835 INDN:RIA CLARK CO ID:XXXXX63633 WEB",
+      "guid": "pLOMB5ZXNmTkvyQKvkmzCOnkQMjKZYC4z1MRD",
+      "type": "DEBIT",
+      "category": "[\"Payment\",\"Rent\"]"
+    },
+    {
+      "originalDescription": "Zelle payment from TULIPS BLOOMS INC Conf# ofmeojn1j",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 20.0,
+      "date": "2023-10-25",
+      "description": "Zelle payment from TULIPS BLOOMS INC Conf# ofmeojn1j",
+      "guid": "pLOMB5ZXNmTkvyQKvkmzCOnkQMjKZYC4z1MVP",
+      "type": "CREDIT",
+      "category": "[\"Shops\",\"Florists\"]"
+    },
+    {
+      "originalDescription": "Dollar Tree",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 23.88,
+      "date": "2023-12-15",
+      "description": "Dollar Tree",
+      "guid": "pLOMB5ZXNmTkvyQKvkmzCOnPBaew0acAN0QYy",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Discount Stores\"]"
+    },
+    {
+      "originalDescription": "Domino's",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 21.58,
+      "date": "2023-10-30",
+      "description": "Domino's",
+      "guid": "DoK3w1eDXOSM3ab63MnoCYm3dPQb6vSRnv7Nz",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1023 DIRECT AUTO IN",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 165.12,
+      "date": "2023-10-23",
+      "description": "CHECKCARD 1023 DIRECT AUTO IN",
+      "guid": "PoMJAreq53SdyZaVydbzTxEmOdy13zIAnQYkJ",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "Public Storage",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 235.5,
+      "date": "2023-11-27",
+      "description": "Public Storage",
+      "guid": "PoMJAreq53SdyZaVydbzTxEmOdy13zIAnQYx4",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Storage\"]"
+    },
+    {
+      "originalDescription": "Cash App DES:Donai Clar ID:T3PASNZBQ1GFZXB INDN:Donai Clark CO ID:XXXXX29876 WEB",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 6.0,
+      "date": "2023-12-01",
+      "description": "Cash App DES:Donai Clar ID:T3PASNZBQ1GFZXB INDN:Donai Clark CO ID:XXXXX29876 WEB",
+      "guid": "PoMJAreq53SdyZaVydbzTxEmOdy13zIAnQYxR",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "Publix",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 14.18,
+      "date": "2023-11-02",
+      "description": "Publix",
+      "guid": "PoMJAreq53SdyZaVydbzTxEmOdy13zIAnQYy4",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "PURCHASE 1028 DD DOORDASH MILLE XXXXX31040 CA MDJXXXXX5033XXXXX3226",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 49.68,
+      "date": "2023-10-30",
+      "description": "PURCHASE 1028 DD DOORDASH MILLE XXXXX31040 CA MDJXXXXX5033XXXXX3226",
+      "guid": "PoMJAreq53SdyZaVydbzTxEmOdy13zIAnQYyJ",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Food and Beverage\"]"
+    },
+    {
+      "originalDescription": "PURCHASE 1111 DD DOORDASH MILLE XXXXX31040 CA MDJXXXXX5033XXXXX7382",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 45.13,
+      "date": "2023-11-13",
+      "description": "PURCHASE 1111 DD DOORDASH MILLE XXXXX31040 CA MDJXXXXX5033XXXXX7382",
+      "guid": "PoMJAreq53SdyZaVydbzTxEmOdy13zIAnQYz4",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Food and Beverage\"]"
+    },
+    {
+      "originalDescription": "PURCHASE 1210 DD DOORDASH WENDY XXXXX31040 CA XXXXX5033XXXXXXXXXX1497",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 16.99,
+      "date": "2023-12-11",
+      "description": "PURCHASE 1210 DD DOORDASH WENDY XXXXX31040 CA XXXXX5033XXXXXXXXXX1497",
+      "guid": "PoMJAreq53SdyZaVydbzTxEPg76jp7IOgx76V",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "DOLLARTREE 11/02 #XXXXX4719 PURCHASE 2814 CURRY FORD R",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 42.98,
+      "date": "2023-11-02",
+      "description": "DOLLARTREE 11/02 #XXXXX4719 PURCHASE 2814 CURRY FORD R",
+      "guid": "DoK3w1eDXOSM3ab63MnoCYm3dPQb6vSRnv7Nm",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Discount Stores\"]"
+    },
+    {
+      "originalDescription": "PURCHASE 1111 DOORDASH DASHPASS XXXXX19470 CA MDJXXXXX0933XXXXX0186 RECURRING",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 9.99,
+      "date": "2023-11-13",
+      "description": "PURCHASE 1111 DOORDASH DASHPASS XXXXX19470 CA MDJXXXXX0933XXXXX0186 RECURRING",
+      "guid": "DoK3w1eDXOSM3ab63MnoCYm3dPQb6vSRnv7km",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Subscription\"]"
+    },
+    {
+      "originalDescription": "CASH APP*DONAI 10/12 #XXXXX9659 PMNT RCVD CASH APP*DONAI CL",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 49.12,
+      "date": "2023-10-12",
+      "description": "CASH APP*DONAI 10/12 #XXXXX9659 PMNT RCVD CASH APP*DONAI CL",
+      "guid": "DoK3w1eDXOSM3ab63MnoCYm3dPQb6vSRnv7Dz",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1125 RENT A CENTER E-C XXXXX52696 TX XXXXX8433XXXXXXXXXX4461",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 100.0,
+      "date": "2023-11-27",
+      "description": "CHECKCARD 1125 RENT A CENTER E-C XXXXX52696 TX XXXXX8433XXXXXXXXXX4461",
+      "guid": "DoK3w1eDXOSM3ab63MnoCYm3dPQb6vSRnv7am",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Equipment Rental\"]"
+    },
+    {
+      "originalDescription": "PURCHASE 1202 DD DOORDASH MILLE XXXXX31040 CA XXXXX5033XXXXXXXXXX1846",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 40.67,
+      "date": "2023-12-04",
+      "description": "PURCHASE 1202 DD DOORDASH MILLE XXXXX31040 CA XXXXX5033XXXXXXXXXX1846",
+      "guid": "DoK3w1eDXOSM3ab63MnoCYm3dPQb6vSRnv7aJ",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Food and Beverage\"]"
+    },
+    {
+      "originalDescription": "Zelle payment from TULIPS BLOOMS INC Conf# jfpv57p2y",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 200.0,
+      "date": "2023-10-24",
+      "description": "Zelle payment from TULIPS BLOOMS INC Conf# jfpv57p2y",
+      "guid": "DoK3w1eDXOSM3ab63MnoCYm3dPQb6vSRnv71z",
+      "type": "CREDIT",
+      "category": "[\"Shops\",\"Florists\"]"
+    },
+    {
+      "originalDescription": "PURCHASE 1027 DD DOORDASH CHARL XXXXX31040 CA MDJXXXXX5033XXXXX1235",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 17.97,
+      "date": "2023-10-30",
+      "description": "PURCHASE 1027 DD DOORDASH CHARL XXXXX31040 CA MDJXXXXX5033XXXXX1235",
+      "guid": "qDZM3n59yoc90AQe09ZNtavAXM0KORiEOZyjP",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Food and Beverage\"]"
+    },
+    {
+      "originalDescription": "BKOFAMERICA ATM 11/02 #XXXXX9455 DEPOSIT KIRKMAN ROAD",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 90.0,
+      "date": "2023-11-02",
+      "description": "BKOFAMERICA ATM 11/02 #XXXXX9455 DEPOSIT KIRKMAN ROAD",
+      "guid": "qDZM3n59yoc90AQe09ZNtavAXM0KORiEOZyjy",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Deposit\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "Walgreens",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 26.35,
+      "date": "2023-11-13",
+      "description": "Walgreens",
+      "guid": "qDZM3n59yoc90AQe09ZNtavAXM0KORiEOZyKy",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Pharmacies\"]"
+    },
+    {
+      "originalDescription": "ACFN5964 10/22 #XXXXX6798 WITHDRWL ROSEN PLAZA -CFN5",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 23.99,
+      "date": "2023-10-23",
+      "description": "ACFN5964 10/22 #XXXXX6798 WITHDRWL ROSEN PLAZA -CFN5",
+      "guid": "qDZM3n59yoc90AQe09ZNtavAXM0KORiEOZyXP",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Lodging\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1124 HAIR JOY ORLA Winter GardenFL XXXXX8633XXXXXXXXXX4428",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 50.0,
+      "date": "2023-11-27",
+      "description": "CHECKCARD 1124 HAIR JOY ORLA Winter GardenFL XXXXX8633XXXXXXXXXX4428",
+      "guid": "qDZM3n59yoc90AQe09ZNtavAXM0KORiEOZyYy",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Personal Care\"]"
+    },
+    {
+      "originalDescription": "PMNT SENT 1113 CASH APP*DONAI CL XXXXX91940 CA MDJXXXXX0233XXXXX1514",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 35.0,
+      "date": "2023-11-13",
+      "description": "PMNT SENT 1113 CASH APP*DONAI CL XXXXX91940 CA MDJXXXXX0233XXXXX1514",
+      "guid": "d5qpEkKowyu56OQ965dPC1Jd74NyrBCQE3mZR",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "Chick-fil-A",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 14.26,
+      "date": "2023-12-11",
+      "description": "Chick-fil-A",
+      "guid": "qDZM3n59yoc90AQe09ZNtavw4N86jNT1qYrMd",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "Pollo Tropical",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 11.8,
+      "date": "2023-10-24",
+      "description": "Pollo Tropical",
+      "guid": "d5qpEkKowyu56OQ965dPC1Jd74NyrBCQE3mrK",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "Zelle payment from Melody Newman for \"Supplies\"; Conf# XXXXX7043",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 17.0,
+      "date": "2023-11-16",
+      "description": "Zelle payment from Melody Newman for \"Supplies\"; Conf# XXXXX7043",
+      "guid": "QoM8v4erdBSxKwmNKx0DsQaEKDLzZMs40DB7V",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "PMNT SENT 1103 CASH APP*LATISHA XXXXX91940 CA MDJXXXXX0233XXXXX2144",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 30.0,
+      "date": "2023-11-06",
+      "description": "PMNT SENT 1103 CASH APP*LATISHA XXXXX91940 CA MDJXXXXX0233XXXXX2144",
+      "guid": "QoM8v4erdBSxKwmNKx0DsQaEKDLzZMs40DBKV",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "PMNT SENT 1014 CASH APP*SOSA XXXXX91940 CA MDJXXXXX0232XXXXX6495",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 60.0,
+      "date": "2023-10-16",
+      "description": "PMNT SENT 1014 CASH APP*SOSA XXXXX91940 CA MDJXXXXX0232XXXXX6495",
+      "guid": "QoM8v4erdBSxKwmNKx0DsQaEKDLzZMs40DBm6",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "Amazon",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 48.98,
+      "date": "2023-10-25",
+      "description": "Amazon",
+      "guid": "QoM8v4erdBSxKwmNKx0DsQaEKDLzZMs40DBn6",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Digital Purchase\"]"
+    },
+    {
+      "originalDescription": "7-Eleven",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 20.03,
+      "date": "2023-12-07",
+      "description": "7-Eleven",
+      "guid": "QoM8v4erdBSxKwmNKx0DsQaEKDLzZMs40DBVb",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Convenience Stores\"]"
+    },
+    {
+      "originalDescription": "NNT TAICHE PRO 12/15 #XXXXX3683 PURCHASE 2741 MAGUIRE RD",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 180.0,
+      "date": "2023-12-15",
+      "description": "NNT TAICHE PRO 12/15 #XXXXX3683 PURCHASE 2741 MAGUIRE RD",
+      "guid": "QoM8v4erdBSxKwmNKx0DsQavqr9korI9gQb8j",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1102 BAHAMA BRZ ZK 005 ALTAMONTE SPRFL MDJXXXXX2033XXXXX8711",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 19.03,
+      "date": "2023-11-03",
+      "description": "CHECKCARD 1102 BAHAMA BRZ ZK 005 ALTAMONTE SPRFL MDJXXXXX2033XXXXX8711",
+      "guid": "d5qpEkKowyu56OQ965dPC1Jd74NyrBCQE3mqR",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "CVS",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 17.88,
+      "date": "2023-10-20",
+      "description": "CVS",
+      "guid": "r1ZMyNoB0XC6jwQzj6KocJmvgMqrezUwdE4md",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Pharmacies\"]"
+    },
+    {
+      "originalDescription": "PMNT SENT 1124 CASH APP*LATONYA XXXXX91940 CA XXXXX0233XXXXXXXXXX0025",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 90.0,
+      "date": "2023-11-24",
+      "description": "PMNT SENT 1124 CASH APP*LATONYA XXXXX91940 CA XXXXX0233XXXXXXXXXX0025",
+      "guid": "r1ZMyNoB0XC6jwQzj6KocJmvgMqrezUwdE4Ow",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "PURCHASE 1110 DD DOORDASH CHARL XXXXX31040 CA MDJXXXXX5033XXXXX5393",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 19.97,
+      "date": "2023-11-10",
+      "description": "PURCHASE 1110 DD DOORDASH CHARL XXXXX31040 CA MDJXXXXX5033XXXXX5393",
+      "guid": "r1ZMyNoB0XC6jwQzj6KocJmvgMqrezUwdE4Qw",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Food and Beverage\"]"
+    },
+    {
+      "originalDescription": "Zelle payment from TULIPS BLOOMS INC Conf# r10ryq4an",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 50.0,
+      "date": "2023-10-27",
+      "description": "Zelle payment from TULIPS BLOOMS INC Conf# r10ryq4an",
+      "guid": "r1ZMyNoB0XC6jwQzj6KocJmvgMqrezUwdE4yd",
+      "type": "CREDIT",
+      "category": "[\"Shops\",\"Florists\"]"
+    },
+    {
+      "originalDescription": "PMNT SENT 1029 CASH APP*BEE RICH XXXXX91940 CA MDJXXXXX0233XXXXX0629",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 20.0,
+      "date": "2023-10-30",
+      "description": "PMNT SENT 1029 CASH APP*BEE RICH XXXXX91940 CA MDJXXXXX0233XXXXX0629",
+      "guid": "d5qpEkKowyu56OQ965dPC1Jd74NyrBCQE3mqK",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "Zelle payment from TULIPS BLOOMS INC Conf# nz88anquv",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 65.0,
+      "date": "2023-11-28",
+      "description": "Zelle payment from TULIPS BLOOMS INC Conf# nz88anquv",
+      "guid": "d5qpEkKowyu56OQ965dPC1Jd74NyrBCQE3mnR",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "WAWA 5130 10/12 #XXXXX1416 PURCHASE WAWA 5130",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 5.16,
+      "date": "2023-10-12",
+      "description": "WAWA 5130 10/12 #XXXXX1416 PURCHASE WAWA 5130",
+      "guid": "d5qpEkKowyu56OQ965dPC1Jd74NyrBCQE3meK",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "CAPITAL ONE DES:PHONE PYMT ID:3SSWPPVDQUET2N3 INDN:BRADFORD D NEWMAN CO ID:XXXXX19387 PPD",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 90.0,
+      "date": "2023-12-04",
+      "description": "CAPITAL ONE DES:PHONE PYMT ID:3SSWPPVDQUET2N3 INDN:BRADFORD D NEWMAN CO ID:XXXXX19387 PPD",
+      "guid": "d5qpEkKowyu56OQ965dPC1Jd74NyrBCQE3m7g",
+      "type": "DEBIT",
+      "category": "[\"Payment\",\"Credit Card\"]"
+    },
+    {
+      "originalDescription": "7-Eleven",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 25.01,
+      "date": "2023-12-15",
+      "description": "7-Eleven",
+      "guid": "RoMZ0ae3wbSbVOykVbn0S6jaB9D0x9f9b6dwP",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Convenience Stores\"]"
+    },
+    {
+      "originalDescription": "Dollar Tree",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 9.32,
+      "date": "2023-12-08",
+      "description": "Dollar Tree",
+      "guid": "RoMZ0ae3wbSbVOykVbn0S6jKNby4z5IqAQEaK",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Discount Stores\"]"
+    },
+    {
+      "originalDescription": "Applebee's",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 42.56,
+      "date": "2023-10-16",
+      "description": "Applebee's",
+      "guid": "RoMZ0ae3wbSbVOykVbn0S6jKNby4z5IqAQED0",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1103 RENT A CENTER E-C XXXXX52696 TX MDJXXXXX8433XXXXX2241",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 113.94,
+      "date": "2023-11-06",
+      "description": "CHECKCARD 1103 RENT A CENTER E-C XXXXX52696 TX MDJXXXXX8433XXXXX2241",
+      "guid": "RoMZ0ae3wbSbVOykVbn0S6jKNby4z5IqAQEkx",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Equipment Rental\"]"
+    },
+    {
+      "originalDescription": "PURCHASE 1117 DD DOORDASH PIZZA XXXXX31040 CA XXXXX5033XXXXXXXXXX2620",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 35.21,
+      "date": "2023-11-17",
+      "description": "PURCHASE 1117 DD DOORDASH PIZZA XXXXX31040 CA XXXXX5033XXXXXXXXXX2620",
+      "guid": "RoMZ0ae3wbSbVOykVbn0S6jKNby4z5IqAQELx",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "Amazon",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 81.13,
+      "date": "2023-10-25",
+      "description": "Amazon",
+      "guid": "RoMZ0ae3wbSbVOykVbn0S6jKNby4z5IqAQEz0",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Digital Purchase\"]"
+    },
+    {
+      "originalDescription": "Shell",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 2.69,
+      "date": "2023-11-10",
+      "description": "Shell",
+      "guid": "v37Mvn9ZYOfOxRQZxO04UBP4ZM3RDeF0ON1am",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "Elegant B Eleg 11/24 #XXXXX1133 PURCHASE Elegant B Elegant",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 54.92,
+      "date": "2023-11-24",
+      "description": "Elegant B Eleg 11/24 #XXXXX1133 PURCHASE Elegant B Elegant",
+      "guid": "v37Mvn9ZYOfOxRQZxO04UBP4ZM3RDeF0ON1Lm",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "CASH APP*DONAI 10/22 #XXXXX8718 PMNT RCVD CASH APP*DONAI CL",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 16.17,
+      "date": "2023-10-23",
+      "description": "CASH APP*DONAI 10/22 #XXXXX8718 PMNT RCVD CASH APP*DONAI CL",
+      "guid": "v37Mvn9ZYOfOxRQZxO04UBP4ZM3RDeF0ON1Rn",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1027 Pandora XXXXX30000 CA MDJXXXXX8633XXXXX5609 RECURRING",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 6.89,
+      "date": "2023-10-27",
+      "description": "CHECKCARD 1027 Pandora XXXXX30000 CA MDJXXXXX8633XXXXX5609 RECURRING",
+      "guid": "v37Mvn9ZYOfOxRQZxO04UBP4ZM3RDeF0ON1yn",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Digital Purchase\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 0109 ORLANDO BEAUTY SU ORLANDO FL XXXXX8040XXXXXXXXXX0289",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 42.56,
+      "date": "2024-01-10",
+      "description": "CHECKCARD 0109 ORLANDO BEAUTY SU ORLANDO FL XXXXX8040XXXXXXXXXX0289",
+      "guid": "v37Mvn9ZYOfOxRQZxO0RsvQwRLE0A7tpeo693",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Beauty Products\"]"
+    },
+    {
+      "originalDescription": "PMNT SENT 1215 CASH APP*XAVIERA XXXXX91940 CA XXXXX0233XXXXXXXXXX9045",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 50.0,
+      "date": "2023-12-18",
+      "description": "PMNT SENT 1215 CASH APP*XAVIERA XXXXX91940 CA XXXXX0233XXXXXXXXXX9045",
+      "guid": "V5bEaZeP1Mu1jRD0j1gyfvp0JOBoVOCn60aVY",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "BKOFAMERICA BC 10/17 #XXXXX2830 FR CHKG 3809 S Nova Rd",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 150.0,
+      "date": "2023-10-17",
+      "description": "BKOFAMERICA BC 10/17 #XXXXX2830 FR CHKG 3809 S Nova Rd",
+      "guid": "V5bEaZeP1Mu1jRD0j1gyfvpr91QXz3Hj7wANg",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "PURCHASE 1105 DD DOORDASH WENDY XXXXX31040 CA MDJXXXXX5033XXXXX7327",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 14.19,
+      "date": "2023-11-06",
+      "description": "PURCHASE 1105 DD DOORDASH WENDY XXXXX31040 CA MDJXXXXX5033XXXXX7327",
+      "guid": "V5bEaZeP1Mu1jRD0j1gyfvpr91QXz3Hj7wApw",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "USPS PO 1 51 E 10/25 #XXXXX5936 PURCHASE USPS PO 1 51 E JE",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 9.91,
+      "date": "2023-10-25",
+      "description": "USPS PO 1 51 E 10/25 #XXXXX5936 PURCHASE USPS PO 1 51 E JE",
+      "guid": "V5bEaZeP1Mu1jRD0j1gyfvpr91QXz3Hj7wAqg",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Shipping and Freight\"]"
+    },
+    {
+      "originalDescription": "CASH APP*DONAI 11/18 #XXXXX1418 PMNT RCVD CASH APP*DONAI CL",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 49.12,
+      "date": "2023-11-20",
+      "description": "CASH APP*DONAI 11/18 #XXXXX1418 PMNT RCVD CASH APP*DONAI CL",
+      "guid": "V5bEaZeP1Mu1jRD0j1gyfvpr91QXz3Hj7wAyw",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "Zelle payment from PATRICE MACK Conf# T0RSMCWGX",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 60.0,
+      "date": "2023-12-14",
+      "description": "Zelle payment from PATRICE MACK Conf# T0RSMCWGX",
+      "guid": "d5qpEkKowyu56OQ965dPC1J08wQVzwcokn1Rn",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "PMNT SENT 1213 CASH APP*SOSA MAR XXXXX91940 CA XXXXX0233XXXXXXXXXX2038",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 40.0,
+      "date": "2023-12-13",
+      "description": "PMNT SENT 1213 CASH APP*SOSA MAR XXXXX91940 CA XXXXX0233XXXXXXXXXX2038",
+      "guid": "wyxM0XV5Nqfxeja7exAPsZbm3OQBaOCRO4MbA",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "PMNT SENT 1023 CASH APP*QMUSIQ XXXXX91940 CA MDJXXXXX0232XXXXX0470",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 20.0,
+      "date": "2023-10-24",
+      "description": "PMNT SENT 1023 CASH APP*QMUSIQ XXXXX91940 CA MDJXXXXX0232XXXXX0470",
+      "guid": "wyxM0XV5Nqfxeja7exAPsZbv7MYLepIv96n1R",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "Panda Express",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 24.07,
+      "date": "2023-12-04",
+      "description": "Panda Express",
+      "guid": "wyxM0XV5Nqfxeja7exAPsZbv7MYLepIv96n46",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "7-Eleven",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 20.56,
+      "date": "2023-11-27",
+      "description": "7-Eleven",
+      "guid": "wyxM0XV5Nqfxeja7exAPsZbv7MYLepIv96n4N",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Convenience Stores\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1112 METRO BY T MOB",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 65.0,
+      "date": "2023-11-13",
+      "description": "CHECKCARD 1112 METRO BY T MOB",
+      "guid": "wyxM0XV5Nqfxeja7exAPsZbv7MYLepIv96nAN",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Telecommunication Services\"]"
+    },
+    {
+      "originalDescription": "Zelle payment from HELENA CLARK Conf# k0u388uvp",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 250.0,
+      "date": "2023-11-03",
+      "description": "Zelle payment from HELENA CLARK Conf# k0u388uvp",
+      "guid": "wyxM0XV5Nqfxeja7exAPsZbv7MYLepIv96nEN",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "IHOP",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 19.53,
+      "date": "2023-10-30",
+      "description": "IHOP",
+      "guid": "wyxM0XV5Nqfxeja7exAPsZbv7MYLepIv96nER",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "Amazon Prime",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 15.13,
+      "date": "2023-10-12",
+      "description": "Amazon Prime",
+      "guid": "wyxM0XV5Nqfxeja7exAPsZbv7MYLepIv96nYR",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Subscription\"]"
+    },
+    {
+      "originalDescription": "BKOFAMERICA ATM 12/15 #XXXXX1850 WITHDRWL METRO PLAZA",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 300.0,
+      "date": "2023-12-15",
+      "description": "BKOFAMERICA ATM 12/15 #XXXXX1850 WITHDRWL METRO PLAZA",
+      "guid": "X5bEJdekqru9eoaBe95rtqjBJwyg4wSzMBPnw",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "Dollar Tree",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 35.86,
+      "date": "2023-12-06",
+      "description": "Dollar Tree",
+      "guid": "X5bEJdekqru9eoaBe95rtqjQk970Axsaqw19X",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Discount Stores\"]"
+    },
+    {
+      "originalDescription": "CASH APP*DONAI 11/15 #XXXXX2388 PMNT RCVD CASH APP*DONAI CL",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 9.75,
+      "date": "2023-11-14",
+      "description": "CASH APP*DONAI 11/15 #XXXXX2388 PMNT RCVD CASH APP*DONAI CL",
+      "guid": "X5bEJdekqru9eoaBe95rtqjQk970Axsaqw1JV",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1013 FRONTIER XXXXX44390 CO MDJXXXXX3432XXXXX8704",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 68.98,
+      "date": "2023-10-16",
+      "description": "CHECKCARD 1013 FRONTIER XXXXX44390 CO MDJXXXXX3432XXXXX8704",
+      "guid": "X5bEJdekqru9eoaBe95rtqjQk970Axsaqw1mY",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Internet Services\"]"
+    },
+    {
+      "originalDescription": "Zelle payment from TULIPS BLOOMS INC Conf# rqym8thyt",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 25.0,
+      "date": "2023-10-25",
+      "description": "Zelle payment from TULIPS BLOOMS INC Conf# rqym8thyt",
+      "guid": "X5bEJdekqru9eoaBe95rtqjQk970Axsaqw1pY",
+      "type": "CREDIT",
+      "category": "[\"Shops\",\"Florists\"]"
+    },
+    {
+      "originalDescription": "SPECTRUM DES:RETURN FEE ID:888-235-4635 INDN:ACCOUNT CO ID:XXXXX03620 PPD",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 25.0,
+      "date": "2023-11-03",
+      "description": "SPECTRUM DES:RETURN FEE ID:888-235-4635 INDN:ACCOUNT CO ID:XXXXX03620 PPD",
+      "guid": "X5bEJdekqru9eoaBe95rtqjQk970Axsaqw1VV",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Cable\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1208 CASH APP*TINA WIL XXXXX91940 CA XXXXX0233XXXXXXXXXX0060",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 65.0,
+      "date": "2023-12-11",
+      "description": "CHECKCARD 1208 CASH APP*TINA WIL XXXXX91940 CA XXXXX0233XXXXXXXXXX0060",
+      "guid": "Bp1qnme0Z3TmDRqxDm6AIj4vqPJAYPIvgpjXX",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "Publix",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 35.54,
+      "date": "2023-11-22",
+      "description": "Publix",
+      "guid": "xKVMjnYZNmFB8Jx98BkjILp198zKX0FKkr01j",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "7-Eleven",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 1.92,
+      "date": "2023-10-26",
+      "description": "7-Eleven",
+      "guid": "xKVMjnYZNmFB8Jx98BkjILp198zKX0FKkr0Dq",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Convenience Stores\"]"
+    },
+    {
+      "originalDescription": "Zelle payment from PATRICE MACK Conf# T0RPVLWYN",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 40.0,
+      "date": "2023-11-09",
+      "description": "Zelle payment from PATRICE MACK Conf# T0RPVLWYN",
+      "guid": "xKVMjnYZNmFB8Jx98BkjILp198zKX0FKkr0Ej",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "Walmart",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 88.65,
+      "date": "2023-10-19",
+      "description": "Walmart",
+      "guid": "xKVMjnYZNmFB8Jx98BkjILp198zKX0FKkr0zq",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1216 BOARDWALK BOWL ORLANDO FL XXXXX9133XXXXXXXXXX8177",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 9.46,
+      "date": "2023-12-18",
+      "description": "CHECKCARD 1216 BOARDWALK BOWL ORLANDO FL XXXXX9133XXXXXXXXXX8177",
+      "guid": "xKVMjnYZNmFB8Jx98BkjILpN4d73ZdfmY1jdL",
+      "type": "DEBIT",
+      "category": "[\"Recreation\",\"Arts and Entertainment\"]"
+    },
+    {
+      "originalDescription": "CASH APP*DONAI 11/13 #XXXXX5869 PMNT RCVD CASH APP*DONAI CL",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 24.56,
+      "date": "2023-11-13",
+      "description": "CASH APP*DONAI 11/13 #XXXXX5869 PMNT RCVD CASH APP*DONAI CL",
+      "guid": "ykAMrnYVNRF5Z0J3Z54VCLq13MNgx7Fgk1j5v",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "Raising Cane's Chicken Fingers",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 4.29,
+      "date": "2023-10-23",
+      "description": "Raising Cane's Chicken Fingers",
+      "guid": "ykAMrnYVNRF5Z0J3Z54VCLq13MNgx7Fgk1j67",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "CASH APP*DONAI 12/01 #XXXXX6012 PMNT RCVD CASH APP*DONAI CL",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 6.0,
+      "date": "2023-12-01",
+      "description": "CASH APP*DONAI 12/01 #XXXXX6012 PMNT RCVD CASH APP*DONAI CL",
+      "guid": "ykAMrnYVNRF5Z0J3Z54VCLq13MNgx7Fgk1jV6",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "BKOFAMERICA ATM 11/25 #XXXXX2679 DEPOSIT KIRKMAN ROAD",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 150.0,
+      "date": "2023-11-27",
+      "description": "BKOFAMERICA ATM 11/25 #XXXXX2679 DEPOSIT KIRKMAN ROAD",
+      "guid": "ykAMrnYVNRF5Z0J3Z54VCLq13MNgx7Fgk1jVv",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Deposit\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "Zelle payment from HELENA CLARK Conf# qeh1sd1qo",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 50.0,
+      "date": "2023-10-30",
+      "description": "Zelle payment from HELENA CLARK Conf# qeh1sd1qo",
+      "guid": "ykAMrnYVNRF5Z0J3Z54VCLq13MNgx7Fgk1jz7",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "CASH APP*DONAI 11/01 #XXXXX4737 PMNT RCVD CASH APP*DONAI CL",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 10.67,
+      "date": "2023-11-01",
+      "description": "CASH APP*DONAI 11/01 #XXXXX4737 PMNT RCVD CASH APP*DONAI CL",
+      "guid": "ykAMrnYVNRF5Z0J3Z54VCLq13MNgx7Fgk1jzv",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "PMNT SENT 1215 CASH APP*SOSA MAR XXXXX91940 CA XXXXX0233XXXXXXXXXX4083",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 40.0,
+      "date": "2023-12-15",
+      "description": "PMNT SENT 1215 CASH APP*SOSA MAR XXXXX91940 CA XXXXX0233XXXXXXXXXX4083",
+      "guid": "YQbE8wdABMi1aRZ6a1LPfo06eYgdjYuzN6pbR",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "7-Eleven",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 20.0,
+      "date": "2023-11-03",
+      "description": "7-Eleven",
+      "guid": "YQbE8wdABMi1aRZ6a1LPfo0Q31rw4nCq1x8a0",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Convenience Stores\"]"
+    },
+    {
+      "originalDescription": "Monthly Maintenance Fee",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 12.0,
+      "date": "2023-10-13",
+      "description": "Monthly Maintenance Fee",
+      "guid": "YQbE8wdABMi1aRZ6a1LPfo0Q31rw4nCq1x8Br",
+      "type": "DEBIT",
+      "category": "[\"Bank Fees\"]"
+    },
+    {
+      "originalDescription": "BKOFAMERICA ATM 11/13 #XXXXX6010 WITHDRWL KIRKMAN ROAD",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 40.0,
+      "date": "2023-11-13",
+      "description": "BKOFAMERICA ATM 11/13 #XXXXX6010 WITHDRWL KIRKMAN ROAD",
+      "guid": "YQbE8wdABMi1aRZ6a1LPfo0Q31rw4nCq1x8m0",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "Amazon",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 13.83,
+      "date": "2023-12-05",
+      "description": "Amazon",
+      "guid": "YQbE8wdABMi1aRZ6a1LPfo0Q31rw4nCq1x8oj",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Digital Purchase\"]"
+    },
+    {
+      "originalDescription": "Zelle payment from HELENA CLARK Conf# jlrsbjga2",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 600.0,
+      "date": "2023-10-25",
+      "description": "Zelle payment from HELENA CLARK Conf# jlrsbjga2",
+      "guid": "YQbE8wdABMi1aRZ6a1LPfo0Q31rw4nCq1x8Vr",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "SPECTRUM DES:SPECTRUM ID:3310304 INDN:RIA DONAI CLARK CO ID:XXXXX58635 WEB",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 210.0,
+      "date": "2023-10-18",
+      "description": "SPECTRUM DES:SPECTRUM ID:3310304 INDN:RIA DONAI CLARK CO ID:XXXXX58635 WEB",
+      "guid": "Z5bEZ6wrdyuJxP0yxJ63f7wRoJQVkMhk3JB6Z",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Cable\"]"
+    },
+    {
+      "originalDescription": "PMNT SENT 1025 CASH APP*SOSA MAR XXXXX91940 CA MDJXXXXX0232XXXXX2791",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 100.0,
+      "date": "2023-10-26",
+      "description": "PMNT SENT 1025 CASH APP*SOSA MAR XXXXX91940 CA MDJXXXXX0232XXXXX2791",
+      "guid": "Z5bEZ6wrdyuJxP0yxJ63f7wRoJQVkMhk3JBAZ",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "CASH APP*DONAI 11/08 #XXXXX2900 PMNT RCVD CASH APP*DONAI CL",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 49.12,
+      "date": "2023-11-08",
+      "description": "CASH APP*DONAI 11/08 #XXXXX2900 PMNT RCVD CASH APP*DONAI CL",
+      "guid": "Z5bEZ6wrdyuJxP0yxJ63f7wRoJQVkMhk3JBnL",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "PMNT SENT 1119 CASH APP*ROSE ELL XXXXX91940 CA XXXXX0233XXXXXXXXXX1065",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 100.0,
+      "date": "2023-11-20",
+      "description": "PMNT SENT 1119 CASH APP*ROSE ELL XXXXX91940 CA XXXXX0233XXXXXXXXXX1065",
+      "guid": "Z5bEZ6wrdyuJxP0yxJ63f7wRoJQVkMhk3JByL",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "PURCHASE 1216 DD DOORDASH MILLE XXXXX31040 CA XXXXX5033XXXXXXXXXX2669",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 24.07,
+      "date": "2023-12-18",
+      "description": "PURCHASE 1216 DD DOORDASH MILLE XXXXX31040 CA XXXXX5033XXXXXXXXXX2669",
+      "guid": "Z5bEZ6wrdyuJxP0yxJ63f7wyOEx9NEf8Xy9mb",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Food and Beverage\"]"
+    },
+    {
+      "originalDescription": "Amazon",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 15.96,
+      "date": "2023-10-13",
+      "description": "Amazon",
+      "guid": "zAZM4nYgNRCN5R8m5NL7h4jbm89n5zCnNZX9A",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Digital Purchase\"]"
+    },
+    {
+      "originalDescription": "Publix",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 18.62,
+      "date": "2023-11-13",
+      "description": "Publix",
+      "guid": "zAZM4nYgNRCN5R8m5NL7h4jbm89n5zCnNZXEo",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1202 RENT A CENTER E-C XXXXX52696 TX XXXXX8433XXXXXXXXXX9067",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 60.49,
+      "date": "2023-12-05",
+      "description": "CHECKCARD 1202 RENT A CENTER E-C XXXXX52696 TX XXXXX8433XXXXXXXXXX9067",
+      "guid": "zAZM4nYgNRCN5R8m5NL7h4jbm89n5zCnNZXj3",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Equipment Rental\"]"
+    },
+    {
+      "originalDescription": "PURCHASE 1031 DD DOORDASH KFC XXXXX31040 CA MDJXXXXX5033XXXXX8107",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 29.75,
+      "date": "2023-10-31",
+      "description": "PURCHASE 1031 DD DOORDASH KFC XXXXX31040 CA MDJXXXXX5033XXXXX8107",
+      "guid": "zAZM4nYgNRCN5R8m5NL7h4jbm89n5zCnNZXmA",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "PMNT SENT 1102 CASH APP*GENA AUS XXXXX91940 CA MDJXXXXX0233XXXXX2264",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 25.0,
+      "date": "2023-11-03",
+      "description": "PMNT SENT 1102 CASH APP*GENA AUS XXXXX91940 CA MDJXXXXX0233XXXXX2264",
+      "guid": "zAZM4nYgNRCN5R8m5NL7h4jbm89n5zCnNZXmo",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1124 AMAZON.COM*1T6",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 13.38,
+      "date": "2023-11-29",
+      "description": "CHECKCARD 1124 AMAZON.COM*1T6",
+      "guid": "zAZM4nYgNRCN5R8m5NL7h4jbm89n5zCnNZXwo",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Digital Purchase\"]"
+    },
+    {
+      "originalDescription": "Zelle payment to TULIPS BLOOMS INC Conf# ng138kr5m",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 50.0,
+      "date": "2023-10-24",
+      "description": "Zelle payment to TULIPS BLOOMS INC Conf# ng138kr5m",
+      "guid": "zAZM4nYgNRCN5R8m5NL7h4jbm89n5zCnNZXxA",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Florists\"]"
+    },
+    {
+      "originalDescription": "Chipotle Mexican Grill",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 27.37,
+      "date": "2023-11-27",
+      "description": "Chipotle Mexican Grill",
+      "guid": "Bp1qnme0Z3TmDRqxDm6AIj4EB3KDgrH7Mqepy",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "ASSISTRX INC DES:DIRECT DEP ID:XXXXX8396289VP8 INDN:CLARK,RIA DONAI CO ID:XXXXX11103 PPD",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 1460.48,
+      "date": "2023-12-15",
+      "description": "ASSISTRX INC DES:DIRECT DEP ID:XXXXX8396289VP8 INDN:CLARK,RIA DONAI CO ID:XXXXX11103 PPD",
+      "guid": "zAZM4nYgNRCN5R8m5NL7h4jpa6dKo6tMawBQ0",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Payroll\"]"
+    },
+    {
+      "originalDescription": "PURCHASE 1130 Roku for BET XXXXX28107 DE XXXXX2133XXXXXXXXXX3052 RECURRING",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 9.99,
+      "date": "2023-12-01",
+      "description": "PURCHASE 1130 Roku for BET XXXXX28107 DE XXXXX2133XXXXXXXXXX3052 RECURRING",
+      "guid": "Bp1qnme0Z3TmDRqxDm6AIj4EB3KDgrH7MqepK",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Music, Video and DVD\"]"
+    },
+    {
+      "originalDescription": "PMNT SENT 1022 CASH APP*SOSA MAR XXXXX91940 CA MDJXXXXX0232XXXXX3382",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 60.0,
+      "date": "2023-10-23",
+      "description": "PMNT SENT 1022 CASH APP*SOSA MAR XXXXX91940 CA MDJXXXXX0232XXXXX3382",
+      "guid": "Bp1qnme0Z3TmDRqxDm6AIj4EB3KDgrH7MqeoL",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1110 LPC CITRUS CENTER ORLANDO FL MDJXXXXX8633XXXXX2438",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 9.0,
+      "date": "2023-11-13",
+      "description": "CHECKCARD 1110 LPC CITRUS CENTER ORLANDO FL MDJXXXXX8633XXXXX2438",
+      "guid": "Bp1qnme0Z3TmDRqxDm6AIj4EB3KDgrH7MqeKy",
+      "type": "DEBIT",
+      "category": "[\"Healthcare\",\"Healthcare Services\"]"
+    },
+    {
+      "originalDescription": "Zelle payment from HELENA CLARK Conf# ozp5o1whw",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 176.0,
+      "date": "2023-11-02",
+      "description": "Zelle payment from HELENA CLARK Conf# ozp5o1whw",
+      "guid": "Bp1qnme0Z3TmDRqxDm6AIj4EB3KDgrH7MqeDy",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "CASH APP*DONAI 10/28 #XXXXX5197 PMNT RCVD CASH APP*DONAI CL",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 27.47,
+      "date": "2023-10-30",
+      "description": "CASH APP*DONAI 10/28 #XXXXX5197 PMNT RCVD CASH APP*DONAI CL",
+      "guid": "Bp1qnme0Z3TmDRqxDm6AIj4EB3KDgrH7MqeDL",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1215 RENT A CENTER E-C XXXXX52696 TX XXXXX8433XXXXXXXXXX1129",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 113.94,
+      "date": "2023-12-18",
+      "description": "CHECKCARD 1215 RENT A CENTER E-C XXXXX52696 TX XXXXX8433XXXXXXXXXX1129",
+      "guid": "bgqQOy3PBocLdne9dLA8hZeEOX83rXCPN4dng",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Equipment Rental\"]"
+    },
+    {
+      "originalDescription": "Zelle payment from HELENA CLARK Conf# ot7putlec",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 100.0,
+      "date": "2023-11-07",
+      "description": "Zelle payment from HELENA CLARK Conf# ot7putlec",
+      "guid": "bgqQOy3PBocLdne9dLA8hZedVQNgYzID8wyMv",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1024 BUYEASTERNDESERTS XXXXX82250 CA MDJXXXXX9832XXXXX3114",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 7.85,
+      "date": "2023-10-26",
+      "description": "CHECKCARD 1024 BUYEASTERNDESERTS XXXXX82250 CA MDJXXXXX9832XXXXX3114",
+      "guid": "bgqQOy3PBocLdne9dLA8hZedVQNgYzID8wybp",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "Zelle payment to TULIPS BLOOMS INC Conf# rrqlzgtr9",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 150.0,
+      "date": "2023-10-17",
+      "description": "Zelle payment to TULIPS BLOOMS INC Conf# rrqlzgtr9",
+      "guid": "bgqQOy3PBocLdne9dLA8hZedVQNgYzID8wy7p",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Florists\"]"
+    },
+    {
+      "originalDescription": "Publix",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 101.95,
+      "date": "2023-11-20",
+      "description": "Publix",
+      "guid": "bgqQOy3PBocLdne9dLA8hZedVQNgYzID8wy4v",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Amazon",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 5.31,
+      "date": "2023-10-27",
+      "description": "Amazon",
+      "guid": "AVDPQ6e97KhLVP63VL9yhNqmeE74XaHn8g1pY",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Digital Purchase\"]"
+    },
+    {
+      "originalDescription": "PURCHASE 1020 DD DOORDASH TGIFR XXXXX31040 CA MDJXXXXX5032XXXXX9309",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 58.52,
+      "date": "2023-10-23",
+      "description": "PURCHASE 1020 DD DOORDASH TGIFR XXXXX31040 CA MDJXXXXX5032XXXXX9309",
+      "guid": "AVDPQ6e97KhLVP63VL9yhNqmeE74XaHn8g1oY",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Food and Beverage\"]"
+    },
+    {
+      "originalDescription": "Zelle payment to Patrice Mack Conf# kkoiwpypz",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 40.0,
+      "date": "2023-11-10",
+      "description": "Zelle payment to Patrice Mack Conf# kkoiwpypz",
+      "guid": "AVDPQ6e97KhLVP63VL9yhNqmeE74XaHn8g1LN",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "RAINBOW # 7669 11/24 #XXXXX2437 PURCHASE RAINBOW # 7669 S",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 32.97,
+      "date": "2023-11-24",
+      "description": "RAINBOW # 7669 11/24 #XXXXX2437 PURCHASE RAINBOW # 7669 S",
+      "guid": "AVDPQ6e97KhLVP63VL9yhNqmeE74XaHn8g1aN",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Clothing and Accessories\",\"Women\\u0027s Store\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 0109 RENT A CENTER E-C XXXXX52696 TX XXXXX8440XXXXXXXXXX9704",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 59.63,
+      "date": "2024-01-10",
+      "description": "CHECKCARD 0109 RENT A CENTER E-C XXXXX52696 TX XXXXX8440XXXXXXXXXX9704",
+      "guid": "AVDPQ6e97KhLVP63VL9PI9PV4oKgLMHw4devo",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Equipment Rental\"]"
+    },
+    {
+      "originalDescription": "Publix",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 20.97,
+      "date": "2023-12-18",
+      "description": "Publix",
+      "guid": "a5yEV3BQqDuJV7ZwVJYdfRNwOymrLyfKRqa6v",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1019 REBEL#803",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 28.5,
+      "date": "2023-10-19",
+      "description": "CHECKCARD 1019 REBEL#803",
+      "guid": "a5yEV3BQqDuJV7ZwVJYdfRN5qDP9oxI1wYkXJ",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1107 KRYSTAL ORL004 DAYTONA BEACHFL MDJXXXXX3033XXXXX5874",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 6.59,
+      "date": "2023-11-09",
+      "description": "CHECKCARD 1107 KRYSTAL ORL004 DAYTONA BEACHFL MDJXXXXX3033XXXXX5874",
+      "guid": "a5yEV3BQqDuJV7ZwVJYdfRN5qDP9oxI1wYkQy",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "7-Eleven",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 2.97,
+      "date": "2023-10-26",
+      "description": "7-Eleven",
+      "guid": "a5yEV3BQqDuJV7ZwVJYdfRN5qDP9oxI1wYkdJ",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Convenience Stores\"]"
+    },
+    {
+      "originalDescription": "Public Storage",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 233.75,
+      "date": "2023-12-18",
+      "description": "Public Storage",
+      "guid": "9On5gYVELJUeAqvJAeZbfXVYdo0bvoH6VNr1y",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Storage\"]"
+    },
+    {
+      "originalDescription": "PMNT SENT 1106 CASH APP*SOSA MAR XXXXX91940 CA MDJXXXXX0233XXXXX0945",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 30.0,
+      "date": "2023-11-06",
+      "description": "PMNT SENT 1106 CASH APP*SOSA MAR XXXXX91940 CA MDJXXXXX0233XXXXX0945",
+      "guid": "9On5gYVELJUeAqvJAeZbfXVxk6DL1jCxpDjOw",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "PURCHASE 1118 DD DOORDASH DOLLA XXXXX31040 CA XXXXX5033XXXXXXXXXX0546",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 8.7,
+      "date": "2023-11-20",
+      "description": "PURCHASE 1118 DD DOORDASH DOLLA XXXXX31040 CA XXXXX5033XXXXXXXXXX0546",
+      "guid": "9On5gYVELJUeAqvJAeZbfXVxk6DL1jCxpDjNw",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Food and Beverage\"]"
+    },
+    {
+      "originalDescription": "CASH APP*DONAI 10/17 #XXXXX2413 PMNT RCVD CASH APP*DONAI CL",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 49.12,
+      "date": "2023-10-17",
+      "description": "CASH APP*DONAI 10/17 #XXXXX2413 PMNT RCVD CASH APP*DONAI CL",
+      "guid": "9On5gYVELJUeAqvJAeZbfXVxk6DL1jCxpDjbB",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "CITGO",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 15.0,
+      "date": "2023-10-25",
+      "description": "CITGO",
+      "guid": "9On5gYVELJUeAqvJAeZbfXVxk6DL1jCxpDj7B",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1107 METRO BY T MOB",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 139.0,
+      "date": "2023-11-08",
+      "description": "CHECKCARD 1107 METRO BY T MOB",
+      "guid": "8VOZmY9z6JhkxA5QxkDNC1XokzpO0mCvRQewB",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Telecommunication Services\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1025 BUFFALO WINGS AND XXXXX44476 FL MDJXXXXX8732XXXXX9874",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 28.19,
+      "date": "2023-10-26",
+      "description": "CHECKCARD 1025 BUFFALO WINGS AND XXXXX44476 FL MDJXXXXX8732XXXXX9874",
+      "guid": "8VOZmY9z6JhkxA5QxkDNC1XokzpO0mCvRQeLw",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "RETURN OF POSTED CHECK / ITEM (RECEIVED ON 10-18) ELECTRONIC TRANSACTION",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 210.0,
+      "date": "2023-10-19",
+      "description": "RETURN OF POSTED CHECK / ITEM (RECEIVED ON 10-18) ELECTRONIC TRANSACTION",
+      "guid": "8VOZmY9z6JhkxA5QxkDNC1XokzpO0mCvRQeaw",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Deposit\",\"Check\"]"
+    },
+    {
+      "originalDescription": "PMNT SENT 1120 CASH APP*LAKOSCIA XXXXX91940 CA XXXXX0233XXXXXXXXXX9043",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 15.0,
+      "date": "2023-11-20",
+      "description": "PMNT SENT 1120 CASH APP*LAKOSCIA XXXXX91940 CA XXXXX0233XXXXXXXXXX9043",
+      "guid": "8VOZmY9z6JhkxA5QxkDNC1XokzpO0mCvRQe7B",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "PURCHASE 1216 Afterpay XXXXX23456 CA XXXXX0233XXXXXXXXXX2034 RECURRING",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 47.92,
+      "date": "2023-12-18",
+      "description": "PURCHASE 1216 Afterpay XXXXX23456 CA XXXXX0233XXXXXXXXXX2034 RECURRING",
+      "guid": "8VOZmY9z6JhkxA5QxkDNC1XjBgAK7gcYp7KDy",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Digital Purchase\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1215 RUSSO WINE CO XXXXX74551 FL XXXXX8633XXXXXXXXXX6834",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 84.0,
+      "date": "2023-12-18",
+      "description": "CHECKCARD 1215 RUSSO WINE CO XXXXX74551 FL XXXXX8633XXXXXXXXXX6834",
+      "guid": "7VZ8oY7EwRhxm4KNmxBOswgy8nXOmnu8wKzez",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Food and Beverage Store\"]"
+    },
+    {
+      "originalDescription": "Publix",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 8.08,
+      "date": "2023-10-25",
+      "description": "Publix",
+      "guid": "7VZ8oY7EwRhxm4KNmxBOswgbAqjaPZI5BjMPe",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "PURCHASE 1016 DD DOORDASH WENDY XXXXX31040 CA MDJXXXXX5032XXXXX3064",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 14.19,
+      "date": "2023-10-17",
+      "description": "PURCHASE 1016 DD DOORDASH WENDY XXXXX31040 CA MDJXXXXX5032XXXXX3064",
+      "guid": "7VZ8oY7EwRhxm4KNmxBOswgbAqjaPZI5BjMme",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "PURCHASE 1118 DD DOORDASH WENDY XXXXX31040 CA XXXXX5033XXXXXXXXXX0305",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 33.57,
+      "date": "2023-11-20",
+      "description": "PURCHASE 1118 DD DOORDASH WENDY XXXXX31040 CA XXXXX5033XXXXXXXXXX0305",
+      "guid": "7VZ8oY7EwRhxm4KNmxBOswgbAqjaPZI5BjMKw",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "Walmart",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 62.31,
+      "date": "2023-11-06",
+      "description": "Walmart",
+      "guid": "7VZ8oY7EwRhxm4KNmxBOswgbAqjaPZI5BjMdw",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "PURCHASE 1011 DOORDASH DASHPASS XXXXX19470 CA XXXXX0932XXXXXXXXXX6384 RECURRING",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 9.99,
+      "date": "2023-10-12",
+      "description": "PURCHASE 1011 DOORDASH DASHPASS XXXXX19470 CA XXXXX0932XXXXXXXXXX6384 RECURRING",
+      "guid": "6V9J5YgQdbhrRyeBRrgdc0PnR8ZDBOtNvoBxN",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Subscription\"]"
+    },
+    {
+      "originalDescription": "PMNT SENT 1126 CASH APP*QMUSIQ XXXXX91940 CA XXXXX0233XXXXXXXXXX7042",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 20.0,
+      "date": "2023-11-27",
+      "description": "PMNT SENT 1126 CASH APP*QMUSIQ XXXXX91940 CA XXXXX0233XXXXXXXXXX7042",
+      "guid": "6V9J5YgQdbhrRyeBRrgdc0PnR8ZDBOtNvoBJz",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "BKOFAMERICA ATM 11/03 #XXXXX9910 DEPOSIT KIRKMAN ROAD",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 700.0,
+      "date": "2023-11-03",
+      "description": "BKOFAMERICA ATM 11/03 #XXXXX9910 DEPOSIT KIRKMAN ROAD",
+      "guid": "6V9J5YgQdbhrRyeBRrgdc0PnR8ZDBOtNvoBez",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Deposit\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "PURCHASE 1029 DD DOORDASH JERSE XXXXX31040 CA MDJXXXXX5033XXXXX4833",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 26.8,
+      "date": "2023-10-30",
+      "description": "PURCHASE 1029 DD DOORDASH JERSE XXXXX31040 CA MDJXXXXX5033XXXXX4833",
+      "guid": "6V9J5YgQdbhrRyeBRrgdc0PnR8ZDBOtNvoBeN",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Food and Beverage\"]"
+    },
+    {
+      "originalDescription": "PMNT SENT 1112 CASH APP*QMUSIQ XXXXX91940 CA MDJXXXXX0233XXXXX1452",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 10.0,
+      "date": "2023-11-13",
+      "description": "PMNT SENT 1112 CASH APP*QMUSIQ XXXXX91940 CA MDJXXXXX0233XXXXX1452",
+      "guid": "6V9J5YgQdbhrRyeBRrgdc0PnR8ZDBOtNvoB7z",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "PMNT SENT 1023 CASH APP*JAYLEN M XXXXX91940 CA MDJXXXXX0232XXXXX0472",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 20.0,
+      "date": "2023-10-24",
+      "description": "PMNT SENT 1023 CASH APP*JAYLEN M XXXXX91940 CA MDJXXXXX0232XXXXX0472",
+      "guid": "6V9J5YgQdbhrRyeBRrgdc0PnR8ZDBOtNvoB5N",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "Panda Express",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 24.07,
+      "date": "2023-12-13",
+      "description": "Panda Express",
+      "guid": "6V9J5YgQdbhrRyeBRrgdc0PEkaXdqaIAqJ9re",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "Dollar Tree",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 9.32,
+      "date": "2023-11-07",
+      "description": "Dollar Tree",
+      "guid": "5z9mZYbg7JcR8nrj8RAqIDJynvO7bwI4O9PZQ",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Discount Stores\"]"
+    },
+    {
+      "originalDescription": "Public Storage",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 142.83,
+      "date": "2023-10-26",
+      "description": "Public Storage",
+      "guid": "5z9mZYbg7JcR8nrj8RAqIDJynvO7bwI4O9PXX",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Storage\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1017 TAICHE PROFESSION OCOEE FL MDJXXXXX0232XXXXX7010",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 135.0,
+      "date": "2023-10-18",
+      "description": "CHECKCARD 1017 TAICHE PROFESSION OCOEE FL MDJXXXXX0232XXXXX7010",
+      "guid": "5z9mZYbg7JcR8nrj8RAqIDJynvO7bwI4O9PkX",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1119 PRIME VIDEO CHANN XXXXX61072 WA XXXXX2033XXXXXXXXXX7335",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 13.54,
+      "date": "2023-11-20",
+      "description": "CHECKCARD 1119 PRIME VIDEO CHANN XXXXX61072 WA XXXXX2033XXXXXXXXXX7335",
+      "guid": "5z9mZYbg7JcR8nrj8RAqIDJynvO7bwI4O9PEQ",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Entertainment\"]"
+    },
+    {
+      "originalDescription": "Netflix",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 24.8,
+      "date": "2023-12-18",
+      "description": "Netflix",
+      "guid": "5z9mZYbg7JcR8nrj8RAqIDJ4K1Bqx1fNyEdvN",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Subscription\"]"
+    },
+    {
+      "originalDescription": "PURCHASE 1218 Afterpay XXXXX23456 CA XXXXX0233XXXXXXXXXX2050 RECURRING",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 58.25,
+      "date": "2023-12-19",
+      "description": "PURCHASE 1218 Afterpay XXXXX23456 CA XXXXX0233XXXXXXXXXX2050 RECURRING",
+      "guid": "4Vza8Yog5NhQZJbgZQL7tA6wzD87vDfDejE3v",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Digital Purchase\"]"
+    },
+    {
+      "originalDescription": "Zelle payment from HELENA CLARK Conf# enxb4t28y",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 225.0,
+      "date": "2023-10-27",
+      "description": "Zelle payment from HELENA CLARK Conf# enxb4t28y",
+      "guid": "4Vza8Yog5NhQZJbgZQL7tA6akOMKPBhnMN5Ym",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "BKOFAMERICA ATM 11/10 #XXXXX8526 DEPOSIT CURRY FORD ROAD",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 200.0,
+      "date": "2023-11-10",
+      "description": "BKOFAMERICA ATM 11/10 #XXXXX8526 DEPOSIT CURRY FORD ROAD",
+      "guid": "4Vza8Yog5NhQZJbgZQL7tA6akOMKPBhnMN5VJ",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Deposit\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "Zelle payment from HELENA CLARK Conf# r3yu1erqn",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 250.0,
+      "date": "2023-11-24",
+      "description": "Zelle payment from HELENA CLARK Conf# r3yu1erqn",
+      "guid": "4Vza8Yog5NhQZJbgZQL7tA6akOMKPBhnMN5jJ",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1019 E T NAILS & SPA L ORLANDO FL MDJXXXXX9132XXXXX0162",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 30.0,
+      "date": "2023-10-20",
+      "description": "CHECKCARD 1019 E T NAILS & SPA L ORLANDO FL MDJXXXXX9132XXXXX0162",
+      "guid": "4Vza8Yog5NhQZJbgZQL7tA6akOMKPBhnMN5bm",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Personal Care\"]"
+    },
+    {
+      "originalDescription": "LINCOLN HERITAGE DES:INS PREM ID:XXXXX4696644 INDN:Ria Donai Clark CO ID:XXXXX14290 PPD",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 45.9,
+      "date": "2023-11-01",
+      "description": "LINCOLN HERITAGE DES:INS PREM ID:XXXXX4696644 INDN:Ria Donai Clark CO ID:XXXXX14290 PPD",
+      "guid": "3V94JY5zZ0hNZQ8DZN39hz1XQ0drE7tAYZmvX",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Insurance\"]"
+    },
+    {
+      "originalDescription": "Zelle payment from HELENA CLARK Conf# kpfathi7r",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 40.0,
+      "date": "2023-10-30",
+      "description": "Zelle payment from HELENA CLARK Conf# kpfathi7r",
+      "guid": "3V94JY5zZ0hNZQ8DZN39hz1XQ0drE7tAYZmvO",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "PMNT SENT 1110 CASH APP*SOSA MAR XXXXX91940 CA MDJXXXXX0233XXXXX1039",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 20.0,
+      "date": "2023-11-13",
+      "description": "PMNT SENT 1110 CASH APP*SOSA MAR XXXXX91940 CA MDJXXXXX0233XXXXX1039",
+      "guid": "3V94JY5zZ0hNZQ8DZN39hz1XQ0drE7tAYZmNX",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1021 EVOLVE BY HUDSON ONTARIO CA MDJXXXXX2032XXXXX0019",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 3.74,
+      "date": "2023-10-23",
+      "description": "CHECKCARD 1021 EVOLVE BY HUDSON ONTARIO CA MDJXXXXX2032XXXXX0019",
+      "guid": "3V94JY5zZ0hNZQ8DZN39hz1XQ0drE7tAYZm8O",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "PURCHASE 1124 Roku for AFROTAIN XXXXX28107 DE XXXXX2133XXXXXXXXXX4029 RECURRING",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 3.99,
+      "date": "2023-11-27",
+      "description": "PURCHASE 1124 Roku for AFROTAIN XXXXX28107 DE XXXXX2133XXXXXXXXXX4029 RECURRING",
+      "guid": "3V94JY5zZ0hNZQ8DZN39hz1XQ0drE7tAYZm5X",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Music, Video and DVD\"]"
+    },
+    {
+      "originalDescription": "PURCHASE 1130 DD DOORDASH MILLE XXXXX31040 CA XXXXX5033XXXXXXXXXX7991",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 24.07,
+      "date": "2023-12-01",
+      "description": "PURCHASE 1130 DD DOORDASH MILLE XXXXX31040 CA XXXXX5033XXXXXXXXXX7991",
+      "guid": "3V94JY5zZ0hNZQ8DZN39hz1XQ0drE7tAYZm5v",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Food and Beverage\"]"
+    },
+    {
+      "originalDescription": "CASH APP*DONAI 12/09 #XXXXX7448 PMNT RCVD CASH APP*DONAI CL",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 14.74,
+      "date": "2023-12-11",
+      "description": "CASH APP*DONAI 12/09 #XXXXX7448 PMNT RCVD CASH APP*DONAI CL",
+      "guid": "3V94JY5zZ0hNZQ8DZN39hz1gnJP9YJIPV50ky",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "PMNT SENT 1202 CASH APP*MRS MYER XXXXX91940 CA XXXXX0233XXXXXXXXXX9067",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 15.0,
+      "date": "2023-12-04",
+      "description": "PMNT SENT 1202 CASH APP*MRS MYER XXXXX91940 CA XXXXX0233XXXXXXXXXX9067",
+      "guid": "1E9jaY8x57cLNm53NLjghb7oQd5OJ6tgRBdvz",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "PURCHASE 1028 Roku for BET XXXXX28107 DE MDJXXXXX2133XXXXX2550 RECURRING",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 9.99,
+      "date": "2023-10-30",
+      "description": "PURCHASE 1028 Roku for BET XXXXX28107 DE MDJXXXXX2133XXXXX2550 RECURRING",
+      "guid": "1E9jaY8x57cLNm53NLjghb7oQd5OJ6tgRBdVq",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Music, Video and DVD\"]"
+    },
+    {
+      "originalDescription": "Zelle payment to TULIPS BLOOMS INC Conf# lwm0lguiv",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 30.0,
+      "date": "2023-11-02",
+      "description": "Zelle payment to TULIPS BLOOMS INC Conf# lwm0lguiv",
+      "guid": "1E9jaY8x57cLNm53NLjghb7oQd5OJ6tgRBdVJ",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Florists\"]"
+    },
+    {
+      "originalDescription": "ACFN5964 10/22 #XXXXX6798 WITHDRWL ROSEN PLAZA -CFN5 ORLANDO FL FEE",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 2.5,
+      "date": "2023-10-23",
+      "description": "ACFN5964 10/22 #XXXXX6798 WITHDRWL ROSEN PLAZA -CFN5 ORLANDO FL FEE",
+      "guid": "1E9jaY8x57cLNm53NLjghb7oQd5OJ6tgRBdKq",
+      "type": "DEBIT",
+      "category": "[\"Bank Fees\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "Netflix",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 21.57,
+      "date": "2023-11-13",
+      "description": "Netflix",
+      "guid": "1E9jaY8x57cLNm53NLjghb7oQd5OJ6tgRBdkJ",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Subscription\"]"
+    },
+    {
+      "originalDescription": "Dollar Tree",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 6.66,
+      "date": "2023-12-11",
+      "description": "Dollar Tree",
+      "guid": "1E9jaY8x57cLNm53NLjghb70qa8gDaIY0vqZX",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Discount Stores\"]"
+    },
+    {
+      "originalDescription": "Amazon",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 45.99,
+      "date": "2024-01-10",
+      "description": "Amazon",
+      "guid": "0ex04YJNKQU5xK67x5YKhOMXkA3x9nh9qgQkb",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Digital Purchase\"]"
+    },
+    {
+      "originalDescription": "WAWA 5130 11/10 #XXXXX7036 PURCHASE WAWA 5130",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 2.18,
+      "date": "2023-11-10",
+      "description": "WAWA 5130 11/10 #XXXXX7036 PURCHASE WAWA 5130",
+      "guid": "0ex04YJNKQU5xK67x5YbCeqEdpPkVwivP8nYA",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1019 FRONTIER XXXXX44390 CO MDJXXXXX3432XXXXX9305",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 62.0,
+      "date": "2023-10-20",
+      "description": "CHECKCARD 1019 FRONTIER XXXXX44390 CO MDJXXXXX3432XXXXX9305",
+      "guid": "0ex04YJNKQU5xK67x5YbCeqEdpPkVwivP8nN8",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Internet Services\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1025 AUTO LOAN ACCEPTA XXX-XX85786 SD MDJXXXXX9232XXXXX7400",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 300.0,
+      "date": "2023-10-27",
+      "description": "CHECKCARD 1025 AUTO LOAN ACCEPTA XXX-XX85786 SD MDJXXXXX9232XXXXX7400",
+      "guid": "0ex04YJNKQU5xK67x5YbCeqEdpPkVwivP8nL8",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]"
+    },
+    {
+      "originalDescription": "Dollar Tree",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 31.24,
+      "date": "2023-11-24",
+      "description": "Dollar Tree",
+      "guid": "0ex04YJNKQU5xK67x5YbCeqEdpPkVwivP8n1A",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Discount Stores\"]"
+    },
+    {
+      "originalDescription": "CASH APP*DONAI 12/21 #XXXXX7546 PMNT RCVD CASH APP*DONAI CL",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 34.39,
+      "date": "2023-12-21",
+      "description": "CASH APP*DONAI 12/21 #XXXXX7546 PMNT RCVD CASH APP*DONAI CL",
+      "guid": "j5LE64raqAuNemPKeNg5hgzKpnPkynuvAqYxy",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "PMNT SENT 1227 CASH APP*SOSA MAR XXXXX91940 CA XXXXX0233XXXXXXXXXX2026",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 200.0,
+      "date": "2023-12-27",
+      "description": "PMNT SENT 1227 CASH APP*SOSA MAR XXXXX91940 CA XXXXX0233XXXXXXXXXX2026",
+      "guid": "Ko6jBkeKEQSqVRQoVq41HVAEgeYB0eUynjv9g",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "CASH APP*DONAI 12/27 #XXXXX9023 PMNT RCVD CASH APP*DONAI CL",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 20.52,
+      "date": "2023-12-27",
+      "description": "CASH APP*DONAI 12/27 #XXXXX9023 PMNT RCVD CASH APP*DONAI CL",
+      "guid": "kXDELa4oBgcQ3mqO3QoJtePO8VQpLVSb6mD5y",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1227 RENT A CENTER E-C XXXXX52696 TX XXXXX8433XXXXXXXXXX4494",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 115.93,
+      "date": "2023-12-28",
+      "description": "CHECKCARD 1227 RENT A CENTER E-C XXXXX52696 TX XXXXX8433XXXXXXXXXX4494",
+      "guid": "DoK3w1eDXOSM3ab63MnoCYmZ75aE45fXMaq5D",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Equipment Rental\"]"
+    },
+    {
+      "originalDescription": "Zelle payment from HELENA CLARK Conf# pt5h5wdx4",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 100.0,
+      "date": "2023-12-28",
+      "description": "Zelle payment from HELENA CLARK Conf# pt5h5wdx4",
+      "guid": "qDZM3n59yoc90AQe09ZNtavw4N86jNT1qYrdd",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1220 WAWA 5150",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 25.0,
+      "date": "2023-12-20",
+      "description": "CHECKCARD 1220 WAWA 5150",
+      "guid": "r1ZMyNoB0XC6jwQzj6KocJmxyAQLnAfrYOAXo",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "Chick-Fil-A",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 12.58,
+      "date": "2023-12-26",
+      "description": "Chick-Fil-A",
+      "guid": "v37Mvn9ZYOfOxRQZxO04UBP5QyXqKyfpXL7Z6",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1228 Canva",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 14.99,
+      "date": "2023-12-28",
+      "description": "CHECKCARD 1228 Canva",
+      "guid": "wyxM0XV5Nqfxeja7exAPsZbm3OQBaOCRO4MQA",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Digital Purchase\"]"
+    },
+    {
+      "originalDescription": "CAPITAL ONE DES:ONLINE PMT ID:3SY70EGNZWLNE7E INDN:RIA D CLARK CO ID:XXXXX44391 WEB",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 57.0,
+      "date": "2023-12-27",
+      "description": "CAPITAL ONE DES:ONLINE PMT ID:3SY70EGNZWLNE7E INDN:RIA D CLARK CO ID:XXXXX44391 WEB",
+      "guid": "Bp1qnme0Z3TmDRqxDm6AIj4vqPJAYPIvgpjBX",
+      "type": "DEBIT",
+      "category": "[\"Payment\",\"Credit Card\"]"
+    },
+    {
+      "originalDescription": "Zelle payment to TULIPS BLOOMS INC Conf# qqvfmwyyo",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 50.0,
+      "date": "2023-12-27",
+      "description": "Zelle payment to TULIPS BLOOMS INC Conf# qqvfmwyyo",
+      "guid": "ykAMrnYVNRF5Z0J3Z54VCLqEewvymwfRrVoQB",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Florists\"]"
+    },
+    {
+      "originalDescription": "Zelle payment from HELENA CLARK Conf# q8g7nezbq",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 600.0,
+      "date": "2023-12-27",
+      "description": "Zelle payment from HELENA CLARK Conf# q8g7nezbq",
+      "guid": "AVDPQ6e97KhLVP63VL9yhNqJP13yB1IwYaBVE",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "Zelle payment to Rhonda Hair Joy Conf# kec3tv79i",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 100.0,
+      "date": "2023-12-28",
+      "description": "Zelle payment to Rhonda Hair Joy Conf# kec3tv79i",
+      "guid": "6V9J5YgQdbhrRyeBRrgdc0PEkaXdqaIAqJ98e",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1227 Pandor",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 6.89,
+      "date": "2023-12-27",
+      "description": "CHECKCARD 1227 Pandor",
+      "guid": "3V94JY5zZ0hNZQ8DZN39hz1gnJP9YJIPV501y",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Digital Purchase\"]"
+    },
+    {
+      "originalDescription": "Dollar Tree",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 49.26,
+      "date": "2023-12-21",
+      "description": "Dollar Tree",
+      "guid": "0ex04YJNKQU5xK67x5YbCeqgMNLbRNS9y15pn",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Discount Stores\"]"
+    },
+    {
+      "originalDescription": "7-Eleven",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 25.0,
+      "date": "2024-01-04",
+      "description": "7-Eleven",
+      "guid": "j5LE64raqAuNemPKeNg5hgzKpnPkynuvAqY9y",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Convenience Stores\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 0103 SAMS CLUB #478",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 31.84,
+      "date": "2024-01-03",
+      "description": "CHECKCARD 0103 SAMS CLUB #478",
+      "guid": "JXw0qKeZ5yc8DzLpD85osZNMgeaABeC06zQj9",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Warehouses and Wholesale Stores\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 0109 WIX.COM XXXXX99034 CA XXXXX5040XXXXXXXXXX4957 RECURRING",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 34.0,
+      "date": "2024-01-09",
+      "description": "CHECKCARD 0109 WIX.COM XXXXX99034 CA XXXXX5040XXXXXXXXXX4957 RECURRING",
+      "guid": "JXw0qKeZ5yc8DzLpD85osZNMgeaABeC06zQjj",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Business Services\"]"
+    },
+    {
+      "originalDescription": "RETURN OF POSTED CHECK / ITEM (RECEIVED ON 01-05) ELECTRONIC TRANSACTION",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 1301.0,
+      "date": "2024-01-08",
+      "description": "RETURN OF POSTED CHECK / ITEM (RECEIVED ON 01-05) ELECTRONIC TRANSACTION",
+      "guid": "Ko6jBkeKEQSqVRQoVq41HVAEgeYB0eUynjvrg",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Deposit\",\"Check\"]"
+    },
+    {
+      "originalDescription": "ADVANCE REALTY L DES:274039-618 ID:321-278-5835 INDN:RIA CLARK CO ID:XXXXX63633 WEB",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 1301.0,
+      "date": "2024-01-05",
+      "description": "ADVANCE REALTY L DES:274039-618 ID:321-278-5835 INDN:RIA CLARK CO ID:XXXXX63633 WEB",
+      "guid": "kXDELa4oBgcQ3mqO3QoJtePO8VQpLVSb6mDQy",
+      "type": "DEBIT",
+      "category": "[\"Payment\",\"Rent\"]"
+    },
+    {
+      "originalDescription": "BATH & BODY WO 12/31 #XXXXX2152 PURCHASE BATH & BODY WOR",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 34.88,
+      "date": "2024-01-02",
+      "description": "BATH & BODY WO 12/31 #XXXXX2152 PURCHASE BATH & BODY WOR",
+      "guid": "gMdEn0vKDkCE10La1ExJFrnavNLPdNH6BQboM",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Beauty Products\"]"
+    },
+    {
+      "originalDescription": "7-Eleven",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 25.02,
+      "date": "2023-12-28",
+      "description": "7-Eleven",
+      "guid": "LoLr3AenkbSzP3LvPzaei6Vy9wN3RwfJNMPqw",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Convenience Stores\"]"
+    },
+    {
+      "originalDescription": "PURCHASE 1228 Roku for AFROTAIN XXXXX28107 DE XXXXX2133XXXXXXXXXX2072 RECURRING",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 3.99,
+      "date": "2023-12-29",
+      "description": "PURCHASE 1228 Roku for AFROTAIN XXXXX28107 DE XXXXX2133XXXXXXXXXX2072 RECURRING",
+      "guid": "mdXE1JxmyjsYKx3ZKYgEFQ0Z1PYxJPI8R54bK",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Music, Video and DVD\"]"
+    },
+    {
+      "originalDescription": "PURCHASE 1230 DD DOORDASH MCDON XXXXX31040 CA XXXXX5033XXXXXXXXXX3699",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 17.46,
+      "date": "2024-01-02",
+      "description": "PURCHASE 1230 DD DOORDASH MCDON XXXXX31040 CA XXXXX5033XXXXXXXXXX3699",
+      "guid": "MED4yvejQPcjNMwoNj1Viwz3LDab8Du0DAkxw",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Food and Beverage\"]"
+    },
+    {
+      "originalDescription": "NNT TAICHE PRO 12/29 #XXXXX8111 PURCHASE 2741 MAGUIRE RD",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 162.0,
+      "date": "2023-12-29",
+      "description": "NNT TAICHE PRO 12/29 #XXXXX8111 PURCHASE 2741 MAGUIRE RD",
+      "guid": "ezBpRAko6yc0Lzw7L05aFO7E8bQ1ybc4MveBQ",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "LK554199 12/29 #XXXXX1357 WITHDRWL ATM AMSCOT 1-K554",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 302.0,
+      "date": "2023-12-29",
+      "description": "LK554199 12/29 #XXXXX1357 WITHDRWL ATM AMSCOT 1-K554",
+      "guid": "No1aK0YZ57SqBZ4aBqvbHeEpg7d9x7Sy5Bbjz",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "PURCHASE 1229 AFTERPAY XXXXX96014 CA XXXXX0933XXXXXXXXXX4489 RECURRING",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 47.92,
+      "date": "2024-01-02",
+      "description": "PURCHASE 1229 AFTERPAY XXXXX96014 CA XXXXX0933XXXXXXXXXX4489 RECURRING",
+      "guid": "EoYy6PeQZ0SgM9xmMgkqH6XR4m7JamfdrK53v",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Digital Purchase\"]"
+    },
+    {
+      "originalDescription": "Zelle payment from HELENA CLARK Conf# oim0py847",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 200.0,
+      "date": "2024-01-02",
+      "description": "Zelle payment from HELENA CLARK Conf# oim0py847",
+      "guid": "nwZnP8JqKXCokYy8koR3FJdoP6yY46fj5mqD5",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "7-Eleven",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 24.0,
+      "date": "2024-01-02",
+      "description": "7-Eleven",
+      "guid": "o6oYmZ8agni3AbKYA30eIPydmjObEjfrp1kXb",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Convenience Stores\"]"
+    },
+    {
+      "originalDescription": "PURCHASE 1230 AFTERPAY XXXXX96014 CA XXXXX0933XXXXXXXXXX3930 RECURRING",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 58.25,
+      "date": "2024-01-02",
+      "description": "PURCHASE 1230 AFTERPAY XXXXX96014 CA XXXXX0933XXXXXXXXXX3930 RECURRING",
+      "guid": "OoMxkje7aBS03ba130yKF79PJ5NqE5fpX7Nr5",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Digital Purchase\"]"
+    },
+    {
+      "originalDescription": "LK554199 12/29 #XXXXX1357 WITHDRWL ATM AMSCOT 1-K554 ORLANDO FL FEE",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 2.5,
+      "date": "2023-12-29",
+      "description": "LK554199 12/29 #XXXXX1357 WITHDRWL ATM AMSCOT 1-K554 ORLANDO FL FEE",
+      "guid": "pLOMB5ZXNmTkvyQKvkmzCOnPBaew0acAN0Qqy",
+      "type": "DEBIT",
+      "category": "[\"Bank Fees\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "Amazon",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 23.42,
+      "date": "2023-12-28",
+      "description": "Amazon",
+      "guid": "PoMJAreq53SdyZaVydbzTxEPg76jp7IOgx79V",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Digital Purchase\"]"
+    },
+    {
+      "originalDescription": "Chick-Fil-A",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 12.98,
+      "date": "2024-01-02",
+      "description": "Chick-Fil-A",
+      "guid": "QoM8v4erdBSxKwmNKx0DsQavqr9korI9gQbXj",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "Publix",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 2.01,
+      "date": "2024-01-04",
+      "description": "Publix",
+      "guid": "r1ZMyNoB0XC6jwQzj6KocJmxyAQLnAfrYOAPo",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1229 AUTO LOAN ACCEPTA XXX-XX85786 SD XXXXX9233XXXXXXXXXX8838",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 405.0,
+      "date": "2024-01-02",
+      "description": "CHECKCARD 1229 AUTO LOAN ACCEPTA XXX-XX85786 SD XXXXX9233XXXXXXXXXX8838",
+      "guid": "RoMZ0ae3wbSbVOykVbn0S6jaB9D0x9f9b6dNP",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]"
+    },
+    {
+      "originalDescription": "Zelle payment to TULIPS BLOOMS INC Conf# jogin0iyp",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 170.0,
+      "date": "2024-01-04",
+      "description": "Zelle payment to TULIPS BLOOMS INC Conf# jogin0iyp",
+      "guid": "v37Mvn9ZYOfOxRQZxO04UBP5QyXqKyfpXL7E6",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Florists\"]"
+    },
+    {
+      "originalDescription": "Family Dollar",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 27.49,
+      "date": "2024-01-02",
+      "description": "Family Dollar",
+      "guid": "V5bEaZeP1Mu1jRD0j1gyfvp0JOBoVOCn60aeY",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Discount Stores\"]"
+    },
+    {
+      "originalDescription": "ASSISTRX INC DES:DIRECT DEP ID:XXXXX2314928VP8 INDN:CLARK,RIA DONAI CO ID:XXXXX11103 PPD",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 1551.48,
+      "date": "2023-12-29",
+      "description": "ASSISTRX INC DES:DIRECT DEP ID:XXXXX2314928VP8 INDN:CLARK,RIA DONAI CO ID:XXXXX11103 PPD",
+      "guid": "d5qpEkKowyu56OQ965dPC1J08wQVzwcokn1Yn",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Payroll\"]"
+    },
+    {
+      "originalDescription": "LK353032 12/29 #XXXXX4492 WITHDRWL ATM AMSCOT 0-K353 ORLANDO FL FEE",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 2.5,
+      "date": "2023-12-29",
+      "description": "LK353032 12/29 #XXXXX4492 WITHDRWL ATM AMSCOT 0-K353 ORLANDO FL FEE",
+      "guid": "X5bEJdekqru9eoaBe95rtqjBJwyg4wSzMBPEw",
+      "type": "DEBIT",
+      "category": "[\"Bank Fees\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "Family Dollar",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 17.25,
+      "date": "2024-01-09",
+      "description": "Family Dollar",
+      "guid": "xKVMjnYZNmFB8Jx98BkjILpN4d73ZdfmY1jZe",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Discount Stores\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 0103 SAMS CLUB #478",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 8.54,
+      "date": "2024-01-03",
+      "description": "CHECKCARD 0103 SAMS CLUB #478",
+      "guid": "xKVMjnYZNmFB8Jx98BkjILpN4d73ZdfmY1jZL",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Warehouses and Wholesale Stores\"]"
+    },
+    {
+      "originalDescription": "BKOFAMERICA ATM 01/06 #XXXXX3804 DEPOSIT KIRKMAN ROAD",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 160.0,
+      "date": "2024-01-08",
+      "description": "BKOFAMERICA ATM 01/06 #XXXXX3804 DEPOSIT KIRKMAN ROAD",
+      "guid": "ykAMrnYVNRF5Z0J3Z54VCLqEewvymwfRrVomB",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Deposit\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "LK353032 12/29 #XXXXX4492 WITHDRWL ATM AMSCOT 0-K353",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 102.0,
+      "date": "2023-12-29",
+      "description": "LK353032 12/29 #XXXXX4492 WITHDRWL ATM AMSCOT 0-K353",
+      "guid": "YQbE8wdABMi1aRZ6a1LPfo06eYgdjYuzN6pvR",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "Zelle payment to Koscia Kennon Conf# rsefi75z9",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 15.0,
+      "date": "2024-01-02",
+      "description": "Zelle payment to Koscia Kennon Conf# rsefi75z9",
+      "guid": "Z5bEZ6wrdyuJxP0yxJ63f7wyOEx9NEf8Xy91b",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "PMNT SENT 0109 CASH APP*QMUSIQ XXXXX91940 CA XXXXX0240XXXXXXXXXX4039",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 20.0,
+      "date": "2024-01-09",
+      "description": "PMNT SENT 0109 CASH APP*QMUSIQ XXXXX91940 CA XXXXX0240XXXXXXXXXX4039",
+      "guid": "Z5bEZ6wrdyuJxP0yxJ63f7wyOEx9NEf8Xy91d",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "PURCHASE 1228 Roku for BET XXXXX28107 DE XXXXX2133XXXXXXXXXX2064 RECURRING",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 9.99,
+      "date": "2023-12-29",
+      "description": "PURCHASE 1228 Roku for BET XXXXX28107 DE XXXXX2133XXXXXXXXXX2064 RECURRING",
+      "guid": "zAZM4nYgNRCN5R8m5NL7h4jpa6dKo6tMawBe0",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Music, Video and DVD\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1231 LEE RELAX SPA INC ORLANDO FL XXXXX8033XXXXXXXXXX4507",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 24.71,
+      "date": "2024-01-02",
+      "description": "CHECKCARD 1231 LEE RELAX SPA INC ORLANDO FL XXXXX8033XXXXXXXXXX4507",
+      "guid": "bgqQOy3PBocLdne9dLA8hZeEOX83rXCPN4d0g",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Personal Care\"]"
+    },
+    {
+      "originalDescription": "Zelle payment from HELENA CLARK Conf# p4kxitzz8",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 575.0,
+      "date": "2024-01-05",
+      "description": "Zelle payment from HELENA CLARK Conf# p4kxitzz8",
+      "guid": "AVDPQ6e97KhLVP63VL9yhNqJP13yB1IwYaBKE",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "Dollar Tree",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 45.26,
+      "date": "2024-01-09",
+      "description": "Dollar Tree",
+      "guid": "a5yEV3BQqDuJV7ZwVJYdfRNwOymrLyfKRqaoX",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Discount Stores\"]"
+    },
+    {
+      "originalDescription": "DOLLARTREE 01/03 #XXXXX5068 PURCHASE 910 LEE RD",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 10.33,
+      "date": "2024-01-03",
+      "description": "DOLLARTREE 01/03 #XXXXX5068 PURCHASE 910 LEE RD",
+      "guid": "a5yEV3BQqDuJV7ZwVJYdfRNwOymrLyfKRqaov",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Discount Stores\"]"
+    },
+    {
+      "originalDescription": "PMNT SENT 1231 CASH APP*SOSA MAR XXXXX91940 CA XXXXX0233XXXXXXXXXX8046",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 250.0,
+      "date": "2024-01-02",
+      "description": "PMNT SENT 1231 CASH APP*SOSA MAR XXXXX91940 CA XXXXX0233XXXXXXXXXX8046",
+      "guid": "9On5gYVELJUeAqvJAeZbfXVYdo0bvoH6VNrYy",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "LINCOLN HERITAGE DES:INS PREM ID:XXXXX4696644 INDN:Ria Donai Clark CO ID:XXXXX14290 PPD",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 45.9,
+      "date": "2024-01-02",
+      "description": "LINCOLN HERITAGE DES:INS PREM ID:XXXXX4696644 INDN:Ria Donai Clark CO ID:XXXXX14290 PPD",
+      "guid": "8VOZmY9z6JhkxA5QxkDNC1XjBgAK7gcYp7KMy",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Insurance\"]"
+    },
+    {
+      "originalDescription": "Chipotle Mexican Grill",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 14.27,
+      "date": "2024-01-09",
+      "description": "Chipotle Mexican Grill",
+      "guid": "8VOZmY9z6JhkxA5QxkDNC1XjBgAK7gcYp7KMD",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "PURCHASE 1231 AFTERPAY XXXXX96014 CA XXXXX0933XXXXXXXXXX0129 RECURRING",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 57.34,
+      "date": "2024-01-02",
+      "description": "PURCHASE 1231 AFTERPAY XXXXX96014 CA XXXXX0933XXXXXXXXXX0129 RECURRING",
+      "guid": "7VZ8oY7EwRhxm4KNmxBOswgy8nXOmnu8wKzvz",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Digital Purchase\"]"
+    },
+    {
+      "originalDescription": "PMNT SENT 0101 CASH APP*GENA AUS XXXXX91940 CA XXXXX0240XXXXXXXXXX8052",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 40.0,
+      "date": "2024-01-02",
+      "description": "PMNT SENT 0101 CASH APP*GENA AUS XXXXX91940 CA XXXXX0240XXXXXXXXXX8052",
+      "guid": "5z9mZYbg7JcR8nrj8RAqIDJ4K1Bqx1fNyEdJN",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "PURCHASE 0108 Enhance Beauty by XXXXX37010 DE XXXXX2140XXXXXXXXXX3086 RECURRING",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 16.25,
+      "date": "2024-01-09",
+      "description": "PURCHASE 0108 Enhance Beauty by XXXXX37010 DE XXXXX2140XXXXXXXXXX3086 RECURRING",
+      "guid": "5z9mZYbg7JcR8nrj8RAqIDJ4K1Bqx1fNyEdJ8",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Personal Care\"]"
+    },
+    {
+      "originalDescription": "Dollar Tree",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 10.65,
+      "date": "2024-01-09",
+      "description": "Dollar Tree",
+      "guid": "4Vza8Yog5NhQZJbgZQL7tA6wzD87vDfDejEwY",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Discount Stores\"]"
+    },
+    {
+      "originalDescription": "Zelle payment from HELENA CLARK Conf# qv1hjtwpo",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 560.0,
+      "date": "2024-01-04",
+      "description": "Zelle payment from HELENA CLARK Conf# qv1hjtwpo",
+      "guid": "4Vza8Yog5NhQZJbgZQL7tA6wzD87vDfDejEwv",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "Amazon",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 27.47,
+      "date": "2023-12-28",
+      "description": "Amazon",
+      "guid": "1E9jaY8x57cLNm53NLjghb70qa8gDaIY0vqPX",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Digital Purchase\"]"
+    },
+    {
+      "originalDescription": "Dollar Tree",
+      "accountGuid": "AVDPQ6e97KhLVP63VL9yhNqQn3RqdaHnY1LqB",
+      "amount": 18.64,
+      "date": "2024-01-04",
+      "description": "Dollar Tree",
+      "guid": "0ex04YJNKQU5xK67x5YbCeqgMNLbRNS9y153n",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Discount Stores\"]"
+    }
+  ],
+  "asOfDate": "2024-01-10"
+}

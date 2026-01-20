@@ -1,0 +1,7 @@
+# Project Overview
+
+This is an API server application (has both Flask and FastAPI implementations) running a machine learning model. The endpoints are in the src/app.py and src/fastapi_app.py files, and the execution of the model occurs by calling the top-level run_model function.
+
+The data this model analyzes is bank transaction data. The data can contain potentially thousands of transactions. The overall goal of the model is to extract valuable insights from the transaction data such as income information, loan information, overdraft detection, and ultimately a final score on how credit-worthy the person is based on the transactions.
+
+The overall flow of the model starts by preprocessing the transaction data. Then, with clean data, the next step is categorizing the transactions through a series of "knowledge bases" (rule-based) and machine learning models using xgboost (both of these steps occur in the label_transactions function). A substantial portion of the model runtime is spent in this portion of the overall flow. Once transactions are labeled, various analysis functions are run to extract data points such as average monthly income, number of overdrafts, and much more (this occurs in the analyze_transactions function). Time is spent in this area of the overall flow, but not as much as in the labeling step. It is about a 2:1 ratio in terms of the time spent in label_transactions vs analyze_transactions.

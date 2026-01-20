@@ -1,0 +1,1947 @@
+﻿{
+	"asOfDate": "2024-01-03",
+	"accounts": [
+		{
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"currentBalance": 138.31,
+			"currentBalanceDate": "2023-12-05T00:43:21Z"
+		},
+		{
+			"accountGuid": "4FHD-spu_Izx0WzeOL-ZlGoRMoNfSaAurtF7vucUNJ0",
+			"currentBalance": 8.32,
+			"currentBalanceDate": "2023-12-05T00:43:21Z"
+		}
+	],
+	"transactions": [
+		{
+			"originalDescription": "Withdrawal / Withdrawal @ ATMXL0326 E.E.C.U. 1177 VAN NESS TWRS FRESNO CA US Trace #8602 (eff. date 12/04/2023)",
+			"description": "Atmxl E U Van Ness",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Transfer",
+			"amount": 300,
+			"date": "2023-12-04",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "WAFFLE PLACE (DIRECT DEP) / Deposit-ACH-A-WAFFLE PLACE WAFFLE PLACE (DIRECT DEP) (eff. date 12/04/2023)",
+			"description": "Waffle Place Direct Deposit",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Paycheck",
+			"amount": 394.63,
+			"date": "2023-12-04",
+			"type": "CREDIT"
+		},
+		{
+			"originalDescription": "99 CENTS ONLY STORES #FRESNO CA / Withdrawal @ 99 CENTS ONLY STORES #FRESNO CA US Trace #333458176434 (eff. date 11/30/2023)",
+			"description": "99 Cents Only Stores",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Shopping",
+			"amount": 12.44,
+			"date": "2023-12-04",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "APPLE CASH SENT MONEY / Withdrawal @ APPLE CASH SENT MONEY 1INFINITELOOPCA US Trace #333538939581 (eff. date 12/01/2023)",
+			"description": "Transfer to Apple Pay",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Transfer",
+			"amount": 5,
+			"date": "2023-12-04",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "BIG LOTS #4684 3520 W SHAW AVE / Withdrawal @ BIG LOTS #4684 3520 W SHAW AVE FRESNO CA US Trace #134 (eff. date 12/03/2023)",
+			"description": "Big Lots",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Shopping",
+			"amount": 7,
+			"date": "2023-12-04",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "CASH APP*SUSANA ANGELES*C CASH / Deposit @ CASH APP*SUSANA ANGELES*C CASH APP*SUSANA ANGELESan FranciscoCA US Trace #5582928 (eff. date 12/04/2023)",
+			"description": "Transfer from Cash App",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Transfer",
+			"amount": 18.67,
+			"date": "2023-12-04",
+			"type": "CREDIT"
+		},
+		{
+			"originalDescription": "PAYPAL*Beltran TheresaSan Jose / Deposit @ PAYPAL*Beltran TheresaSan Jose CA US Trace #621349 (eff. date 12/04/2023)",
+			"description": "PayPal Purchase",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Uncategorized",
+			"amount": 20.63,
+			"date": "2023-12-04",
+			"type": "CREDIT"
+		},
+		{
+			"originalDescription": "Transfer / Deposit @ Online Access Trace #26794909 Transfer \"STD\" 6.50 from share 0 (eff. date 12/02/2023)",
+			"description": "Transfer Deposit Online Access Trace From Share",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Transfer",
+			"amount": 6.5,
+			"date": "2023-12-04",
+			"type": "CREDIT"
+		},
+		{
+			"originalDescription": "Transfer / Deposit @ Online Access Trace #26786405 Transfer \"STD\" 4.00 from share 0 (eff. date 12/02/2023)",
+			"description": "Transfer Deposit Online Access Trace From Share",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Transfer",
+			"amount": 4,
+			"date": "2023-12-04",
+			"type": "CREDIT"
+		},
+		{
+			"originalDescription": "ARCO #4702 5665 N FIGARD US / Withdrawal @ ARCO #4702 5665 N FIGARD US FRESNO CA US Trace #480950 (eff. date 12/02/2023)",
+			"description": "ARCO",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Gas",
+			"amount": 8.64,
+			"date": "2023-12-04",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Transfer / Deposit @ Online Access Trace #26785836 Transfer \"STD\" 9.00 from share 0 (eff. date 12/02/2023)",
+			"description": "Transfer Deposit Online Access Trace From Share",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Transfer",
+			"amount": 9,
+			"date": "2023-12-04",
+			"type": "CREDIT"
+		},
+		{
+			"originalDescription": "Withdrawal / Withdrawal @ ATMXL0314 E.E.C.U. 3488 W SHAW FRESNO CA US Trace #8302 (eff. date 12/02/2023)",
+			"description": "Atmxl E U W Shaw",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Uncategorized",
+			"amount": 100,
+			"date": "2023-12-04",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Transfer / Deposit @ Online Access Trace #26785219 Transfer \"STD\" 4.00 from share 0 (eff. date 12/02/2023)",
+			"description": "Transfer Deposit Online Access Trace From Share",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Transfer",
+			"amount": 4,
+			"date": "2023-12-04",
+			"type": "CREDIT"
+		},
+		{
+			"originalDescription": "COSTCO WHSE #0031 FRESNO CA US / Withdrawal @ COSTCO WHSE #0031 FRESNO CA US Trace #333409718968 (eff. date 11/30/2023)",
+			"description": "Costco",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Shopping",
+			"amount": 15.6,
+			"date": "2023-12-04",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "TORO LOCO FRESNO FRESNO CA US / Withdrawal @ TORO LOCO FRESNO FRESNO CA US Trace #333410921346 (eff. date 11/30/2023)",
+			"description": "Toro Loco",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Restaurants",
+			"amount": 7.49,
+			"date": "2023-12-04",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "ASHLAN VALERO FRESNO CA US / Withdrawal @ ASHLAN VALERO FRESNO CA US Trace #333422845371 (eff. date 11/30/2023)",
+			"description": "Valero",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Fast Food",
+			"amount": 16,
+			"date": "2023-12-04",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Minimum balance to maintain account / Minimum Share Balance Hold",
+			"description": "Minimum Balance Hold",
+			"guid": "",
+			"accountGuid": "4FHD-spu_Izx0WzeOL-ZlGoRMoNfSaAurtF7vucUNJ0",
+			"category": "Transfer",
+			"amount": 5,
+			"date": "2023-12-04",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Withdrawal / Withdrawal @ ATMXL0314 E.E.C.U. 3488 W SHAW FRESNO CA US Trace #9541 (eff. date 12/03/2023)",
+			"description": "Atmxl E U W Shaw",
+			"guid": "",
+			"accountGuid": "4FHD-spu_Izx0WzeOL-ZlGoRMoNfSaAurtF7vucUNJ0",
+			"category": "Uncategorized",
+			"amount": 20,
+			"date": "2023-12-04",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Transfer / Withdrawal @ Online Access Trace #26794909 Transfer \"STD\" 6.50 to share 8 (eff. date 12/02/2023)",
+			"description": "Transfer Online Access Trace to Share",
+			"guid": "",
+			"accountGuid": "4FHD-spu_Izx0WzeOL-ZlGoRMoNfSaAurtF7vucUNJ0",
+			"category": "Transfer",
+			"amount": 6.5,
+			"date": "2023-12-04",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Transfer / Withdrawal @ Online Access Trace #26786405 Transfer \"STD\" 4.00 to share 8 (eff. date 12/02/2023)",
+			"description": "Transfer Online Access Trace to Share",
+			"guid": "",
+			"accountGuid": "4FHD-spu_Izx0WzeOL-ZlGoRMoNfSaAurtF7vucUNJ0",
+			"category": "Transfer",
+			"amount": 4,
+			"date": "2023-12-04",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Transfer / Withdrawal @ Online Access Trace #26785836 Transfer \"STD\" 9.00 to share 8 (eff. date 12/02/2023)",
+			"description": "Transfer Online Access Trace to Share",
+			"guid": "",
+			"accountGuid": "4FHD-spu_Izx0WzeOL-ZlGoRMoNfSaAurtF7vucUNJ0",
+			"category": "Transfer",
+			"amount": 9,
+			"date": "2023-12-04",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Transfer / Withdrawal @ Online Access Trace #26785219 Transfer \"STD\" 4.00 to share 8 (eff. date 12/02/2023)",
+			"description": "Transfer Online Access Trace to Share",
+			"guid": "",
+			"accountGuid": "4FHD-spu_Izx0WzeOL-ZlGoRMoNfSaAurtF7vucUNJ0",
+			"category": "Transfer",
+			"amount": 4,
+			"date": "2023-12-04",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "APPLE CASH SENT MONEY CUPERTINO CA US / Debit Card Preauth Hold-60677. Release Date: 12/06/2023",
+			"description": "Transfer to Apple Pay",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Transfer",
+			"amount": 20,
+			"date": "2023-12-03",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "BURGER KING #9560 FRESNO CA US / Debit Card Preauth Hold-60677. Release Date: 12/05/2023",
+			"description": "Burger King",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Fast Food",
+			"amount": 4.31,
+			"date": "2023-12-02",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "APPLE CASH SENT MONEY / Withdrawal @ APPLE CASH SENT MONEY 1INFINITELOOPCA US Trace #333310697393 (eff. date 11/29/2023)",
+			"description": "Transfer to Apple Pay",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Transfer",
+			"amount": 1,
+			"date": "2023-12-01",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "APPLE CASH SENT MONEY / Withdrawal @ APPLE CASH SENT MONEY 1INFINITELOOPCA US Trace #333310697392 (eff. date 11/29/2023)",
+			"description": "Transfer to Apple Pay",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Transfer",
+			"amount": 30,
+			"date": "2023-12-01",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Withdrawal / Withdrawal Overdraft Share Transfer Fee (eff. date 11/30/2023)",
+			"description": "Transfer",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Transfer",
+			"amount": 3,
+			"date": "2023-12-01",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Deposit / Deposit Overdraft transfer from *****0862-S0 (eff. date 11/30/2023)",
+			"description": "Overdraft Transfer",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Transfer",
+			"amount": 100,
+			"date": "2023-12-01",
+			"type": "CREDIT"
+		},
+		{
+			"originalDescription": "BROADWAY LIQUOR MART 3610 W / Withdrawal @ BROADWAY LIQUOR MART 3610 W SHAW AVE FRESNO CA US Trace #96042917 (eff. date 11/30/2023)",
+			"description": "Broadway Liquor Mart W Shaw Ave",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Alcohol & Bars",
+			"amount": 13.05,
+			"date": "2023-12-01",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Transfer / Deposit @ Online Access Trace #26754512 Transfer \"STD\" 15.00 from share 0 (eff. date 11/30/2023)",
+			"description": "Transfer Deposit Online Access Trace From Share",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Transfer",
+			"amount": 15,
+			"date": "2023-12-01",
+			"type": "CREDIT"
+		},
+		{
+			"originalDescription": "Transfer / Deposit @ Online Access Trace #XXXX4389 Transfer \"STD\" 13.00 from share 0 (eff. date 11/30/2023)",
+			"description": "Transfer Deposit Online Access Trace From Share",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Transfer",
+			"amount": 13,
+			"date": "2023-12-01",
+			"type": "CREDIT"
+		},
+		{
+			"originalDescription": "Withdrawal / Withdrawal Overdraft transfer to *****0862-S8 (eff. date 11/30/2023)",
+			"description": "Overdraft Transfer",
+			"guid": "",
+			"accountGuid": "4FHD-spu_Izx0WzeOL-ZlGoRMoNfSaAurtF7vucUNJ0",
+			"category": "Transfer",
+			"amount": 100,
+			"date": "2023-12-01",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Transfer / Withdrawal @ Online Access Trace #26754512 Transfer \"STD\" 15.00 to share 8 (eff. date 11/30/2023)",
+			"description": "Transfer Online Access Trace to Share",
+			"guid": "",
+			"accountGuid": "4FHD-spu_Izx0WzeOL-ZlGoRMoNfSaAurtF7vucUNJ0",
+			"category": "Transfer",
+			"amount": 15,
+			"date": "2023-12-01",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Transfer / Withdrawal @ Online Access Trace #XXXX4389 Transfer \"STD\" 13.00 to share 8 (eff. date 11/30/2023)",
+			"description": "Transfer Online Access Trace to Share",
+			"guid": "",
+			"accountGuid": "4FHD-spu_Izx0WzeOL-ZlGoRMoNfSaAurtF7vucUNJ0",
+			"category": "Transfer",
+			"amount": 13,
+			"date": "2023-12-01",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Dividend / Dividend Through date: 30NOV2023 (eff. date 11/30/2023)",
+			"description": "Dividend",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Dividend & Cap Gains",
+			"amount": 0,
+			"date": "2023-11-30",
+			"type": "CREDIT"
+		},
+		{
+			"originalDescription": "Transfer / Deposit @ Online Access Trace #26744387 Transfer \"STD\" 15.00 from share 0 (eff. date 11/30/2023)",
+			"description": "Transfer Deposit Online Access Trace From Share",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Transfer",
+			"amount": 15,
+			"date": "2023-11-30",
+			"type": "CREDIT"
+		},
+		{
+			"originalDescription": "WAL-MART #1815 4080 W SHAW AVE / Withdrawal @ WAL-MART #1815 4080 W SHAW AVE FRESNO CA US Trace #698015 (eff. date 11/29/2023)",
+			"description": "Walmart",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Shopping",
+			"amount": 6.98,
+			"date": "2023-11-30",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Dividend / Dividend Through date: 30NOV2023 (eff. date 11/30/2023)",
+			"description": "Dividend",
+			"guid": "",
+			"accountGuid": "4FHD-spu_Izx0WzeOL-ZlGoRMoNfSaAurtF7vucUNJ0",
+			"category": "Dividend & Cap Gains",
+			"amount": 0.01,
+			"date": "2023-11-30",
+			"type": "CREDIT"
+		},
+		{
+			"originalDescription": "Transfer / Withdrawal @ Online Access Trace #26744387 Transfer \"STD\" 15.00 to share 8 (eff. date 11/30/2023)",
+			"description": "Transfer Online Access Trace to Share",
+			"guid": "",
+			"accountGuid": "4FHD-spu_Izx0WzeOL-ZlGoRMoNfSaAurtF7vucUNJ0",
+			"category": "Transfer",
+			"amount": 15,
+			"date": "2023-11-30",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "NW FRESNO GROCERY OUTLSANTA / Withdrawal @ NW FRESNO GROCERY OUTLSANTA ROSA CA US Trace #333110155221 (eff. date 11/27/2023)",
+			"description": "Fresno Grocery Outlsanta",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Groceries",
+			"amount": 17.45,
+			"date": "2023-11-29",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "TARGET T-0275 3150 W Shaw Ave / Withdrawal @ TARGET T-0275 3150 W Shaw Ave Fresno CA US Trace #174128 (eff. date 11/27/2023)",
+			"description": "Target",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Shopping",
+			"amount": 3.99,
+			"date": "2023-11-27",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "APPLE CASH SENT MONEY / Withdrawal @ APPLE CASH SENT MONEY 1INFINITELOOPCA US Trace #332918231600 (eff. date 11/25/2023)",
+			"description": "Transfer to Apple Pay",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Transfer",
+			"amount": 10,
+			"date": "2023-11-27",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "FOODSCO #0784 SE2 3657 W. SHAW / Withdrawal @ FOODSCO #0784 SE2 3657 W. SHAW FRESNO CA US Trace #8842 (eff. date 11/24/2023)",
+			"description": "Foodsco Se Shaw",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Food & Dining",
+			"amount": 36.09,
+			"date": "2023-11-24",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "FD *CA DMV 646 *SVC / Withdrawal @ FD *CA DMV 646 *SVC 800-777-0133 CA US Trace #332611178108 (eff. date 11/22/2023)",
+			"description": "California Department of Motor Vehicles",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Auto & Transport",
+			"amount": 0.53,
+			"date": "2023-11-24",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "FD *CA DMV 646 FRESNO CA US / Withdrawal @ FD *CA DMV 646 FRESNO CA US Trace #332611178109 (eff. date 11/22/2023)",
+			"description": "California Department of Motor Vehicles",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Auto & Transport",
+			"amount": 25,
+			"date": "2023-11-24",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "SMART AND FINAL 449 3330 WEST / Withdrawal @ SMART AND FINAL 449 3330 WEST SHAW AVENUE FRESNO CA US Trace #683815 (eff. date 11/23/2023)",
+			"description": "Smart & Final",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Groceries",
+			"amount": 2.49,
+			"date": "2023-11-24",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "APPLE CASH SENT MONEY / Withdrawal @ APPLE CASH SENT MONEY 1INFINITELOOPCA US Trace #332512468125 (eff. date 11/21/2023)",
+			"description": "Transfer to Apple Pay",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Transfer",
+			"amount": 25,
+			"date": "2023-11-24",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "N4651 HOUSING AU (DIR DEP) / Deposit-ACH-A-3803 Smith Syste N4651 HOUSING AU (DIR DEP) (eff. date 11/24/2023)",
+			"description": "Housing Au Direct Deposit a Smith Syste",
+			"guid": "",
+			"accountGuid": "4FHD-spu_Izx0WzeOL-ZlGoRMoNfSaAurtF7vucUNJ0",
+			"category": "Paycheck",
+			"amount": 50,
+			"date": "2023-11-22",
+			"type": "CREDIT"
+		},
+		{
+			"originalDescription": "GTL INMATE 12021 SUNSET HLLS / Withdrawal @ GTL INMATE 12021 SUNSET HLLS RUS RESTON VA US Trace #276406 (eff. date 11/21/2023)",
+			"description": "GTL",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Bills & Utilities",
+			"amount": 6,
+			"date": "2023-11-21",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Transfer / Deposit @ Online Access Trace #26584903 Transfer \"STD\" 190.00 from share 0 (eff. date 11/20/2023)",
+			"description": "Transfer Deposit Online Access Trace From Share",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Transfer",
+			"amount": 190,
+			"date": "2023-11-21",
+			"type": "CREDIT"
+		},
+		{
+			"originalDescription": "Transfer / Withdrawal @ Online Access Trace #26584903 Transfer \"STD\" 190.00 to share 8 (eff. date 11/20/2023)",
+			"description": "Transfer Online Access Trace to Share",
+			"guid": "",
+			"accountGuid": "4FHD-spu_Izx0WzeOL-ZlGoRMoNfSaAurtF7vucUNJ0",
+			"category": "Transfer",
+			"amount": 190,
+			"date": "2023-11-21",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Deposit / Deposit @ ATMXL0314 E.E.C.U. 3488 W SHAW FRESNO CA US Trace #1141 (eff. date 11/18/2023)",
+			"description": "Deposit Atmxl E U W Shaw",
+			"guid": "",
+			"accountGuid": "4FHD-spu_Izx0WzeOL-ZlGoRMoNfSaAurtF7vucUNJ0",
+			"category": "Income",
+			"amount": 329.66,
+			"date": "2023-11-20",
+			"type": "CREDIT"
+		},
+		{
+			"originalDescription": "APPLE CASH SENT MONEY / Withdrawal @ APPLE CASH SENT MONEY 1INFINITELOOPCA US Trace #331519280459 (eff. date 11/11/2023)",
+			"description": "Transfer to Apple Pay",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Transfer",
+			"amount": 51,
+			"date": "2023-11-13",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Transfer / Deposit @ Online Access Trace #26426697 Transfer \"STD\" 50.00 from share 0 (eff. date 11/10/2023)",
+			"description": "Transfer Deposit Online Access Trace From Share",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Transfer",
+			"amount": 50,
+			"date": "2023-11-10",
+			"type": "CREDIT"
+		},
+		{
+			"originalDescription": "Transfer / Withdrawal @ Online Access Trace #26426697 Transfer \"STD\" 50.00 to share 8 (eff. date 11/10/2023)",
+			"description": "Transfer Online Access Trace to Share",
+			"guid": "",
+			"accountGuid": "4FHD-spu_Izx0WzeOL-ZlGoRMoNfSaAurtF7vucUNJ0",
+			"category": "Transfer",
+			"amount": 50,
+			"date": "2023-11-10",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Withdrawal / Withdrawal @ ATMXL0314 E.E.C.U. 3488 W SHAW FRESNO CA US Trace #5860 (eff. date 11/10/2023)",
+			"description": "Atmxl E U W Shaw",
+			"guid": "",
+			"accountGuid": "4FHD-spu_Izx0WzeOL-ZlGoRMoNfSaAurtF7vucUNJ0",
+			"category": "Uncategorized",
+			"amount": 300,
+			"date": "2023-11-10",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "N4651 HOUSING AU (DIR DEP) / Deposit-ACH-A-3803 Smith Syste N4651 HOUSING AU (DIR DEP) (eff. date 11/10/2023)",
+			"description": "Housing Au Direct Deposit a Smith Syste",
+			"guid": "",
+			"accountGuid": "4FHD-spu_Izx0WzeOL-ZlGoRMoNfSaAurtF7vucUNJ0",
+			"category": "Paycheck",
+			"amount": 50,
+			"date": "2023-11-09",
+			"type": "CREDIT"
+		},
+		{
+			"originalDescription": "PIERCE THE VEIL 165-02396947 CA / Withdrawal @ PIERCE THE VEIL 165-02396947 CA US Trace #331014664509 (eff. date 11/06/2023)",
+			"description": "Pierce the Veil",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Clothing",
+			"amount": 25,
+			"date": "2023-11-07",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "VALLEY FOODS FRESNO CA US / Withdrawal @ VALLEY FOODS FRESNO CA US Trace #330644994297 (eff. date 11/02/2023)",
+			"description": "Valley Foods",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Food & Dining",
+			"amount": 8.66,
+			"date": "2023-11-06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "GTL INMATE 12021 SUNSET HLLS / Withdrawal @ GTL INMATE 12021 SUNSET HLLS RUS RESTON VA US Trace #301558 (eff. date 11/04/2023)",
+			"description": "GTL",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Bills & Utilities",
+			"amount": 8,
+			"date": "2023-11-06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Deposit / Deposit @ ATMXL0314 E.E.C.U. 3488 W SHAW FRESNO CA US Trace #2282 (eff. date 11/04/2023)",
+			"description": "Deposit Atmxl E U W Shaw",
+			"guid": "",
+			"accountGuid": "4FHD-spu_Izx0WzeOL-ZlGoRMoNfSaAurtF7vucUNJ0",
+			"category": "Income",
+			"amount": 296.15,
+			"date": "2023-11-06",
+			"type": "CREDIT"
+		},
+		{
+			"originalDescription": "Toro Loco Fresno 1405 West / Withdrawal @ Toro Loco Fresno 1405 West Shields Ave Fresno CA US Trace #776799 (eff. date 11/02/2023)",
+			"description": "Toro Loco Fresno West Shields Ave",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Restaurants",
+			"amount": 32.39,
+			"date": "2023-11-02",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "CASH APP*HECTOR / Withdrawal @ CASH APP*HECTOR MARTIN800-9691940 CA US Trace #330319161800 (eff. date 10/30/2023)",
+			"description": "Cash App Transfer to Hector",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Transfer",
+			"amount": 5,
+			"date": "2023-11-01",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Dividend / Dividend Through date: 31OCT2023 (eff. date 10/31/2023)",
+			"description": "Dividend",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Dividend & Cap Gains",
+			"amount": 0,
+			"date": "2023-10-31",
+			"type": "CREDIT"
+		},
+		{
+			"originalDescription": "CASH APP*SUSANA ANGELES*C CASH / Deposit @ CASH APP*SUSANA ANGELES*C CASH APP*SUSANA ANGELESan FranciscoCA US Trace #24079283 (eff. date 10/31/2023)",
+			"description": "Transfer from Cash App",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Transfer",
+			"amount": 75.65,
+			"date": "2023-10-31",
+			"type": "CREDIT"
+		},
+		{
+			"originalDescription": "Dividend / Dividend Through date: 31OCT2023 (eff. date 10/31/2023)",
+			"description": "Dividend",
+			"guid": "",
+			"accountGuid": "4FHD-spu_Izx0WzeOL-ZlGoRMoNfSaAurtF7vucUNJ0",
+			"category": "Dividend & Cap Gains",
+			"amount": 0,
+			"date": "2023-10-31",
+			"type": "CREDIT"
+		},
+		{
+			"originalDescription": "Transfer / Deposit @ Online Access Trace #26221183 Transfer \"STD\" 1.00 from share 0 (eff. date 10/30/2023)",
+			"description": "Transfer Deposit Online Access Trace From Share",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Transfer",
+			"amount": 1,
+			"date": "2023-10-30",
+			"type": "CREDIT"
+		},
+		{
+			"originalDescription": "KFC D670019 FRESNO CA US / Withdrawal @ KFC D670019 FRESNO CA US Trace #329909955969 (eff. date 10/26/2023)",
+			"description": "KFC",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Fast Food",
+			"amount": 23.83,
+			"date": "2023-10-30",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "CASH APP*HECTOR / Withdrawal @ CASH APP*HECTOR MARTIN800-9691940 CA US Trace #330018915401 (eff. date 10/27/2023)",
+			"description": "Cash App Transfer to Hector",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Transfer",
+			"amount": 8,
+			"date": "2023-10-30",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "ICSOLUTIONS 800-464-8957 TX US / Withdrawal @ ICSOLUTIONS 800-464-8957 TX US Trace #329919166822 (eff. date 10/26/2023)",
+			"description": "IC Solutions",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Bills & Utilities",
+			"amount": 5.08,
+			"date": "2023-10-30",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "VALLEY WIDE VENDING FRESNO CA US / Withdrawal @ VALLEY WIDE VENDING FRESNO CA US Trace #329913611658 (eff. date 10/26/2023)",
+			"description": "Valley Wide Vending",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Fast Food",
+			"amount": 1,
+			"date": "2023-10-30",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "APPLE CASH SENT MONEY / Withdrawal @ APPLE CASH SENT MONEY 1INFINITELOOPCA US Trace #329909792692 (eff. date 10/26/2023)",
+			"description": "Transfer to Apple Pay",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Transfer",
+			"amount": 25,
+			"date": "2023-10-30",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Transfer / Withdrawal @ Online Access Trace #26221183 Transfer \"STD\" 1.00 to share 8 (eff. date 10/30/2023)",
+			"description": "Transfer Online Access Trace to Share",
+			"guid": "",
+			"accountGuid": "4FHD-spu_Izx0WzeOL-ZlGoRMoNfSaAurtF7vucUNJ0",
+			"category": "Transfer",
+			"amount": 1,
+			"date": "2023-10-30",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "GTL INMATE 12021 SUNSET HLLS / Withdrawal @ GTL INMATE 12021 SUNSET HLLS RUS RESTON VA US Trace #78004 (eff. date 10/27/2023)",
+			"description": "GTL",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Bills & Utilities",
+			"amount": 5,
+			"date": "2023-10-27",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "SQ *SUNNYSIDE DONUTS Fresno CA / Withdrawal @ SQ *SUNNYSIDE DONUTS Fresno CA US Trace #329819106391 (eff. date 10/25/2023)",
+			"description": "Sunnyside Donuts Fresno Ca / Withdrawal @ Sq *sunnyside Donuts Fresno Ca Us",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Fast Food",
+			"amount": 2.4,
+			"date": "2023-10-27",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "COA CHEAPOAIR.COM AIR / Withdrawal @ COA CHEAPOAIR.COM AIR CHEAPOAIR.COMNY US Trace #329913179192 (eff. date 10/26/2023)",
+			"description": "CheapOair",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Air Travel",
+			"amount": 11.4,
+			"date": "2023-10-27",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Transfer / Deposit @ Online Access Trace #26163442 Transfer \"STD\" 40.00 from share 0 (eff. date 10/26/2023)",
+			"description": "Transfer Deposit Online Access Trace From Share",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Transfer",
+			"amount": 40,
+			"date": "2023-10-26",
+			"type": "CREDIT"
+		},
+		{
+			"originalDescription": "Transfer / Deposit @ Online Access Trace #26161463 Transfer \"STD\" 5.00 from share 0 (eff. date 10/26/2023)",
+			"description": "Transfer Deposit Online Access Trace From Share",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Transfer",
+			"amount": 5,
+			"date": "2023-10-26",
+			"type": "CREDIT"
+		},
+		{
+			"originalDescription": "CASH APP*ANNA BARAJAS / Withdrawal @ CASH APP*ANNA BARAJAS 800-9691940 CA US Trace #329817751847 (eff. date 10/25/2023)",
+			"description": "Cash App Transfer to Anna Barajas",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Transfer",
+			"amount": 9,
+			"date": "2023-10-26",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Transfer / Withdrawal @ Online Access Trace #26163442 Transfer \"STD\" 40.00 to share 8 (eff. date 10/26/2023)",
+			"description": "Transfer Online Access Trace to Share",
+			"guid": "",
+			"accountGuid": "4FHD-spu_Izx0WzeOL-ZlGoRMoNfSaAurtF7vucUNJ0",
+			"category": "Transfer",
+			"amount": 40,
+			"date": "2023-10-26",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Transfer / Withdrawal @ Online Access Trace #XXXX1463 Transfer \"STD\" 5.00 to share 8 (eff. date 10/26/2023)",
+			"description": "Transfer Online Access Trace to Share",
+			"guid": "",
+			"accountGuid": "4FHD-spu_Izx0WzeOL-ZlGoRMoNfSaAurtF7vucUNJ0",
+			"category": "Transfer",
+			"amount": 5,
+			"date": "2023-10-26",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "N4651 HOUSING AU (DIR DEP) / Deposit-ACH-A-3803 Smith Syste N4651 HOUSING AU (DIR DEP) (eff. date 10/27/2023)",
+			"description": "Housing Au Direct Deposit a Smith Syste",
+			"guid": "",
+			"accountGuid": "4FHD-spu_Izx0WzeOL-ZlGoRMoNfSaAurtF7vucUNJ0",
+			"category": "Paycheck",
+			"amount": 50,
+			"date": "2023-10-26",
+			"type": "CREDIT"
+		},
+		{
+			"originalDescription": "BELMONT CAR WASH 5594 E BELMONT / Withdrawal @ BELMONT CAR WASH 5594 E BELMONT AVE FRESNO CA US Trace #187973 (eff. date 10/25/2023)",
+			"description": "Belmont Car Wash E Ave",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Service & Parts",
+			"amount": 7.17,
+			"date": "2023-10-25",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "7-ELEVEN 3005 W. ASHLAN AVE US / Withdrawal @ 7-ELEVEN 3005 W. ASHLAN AVE US FRESNO CA US Trace #95975 (eff. date 10/25/2023)",
+			"description": "7-Eleven",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Gas",
+			"amount": 2.19,
+			"date": "2023-10-25",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "ENTERPRISE RENT-A-CAR FRESNO CA / Deposit @ ENTERPRISE RENT-A-CAR FRESNO CA US Trace #329613966057 (eff. date 10/23/2023)",
+			"description": "Enterprise",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Rental Car & Taxi",
+			"amount": 49.83,
+			"date": "2023-10-25",
+			"type": "CREDIT"
+		},
+		{
+			"originalDescription": "SQ *CORNERSTONE COFFEEFresno CA / Withdrawal @ SQ *CORNERSTONE COFFEEFresno CA US Trace #329615421315 (eff. date 10/23/2023)",
+			"description": "Cornerstone Coffeefresno Ca / Withdrawal @ Sq *cornerstone Coffeefresno Ca Us",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Coffee Shops",
+			"amount": 5.5,
+			"date": "2023-10-25",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Deposit / Deposit (eff. date 10/24/2023)",
+			"description": "Deposit",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Income",
+			"amount": 4,
+			"date": "2023-10-24",
+			"type": "CREDIT"
+		},
+		{
+			"originalDescription": "COA CHEAPOAIR.COM AIR / Withdrawal @ COA CHEAPOAIR.COM AIR CHEAPOAIR.COMNY US Trace #329611150357 (eff. date 10/23/2023)",
+			"description": "CheapOair",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Air Travel",
+			"amount": 11.95,
+			"date": "2023-10-24",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "FRONTIER AI D9ETWF DENVER CO US / Withdrawal @ FRONTIER AI D9ETWF DENVER CO US Trace #329512641217 (eff. date 10/22/2023)",
+			"description": "Frontier Airlines",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Air Travel",
+			"amount": 89.58,
+			"date": "2023-10-24",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Deposit / Deposit @ ATMXL0314 E.E.C.U. 3488 W SHAW FRESNO CA US Trace #4692 (eff. date 10/22/2023)",
+			"description": "Deposit Atmxl E U W Shaw",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Income",
+			"amount": 112,
+			"date": "2023-10-23",
+			"type": "CREDIT"
+		},
+		{
+			"originalDescription": "APPLE CASH SENT MONEY / Withdrawal @ APPLE CASH SENT MONEY 1INFINITELOOPCA US Trace #329209385831 (eff. date 10/19/2023)",
+			"description": "Transfer to Apple Pay",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Transfer",
+			"amount": 10,
+			"date": "2023-10-23",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "VALLEY WIDE VENDING FRESNO CA US / Withdrawal @ VALLEY WIDE VENDING FRESNO CA US Trace #329113740132 (eff. date 10/18/2023)",
+			"description": "Valley Wide Vending",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Fast Food",
+			"amount": 1,
+			"date": "2023-10-20",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "USPS PO 05289904 1900 FRESNO CA / Withdrawal @ USPS PO 05289904 1900 FRESNO CA US Trace #329120284801 (eff. date 10/18/2023)",
+			"description": "US Postal Service",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Shipping",
+			"amount": 7.24,
+			"date": "2023-10-20",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "APPLE CASH SENT MONEY / Withdrawal @ APPLE CASH SENT MONEY 1INFINITELOOPCA US Trace #329010524922 (eff. date 10/17/2023)",
+			"description": "Transfer to Apple Pay",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Transfer",
+			"amount": 10,
+			"date": "2023-10-19",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "FOODSCO #0784 SE2 3657 W. SHAW / Withdrawal @ FOODSCO #0784 SE2 3657 W. SHAW FRESNO CA US Trace #10502 (eff. date 10/18/2023)",
+			"description": "Foodsco Se Shaw",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Food & Dining",
+			"amount": 1.48,
+			"date": "2023-10-18",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "GTL INMATE 12021 SUNSET HLLS / Withdrawal @ GTL INMATE 12021 SUNSET HLLS RUS RESTON VA US Trace #475619 (eff. date 10/16/2023)",
+			"description": "GTL",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Bills & Utilities",
+			"amount": 5,
+			"date": "2023-10-16",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Withdrawal / Withdrawal Overdraft Share Transfer Fee (eff. date 10/16/2023)",
+			"description": "Transfer",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Transfer",
+			"amount": 3,
+			"date": "2023-10-16",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Deposit / Deposit Overdraft transfer from *****0862-S0 (eff. date 10/16/2023)",
+			"description": "Overdraft Transfer",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Transfer",
+			"amount": 39.95,
+			"date": "2023-10-16",
+			"type": "CREDIT"
+		},
+		{
+			"originalDescription": "GTL INMATE 12021 SUNSET HLLS / Withdrawal @ GTL INMATE 12021 SUNSET HLLS RUS RESTON VA US Trace #474052 (eff. date 10/16/2023)",
+			"description": "GTL",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Bills & Utilities",
+			"amount": 5,
+			"date": "2023-10-16",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Transfer / Deposit @ Online Access Trace #25998163 Transfer \"STD\" 0.05 from share 0 (eff. date 10/16/2023)",
+			"description": "Transfer Deposit Online Access Trace From Share",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Transfer",
+			"amount": 0.05,
+			"date": "2023-10-16",
+			"type": "CREDIT"
+		},
+		{
+			"originalDescription": "APPLE CASH SENT MONEY / Withdrawal @ APPLE CASH SENT MONEY 1INFINITELOOPCA US Trace #328634889649 (eff. date 10/13/2023)",
+			"description": "Transfer to Apple Pay",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Transfer",
+			"amount": 5,
+			"date": "2023-10-16",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "CASH APP*HECTOR / Withdrawal @ CASH APP*HECTOR MARTIN800-9691940 CA US Trace #328522200866 (eff. date 10/12/2023)",
+			"description": "Cash App Transfer to Hector",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Transfer",
+			"amount": 5,
+			"date": "2023-10-16",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Withdrawal / Withdrawal Overdraft transfer to *****0862-S8 (eff. date 10/16/2023)",
+			"description": "Overdraft Transfer",
+			"guid": "",
+			"accountGuid": "4FHD-spu_Izx0WzeOL-ZlGoRMoNfSaAurtF7vucUNJ0",
+			"category": "Transfer",
+			"amount": 39.95,
+			"date": "2023-10-16",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Transfer / Withdrawal @ Online Access Trace #25998163 Transfer \"STD\" 0.05 to share 8 (eff. date 10/16/2023)",
+			"description": "Transfer Online Access Trace to Share",
+			"guid": "",
+			"accountGuid": "4FHD-spu_Izx0WzeOL-ZlGoRMoNfSaAurtF7vucUNJ0",
+			"category": "Transfer",
+			"amount": 0.05,
+			"date": "2023-10-16",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "VALLEY WIDE VENDING FRESNO CA US / Withdrawal @ VALLEY WIDE VENDING FRESNO CA US Trace #328413663716 (eff. date 10/11/2023)",
+			"description": "Valley Wide Vending",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Fast Food",
+			"amount": 2.75,
+			"date": "2023-10-13",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Transfer / Deposit @ Online Access Trace #25935306 Transfer \"STD\" 10.00 from share 0 (eff. date 10/12/2023)",
+			"description": "Transfer Deposit Online Access Trace From Share",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Transfer",
+			"amount": 10,
+			"date": "2023-10-12",
+			"type": "CREDIT"
+		},
+		{
+			"originalDescription": "WINCO FOODS #55 396 WeClovis CA / Withdrawal @ WINCO FOODS #55 396 WeClovis CA US Trace #328320236955 (eff. date 10/10/2023)",
+			"description": "WinCo Foods",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Groceries",
+			"amount": 21.98,
+			"date": "2023-10-12",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "GLACIER WATER VENDING TAMPA FL / Withdrawal @ GLACIER WATER VENDING TAMPA FL US Trace #328311895221 (eff. date 10/10/2023)",
+			"description": "Glacier Water Vending",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Food & Dining",
+			"amount": 2.6,
+			"date": "2023-10-12",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Transfer / Withdrawal @ Online Access Trace #25935306 Transfer \"STD\" 10.00 to share 8 (eff. date 10/12/2023)",
+			"description": "Transfer Online Access Trace to Share",
+			"guid": "",
+			"accountGuid": "4FHD-spu_Izx0WzeOL-ZlGoRMoNfSaAurtF7vucUNJ0",
+			"category": "Transfer",
+			"amount": 10,
+			"date": "2023-10-12",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "N4651 HOUSING AU (DIR DEP) / Deposit-ACH-A-3803 Smith Syste N4651 HOUSING AU (DIR DEP) (eff. date 10/13/2023)",
+			"description": "Housing Au Direct Deposit a Smith Syste",
+			"guid": "",
+			"accountGuid": "4FHD-spu_Izx0WzeOL-ZlGoRMoNfSaAurtF7vucUNJ0",
+			"category": "Paycheck",
+			"amount": 50,
+			"date": "2023-10-12",
+			"type": "CREDIT"
+		},
+		{
+			"originalDescription": "HONDA PMT (8004451358) / Withdrawal-ACH-A-AHFC PMT HONDA PMT (8004451358) (eff. date 10/11/2023)",
+			"description": "Honda Financial",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Auto Payment",
+			"amount": 470,
+			"date": "2023-10-11",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "UBER USA 6787 (EDI PAYMNT) / Deposit-ACH-A-UBER USA 6787 UBER USA 6787 (EDI PAYMNT) REF*TN*41QCYZRAS8 (eff. date 10/11/2023)",
+			"description": "Uber",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Paycheck",
+			"amount": 5.39,
+			"date": "2023-10-11",
+			"type": "CREDIT"
+		},
+		{
+			"originalDescription": "Deposit / Deposit @ ATMXL0315 E.E.C.U. 3488 W SHAW FRESNO CA US Trace #6379 (eff. date 10/10/2023)",
+			"description": "Deposit Atmxl E U W Shaw",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Income",
+			"amount": 2,
+			"date": "2023-10-11",
+			"type": "CREDIT"
+		},
+		{
+			"originalDescription": "CASH APP*SUSANA ANGELES*C CASH / Deposit @ CASH APP*SUSANA ANGELES*C CASH APP*SUSANA ANGELESan FranciscoCA US Trace #46155183 (eff. date 10/11/2023)",
+			"description": "Transfer from Cash App",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Transfer",
+			"amount": 5.75,
+			"date": "2023-10-10",
+			"type": "CREDIT"
+		},
+		{
+			"originalDescription": "Deposit / Deposit @ ATMXL0314 E.E.C.U. 3488 W SHAW FRESNO CA US Trace #7873 (eff. date 10/10/2023)",
+			"description": "Deposit Atmxl E U W Shaw",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Income",
+			"amount": 12,
+			"date": "2023-10-10",
+			"type": "CREDIT"
+		},
+		{
+			"originalDescription": "CASH APP*SUSANA ANGELES*C CASH / Deposit @ CASH APP*SUSANA ANGELES*C CASH APP*SUSANA ANGELESan FranciscoCA US Trace #44496151 (eff. date 10/10/2023)",
+			"description": "Transfer from Cash App",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Transfer",
+			"amount": 2.75,
+			"date": "2023-10-10",
+			"type": "CREDIT"
+		},
+		{
+			"originalDescription": "7-ELEVEN 3005 W. ASHLAN AVE US / Withdrawal @ 7-ELEVEN 3005 W. ASHLAN AVE US FRESNO CA US Trace #632382 (eff. date 10/10/2023)",
+			"description": "7-Eleven",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Gas",
+			"amount": 2.02,
+			"date": "2023-10-10",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "CASH APP*HECTOR / Withdrawal @ CASH APP*HECTOR MARTIN800-9691940 CA US Trace #327952924129 (eff. date 10/06/2023)",
+			"description": "Cash App Transfer to Hector",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Transfer",
+			"amount": 10,
+			"date": "2023-10-09",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "BURGER KING #9560 FRESNO CA US / Withdrawal @ BURGER KING #9560 FRESNO CA US Trace #327840992805 (eff. date 10/05/2023)",
+			"description": "Burger King",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Fast Food",
+			"amount": 4.32,
+			"date": "2023-10-09",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "7-ELEVEN FRESNO CA US / Withdrawal @ 7-ELEVEN FRESNO CA US Trace #327821334552 (eff. date 10/05/2023)",
+			"description": "7-Eleven",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Gas",
+			"amount": 2.19,
+			"date": "2023-10-09",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "7-ELEVEN 2414 FRUIT AVE US / Withdrawal @ 7-ELEVEN 2414 FRUIT AVE US FRESNO CA US Trace #158640 (eff. date 10/05/2023)",
+			"description": "7-Eleven",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Gas",
+			"amount": 4.77,
+			"date": "2023-10-06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Transfer / Deposit @ Online Access Trace #25838684 Transfer \"STD\" 50.00 from share 0 (eff. date 10/05/2023)",
+			"description": "Transfer Deposit Online Access Trace From Share",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Transfer",
+			"amount": 50,
+			"date": "2023-10-06",
+			"type": "CREDIT"
+		},
+		{
+			"originalDescription": "Transfer / Withdrawal @ Online Access Trace #25838684 Transfer \"STD\" 50.00 to share 8 (eff. date 10/05/2023)",
+			"description": "Transfer Online Access Trace to Share",
+			"guid": "",
+			"accountGuid": "4FHD-spu_Izx0WzeOL-ZlGoRMoNfSaAurtF7vucUNJ0",
+			"category": "Transfer",
+			"amount": 50,
+			"date": "2023-10-06",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "CASH APP*HECTOR / Withdrawal @ CASH APP*HECTOR MARTIN800-9691940 CA US Trace #327619421824 (eff. date 10/03/2023)",
+			"description": "Cash App Transfer to Hector",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Transfer",
+			"amount": 5,
+			"date": "2023-10-05",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "VALLEY WIDE VENDING FRESNO CA US / Withdrawal @ VALLEY WIDE VENDING FRESNO CA US Trace #327613856385 (eff. date 10/03/2023)",
+			"description": "Valley Wide Vending",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Fast Food",
+			"amount": 1,
+			"date": "2023-10-05",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "7-ELEVEN FRESNO CA US / Withdrawal @ 7-ELEVEN FRESNO CA US Trace #327620609413 (eff. date 10/03/2023)",
+			"description": "7-Eleven",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Gas",
+			"amount": 2.19,
+			"date": "2023-10-05",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "USCONNECT VALLEY VEND FRESNO CA / Withdrawal @ USCONNECT VALLEY VEND FRESNO CA US Trace #327522022561 (eff. date 10/02/2023)",
+			"description": "USConnect",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Food & Dining",
+			"amount": 2.75,
+			"date": "2023-10-05",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "N4651 HOUSING AU (DIR DEP) / Deposit-ACH-A-3803 Smith Syste N4651 HOUSING AU (DIR DEP) (eff. date 10/06/2023)",
+			"description": "Housing Au Direct Deposit a Smith Syste",
+			"guid": "",
+			"accountGuid": "4FHD-spu_Izx0WzeOL-ZlGoRMoNfSaAurtF7vucUNJ0",
+			"category": "Paycheck",
+			"amount": 50,
+			"date": "2023-10-05",
+			"type": "CREDIT"
+		},
+		{
+			"originalDescription": "Deposit / Deposit @ ATMXL0314 E.E.C.U. 3488 W SHAW FRESNO CA US Trace #4443 (eff. date 10/04/2023)",
+			"description": "Deposit Atmxl E U W Shaw",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Income",
+			"amount": 41,
+			"date": "2023-10-04",
+			"type": "CREDIT"
+		},
+		{
+			"originalDescription": "Withdrawal / Withdrawal (Item #ACH FEE(S)) (eff. date 10/04/2023)",
+			"description": "Item Fee",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Fees & Charges",
+			"amount": 24,
+			"date": "2023-10-04",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Withdrawal / Withdrawal ATM:Fee: FEE DRAFT NET WITHD Trace #: 1119 (eff. date 10/03/2023)",
+			"description": "ATM Fee",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "ATM Fee",
+			"amount": 1,
+			"date": "2023-10-03",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Withdrawal / Withdrawal @ ATMWG006942 WALGREENS 6010 N FIGARDEN DR US FRESNO CA US Trace #1119 (eff. date 10/03/2023)",
+			"description": "Walgreens",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Pharmacy",
+			"amount": 83.5,
+			"date": "2023-10-03",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Deposit / Deposit @ ATMXL0315 E.E.C.U. 3488 W SHAW FRESNO CA US Trace #337 (eff. date 10/02/2023)",
+			"description": "Deposit Atmxl E U W Shaw",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Income",
+			"amount": 500,
+			"date": "2023-10-02",
+			"type": "CREDIT"
+		},
+		{
+			"originalDescription": "ENTERPRISE RENT-A-CAR FRESNO CA / Withdrawal @ ENTERPRISE RENT-A-CAR FRESNO CA US Trace #327114928426 (eff. date 09/28/2023)",
+			"description": "Enterprise",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Rental Car & Taxi",
+			"amount": 50,
+			"date": "2023-10-02",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "APPLE CASH SENT MONEY / Withdrawal @ APPLE CASH SENT MONEY 1INFINITELOOPCA US Trace #327110405337 (eff. date 09/28/2023)",
+			"description": "Transfer to Apple Pay",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Transfer",
+			"amount": 10,
+			"date": "2023-10-02",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Withdrawal / Withdrawal Overdraft Share Transfer Fee (eff. date 09/28/2023)",
+			"description": "Transfer",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Transfer",
+			"amount": 3,
+			"date": "2023-10-02",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Deposit / Deposit Overdraft transfer from *****0862-S0 (eff. date 09/28/2023)",
+			"description": "Overdraft Transfer",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Transfer",
+			"amount": 50,
+			"date": "2023-10-02",
+			"type": "CREDIT"
+		},
+		{
+			"originalDescription": "APPLE CASH SENT MONEY / Withdrawal @ APPLE CASH SENT MONEY 1INFINITELOOPCA US Trace #327110405336 (eff. date 09/28/2023)",
+			"description": "Transfer to Apple Pay",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Transfer",
+			"amount": 3,
+			"date": "2023-10-02",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Withdrawal / Withdrawal Overdraft transfer to *****0862-S8 (eff. date 09/28/2023)",
+			"description": "Overdraft Transfer",
+			"guid": "",
+			"accountGuid": "4FHD-spu_Izx0WzeOL-ZlGoRMoNfSaAurtF7vucUNJ0",
+			"category": "Transfer",
+			"amount": 50,
+			"date": "2023-10-02",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Dividend / Dividend Through date: 30SEP2023 (eff. date 09/30/2023)",
+			"description": "Dividend",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Dividend & Cap Gains",
+			"amount": 0,
+			"date": "2023-09-30",
+			"type": "CREDIT"
+		},
+		{
+			"originalDescription": "Dividend / Dividend Through date: 30SEP2023 (eff. date 09/30/2023)",
+			"description": "Dividend",
+			"guid": "",
+			"accountGuid": "4FHD-spu_Izx0WzeOL-ZlGoRMoNfSaAurtF7vucUNJ0",
+			"category": "Dividend & Cap Gains",
+			"amount": 0,
+			"date": "2023-09-30",
+			"type": "CREDIT"
+		},
+		{
+			"originalDescription": "Withdrawal / Withdrawal (Item #ACH FEE(S)) (eff. date 09/29/2023)",
+			"description": "Item Fee",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Fees & Charges",
+			"amount": 24,
+			"date": "2023-09-29",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "VALLEY WIDE VENDING FRESNO CA US / Withdrawal @ VALLEY WIDE VENDING FRESNO CA US Trace #327013717223 (eff. date 09/27/2023)",
+			"description": "Valley Wide Vending",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Fast Food",
+			"amount": 1,
+			"date": "2023-09-29",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "APPLE CASH SENT MONEY / Withdrawal @ APPLE CASH SENT MONEY 1INFINITELOOPCA US Trace #327009454982 (eff. date 09/27/2023)",
+			"description": "Transfer to Apple Pay",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Transfer",
+			"amount": 10,
+			"date": "2023-09-29",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Deposit / Deposit @ ATMXL0315 E.E.C.U. 3488 W SHAW FRESNO CA US Trace #6535 (eff. date 09/28/2023)",
+			"description": "Deposit Atmxl E U W Shaw",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Income",
+			"amount": 50,
+			"date": "2023-09-28",
+			"type": "CREDIT"
+		},
+		{
+			"originalDescription": "Experian* Credit / Withdrawal @ Experian* Credit Repor479-3436237 CA US Trace #326919151098 (eff. date 09/26/2023)",
+			"description": "Experian",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Financial",
+			"amount": 24.99,
+			"date": "2023-09-28",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "FOODSCO #0784 3657 W. FRESNO CA / Withdrawal @ FOODSCO #0784 3657 W. FRESNO CA US Trace #326919294415 (eff. date 09/26/2023)",
+			"description": "Foodsco",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Food & Dining",
+			"amount": 14.65,
+			"date": "2023-09-28",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "N4651 HOUSING AU (DIR DEP) / Deposit-ACH-A-3803 Smith Syste N4651 HOUSING AU (DIR DEP) (eff. date 09/29/2023)",
+			"description": "Housing Au Direct Deposit a Smith Syste",
+			"guid": "",
+			"accountGuid": "4FHD-spu_Izx0WzeOL-ZlGoRMoNfSaAurtF7vucUNJ0",
+			"category": "Paycheck",
+			"amount": 50,
+			"date": "2023-09-28",
+			"type": "CREDIT"
+		},
+		{
+			"originalDescription": "UBER USA 6787 (EDI PAYMNT) / Deposit-ACH-A-UBER USA 6787 UBER USA 6787 (EDI PAYMNT) REF*TN*G6CVXJ8OS9 (eff. date 09/26/2023)",
+			"description": "Uber",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Paycheck",
+			"amount": 64.81,
+			"date": "2023-09-26",
+			"type": "CREDIT"
+		},
+		{
+			"originalDescription": "APPLE CASH SENT MONEY / Withdrawal @ APPLE CASH SENT MONEY 1INFINITELOOPCA US Trace #326710334791 (eff. date 09/24/2023)",
+			"description": "Transfer to Apple Pay",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Transfer",
+			"amount": 5,
+			"date": "2023-09-26",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "PY *PACIFIC STORAGE / Withdrawal @ PY *PACIFIC STORAGE 559-271-5470 CA US Trace #326633242618 (eff. date 09/23/2023)",
+			"description": "Py Pacific Storage",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Home Services",
+			"amount": 100,
+			"date": "2023-09-25",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "APPLE CASH SENT MONEY / Withdrawal @ APPLE CASH SENT MONEY 1INFINITELOOPCA US Trace #326617995467 (eff. date 09/23/2023)",
+			"description": "Transfer to Apple Pay",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Transfer",
+			"amount": 16,
+			"date": "2023-09-25",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "RUIZ CONCESSIONS FRESNO CA US / Withdrawal @ RUIZ CONCESSIONS FRESNO CA US Trace #326535269290 (eff. date 09/22/2023)",
+			"description": "Ruiz Concessions",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Fast Food",
+			"amount": 5,
+			"date": "2023-09-25",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "VALLEY WIDE VENDING FRESNO CA US / Withdrawal @ VALLEY WIDE VENDING FRESNO CA US Trace #326539327426 (eff. date 09/22/2023)",
+			"description": "Valley Wide Vending",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Fast Food",
+			"amount": 1,
+			"date": "2023-09-25",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "CASH APP*ELSA / Withdrawal @ CASH APP*ELSA OSORIOAN800-9691940 CA US Trace #326643277270 (eff. date 09/23/2023)",
+			"description": "Cash App Transfer to Elsa",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Transfer",
+			"amount": 12,
+			"date": "2023-09-25",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "99 CENTS ONLY STORE #2FRESNO CA / Withdrawal @ 99 CENTS ONLY STORE #2FRESNO CA US Trace #326620640659 (eff. date 09/23/2023)",
+			"description": "99 Cents Only Stores",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Shopping",
+			"amount": 3.17,
+			"date": "2023-09-25",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Deposit / Deposit @ ATMXL0314 E.E.C.U. 3488 W SHAW FRESNO CA US Trace #7412 (eff. date 09/22/2023)",
+			"description": "Deposit Atmxl E U W Shaw",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Income",
+			"amount": 100,
+			"date": "2023-09-25",
+			"type": "CREDIT"
+		},
+		{
+			"originalDescription": "FOODSCO #0784 3657 W. FRESNO CA / Withdrawal @ FOODSCO #0784 3657 W. FRESNO CA US Trace #326408693509 (eff. date 09/21/2023)",
+			"description": "Foodsco",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Food & Dining",
+			"amount": 1.99,
+			"date": "2023-09-25",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "7-ELEVEN FRESNO CA US / Withdrawal @ 7-ELEVEN FRESNO CA US Trace #326420682841 (eff. date 09/21/2023)",
+			"description": "7-Eleven",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Gas",
+			"amount": 2.19,
+			"date": "2023-09-25",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "CASH APP*SUSANA ANGELES*C CASH / Deposit @ CASH APP*SUSANA ANGELES*C CASH APP*SUSANA ANGELESan FranciscoCA US Trace #9352193 (eff. date 09/22/2023)",
+			"description": "Transfer from Cash App",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Transfer",
+			"amount": 15.72,
+			"date": "2023-09-22",
+			"type": "CREDIT"
+		},
+		{
+			"originalDescription": "VALLEY WIDE VENDING FRESNO CA US / Withdrawal @ VALLEY WIDE VENDING FRESNO CA US Trace #326313301908 (eff. date 09/20/2023)",
+			"description": "Valley Wide Vending",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Fast Food",
+			"amount": 1,
+			"date": "2023-09-22",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "FOODSCO #0784 3657 W. FRESNO CA / Withdrawal @ FOODSCO #0784 3657 W. FRESNO CA US Trace #326308883507 (eff. date 09/20/2023)",
+			"description": "Foodsco",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Food & Dining",
+			"amount": 2,
+			"date": "2023-09-22",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "U SAVE LIQUOR & MARKETFRESNO CA / Withdrawal @ U SAVE LIQUOR & MARKETFRESNO CA US Trace #326320070296 (eff. date 09/20/2023)",
+			"description": "U Save Liquor",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Alcohol & Bars",
+			"amount": 15.5,
+			"date": "2023-09-22",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "APPLE CASH SENT MONEY / Withdrawal @ APPLE CASH SENT MONEY 1INFINITELOOPCA US Trace #326309551630 (eff. date 09/20/2023)",
+			"description": "Transfer to Apple Pay",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Transfer",
+			"amount": 2,
+			"date": "2023-09-22",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "MCCLATCHY ADVERTISING / Withdrawal @ MCCLATCHY ADVERTISING 916-321-1682 CA US Trace #326213750195 (eff. date 09/19/2023)",
+			"description": "Mcclatchy Advertising",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Uncategorized",
+			"amount": 135,
+			"date": "2023-09-21",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "7-ELEVEN FRESNO CA US / Withdrawal @ 7-ELEVEN FRESNO CA US Trace #326220143515 (eff. date 09/19/2023)",
+			"description": "7-Eleven",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Gas",
+			"amount": 2.39,
+			"date": "2023-09-21",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "FOODSCO #0784 SE2 3657 W. SHAW / Withdrawal @ FOODSCO #0784 SE2 3657 W. SHAW FRESNO CA US Trace #8216 (eff. date 09/20/2023)",
+			"description": "Foodsco Se Shaw",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Food & Dining",
+			"amount": 4.38,
+			"date": "2023-09-20",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "MCDONALD'S F11496 3237 W SHAW / Withdrawal @ MCDONALD'S F11496 3237 W SHAW AVE FRESNO CA US Trace #538609 (eff. date 09/20/2023)",
+			"description": "McDonald's",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Fast Food",
+			"amount": 1.94,
+			"date": "2023-09-20",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "BROADWAY LIQUOR MART 3610 W / Withdrawal @ BROADWAY LIQUOR MART 3610 W SHAW AVE FRESNO CA US Trace #96041921 (eff. date 09/19/2023)",
+			"description": "Broadway Liquor Mart W Shaw Ave",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Alcohol & Bars",
+			"amount": 2.05,
+			"date": "2023-09-20",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Deposit / Deposit @ ATMXL0326 E.E.C.U. 1177 VAN NESS TWRS FRESNO CA US Trace #4435 (eff. date 09/19/2023)",
+			"description": "Deposit Atmxl E U Van Ness",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Income",
+			"amount": 120,
+			"date": "2023-09-19",
+			"type": "CREDIT"
+		},
+		{
+			"originalDescription": "UBER USA 6787 (EDI PAYMNT) / Deposit-ACH-A-UBER USA 6787 UBER USA 6787 (EDI PAYMNT) REF*TN*91FCKQYXTL (eff. date 09/19/2023)",
+			"description": "Uber",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Paycheck",
+			"amount": 100.81,
+			"date": "2023-09-19",
+			"type": "CREDIT"
+		},
+		{
+			"originalDescription": "Withdrawal / Withdrawal (Item #ACH FEE(S)) (eff. date 09/15/2023)",
+			"description": "Item Fee",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Fees & Charges",
+			"amount": 24,
+			"date": "2023-09-15",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "BURGER KING #12875 FRESNO CA US / Withdrawal @ BURGER KING #12875 FRESNO CA US Trace #325514140933 (eff. date 09/12/2023)",
+			"description": "Burger King",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Fast Food",
+			"amount": 5.41,
+			"date": "2023-09-15",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "Withdrawal / Withdrawal @ ATMXL0315 E.E.C.U. 3488 W SHAW FRESNO CA US Trace #8268 (eff. date 09/15/2023)",
+			"description": "Atmxl E U W Shaw",
+			"guid": "",
+			"accountGuid": "4FHD-spu_Izx0WzeOL-ZlGoRMoNfSaAurtF7vucUNJ0",
+			"category": "Uncategorized",
+			"amount": 50,
+			"date": "2023-09-15",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "SQ *CORNERSTONE COFFEEFresno CA / Withdrawal @ SQ *CORNERSTONE COFFEEFresno CA US Trace #325515066356 (eff. date 09/12/2023)",
+			"description": "Cornerstone Coffeefresno Ca / Withdrawal @ Sq *cornerstone Coffeefresno Ca Us",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Coffee Shops",
+			"amount": 14.05,
+			"date": "2023-09-14",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "U SAVE LIQUOR & MARKETFRESNO CA / Withdrawal @ U SAVE LIQUOR & MARKETFRESNO CA US Trace #325519289698 (eff. date 09/12/2023)",
+			"description": "U Save Liquor",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Alcohol & Bars",
+			"amount": 15.5,
+			"date": "2023-09-14",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "7-ELEVEN FRESNO CA US / Withdrawal @ 7-ELEVEN FRESNO CA US Trace #325519284895 (eff. date 09/12/2023)",
+			"description": "7-Eleven",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Gas",
+			"amount": 2.19,
+			"date": "2023-09-14",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "N4651 HOUSING AU (DIR DEP) / Deposit-ACH-A-3803 Smith Syste N4651 HOUSING AU (DIR DEP) (eff. date 09/15/2023)",
+			"description": "Housing Au Direct Deposit a Smith Syste",
+			"guid": "",
+			"accountGuid": "4FHD-spu_Izx0WzeOL-ZlGoRMoNfSaAurtF7vucUNJ0",
+			"category": "Paycheck",
+			"amount": 50,
+			"date": "2023-09-14",
+			"type": "CREDIT"
+		},
+		{
+			"originalDescription": "GROCERY OUTLET OF NW FRE 3566 W / Withdrawal @ GROCERY OUTLET OF NW FRE 3566 W SHAW AVE FRESNO CA US Trace #250105 (eff. date 09/12/2023)",
+			"description": "Grocery Outlet",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Groceries",
+			"amount": 8.94,
+			"date": "2023-09-12",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "UBER USA 6787 (EDI PAYMNT) / Deposit-ACH-A-UBER USA 6787 UBER USA 6787 (EDI PAYMNT) REF*TN*QELEK5BFCL (eff. date 09/12/2023)",
+			"description": "Uber",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Paycheck",
+			"amount": 44.89,
+			"date": "2023-09-12",
+			"type": "CREDIT"
+		},
+		{
+			"originalDescription": "EVERGREEN FOOD STORE FRESNO CA / Withdrawal @ EVERGREEN FOOD STORE FRESNO CA US Trace #325217442065 (eff. date 09/09/2023)",
+			"description": "Evergreen Food Store",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Food & Dining",
+			"amount": 10,
+			"date": "2023-09-11",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "703 FASTRIP FOOD 3793 FRESNO CA / Withdrawal @ 703 FASTRIP FOOD 3793 FRESNO CA US Trace #325149586081 (eff. date 09/08/2023)",
+			"description": "Fastrip",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Fast Food",
+			"amount": 13.04,
+			"date": "2023-09-11",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "GTL INMATE 12021 SUNSET HLLS / Withdrawal @ GTL INMATE 12021 SUNSET HLLS RUS RESTON VA US Trace #102888 (eff. date 09/09/2023)",
+			"description": "GTL",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Bills & Utilities",
+			"amount": 5,
+			"date": "2023-09-11",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "U SAVE LIQUOR & MARKETFRESNO CA / Withdrawal @ U SAVE LIQUOR & MARKETFRESNO CA US Trace #325008811486 (eff. date 09/07/2023)",
+			"description": "U Save Liquor",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Alcohol & Bars",
+			"amount": 10.5,
+			"date": "2023-09-11",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "VALLEY WIDE VENDING FRESNO CA US / Withdrawal @ VALLEY WIDE VENDING FRESNO CA US Trace #325013097008 (eff. date 09/07/2023)",
+			"description": "Valley Wide Vending",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Fast Food",
+			"amount": 1,
+			"date": "2023-09-11",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "ARCO #4284 1212 FRESNO S US / Withdrawal @ ARCO #4284 1212 FRESNO S US FRESNO CA US Trace #738516 (eff. date 09/08/2023)",
+			"description": "ARCO",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Gas",
+			"amount": 2.44,
+			"date": "2023-09-08",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "FOODMAXX #456 FRESNO.CA 1177 / Withdrawal @ FOODMAXX #456 FRESNO.CA 1177 FRESNO STREET FRESNO CA US Trace #197719 (eff. date 09/08/2023)",
+			"description": "FoodMaxx",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Groceries",
+			"amount": 3.79,
+			"date": "2023-09-08",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "CASH APP*HECTOR / Withdrawal @ CASH APP*HECTOR MARTIN800-9691940 CA US Trace #324920620439 (eff. date 09/06/2023)",
+			"description": "Cash App Transfer to Hector",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Transfer",
+			"amount": 3,
+			"date": "2023-09-08",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "FOODSCO #0784 SE2 3657 W. SHAW / Withdrawal @ FOODSCO #0784 SE2 3657 W. SHAW FRESNO CA US Trace #8807 (eff. date 09/07/2023)",
+			"description": "Foodsco Se Shaw",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Food & Dining",
+			"amount": 5.98,
+			"date": "2023-09-08",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "DOLLAR TREE 3730 N BLACKSTONE / Withdrawal @ DOLLAR TREE 3730 N BLACKSTONE AVE FRESNO CA US Trace #44117 (eff. date 09/07/2023)",
+			"description": "Dollar Tree N Blackstone Ave",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Shopping",
+			"amount": 4.6,
+			"date": "2023-09-08",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "FOODSCO #0784 SE2 3657 W. SHAW / Withdrawal @ FOODSCO #0784 SE2 3657 W. SHAW FRESNO CA US Trace #8691 (eff. date 09/07/2023)",
+			"description": "Foodsco Se Shaw",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Food & Dining",
+			"amount": 8.94,
+			"date": "2023-09-07",
+			"type": "DEBIT"
+		},
+		{
+			"originalDescription": "UBER USA 6787 (EDI PAYMNT) / Deposit-ACH-A-UBER USA 6787 UBER USA 6787 (EDI PAYMNT) REF*TN*RTWUENRY86 (eff. date 09/06/2023)",
+			"description": "Uber",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Paycheck",
+			"amount": 33.61,
+			"date": "2023-09-06",
+			"type": "CREDIT"
+		},
+		{
+			"originalDescription": "CASH APP*559 / Withdrawal @ CASH APP*559 AUTOMOTIV800-9691940 CA US Trace #324718976913 (eff. date 09/04/2023)",
+			"description": "Transfer To Cash App",
+			"guid": "",
+			"accountGuid": "UlrsoRHUXF5lXO1bExHFS1hC-lPmN4hDBUDOGexZueU",
+			"category": "Transfer",
+			"amount": 170,
+			"date": "2023-09-06",
+			"type": "DEBIT"
+		}
+	]
+}

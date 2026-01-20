@@ -1,0 +1,3512 @@
+{
+    "asOfDate":"2023-04-21 00:00:00",
+    "accounts":[
+       {
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "currentBalance":"108.21",
+          "currentBalanceDate":"2023-04-21T21:06:34Z"
+       }
+    ],
+    "transactions":[
+       {
+          "originalDescription":"Deposit from 360 Performance Savings XXXXXXX7617",
+          "description":"Deposit From Performance Savings",
+          "guid":"TRN-17311679-1b49-4071-a7ec-12addd87a729",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Transfer",
+          "amount":1.000000000000000e+002,
+          "date":"2023-03-08T12:00:00",
+          "type":"CREDIT"
+       },
+       {
+          "originalDescription":"Withdrawal to 360 Performance Savings XXXXXXX7617",
+          "description":"To Performance Savings",
+          "guid":"TRN-8aaea60e-dd20-4775-823a-1d2d505b3dd4",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Transfer",
+          "amount":2.000000000000000e+003,
+          "date":"2023-03-08T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"TAX REFUND PROC",
+          "description":"Tax Refund Proc",
+          "guid":"TRN-fc6632e4-4fc4-4e45-8d81-aa7abcd21f6d",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Taxes",
+          "amount":2.248150000000000e+003,
+          "date":"2023-03-08T12:00:00",
+          "type":"CREDIT"
+       },
+       {
+          "originalDescription":"Deposit from 360 Performance Savings XXXXXXX7617",
+          "description":"Deposit From Performance Savings",
+          "guid":"TRN-be604015-8cfc-4901-ab62-62550d02368a",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Transfer",
+          "amount":6.000000000000000e+001,
+          "date":"2023-03-08T12:00:00",
+          "type":"CREDIT"
+       },
+       {
+          "originalDescription":"Check Deposit (Mobile)",
+          "description":"Check Deposit",
+          "guid":"TRN-cbab4efe-2823-48d6-81be-983b71614b11",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Income",
+          "amount":9.658000000000000e+002,
+          "date":"2023-03-07T12:00:00",
+          "type":"CREDIT"
+       },
+       {
+          "originalDescription":"Crawlin�?T Crab",
+          "description":"Crab",
+          "guid":"TRN-e0136605-31d5-4860-91d5-f62f918b17fd",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Restaurants",
+          "amount":6.089000000000000e+001,
+          "date":"2023-03-07T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"DTLR 3010",
+          "description":"DTLR",
+          "guid":"TRN-1c4710db-ea7f-488c-9586-8c5d64051cda",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Shopping",
+          "amount":2.163000000000000e+001,
+          "date":"2023-03-07T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Quiktrip",
+          "description":"QuikTrip",
+          "guid":"TRN-0996b948-f430-41ec-ad0f-447e4f297aba",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Gas",
+          "amount":4.000000000000000e+001,
+          "date":"2023-03-06T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"H-E-B Grocery",
+          "description":"H-E-B",
+          "guid":"TRN-44857214-77ba-45e9-aef0-22e7e6db9cab",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Groceries",
+          "amount":2.805000000000000e+001,
+          "date":"2023-03-06T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Afterpay",
+          "description":"Afterpay",
+          "guid":"TRN-028f7833-38d6-4222-a914-326b5ea3efbd",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Financial",
+          "amount":6.602000000000000e+001,
+          "date":"2023-03-06T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"DTLR 3010",
+          "description":"DTLR",
+          "guid":"TRN-60059eb1-3c07-4673-bba3-dc316604dd9b",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Shopping",
+          "amount":1.030000000000000e+000,
+          "date":"2023-03-06T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Etsy",
+          "description":"Etsy",
+          "guid":"TRN-af409bdd-4e9e-423c-be8b-2ad502d83138",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Shopping",
+          "amount":2.770000000000000e+001,
+          "date":"2023-03-06T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Jersey Mike's Subs",
+          "description":"Jersey Mike's Subs",
+          "guid":"TRN-8424f248-1845-41c7-8470-c4ff397143b2",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Fast Food",
+          "amount":1.929000000000000e+001,
+          "date":"2023-03-06T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Afterpay",
+          "description":"Afterpay",
+          "guid":"TRN-b93e5031-e8a8-4bee-af68-1f54e2970fa0",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Financial",
+          "amount":1.107000000000000e+001,
+          "date":"2023-03-05T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Afterpay",
+          "description":"Afterpay",
+          "guid":"TRN-4c412a12-d509-4592-96cb-4c8ef2b39528",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Financial",
+          "amount":1.107000000000000e+001,
+          "date":"2023-03-05T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Afterpay",
+          "description":"Afterpay",
+          "guid":"TRN-5d36837e-41ae-425e-9059-27be58813d3c",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Financial",
+          "amount":1.107000000000000e+001,
+          "date":"2023-03-05T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Afterpay",
+          "description":"Afterpay",
+          "guid":"TRN-f1959e51-774a-4f18-86f2-07a2ee2e9a1f",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Financial",
+          "amount":5.413000000000000e+001,
+          "date":"2023-03-05T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"FORT WORTH WATER",
+          "description":"Fort Worth Water",
+          "guid":"TRN-12ee6372-2d66-4449-9895-26b94c05eeb3",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Utilities",
+          "amount":7.727000000000000e+001,
+          "date":"2023-03-05T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"TACO CASA   MCPHERSON",
+          "description":"Taco Casa",
+          "guid":"TRN-6dad6922-ad9f-40d5-86e9-45e8b8a48ebc",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Fast Food",
+          "amount":1.436000000000000e+001,
+          "date":"2023-03-05T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"7-Eleven",
+          "description":"7-Eleven",
+          "guid":"TRN-732b58d3-68d5-4975-b194-e7a32f9b02bd",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Gas",
+          "amount":4.330000000000000e+000,
+          "date":"2023-03-05T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Deposit from 360 Checking XXXXXXX6724",
+          "description":"Deposit From Checking",
+          "guid":"TRN-86b37f1d-bd7b-4180-9ef5-a423aafe5e7c",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Transfer",
+          "amount":4.200000000000000e-001,
+          "date":"2023-03-04T12:00:00",
+          "type":"CREDIT"
+       },
+       {
+          "originalDescription":"Deposit from 360 Checking XXXXXXX6724",
+          "description":"Deposit From Checking",
+          "guid":"TRN-cb90dd90-943f-48bd-8e4c-26d09b1071f5",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Transfer",
+          "amount":2.000000000000000e+002,
+          "date":"2023-03-04T12:00:00",
+          "type":"CREDIT"
+       },
+       {
+          "originalDescription":"Chili's",
+          "description":"Chili's",
+          "guid":"TRN-064e8cb3-00ce-4ac3-9213-d1780fabc88d",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Restaurants",
+          "amount":3.006000000000000e+001,
+          "date":"2023-03-04T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Whataburger",
+          "description":"Whataburger",
+          "guid":"TRN-11cbfb65-c79b-49bc-849d-33aed10e7bdc",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Fast Food",
+          "amount":7.350000000000000e+000,
+          "date":"2023-03-03T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"BRITTANY MORRIS",
+          "description":"Brittany Morris",
+          "guid":"TRN-334bea3c-8743-44d7-b61f-80e971f210e0",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Hair",
+          "amount":1.000000000000000e+001,
+          "date":"2023-03-03T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"WILLIE MORRIS",
+          "description":"Willie Morris",
+          "guid":"TRN-fc06bc03-80e4-4816-ac4f-035fd78dd2e4",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Pet Food & Supplies",
+          "amount":7.000000000000000e+001,
+          "date":"2023-03-03T12:00:00",
+          "type":"CREDIT"
+       },
+       {
+          "originalDescription":"Klarna",
+          "description":"Klarna",
+          "guid":"TRN-c82252a7-9ddd-4aaf-a241-eaf663f41e3c",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Financial",
+          "amount":4.059000000000000e+001,
+          "date":"2023-03-03T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"AAA",
+          "description":"Aaa",
+          "guid":"TRN-b9750131-1929-48bc-8d1d-ea34338dcc95",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Uncategorized",
+          "amount":1.127100000000000e+002,
+          "date":"2023-03-02T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"AAA",
+          "description":"Aaa",
+          "guid":"TRN-3ee7f79c-8be0-4c96-b979-d68d6e5d33fd",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Uncategorized",
+          "amount":9.740000000000000e+000,
+          "date":"2023-03-02T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"In-N-Out Burger",
+          "description":"In-N-Out Burger",
+          "guid":"TRN-75a87882-bd83-4669-8d25-2bb92986d0cf",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Fast Food",
+          "amount":8.390000000000001e+000,
+          "date":"2023-03-02T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Check Deposit (Mobile)",
+          "description":"Check Deposit",
+          "guid":"TRN-1c972be3-7188-431d-bc9d-ebf306311459",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Income",
+          "amount":1.073200000000000e+002,
+          "date":"2023-03-01T12:00:00",
+          "type":"CREDIT"
+       },
+       {
+          "originalDescription":"Deposit from 360 Performance Savings XXXXXXX7617",
+          "description":"Deposit From Performance Savings",
+          "guid":"TRN-16114df7-e2c9-4dde-a6a2-4b67f0624947",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Transfer",
+          "amount":1.021300000000000e+002,
+          "date":"2023-03-01T12:00:00",
+          "type":"CREDIT"
+       },
+       {
+          "originalDescription":"McDonald's",
+          "description":"McDonald's",
+          "guid":"TRN-4880c16e-c505-493b-8c7a-fc4c43638ddf",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Fast Food",
+          "amount":8.109999999999999e+000,
+          "date":"2023-03-01T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Monthly Interest Paid",
+          "description":"Monthly Interest Paid",
+          "guid":"TRN-382ea74d-5b67-47f8-a2ac-7af19393d832",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Interest Income",
+          "amount":2.000000000000000e-002,
+          "date":"2023-02-28T12:00:00",
+          "type":"CREDIT"
+       },
+       {
+          "originalDescription":"Amazon",
+          "description":"Amazon",
+          "guid":"TRN-068f477d-683c-4f42-827f-83f07a2252f0",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Shopping",
+          "amount":2.110000000000000e+001,
+          "date":"2023-02-28T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Cracker Barrel Old Country Store",
+          "description":"Cracker Barrel",
+          "guid":"TRN-92e364e4-f54e-4683-baf1-45b15e6b3857",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Restaurants",
+          "amount":3.076000000000000e+001,
+          "date":"2023-02-28T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Original Pancake House",
+          "description":"The Original Pancake House",
+          "guid":"TRN-35308429-443f-411a-ae86-8d2f4e108d32",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Restaurants",
+          "amount":1.708000000000000e+001,
+          "date":"2023-02-28T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Walgreens",
+          "description":"Walgreens",
+          "guid":"TRN-41ee12ca-6cc4-49e2-b182-76169f89b9bf",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Pharmacy",
+          "amount":1.254000000000000e+001,
+          "date":"2023-02-27T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Amazon",
+          "description":"Amazon",
+          "guid":"TRN-8ad9fca7-fec3-48d3-9e24-03dcf2745f75",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Shopping",
+          "amount":1.038000000000000e+001,
+          "date":"2023-02-27T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Nike",
+          "description":"Nike",
+          "guid":"TRN-4f6ba784-73a7-4c38-9b46-11fd35f05947",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Clothing",
+          "amount":4.329000000000000e+001,
+          "date":"2023-02-27T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"TST  MI PUEBLO 1 NEW",
+          "description":"New",
+          "guid":"TRN-c0e96ea1-e54f-4e3f-b405-16fde3be95e9",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Restaurants",
+          "amount":1.213000000000000e+001,
+          "date":"2023-02-26T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"WAL-MART SUPER CENTER",
+          "description":"Walmart",
+          "guid":"TRN-6783d112-8282-485d-8b3f-130f4ebd9b33",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Shopping",
+          "amount":6.531999999999999e+001,
+          "date":"2023-02-26T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Quiktrip",
+          "description":"QuikTrip",
+          "guid":"TRN-408f9262-7af9-43e9-a3ce-1849a4ec4476",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Gas",
+          "amount":2.501000000000000e+001,
+          "date":"2023-02-26T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"NATASHA SHIELD",
+          "description":"Natasha Shield",
+          "guid":"TRN-4097a321-5065-49f5-aa13-05d3ee12de36",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Uncategorized",
+          "amount":1.050000000000000e+003,
+          "date":"2023-02-26T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Deposit from 360 Performance Savings XXXXXXX7617",
+          "description":"Deposit From Performance Savings",
+          "guid":"TRN-0ed346bc-88fb-40ef-beeb-3d291d455a53",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Transfer",
+          "amount":1.050000000000000e+003,
+          "date":"2023-02-26T12:00:00",
+          "type":"CREDIT"
+       },
+       {
+          "originalDescription":"Afterpay",
+          "description":"Afterpay",
+          "guid":"TRN-a3715856-04b5-4466-b893-a45e9960de77",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Financial",
+          "amount":1.107000000000000e+001,
+          "date":"2023-02-26T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Afterpay",
+          "description":"Afterpay",
+          "guid":"TRN-084db322-4e7f-4075-b3a2-d71df1498a90",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Financial",
+          "amount":4.871000000000000e+001,
+          "date":"2023-02-25T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"WILLIE MORRIS",
+          "description":"Willie Morris",
+          "guid":"TRN-54393748-bd5c-43ea-9340-fe8e6926eaee",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Pet Food & Supplies",
+          "amount":5.000000000000000e+001,
+          "date":"2023-02-25T12:00:00",
+          "type":"CREDIT"
+       },
+       {
+          "originalDescription":"Deposit from 360 Performance Savings XXXXXXX7617",
+          "description":"Deposit From Performance Savings",
+          "guid":"TRN-eed6d890-3b57-440e-bc94-f7b529e3a8bc",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Transfer",
+          "amount":5.000000000000000e+001,
+          "date":"2023-02-24T12:00:00",
+          "type":"CREDIT"
+       },
+       {
+          "originalDescription":"Cash Added - CVS Pharmacy",
+          "description":"CVS",
+          "guid":"TRN-ac00d6fc-200c-433b-bc96-d44a3c66b3c9",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Pharmacy",
+          "amount":4.600000000000000e+002,
+          "date":"2023-02-24T12:00:00",
+          "type":"CREDIT"
+       },
+       {
+          "originalDescription":"CHARLES MITCHELL",
+          "description":"Charles Mitchell",
+          "guid":"TRN-721eb5b1-4cf3-40fa-8f88-16972e7580db",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Hair",
+          "amount":3.000000000000000e+001,
+          "date":"2023-02-24T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Razzoo's Cajun Cafe",
+          "description":"Razzoo's Cajun Cafe",
+          "guid":"TRN-17ff4bd8-622b-4ec2-a426-7df4abdb4084",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Food & Dining",
+          "amount":8.386000000000000e+001,
+          "date":"2023-02-23T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Withdrawal to 360 Performance Savings XXXXXXX7617",
+          "description":"To Performance Savings",
+          "guid":"TRN-7c00e833-88ce-4aed-b012-057ed5d1e32d",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Transfer",
+          "amount":4.000000000000000e+002,
+          "date":"2023-02-22T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"FIDELITY INVESTM",
+          "description":"Fidelity",
+          "guid":"TRN-d69175f9-e3d3-4bc8-b770-8fc93b8d0e8a",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Investments",
+          "amount":4.500000000000000e+002,
+          "date":"2023-02-22T12:00:00",
+          "type":"CREDIT"
+       },
+       {
+          "originalDescription":"Original Pancake House",
+          "description":"The Original Pancake House",
+          "guid":"TRN-9c8cb8ef-d049-48b9-93ec-17c2445d606a",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Restaurants",
+          "amount":3.019000000000000e+001,
+          "date":"2023-02-22T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Deposit from 360 Performance Savings XXXXXXX7617",
+          "description":"Deposit From Performance Savings",
+          "guid":"TRN-15962d00-f563-48e4-b857-7f04310352e9",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Transfer",
+          "amount":1.000000000000000e+002,
+          "date":"2023-02-21T12:00:00",
+          "type":"CREDIT"
+       },
+       {
+          "originalDescription":"Quiktrip",
+          "description":"QuikTrip",
+          "guid":"TRN-a134277b-bed5-4cc4-88b2-bb37f442ee9f",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Gas",
+          "amount":2.900000000000000e+001,
+          "date":"2023-02-21T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"WM SUPERC WAL-MART SUP",
+          "description":"Walmart",
+          "guid":"TRN-6289d765-98de-4586-bcee-4833c4236765",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Shopping",
+          "amount":1.378000000000000e+001,
+          "date":"2023-02-20T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"SQ  J C T M INC",
+          "description":"J T M Inc",
+          "guid":"TRN-1ff1bcaa-259c-441b-a2da-3a5e78c4a596",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Uncategorized",
+          "amount":8.980000000000000e+000,
+          "date":"2023-02-19T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Withdrawal to 360 Performance Savings XXXXXXX7617",
+          "description":"To Performance Savings",
+          "guid":"TRN-826b8d34-e151-4de7-918c-36e793075004",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Transfer",
+          "amount":1.000000000000000e+002,
+          "date":"2023-02-19T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Afterpay",
+          "description":"Afterpay",
+          "guid":"TRN-7a83233d-9e67-412a-bfcd-e274bac6c5d0",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Financial",
+          "amount":5.413000000000000e+001,
+          "date":"2023-02-19T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"360 Checking Card Adjustment Signature (Credit) AFTERPAY SAN FRANCISC CA",
+          "description":"Afterpay",
+          "guid":"TRN-d6d0480f-c598-4cae-939d-da4356383b91",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Financial",
+          "amount":2.300000000000000e+001,
+          "date":"2023-02-19T12:00:00",
+          "type":"CREDIT"
+       },
+       {
+          "originalDescription":"360 Checking Card Adjustment Signature (Credit) AFTERPAY SAN FRANCISC CA",
+          "description":"Afterpay",
+          "guid":"TRN-23a91aec-803e-4883-99f9-8deef4d2a6bc",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Financial",
+          "amount":2.300000000000000e+001,
+          "date":"2023-02-19T12:00:00",
+          "type":"CREDIT"
+       },
+       {
+          "originalDescription":"Popeyes Louisiana Kitchen",
+          "description":"Popeyes",
+          "guid":"TRN-5bdd2296-85af-4858-868b-5e879656e467",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Fast Food",
+          "amount":1.351000000000000e+001,
+          "date":"2023-02-19T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"360 Checking Card Adjustment Signature (Credit) AFTERPAY SAN FRANCISC CA",
+          "description":"Afterpay",
+          "guid":"TRN-0896891b-81fa-456b-8dba-29cb1a66fcf2",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Financial",
+          "amount":2.300000000000000e+001,
+          "date":"2023-02-19T12:00:00",
+          "type":"CREDIT"
+       },
+       {
+          "originalDescription":"360 Checking Card Adjustment Signature (Credit) AFTERPAY SAN FRANCISC CA",
+          "description":"Afterpay",
+          "guid":"TRN-38ca82c2-6525-40e1-a330-fca52a9384e3",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Financial",
+          "amount":2.299000000000000e+001,
+          "date":"2023-02-19T12:00:00",
+          "type":"CREDIT"
+       },
+       {
+          "originalDescription":"CHINATOWN RESTAURANT",
+          "description":"Chinatown Restaurant",
+          "guid":"TRN-07d5e344-3ba7-4aa9-8a86-f9b5a2f0227d",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Restaurants",
+          "amount":1.081000000000000e+001,
+          "date":"2023-02-18T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"GOLDEN CHICK RISINGER",
+          "description":"Golden Chick",
+          "guid":"TRN-80987dab-7bbd-44b9-a581-22e07f558a12",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Fast Food",
+          "amount":1.081000000000000e+001,
+          "date":"2023-02-18T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Sirius Satellite Radio",
+          "description":"Sirius Satellite Radio",
+          "guid":"TRN-db270b2f-f356-4584-83b4-1ce350ebc967",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Music",
+          "amount":7.750000000000000e+000,
+          "date":"2023-02-18T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"TST  MI PUEBLO 1 NEW",
+          "description":"New",
+          "guid":"TRN-9d639f99-d067-44a8-921e-384a633762da",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Restaurants",
+          "amount":1.384000000000000e+001,
+          "date":"2023-02-18T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Ring",
+          "description":"Ring",
+          "guid":"TRN-21cb0f5b-3066-430a-afc3-9aea838a0862",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Home Services",
+          "amount":4.320000000000000e+000,
+          "date":"2023-02-18T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Amazon",
+          "description":"Amazon",
+          "guid":"TRN-9c49fd1a-1ad2-494e-84d7-ab3b10e6e063",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Shopping",
+          "amount":1.623000000000000e+001,
+          "date":"2023-02-18T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Deposit from 360 Performance Savings XXXXXXX7617",
+          "description":"Deposit From Performance Savings",
+          "guid":"TRN-412699c3-2fde-45ab-977b-4f81b741dfb0",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Transfer",
+          "amount":1.000000000000000e+002,
+          "date":"2023-02-17T12:00:00",
+          "type":"CREDIT"
+       },
+       {
+          "originalDescription":"USPS",
+          "description":"US Postal Service",
+          "guid":"TRN-6e8cda70-e81b-4084-94bb-18b115ae7b00",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Shipping",
+          "amount":9.650000000000000e+000,
+          "date":"2023-02-17T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"360 Checking Digital Card Adjustment Signature (Credit) AFTERPAY AFTERPAY COM CA",
+          "description":"Afterpay",
+          "guid":"TRN-0360e8e7-c9fa-4f64-b364-a295526a732b",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Financial",
+          "amount":3.627000000000000e+001,
+          "date":"2023-02-17T12:00:00",
+          "type":"CREDIT"
+       },
+       {
+          "originalDescription":"Walgreens",
+          "description":"Walgreens",
+          "guid":"TRN-65264385-204e-4495-a6ab-87a7ca04d5b0",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Pharmacy",
+          "amount":4.079000000000000e+001,
+          "date":"2023-02-17T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Deposit from 360 Performance Savings XXXXXXX7617",
+          "description":"Deposit From Performance Savings",
+          "guid":"TRN-8c8f6931-a4e6-4414-8a64-cc9f0092e48b",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Transfer",
+          "amount":1.000000000000000e+002,
+          "date":"2023-02-16T12:00:00",
+          "type":"CREDIT"
+       },
+       {
+          "originalDescription":"Original Pancake House",
+          "description":"The Original Pancake House",
+          "guid":"TRN-e1a08d4e-ca69-40a0-854a-06810a9a1bbb",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Restaurants",
+          "amount":1.708000000000000e+001,
+          "date":"2023-02-16T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Quiktrip",
+          "description":"QuikTrip",
+          "guid":"TRN-60036d1f-1b87-4376-93c8-bb085ed9fd94",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Gas",
+          "amount":3.600000000000000e+001,
+          "date":"2023-02-15T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Cash App",
+          "description":"Cash App",
+          "guid":"TRN-74e0596d-237e-43e7-a4bf-e494037bcc04",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Transfer",
+          "amount":2.000000000000000e+001,
+          "date":"2023-02-15T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Withdrawal to 360 Performance Savings XXXXXXX7617",
+          "description":"To Performance Savings",
+          "guid":"TRN-31e86880-9e40-431d-a196-1c1555398e3f",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Transfer",
+          "amount":1.000000000000000e+002,
+          "date":"2023-02-14T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Sams Club",
+          "description":"Sam's Club",
+          "guid":"TRN-54aa5be1-4695-41d7-a609-99f62b7dfcb1",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Shopping",
+          "amount":5.626000000000000e+001,
+          "date":"2023-02-14T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Withdrawal to 360 Performance Savings XXXXXXX7617",
+          "description":"To Performance Savings",
+          "guid":"TRN-a73505fa-e9bf-435a-8f66-a7bd3b8a48c0",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Transfer",
+          "amount":7.000000000000000e+002,
+          "date":"2023-02-13T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Afterpay",
+          "description":"Afterpay",
+          "guid":"TRN-2ad16de5-2f41-4913-ba5c-fd8a33aff6e8",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Financial",
+          "amount":4.871000000000000e+001,
+          "date":"2023-02-13T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Afterpay",
+          "description":"Afterpay",
+          "guid":"TRN-fcd78465-64b7-4f3f-8788-096c0805842b",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Financial",
+          "amount":3.627000000000000e+001,
+          "date":"2023-02-13T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Apple",
+          "description":"Apple",
+          "guid":"TRN-bee0bfed-ffdb-45af-a4ad-2548133abca4",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Electronics & Software",
+          "amount":9.900000000000000e-001,
+          "date":"2023-02-13T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Etsy",
+          "description":"Etsy",
+          "guid":"TRN-f574c48b-3d59-4c52-8389-34f1a2dd2295",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Shopping",
+          "amount":2.597000000000000e+001,
+          "date":"2023-02-13T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"McDonald's",
+          "description":"McDonald's",
+          "guid":"TRN-5e34ffbd-552e-4684-a2cd-0806d3fc9c09",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Fast Food",
+          "amount":4.960000000000000e+000,
+          "date":"2023-02-13T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Original Pancake House",
+          "description":"The Original Pancake House",
+          "guid":"TRN-ee6e672b-34c2-4a92-924e-c6039a4434e4",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Restaurants",
+          "amount":1.854000000000000e+001,
+          "date":"2023-02-12T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Sams Club",
+          "description":"Sam's Club",
+          "guid":"TRN-92319f85-d230-4347-8b95-0d89ed7b9fd1",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Shopping",
+          "amount":1.838000000000000e+001,
+          "date":"2023-02-12T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Walgreens",
+          "description":"Walgreens",
+          "guid":"TRN-e7946e75-cedd-42e4-b04b-32c11430baa4",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Pharmacy",
+          "amount":2.281000000000000e+001,
+          "date":"2023-02-12T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"WinCo Foods",
+          "description":"WinCo Foods",
+          "guid":"TRN-f39b401a-1a37-4df7-848d-cde4530da262",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Groceries",
+          "amount":2.570000000000000e+001,
+          "date":"2023-02-12T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"INVICTA HEALTHCARE  PL",
+          "description":"Invicta Healthcare",
+          "guid":"TRN-69c10942-6e19-4cd1-8e96-662034ceed8c",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Uncategorized",
+          "amount":2.500000000000000e+001,
+          "date":"2023-02-11T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Deposit from 360 Performance Savings XXXXXXX7617",
+          "description":"Deposit From Performance Savings",
+          "guid":"TRN-19d1fffd-42eb-4c8c-b3d7-730149145524",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Transfer",
+          "amount":4.000000000000000e+002,
+          "date":"2023-02-11T12:00:00",
+          "type":"CREDIT"
+       },
+       {
+          "originalDescription":"BUSY B S BAKERY   DONU",
+          "description":"Busy B S Bakery Donu",
+          "guid":"TRN-3633378c-c576-4e3a-a3ef-170ad0cf8458",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Food & Dining",
+          "amount":7.750000000000000e+000,
+          "date":"2023-02-11T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"McDonald's",
+          "description":"McDonald's",
+          "guid":"TRN-44265c46-8c8e-406c-b871-de1e78033542",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Fast Food",
+          "amount":1.187000000000000e+001,
+          "date":"2023-02-11T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Afterpay",
+          "description":"Afterpay",
+          "guid":"TRN-65e2352a-96ae-49c3-a674-c5c5e5a9157e",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Financial",
+          "amount":2.299000000000000e+001,
+          "date":"2023-02-10T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Afterpay",
+          "description":"Afterpay",
+          "guid":"TRN-c03c3054-91cd-4e6d-ab59-49d819c35591",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Financial",
+          "amount":2.300000000000000e+001,
+          "date":"2023-02-10T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Check Deposit (Mobile)",
+          "description":"Check Deposit",
+          "guid":"TRN-c21c0714-9063-45c1-b4eb-f07b77eeed37",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Income",
+          "amount":5.365600000000000e+002,
+          "date":"2023-02-10T12:00:00",
+          "type":"CREDIT"
+       },
+       {
+          "originalDescription":"Afterpay",
+          "description":"Afterpay",
+          "guid":"TRN-f2574829-a6de-414d-ae8c-ab3fc04ea5cd",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Financial",
+          "amount":2.300000000000000e+001,
+          "date":"2023-02-10T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Deposit from 360 Performance Savings XXXXXXX7617",
+          "description":"Deposit From Performance Savings",
+          "guid":"TRN-092226a3-e6d2-4cea-b743-26180595772f",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Transfer",
+          "amount":1.000000000000000e+002,
+          "date":"2023-02-10T12:00:00",
+          "type":"CREDIT"
+       },
+       {
+          "originalDescription":"Verizon",
+          "description":"Verizon",
+          "guid":"TRN-d63c082e-12ad-4e5a-82b9-4df37e7a0327",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Utilities",
+          "amount":1.870400000000000e+002,
+          "date":"2023-02-10T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Afterpay",
+          "description":"Afterpay",
+          "guid":"TRN-a5881be2-c0a5-4ab1-819b-998f62cbad6a",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Financial",
+          "amount":2.705000000000000e+001,
+          "date":"2023-02-10T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Afterpay",
+          "description":"Afterpay",
+          "guid":"TRN-63706b62-b76f-4a3f-9b30-349f647c9531",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Financial",
+          "amount":2.977000000000000e+001,
+          "date":"2023-02-10T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Afterpay",
+          "description":"Afterpay",
+          "guid":"TRN-5922857d-7de3-4602-abf3-2503d2b966d2",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Financial",
+          "amount":2.706000000000000e+001,
+          "date":"2023-02-10T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Afterpay",
+          "description":"Afterpay",
+          "guid":"TRN-45381feb-41f2-427f-87fc-9f23594eca3f",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Financial",
+          "amount":2.977000000000000e+001,
+          "date":"2023-02-10T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Afterpay",
+          "description":"Afterpay",
+          "guid":"TRN-4816ce71-8cc3-4974-9647-c4e1e700144e",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Financial",
+          "amount":2.299000000000000e+001,
+          "date":"2023-02-10T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Afterpay",
+          "description":"Afterpay",
+          "guid":"TRN-735a426a-53fa-4d56-a629-13004addb5a5",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Financial",
+          "amount":2.706000000000000e+001,
+          "date":"2023-02-10T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Klarna",
+          "description":"Klarna",
+          "guid":"TRN-1828b439-2c85-4c29-8f44-e405d8e3eb57",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Financial",
+          "amount":2.842000000000000e+001,
+          "date":"2023-02-10T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Klarna",
+          "description":"Klarna",
+          "guid":"TRN-2ad20188-9a56-4482-875a-d2f6d8ac42ed",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Financial",
+          "amount":8.931000000000000e+001,
+          "date":"2023-02-10T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"MURPHY6627ATWAL",
+          "description":"Murphy USA",
+          "guid":"TRN-432305d0-afca-4310-8121-0a323c6417c9",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Gas",
+          "amount":2.546000000000000e+001,
+          "date":"2023-02-10T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"CHARLES MITCHELL",
+          "description":"Charles Mitchell",
+          "guid":"TRN-b4413be1-1f0c-43a5-a418-66e008930293",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Hair",
+          "amount":3.000000000000000e+001,
+          "date":"2023-02-09T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Tom Thumb Food Stores",
+          "description":"Tom Thumb",
+          "guid":"TRN-eabc33d8-11d1-4619-a455-81b5e36f9a8c",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Groceries",
+          "amount":3.732000000000000e+001,
+          "date":"2023-02-09T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Home Depot",
+          "description":"The Home Depot",
+          "guid":"TRN-7bbdd608-d857-43ad-aa05-cdda00eb885b",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Home Improvement",
+          "amount":6.260000000000000e+000,
+          "date":"2023-02-09T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Klarna",
+          "description":"Klarna",
+          "guid":"TRN-a73f2779-8b35-41ac-9fee-02620142ee53",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Financial",
+          "amount":9.470000000000001e+000,
+          "date":"2023-02-09T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"NTE MOBILITY PAR",
+          "description":"Nte Mobility Par",
+          "guid":"TRN-630fc2ad-a195-465c-9686-3515ead16e03",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Mobile Phone",
+          "amount":1.331450000000000e+003,
+          "date":"2023-02-08T12:00:00",
+          "type":"CREDIT"
+       },
+       {
+          "originalDescription":"Quiktrip",
+          "description":"QuikTrip",
+          "guid":"TRN-beeb0226-1b9e-483d-96f3-24cbe7f9d510",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Gas",
+          "amount":2.300000000000000e+001,
+          "date":"2023-02-08T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Withdrawal to 360 Performance Savings XXXXXXX7617",
+          "description":"To Performance Savings",
+          "guid":"TRN-a675a4cd-b2b1-4c16-addc-8fd5124e3880",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Transfer",
+          "amount":5.000000000000000e+002,
+          "date":"2023-02-08T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"A B MUFFLER 2",
+          "description":"A B Muffler",
+          "guid":"TRN-759693fd-dd69-4407-a1e5-3ffdb97d53dd",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Service & Parts",
+          "amount":2.569000000000000e+001,
+          "date":"2023-02-08T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"HTEAO   BEDFORD",
+          "description":"Hteao Bedford",
+          "guid":"TRN-c853f425-9c8e-4891-b011-3cc11248b3dc",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Fast Food",
+          "amount":1.297000000000000e+001,
+          "date":"2023-02-08T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Afterpay",
+          "description":"Afterpay",
+          "guid":"TRN-1ffebffb-9174-4b24-9415-b9ade335f7fd",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Financial",
+          "amount":5.413000000000000e+001,
+          "date":"2023-02-06T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Klarna",
+          "description":"Klarna",
+          "guid":"TRN-40e9e57d-0683-40c1-99d1-d1a59ef7bbc0",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Financial",
+          "amount":4.059000000000000e+001,
+          "date":"2023-02-06T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"TST  MI PUEBLO 1 NEW",
+          "description":"New",
+          "guid":"TRN-d79096e3-a0d8-4cd2-8fce-7dcac42f0bd7",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Restaurants",
+          "amount":3.350000000000000e+001,
+          "date":"2023-02-06T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Afterpay",
+          "description":"Afterpay",
+          "guid":"TRN-042e31b8-b1fa-40ba-bfbe-d1e570aebb09",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Financial",
+          "amount":2.300000000000000e+001,
+          "date":"2023-02-05T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Afterpay",
+          "description":"Afterpay",
+          "guid":"TRN-bdc9381a-5d6f-4fe1-8ad6-d27f6366ed43",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Financial",
+          "amount":2.300000000000000e+001,
+          "date":"2023-02-05T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Deposit from 360 Checking XXXXXXX6724",
+          "description":"Deposit From Checking",
+          "guid":"TRN-f4ec383a-791f-4073-9bed-dc43670487b9",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Transfer",
+          "amount":2.000000000000000e+002,
+          "date":"2023-02-04T12:00:00",
+          "type":"CREDIT"
+       },
+       {
+          "originalDescription":"Popeyes Louisiana Kitchen",
+          "description":"Popeyes",
+          "guid":"TRN-3141903e-1dd2-4116-af34-2796f541f80c",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Fast Food",
+          "amount":3.958000000000000e+001,
+          "date":"2023-02-04T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Golden Corral",
+          "description":"Golden Corral",
+          "guid":"TRN-f54db0cb-8559-424a-9958-b13ff6c8becd",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Restaurants",
+          "amount":5.644000000000000e+001,
+          "date":"2023-01-31T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"WILLIE OMORRIS",
+          "description":"Willie Omorris",
+          "guid":"TRN-902557a0-76ba-4cb4-b031-f7d4d5f7fa93",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Pet Food & Supplies",
+          "amount":1.200000000000000e+002,
+          "date":"2023-01-31T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"NIKEPOS US",
+          "description":"Nike",
+          "guid":"TRN-9afcd6d2-79f3-4125-bfe7-ca645ff52d80",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Clothing",
+          "amount":8.658000000000000e+001,
+          "date":"2023-01-31T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"NIKEPOS US",
+          "description":"Nike",
+          "guid":"TRN-99a72c80-0006-4d5e-bcb0-3850bff857b0",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Clothing",
+          "amount":4.329000000000000e+001,
+          "date":"2023-01-31T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Monthly Interest Paid",
+          "description":"Monthly Interest Paid",
+          "guid":"TRN-160caed9-c8bf-4b3c-b1e4-ae24c68465ea",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Interest Income",
+          "amount":3.000000000000000e-002,
+          "date":"2023-01-31T12:00:00",
+          "type":"CREDIT"
+       },
+       {
+          "originalDescription":"WM SUPERC WAL-MART SUP",
+          "description":"Walmart",
+          "guid":"TRN-911b5adf-9aec-4160-87cb-6ce77fad4865",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Shopping",
+          "amount":1.144000000000000e+002,
+          "date":"2023-01-30T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Master Wok",
+          "description":"Master Wok",
+          "guid":"TRN-6bcc4324-af6f-486f-a3b9-4a3d70706eea",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Restaurants",
+          "amount":1.491000000000000e+001,
+          "date":"2023-01-30T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"NATASHA SHIELD",
+          "description":"Natasha Shield",
+          "guid":"TRN-076658cf-e49d-4a07-90ed-41c54f58552e",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Uncategorized",
+          "amount":1.050000000000000e+003,
+          "date":"2023-01-29T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"SQ  PHIL S PHILLY GRIL",
+          "description":"Phil S Philly Gril",
+          "guid":"TRN-b5d0a3f8-0a61-49f1-9687-6833556268c4",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Fast Food",
+          "amount":1.573000000000000e+001,
+          "date":"2023-01-29T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"FORT WORTH WATER",
+          "description":"Fort Worth Water",
+          "guid":"TRN-724789d8-b4b3-4b9a-bae7-d64432423758",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Utilities",
+          "amount":7.831000000000000e+001,
+          "date":"2023-01-29T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Popeyes Louisiana Kitchen",
+          "description":"Popeyes",
+          "guid":"TRN-b928dc67-e85f-4e6a-8c76-3dac1b99b222",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Fast Food",
+          "amount":1.351000000000000e+001,
+          "date":"2023-01-29T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"AAA",
+          "description":"Aaa",
+          "guid":"TRN-276f17f7-e18a-4a51-b1ae-4a18b3c23ddf",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Uncategorized",
+          "amount":1.127100000000000e+002,
+          "date":"2023-01-29T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"AAA",
+          "description":"Aaa",
+          "guid":"TRN-7ee8c53e-11e0-4d0c-aa10-a451fa9cf0c9",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Uncategorized",
+          "amount":9.740000000000000e+000,
+          "date":"2023-01-29T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Deposit from 360 Performance Savings XXXXXXX7617",
+          "description":"Deposit From Performance Savings",
+          "guid":"TRN-d875b529-f738-4c09-b9f2-3df97d781c3f",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Transfer",
+          "amount":1.350000000000000e+003,
+          "date":"2023-01-29T12:00:00",
+          "type":"CREDIT"
+       },
+       {
+          "originalDescription":"McDonald's",
+          "description":"McDonald's",
+          "guid":"TRN-55f2d373-982b-4a60-95bc-264660ac15b1",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Fast Food",
+          "amount":2.710000000000000e+000,
+          "date":"2023-01-29T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Afterpay",
+          "description":"Afterpay",
+          "guid":"TRN-757367f3-0394-4854-84a3-438e4407e895",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Financial",
+          "amount":2.706000000000000e+001,
+          "date":"2023-01-29T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"BUSY B S BAKERY   DONU",
+          "description":"Busy B S Bakery Donu",
+          "guid":"TRN-c1c49d71-05da-45c1-b89a-fb076c092e13",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Food & Dining",
+          "amount":6.340000000000000e+000,
+          "date":"2023-01-29T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Quiktrip",
+          "description":"QuikTrip",
+          "guid":"TRN-bf12fb86-61a5-4faf-b56f-319722c0eda0",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Gas",
+          "amount":5.920000000000000e+000,
+          "date":"2023-01-28T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Quiktrip",
+          "description":"QuikTrip",
+          "guid":"TRN-b369936a-6d41-422b-b1f2-230b10d57e7c",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Gas",
+          "amount":1.400000000000000e+000,
+          "date":"2023-01-28T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"SQ  J C T M INC",
+          "description":"J T M Inc",
+          "guid":"TRN-810d031e-466d-4a9b-9a47-ec7f8246f82d",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Uncategorized",
+          "amount":1.082000000000000e+001,
+          "date":"2023-01-28T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"SQ  TAQUERIA SAN ANDRE",
+          "description":"Taqueria San Andre",
+          "guid":"TRN-e5302145-3c3e-4a19-a974-90484c32db09",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Restaurants",
+          "amount":1.277000000000000e+001,
+          "date":"2023-01-27T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"SQ  J C T M INC",
+          "description":"J T M Inc",
+          "guid":"TRN-f069be46-d27f-4916-84bc-52f981c0dabb",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Uncategorized",
+          "amount":7.040000000000000e+000,
+          "date":"2023-01-27T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Quiktrip",
+          "description":"QuikTrip",
+          "guid":"TRN-6f9b1aef-1cb7-40e5-92c4-1fa61ece2d4e",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Gas",
+          "amount":3.500000000000000e+001,
+          "date":"2023-01-27T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Deposit from 360 Performance Savings XXXXXXX7617",
+          "description":"Deposit From Performance Savings",
+          "guid":"TRN-d6dba0cd-4a57-4c98-b28e-a388612e8b26",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Transfer",
+          "amount":3.000000000000000e+002,
+          "date":"2023-01-27T12:00:00",
+          "type":"CREDIT"
+       },
+       {
+          "originalDescription":"READYREFRESH WATERSERV",
+          "description":"ReadyRefresh",
+          "guid":"TRN-34e7e768-29a8-43eb-949f-9653c2a5d3c0",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Food & Dining",
+          "amount":4.595000000000000e+001,
+          "date":"2023-04-20T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Deposit from 360 Checking XXXXXXX6724",
+          "description":"Deposit From Checking",
+          "guid":"TRN-95ecaeb8-ce02-4580-885d-6806b5738726",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Transfer",
+          "amount":5.000000000000000e+001,
+          "date":"2023-04-20T12:00:00",
+          "type":"CREDIT"
+       },
+       {
+          "originalDescription":"Withdrawal to 360 Checking XXXXXXX6724",
+          "description":"Transfer",
+          "guid":"TRN-e798632c-de8e-41c7-a0a9-aa7c407a1b16",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Transfer",
+          "amount":2.000000000000000e+002,
+          "date":"2023-04-20T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Empower",
+          "description":"Empower",
+          "guid":"TRN-63d9b33a-03fa-4074-8d9b-25d78bf0b7af",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Transfer",
+          "amount":7.500000000000000e+001,
+          "date":"2023-04-20T12:00:00",
+          "type":"CREDIT"
+       },
+       {
+          "originalDescription":"Withdrawal to 360 Checking XXXXXXX6724",
+          "description":"Transfer",
+          "guid":"TRN-81e28769-e56e-4a18-8b55-ddccc404b4b5",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Transfer",
+          "amount":1.050000000000000e+003,
+          "date":"2023-04-19T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Deposit from 360 Checking XXXXXXX6724",
+          "description":"Deposit From Checking",
+          "guid":"TRN-6e160662-1542-4c88-a51d-a0836929ce26",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Transfer",
+          "amount":2.000000000000000e+002,
+          "date":"2023-04-19T12:00:00",
+          "type":"CREDIT"
+       },
+       {
+          "originalDescription":"NTE MOBILITY PAR",
+          "description":"Nte Mobility Par",
+          "guid":"TRN-7de52ecb-8a82-4fbe-9a48-996901432d0e",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Mobile Phone",
+          "amount":1.506450000000000e+003,
+          "date":"2023-04-19T12:00:00",
+          "type":"CREDIT"
+       },
+       {
+          "originalDescription":"COWBOY CLEANERS   LAUN",
+          "description":"Cowboy Cleaners Laun",
+          "guid":"TRN-9d5f578e-3201-4cdb-b648-8b6bcd3ca313",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Laundry",
+          "amount":1.582000000000000e+001,
+          "date":"2023-04-18T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Sirius Satellite Radio",
+          "description":"Sirius Satellite Radio",
+          "guid":"TRN-6c7b5a82-fe54-421f-8524-b1296f98f341",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Music",
+          "amount":7.750000000000000e+000,
+          "date":"2023-04-18T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Ring",
+          "description":"Ring",
+          "guid":"TRN-ab4338d4-266c-4e67-9acf-aec755317ed0",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Home Services",
+          "amount":4.320000000000000e+000,
+          "date":"2023-04-18T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Afterpay",
+          "description":"Afterpay",
+          "guid":"TRN-844d30b7-04d4-42b3-8307-f455bd12f330",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Financial",
+          "amount":3.246000000000000e+001,
+          "date":"2023-04-17T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Wendy's",
+          "description":"Wendy's",
+          "guid":"TRN-c2675c93-1488-4705-bf47-419c72c0fb92",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Fast Food",
+          "amount":5.950000000000000e+000,
+          "date":"2023-04-17T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Waffle House",
+          "description":"Waffle House",
+          "guid":"TRN-0a98c2f2-e75b-45e2-bc77-294c52fb4221",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Restaurants",
+          "amount":1.080000000000000e+001,
+          "date":"2023-04-16T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Afterpay",
+          "description":"Afterpay",
+          "guid":"TRN-c5f14404-3488-4d98-8830-89a50d1c8f30",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Financial",
+          "amount":3.924000000000000e+001,
+          "date":"2023-04-15T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Afterpay",
+          "description":"Afterpay",
+          "guid":"TRN-f77e51dc-6570-4655-8a39-aef62bc5e410",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Financial",
+          "amount":3.112000000000000e+001,
+          "date":"2023-04-15T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Afterpay",
+          "description":"Afterpay",
+          "guid":"TRN-fbb66cfa-2a61-4389-bb0f-4b6ad30819e1",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Financial",
+          "amount":4.060000000000000e+001,
+          "date":"2023-04-15T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Afterpay",
+          "description":"Afterpay",
+          "guid":"TRN-07184b7e-bcde-4a5a-98cb-99d5f7e45047",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Financial",
+          "amount":5.142000000000000e+001,
+          "date":"2023-04-15T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Afterpay",
+          "description":"Afterpay",
+          "guid":"TRN-57f0de22-f2d5-4b53-817f-c76a05f9ff33",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Financial",
+          "amount":6.601000000000001e+001,
+          "date":"2023-04-15T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Cash App",
+          "description":"Cash App",
+          "guid":"TRN-1c2b25d3-5041-4cfa-aec2-928e3b8d2d84",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Transfer",
+          "amount":2.000000000000000e+001,
+          "date":"2023-04-15T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Quiktrip",
+          "description":"QuikTrip",
+          "guid":"TRN-8e87e1b0-7a5b-43e5-ae24-a42e35485c3d",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Gas",
+          "amount":6.570000000000000e+000,
+          "date":"2023-04-15T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Autozone",
+          "description":"AutoZone",
+          "guid":"TRN-6127b0d7-1c18-4d7e-a10d-e5063a064b11",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Service & Parts",
+          "amount":1.081000000000000e+001,
+          "date":"2023-04-14T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Quiktrip",
+          "description":"QuikTrip",
+          "guid":"TRN-c3502e11-b42f-4f64-acaf-4827c6d7a81f",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Gas",
+          "amount":3.800000000000000e+001,
+          "date":"2023-04-14T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Racetrac",
+          "description":"Racetrac",
+          "guid":"TRN-074833a7-7db7-4df6-b0ca-7941c890481c",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Gas",
+          "amount":4.310000000000000e+000,
+          "date":"2023-04-14T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"ATM Withdrawal",
+          "description":"ATM Withdrawal",
+          "guid":"TRN-8a885afd-7492-450c-8bc6-3c74864aa321",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Cash",
+          "amount":2.000000000000000e+002,
+          "date":"2023-04-14T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"ATM Withdrawal",
+          "description":"ATM Withdrawal",
+          "guid":"TRN-b6ec0adb-0fb2-4b3d-9945-574d6929c378",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Cash",
+          "amount":8.000000000000000e+001,
+          "date":"2023-04-14T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Deposit from 360 Performance Savings XXXXXXX7617",
+          "description":"Deposit From Performance Savings",
+          "guid":"TRN-1c5eba9b-ac33-465c-b6b3-8f49da410ab0",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Transfer",
+          "amount":1.000000000000000e+002,
+          "date":"2023-04-13T12:00:00",
+          "type":"CREDIT"
+       },
+       {
+          "originalDescription":"Deposit from 360 Performance Savings XXXXXXX7617",
+          "description":"Deposit From Performance Savings",
+          "guid":"TRN-3a38c251-a78e-4fa1-b3e2-05bf99994cdd",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Transfer",
+          "amount":1.000000000000000e+002,
+          "date":"2023-04-13T12:00:00",
+          "type":"CREDIT"
+       },
+       {
+          "originalDescription":"TST  BOSSES PIZZA WING",
+          "description":"Bosses Pizza Wing",
+          "guid":"TRN-dcefa318-c261-42ac-a7bf-324caa14b329",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Food & Dining",
+          "amount":1.479000000000000e+001,
+          "date":"2023-04-13T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"QUICK WOK CHINESE REST",
+          "description":"Quick Wok Chinese Rest",
+          "guid":"TRN-5f21d5f2-b483-4b91-8ec5-19c5c702ab72",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Restaurants",
+          "amount":2.024000000000000e+001,
+          "date":"2023-04-13T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Deposit from 360 Performance Savings XXXXXXX7617",
+          "description":"Deposit From Performance Savings",
+          "guid":"TRN-b0dd7144-5db4-4331-afe6-ab79e4d0a884",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Transfer",
+          "amount":1.700000000000000e+002,
+          "date":"2023-04-13T12:00:00",
+          "type":"CREDIT"
+       },
+       {
+          "originalDescription":"Deposit from 360 Performance Savings XXXXXXX7617",
+          "description":"Deposit From Performance Savings",
+          "guid":"TRN-98051ed4-188c-42fd-b73f-c17e37b584ab",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Transfer",
+          "amount":6.280000000000000e+000,
+          "date":"2023-04-13T12:00:00",
+          "type":"CREDIT"
+       },
+       {
+          "originalDescription":"Deposit from 360 Performance Savings XXXXXXX7617",
+          "description":"Deposit From Performance Savings",
+          "guid":"TRN-df72df02-55ab-4bfc-a436-0bb2c6f07915",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Transfer",
+          "amount":2.500000000000000e+001,
+          "date":"2023-04-13T12:00:00",
+          "type":"CREDIT"
+       },
+       {
+          "originalDescription":"Apple",
+          "description":"Apple",
+          "guid":"TRN-990af49a-f504-4bb4-a0a8-76fcdeb95320",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Electronics & Software",
+          "amount":9.900000000000000e-001,
+          "date":"2023-04-12T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"READYREFRESH WATERSERV",
+          "description":"ReadyRefresh",
+          "guid":"TRN-dafeabd0-fdca-434c-8cd3-2fcb9ddbc109",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Food & Dining",
+          "amount":3.596000000000000e+001,
+          "date":"2023-04-12T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Amazon",
+          "description":"Amazon",
+          "guid":"TRN-ee95386b-73f6-4d79-8a22-76684ee9ed74",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Shopping",
+          "amount":2.165000000000000e+001,
+          "date":"2023-04-12T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Chipotle",
+          "description":"Chipotle",
+          "guid":"TRN-e0b48578-0306-4ffd-b6cc-b786216cd43d",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Fast Food",
+          "amount":1.207000000000000e+001,
+          "date":"2023-04-12T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Deposit from 360 Performance Savings XXXXXXX7617",
+          "description":"Deposit From Performance Savings",
+          "guid":"TRN-840816c4-3b64-45a4-b8d2-496467acba62",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Transfer",
+          "amount":1.000000000000000e+002,
+          "date":"2023-04-10T12:00:00",
+          "type":"CREDIT"
+       },
+       {
+          "originalDescription":"KLARNA",
+          "description":"Klarna",
+          "guid":"TRN-81721e4c-de0c-4247-a678-bcd699082fae",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Financial",
+          "amount":8.502000000000000e+001,
+          "date":"2023-04-10T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Levi's",
+          "description":"Levi's",
+          "guid":"TRN-d668774f-3032-44e8-8a9e-d6d79234fe43",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Shopping",
+          "amount":6.025000000000000e+001,
+          "date":"2023-04-10T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"TARRANT VEHREG",
+          "description":"State of Texas Vehicle Registration",
+          "guid":"TRN-108068e0-a67a-40db-b664-a0c094c50bff",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Auto & Transport",
+          "amount":7.175000000000000e+001,
+          "date":"2023-04-09T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Tom Thumb Food Stores",
+          "description":"Tom Thumb",
+          "guid":"TRN-51eb072d-42f0-4304-b821-e76642d30b99",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Groceries",
+          "amount":2.498000000000000e+001,
+          "date":"2023-04-09T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"QUICK WOK CHINESE REST",
+          "description":"Quick Wok Chinese Rest",
+          "guid":"TRN-d0bd4cff-b4d6-4680-a467-52cfd3e90d6f",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Restaurants",
+          "amount":2.024000000000000e+001,
+          "date":"2023-04-09T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Withdrawal to 360 Performance Savings XXXXXXX7617",
+          "description":"To Performance Savings",
+          "guid":"TRN-e1ce9ca3-9761-45b7-a94f-1e21d1203977",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Transfer",
+          "amount":5.000000000000000e+002,
+          "date":"2023-04-08T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"TX GOV SERVICEFEE DIR",
+          "description":"Servicefee Dir",
+          "guid":"TRN-62e545ab-1fa7-4554-8918-192dc326a1b2",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Service Fee",
+          "amount":2.000000000000000e+000,
+          "date":"2023-04-08T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"SPDPY AMERICAN CREDIT",
+          "description":"Spdpy American Credit",
+          "guid":"TRN-b9898a97-534c-43f2-b6ea-735df04101ee",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Financial",
+          "amount":3.351000000000000e+002,
+          "date":"2023-04-08T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Quiktrip",
+          "description":"QuikTrip",
+          "guid":"TRN-2b88a573-defd-4fc4-a7c4-07f654e40d62",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Gas",
+          "amount":3.200000000000000e+001,
+          "date":"2023-04-07T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Church's Chicken",
+          "description":"Church's Chicken",
+          "guid":"TRN-7171965f-3b54-45a4-9d92-b5aef7abf248",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Fast Food",
+          "amount":1.790000000000000e+001,
+          "date":"2023-04-07T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Original Pancake House",
+          "description":"The Original Pancake House",
+          "guid":"TRN-ac74dad9-9486-4608-9203-094c7689bb15",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Restaurants",
+          "amount":1.708000000000000e+001,
+          "date":"2023-04-06T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Bath and Body Works",
+          "description":"Bath & Body Works",
+          "guid":"TRN-46a549ac-f07a-4873-8cd2-9962ea1481a8",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Personal Care",
+          "amount":2.576000000000000e+001,
+          "date":"2023-04-06T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"ATM Withdrawal",
+          "description":"ATM Withdrawal",
+          "guid":"TRN-b09d211c-58fe-49b3-b275-2af5256e62fd",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Cash",
+          "amount":2.200000000000000e+002,
+          "date":"2023-04-06T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Quiktrip",
+          "description":"QuikTrip",
+          "guid":"TRN-b67a8342-2e1e-4176-a699-650fe2146b8f",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Gas",
+          "amount":3.301000000000000e+001,
+          "date":"2023-04-06T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Holiday Liquor",
+          "description":"Holiday Liquor",
+          "guid":"TRN-aa2ec37b-8f8f-4eb1-bb48-8bc9d2bfdbf8",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Alcohol & Bars",
+          "amount":2.162000000000000e+001,
+          "date":"2023-04-06T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"CHARLES MITCHELL",
+          "description":"Charles Mitchell",
+          "guid":"TRN-ac7ee193-ad89-4f78-a8a1-07a6e6beb4fb",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Hair",
+          "amount":3.000000000000000e+001,
+          "date":"2023-04-06T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"NTE MOBILITY PAR",
+          "description":"Nte Mobility Par",
+          "guid":"TRN-f00fd3a3-5cb6-43a4-9c8c-4c472978ed27",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Mobile Phone",
+          "amount":1.506710000000000e+003,
+          "date":"2023-04-06T12:00:00",
+          "type":"CREDIT"
+       },
+       {
+          "originalDescription":"UPS BA2FB7D1C04B408FB6",
+          "description":"Ups Ba",
+          "guid":"TRN-ede6a594-0419-493d-add7-0c021b3b4a78",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Shipping",
+          "amount":1.999000000000000e+001,
+          "date":"2023-04-06T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"WAL-MART SUPER CENTER",
+          "description":"Walmart",
+          "guid":"TRN-8ed10777-f001-4480-bf3a-a02a6596a44f",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Shopping",
+          "amount":4.871000000000000e+001,
+          "date":"2023-04-04T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Deposit from 360 Checking XXXXXXX6724",
+          "description":"Deposit From Checking",
+          "guid":"TRN-93fc0e95-e9c6-4749-8659-65e4420bb2bd",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Transfer",
+          "amount":2.000000000000000e+002,
+          "date":"2023-04-04T12:00:00",
+          "type":"CREDIT"
+       },
+       {
+          "originalDescription":"Afterpay",
+          "description":"Afterpay",
+          "guid":"TRN-2603c048-41a7-4a4a-b684-3cc01f72e016",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Financial",
+          "amount":3.383000000000000e+001,
+          "date":"2023-04-03T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Afterpay",
+          "description":"Afterpay",
+          "guid":"TRN-f3d07307-4927-4498-9998-a2961c573ca4",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Financial",
+          "amount":4.060000000000000e+001,
+          "date":"2023-04-03T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Afterpay",
+          "description":"Afterpay",
+          "guid":"TRN-6a48c62c-c7fe-4cf5-873c-f67bfb6fd1cb",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Financial",
+          "amount":3.382000000000000e+001,
+          "date":"2023-04-03T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"360 Checking Card Adjustment POS PIN (Credit) JD 1208 4800 S HULEN FORT WORTH, TX US",
+          "description":"Checking Adjustment PIN Credit S Hulen",
+          "guid":"TRN-1d0300b7-8181-4f4e-83fd-daa149b25bf5",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Clothing",
+          "amount":1.353100000000000e+002,
+          "date":"2023-04-03T12:00:00",
+          "type":"CREDIT"
+       },
+       {
+          "originalDescription":"Afterpay",
+          "description":"Afterpay",
+          "guid":"TRN-a4e18d0e-405e-4ca3-a547-bf3c7bfabb81",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Financial",
+          "amount":5.142000000000000e+001,
+          "date":"2023-04-03T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"THECUT INC  9TDJ1WAA",
+          "description":"Thecut Inc Waa",
+          "guid":"TRN-1c7d29e3-18bc-4048-918a-baa172fef490",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Hair",
+          "amount":2.795000000000000e+001,
+          "date":"2023-04-02T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Cash App",
+          "description":"Cash App",
+          "guid":"TRN-1ff33177-4d05-47be-83eb-f083e2d185bf",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Transfer",
+          "amount":2.000000000000000e+001,
+          "date":"2023-04-02T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Afterpay",
+          "description":"Afterpay",
+          "guid":"TRN-06db6463-1b35-43ea-acc9-1332b247e042",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Financial",
+          "amount":3.112000000000000e+001,
+          "date":"2023-04-02T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Afterpay",
+          "description":"Afterpay",
+          "guid":"TRN-abeb73c2-7cf0-4ea6-9a56-af006e5c9331",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Financial",
+          "amount":3.924000000000000e+001,
+          "date":"2023-04-02T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Smoothie King",
+          "description":"Smoothie King",
+          "guid":"TRN-32dd7d29-6d33-44e7-8131-eda0486bac39",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Fast Food",
+          "amount":6.920000000000000e+000,
+          "date":"2023-04-02T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"ATM Withdrawal",
+          "description":"ATM Withdrawal",
+          "guid":"TRN-716e1634-04c2-4fe7-8f19-d352ccbed03b",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Cash",
+          "amount":1.000000000000000e+002,
+          "date":"2023-04-01T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"ATM Withdrawal",
+          "description":"ATM Withdrawal",
+          "guid":"TRN-7fb816ef-fb53-4c75-9b3b-7fd80f5380b8",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Cash",
+          "amount":1.000000000000000e+002,
+          "date":"2023-04-01T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"360 Checking Card Adjustment Signature (Credit) AFTERPAY SAN FRANCISC CA",
+          "description":"Afterpay",
+          "guid":"TRN-e93fd48c-c81d-4b26-a83d-077fa10e68c8",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Financial",
+          "amount":5.413000000000000e+001,
+          "date":"2023-04-01T12:00:00",
+          "type":"CREDIT"
+       },
+       {
+          "originalDescription":"McDonald's",
+          "description":"McDonald's",
+          "guid":"TRN-4dc9f6fc-016f-4868-9f2b-da21e22b6130",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Fast Food",
+          "amount":3.250000000000000e+000,
+          "date":"2023-04-01T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"ATM Withdrawal",
+          "description":"ATM Withdrawal",
+          "guid":"TRN-1c4d0df7-6116-4394-a68e-3badd0d4a82a",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Cash",
+          "amount":6.000000000000000e+001,
+          "date":"2023-03-31T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"360 Checking Card Adjustment Signature (Credit) NIKEPOS US STORE00463 FORT WORTH TX",
+          "description":"Nike",
+          "guid":"TRN-e6ab7ff5-af37-4f7e-b406-7e948cd85a13",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Clothing",
+          "amount":4.329000000000000e+001,
+          "date":"2023-03-31T12:00:00",
+          "type":"CREDIT"
+       },
+       {
+          "originalDescription":"360 Checking Card Adjustment Signature (Credit) NIKEPOS US STORE00463 FORT WORTH TX",
+          "description":"Nike",
+          "guid":"TRN-cc6a9b87-ecf6-4406-8164-618d2f110cf3",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Clothing",
+          "amount":4.329000000000000e+001,
+          "date":"2023-03-31T12:00:00",
+          "type":"CREDIT"
+       },
+       {
+          "originalDescription":"Shell Oil",
+          "description":"Shell",
+          "guid":"TRN-e080eab6-0576-4be3-8c05-01cabdea169a",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Gas",
+          "amount":7.110000000000000e+000,
+          "date":"2023-03-31T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Monthly Interest Paid",
+          "description":"Monthly Interest Paid",
+          "guid":"TRN-8fa32e66-fa82-4253-88fb-adf00b6a625c",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Interest Income",
+          "amount":4.000000000000000e-002,
+          "date":"2023-03-31T12:00:00",
+          "type":"CREDIT"
+       },
+       {
+          "originalDescription":"AAA",
+          "description":"Aaa",
+          "guid":"TRN-e131f712-eb5f-4f8d-a1d7-a687fe50f0a7",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Uncategorized",
+          "amount":9.740000000000000e+000,
+          "date":"2023-03-30T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"TST  BOSSES PIZZA WING",
+          "description":"Bosses Pizza Wing",
+          "guid":"TRN-4ec7fe48-c09e-4055-984d-f8d68bec5807",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Food & Dining",
+          "amount":1.563000000000000e+001,
+          "date":"2023-03-30T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"QUICK WOK CHINESE REST",
+          "description":"Quick Wok Chinese Rest",
+          "guid":"TRN-5008f568-c6ce-4ff7-a1ef-eec360e854d6",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Restaurants",
+          "amount":2.224000000000000e+001,
+          "date":"2023-03-30T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Quiktrip",
+          "description":"QuikTrip",
+          "guid":"TRN-eba02461-1137-4794-87e3-5726c6fda586",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Gas",
+          "amount":6.250000000000000e+000,
+          "date":"2023-03-30T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Quiktrip",
+          "description":"QuikTrip",
+          "guid":"TRN-27ee479c-ecb2-43aa-a5d2-aab518e4934b",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Gas",
+          "amount":4.100000000000000e+001,
+          "date":"2023-03-30T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"AAA",
+          "description":"Aaa",
+          "guid":"TRN-28deaef6-84bf-40a9-98ef-937898517f11",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Uncategorized",
+          "amount":1.127100000000000e+002,
+          "date":"2023-03-30T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"McDonald's",
+          "description":"McDonald's",
+          "guid":"TRN-0d1e3675-b08d-4296-b04c-7ef2c1e250c4",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Fast Food",
+          "amount":8.430000000000000e+000,
+          "date":"2023-03-29T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Chili's",
+          "description":"Chili's",
+          "guid":"TRN-1c6597ef-c763-4992-bc01-924d6c4c4fe9",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Restaurants",
+          "amount":7.374000000000000e+001,
+          "date":"2023-03-28T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"TST  NOTHING BUNDT CAK",
+          "description":"Nothing Bundt Cakes",
+          "guid":"TRN-a8c0b6d8-f910-47f1-9038-5ce256228b17",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Food & Dining",
+          "amount":2.000000000000000e+001,
+          "date":"2023-03-27T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"LS DALLAS SHIRTS WHOL",
+          "description":"Dallas Shirts Whol",
+          "guid":"TRN-e9347854-ebc5-4d62-a50b-612058fca0c9",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Shopping",
+          "amount":2.094600000000000e+002,
+          "date":"2023-03-27T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Aeropostale",
+          "description":"AAcropostale",
+          "guid":"TRN-25a0c6cd-990d-4014-b03a-b6002de641f3",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Clothing",
+          "amount":4.330000000000000e+001,
+          "date":"2023-03-27T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Afterpay",
+          "description":"Afterpay",
+          "guid":"TRN-1e253e86-c330-4744-a680-5aa5a68e94a8",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Financial",
+          "amount":5.413000000000000e+001,
+          "date":"2023-03-26T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Sams Club",
+          "description":"Sam's Club",
+          "guid":"TRN-c9b4bff6-670a-46a2-a894-ebdfc46602d7",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Shopping",
+          "amount":7.156999999999999e+001,
+          "date":"2023-03-26T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Quiktrip",
+          "description":"QuikTrip",
+          "guid":"TRN-d30386ec-fc20-4aea-bdf7-6088904183b5",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Gas",
+          "amount":8.760000000000000e+000,
+          "date":"2023-03-26T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Deposit from 360 Performance Savings XXXXXXX7617",
+          "description":"Deposit From Performance Savings",
+          "guid":"TRN-0213d27f-93f4-45b7-9aa4-d2b6057d46e5",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Transfer",
+          "amount":5.000000000000000e+002,
+          "date":"2023-03-25T12:00:00",
+          "type":"CREDIT"
+       },
+       {
+          "originalDescription":"TST  MI PUEBLO 1 NEW",
+          "description":"New",
+          "guid":"TRN-4f5a6884-dca7-416b-b5b8-44e488061e13",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Restaurants",
+          "amount":1.627000000000000e+001,
+          "date":"2023-03-25T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"SQ  J C T M INC",
+          "description":"J T M Inc",
+          "guid":"TRN-4908d358-a97e-4e56-848c-ab5ea4df4c22",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Uncategorized",
+          "amount":9.990000000000000e+000,
+          "date":"2023-03-25T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"QUICK WOK CHINESE REST",
+          "description":"Quick Wok Chinese Rest",
+          "guid":"TRN-4a71b26a-d113-4b53-95d0-29219e5e3f59",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Restaurants",
+          "amount":1.791000000000000e+001,
+          "date":"2023-03-25T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Quiktrip",
+          "description":"QuikTrip",
+          "guid":"TRN-5f309c73-917c-411b-8d43-f95552cf513f",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Gas",
+          "amount":3.990000000000000e+000,
+          "date":"2023-03-25T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Quiktrip",
+          "description":"QuikTrip",
+          "guid":"TRN-8b9b6629-681f-4f6a-b8fc-4a0cd93fdf73",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Gas",
+          "amount":6.250000000000000e+000,
+          "date":"2023-03-25T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Walmart",
+          "description":"Walmart",
+          "guid":"TRN-ccad661b-f56d-4c80-b435-f49cc72256d5",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Shopping",
+          "amount":1.590800000000000e+002,
+          "date":"2023-03-24T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Whataburger",
+          "description":"Whataburger",
+          "guid":"TRN-ce79d292-e058-4f0a-8c15-ad7e9780771f",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Fast Food",
+          "amount":5.730000000000000e+000,
+          "date":"2023-03-24T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"FORT WORTH WATER",
+          "description":"Fort Worth Water",
+          "guid":"TRN-e0b2c004-60b2-41b3-b2ca-1a38046d3e80",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Utilities",
+          "amount":4.802000000000000e+001,
+          "date":"2023-03-24T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Quiktrip",
+          "description":"QuikTrip",
+          "guid":"TRN-47d428fa-5f8c-46df-9f30-e8f3a22cbb5b",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Gas",
+          "amount":3.990000000000000e+000,
+          "date":"2023-03-24T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Afterpay",
+          "description":"Afterpay",
+          "guid":"TRN-72e168c4-b82c-4722-9083-81efc607b171",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Financial",
+          "amount":3.383000000000000e+001,
+          "date":"2023-03-23T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"McDonald's",
+          "description":"McDonald's",
+          "guid":"TRN-21d567be-2e98-4ae8-8403-0f4054ea3239",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Fast Food",
+          "amount":3.250000000000000e+000,
+          "date":"2023-03-23T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Klarna",
+          "description":"Klarna",
+          "guid":"TRN-4565620f-5fd0-494a-93e1-989496aba037",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Financial",
+          "amount":4.442000000000000e+001,
+          "date":"2023-03-23T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"COWBOY CLEANERS   LAUN",
+          "description":"Cowboy Cleaners Laun",
+          "guid":"TRN-509b762e-67ce-4581-938a-68bfc240158f",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Laundry",
+          "amount":2.395000000000000e+001,
+          "date":"2023-03-23T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Quiktrip",
+          "description":"QuikTrip",
+          "guid":"TRN-e107d070-95d2-4a24-8fda-393986760aa0",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Gas",
+          "amount":2.001000000000000e+001,
+          "date":"2023-03-23T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Quiktrip",
+          "description":"QuikTrip",
+          "guid":"TRN-7c337f45-1f6b-479e-8f33-09edaaa76b62",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Gas",
+          "amount":2.000000000000000e+001,
+          "date":"2023-03-23T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Afterpay",
+          "description":"Afterpay",
+          "guid":"TRN-a28d95e6-ed87-487f-afb5-4db829ddb649",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Financial",
+          "amount":6.602000000000000e+001,
+          "date":"2023-03-23T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Original Pancake House",
+          "description":"The Original Pancake House",
+          "guid":"TRN-f212ce35-d118-4106-b330-16e7cf208f3e",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Restaurants",
+          "amount":1.708000000000000e+001,
+          "date":"2023-03-22T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"McDonald's",
+          "description":"McDonald's",
+          "guid":"TRN-843b5f8d-9860-48a4-ab04-b58bd6788344",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Fast Food",
+          "amount":8.430000000000000e+000,
+          "date":"2023-03-22T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Withdrawal to 360 Checking XXXXXXX6724",
+          "description":"Transfer",
+          "guid":"TRN-b488a9ae-d737-4e23-9e10-19b1d987f45d",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Transfer",
+          "amount":1.050000000000000e+003,
+          "date":"2023-03-22T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"NTE MOBILITY PAR",
+          "description":"Nte Mobility Par",
+          "guid":"TRN-de07423b-38a4-4fb6-9b12-fcf2d42fe21c",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Mobile Phone",
+          "amount":1.584030000000000e+003,
+          "date":"2023-03-22T12:00:00",
+          "type":"CREDIT"
+       },
+       {
+          "originalDescription":"Cracker Barrel Old Country Store",
+          "description":"Cracker Barrel",
+          "guid":"TRN-bbbac71a-b838-4450-9190-eeca9a2348dd",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Restaurants",
+          "amount":1.298000000000000e+001,
+          "date":"2023-03-21T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Deposit from 360 Performance Savings XXXXXXX7617",
+          "description":"Deposit From Performance Savings",
+          "guid":"TRN-8c951708-1660-4ff2-b646-0ab24456936f",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Transfer",
+          "amount":2.000000000000000e+002,
+          "date":"2023-03-21T12:00:00",
+          "type":"CREDIT"
+       },
+       {
+          "originalDescription":"Afterpay",
+          "description":"Afterpay",
+          "guid":"TRN-eca3361d-34a8-45a1-959e-e8695bd244e3",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Financial",
+          "amount":3.897000000000000e+001,
+          "date":"2023-03-21T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Popeyes Louisiana Kitchen",
+          "description":"Popeyes",
+          "guid":"TRN-0d55cd91-f924-4236-86ca-e6caf99e86c6",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Fast Food",
+          "amount":1.243000000000000e+001,
+          "date":"2023-03-21T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Walmart",
+          "description":"Walmart",
+          "guid":"TRN-d1eb8126-ff64-4459-940c-dc29c7b16e27",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Shopping",
+          "amount":8.880000000000001e+000,
+          "date":"2023-03-20T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Quiktrip",
+          "description":"QuikTrip",
+          "guid":"TRN-bae11971-8a35-413d-bbba-54dfec88dc7c",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Fast Food",
+          "amount":1.702000000000000e+001,
+          "date":"2023-03-20T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"SQ  MESQUITE RODEO   S",
+          "description":"Mesquite Rodeo",
+          "guid":"TRN-8dae65c2-06c9-42d3-abfe-47b9672c31cc",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Restaurants",
+          "amount":1.419000000000000e+001,
+          "date":"2023-03-20T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Cash Added - CVS Pharmacy",
+          "description":"CVS",
+          "guid":"TRN-a6301a61-8e58-4222-ac32-6126fe656aee",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Pharmacy",
+          "amount":1.500000000000000e+002,
+          "date":"2023-03-19T12:00:00",
+          "type":"CREDIT"
+       },
+       {
+          "originalDescription":"WM SUPERC WAL-MART SUP",
+          "description":"Walmart",
+          "guid":"TRN-23d8d6b5-9325-4e15-a303-90c0fb1716ec",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Shopping",
+          "amount":5.882000000000000e+001,
+          "date":"2023-03-19T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"SQ  J C T M INC",
+          "description":"J T M Inc",
+          "guid":"TRN-1b1df575-8f2e-4996-906c-2d17f3f2e30d",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Uncategorized",
+          "amount":1.270000000000000e+001,
+          "date":"2023-03-19T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Quiktrip",
+          "description":"QuikTrip",
+          "guid":"TRN-5c1d7028-ba46-4915-a912-e218a7ca679a",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Gas",
+          "amount":2.690000000000000e+000,
+          "date":"2023-03-19T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Quiktrip",
+          "description":"QuikTrip",
+          "guid":"TRN-487ab7d7-9085-426c-8896-9240ff65bf06",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Fast Food",
+          "amount":1.198000000000000e+001,
+          "date":"2023-03-19T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Wendy's",
+          "description":"Wendy's",
+          "guid":"TRN-d5068a0c-822a-4c57-afc8-0d9497879069",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Fast Food",
+          "amount":1.083000000000000e+001,
+          "date":"2023-03-19T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Amazon",
+          "description":"Amazon",
+          "guid":"TRN-66723191-775b-4e52-8c76-f147259b8afe",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Shopping",
+          "amount":1.623000000000000e+001,
+          "date":"2023-03-18T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Walgreens",
+          "description":"Walgreens",
+          "guid":"TRN-5cda17ae-915d-4b9c-9c33-af092e125156",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Pharmacy",
+          "amount":4.079000000000000e+001,
+          "date":"2023-03-18T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Deposit from 360 Checking XXXXXXX6724",
+          "description":"Deposit From Checking",
+          "guid":"TRN-974f57d7-58de-4e65-9e88-8361cefa2908",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Transfer",
+          "amount":2.000000000000000e+002,
+          "date":"2023-03-18T12:00:00",
+          "type":"CREDIT"
+       },
+       {
+          "originalDescription":"Sirius Satellite Radio",
+          "description":"Sirius Satellite Radio",
+          "guid":"TRN-c004dc6a-c413-47f6-bd61-f167d69b3faa",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Music",
+          "amount":7.750000000000000e+000,
+          "date":"2023-03-18T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Ring",
+          "description":"Ring",
+          "guid":"TRN-c284f1b1-e8ca-4e12-98d4-f407a764fa30",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Home Services",
+          "amount":4.320000000000000e+000,
+          "date":"2023-03-18T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"SQ  TAQUERIA SAN ANDRE",
+          "description":"Taqueria San Andre",
+          "guid":"TRN-6916073c-e51d-44e7-a7ea-bfde4ba2739c",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Restaurants",
+          "amount":1.277000000000000e+001,
+          "date":"2023-03-18T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"WAL-MART SUPER CENTER",
+          "description":"Walmart",
+          "guid":"TRN-603f4fe4-2d2e-4500-9b63-1439b8f83151",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Shopping",
+          "amount":1.599600000000000e+002,
+          "date":"2023-03-17T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Deposit from 360 Performance Savings XXXXXXX7617",
+          "description":"Deposit From Performance Savings",
+          "guid":"TRN-302e5cd5-d39a-4159-a35f-109ac3b74e56",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Transfer",
+          "amount":1.000000000000000e+002,
+          "date":"2023-03-17T12:00:00",
+          "type":"CREDIT"
+       },
+       {
+          "originalDescription":"Amazon",
+          "description":"Amazon",
+          "guid":"TRN-c77772ff-15aa-4dd1-b833-3394591ecb95",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Shopping",
+          "amount":1.524000000000000e+001,
+          "date":"2023-03-17T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"McDonald's",
+          "description":"McDonald's",
+          "guid":"TRN-bdaa052d-8093-488f-aa79-6076d5de94f3",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Fast Food",
+          "amount":9.500000000000000e+000,
+          "date":"2023-03-17T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"McDonald's",
+          "description":"McDonald's",
+          "guid":"TRN-0ae3c67b-122d-42d3-88a2-6566c4cb7b5d",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Fast Food",
+          "amount":4.640000000000000e+000,
+          "date":"2023-03-17T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"COWBOY CLEANERS   LAUN",
+          "description":"Cowboy Cleaners Laun",
+          "guid":"TRN-538904f7-5622-4a25-8514-4e6e3a813899",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Laundry",
+          "amount":4.099000000000000e+001,
+          "date":"2023-03-17T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Quiktrip",
+          "description":"QuikTrip",
+          "guid":"TRN-0eac7701-1699-4ae5-9b12-14514e5f4da0",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Gas",
+          "amount":3.990000000000000e+000,
+          "date":"2023-03-17T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"JONATHAN TORRES",
+          "description":"Jonathan Torres",
+          "guid":"TRN-24e013c6-f106-453a-8c75-87a13f38bdc8",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Uncategorized",
+          "amount":2.000000000000000e+001,
+          "date":"2023-03-17T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Afterpay",
+          "description":"Afterpay",
+          "guid":"TRN-13a31201-d6c1-4a69-b500-3aebd3f05987",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Financial",
+          "amount":1.299000000000000e+001,
+          "date":"2023-03-17T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"TST  BOSSES PIZZA WING",
+          "description":"Bosses Pizza Wing",
+          "guid":"TRN-4e89099a-dc14-4bb4-8e77-48ef7b9bda5b",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Food & Dining",
+          "amount":1.563000000000000e+001,
+          "date":"2023-03-16T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Quiktrip",
+          "description":"QuikTrip",
+          "guid":"TRN-470e1269-f1ef-4874-bc15-193207204a78",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Gas",
+          "amount":1.046000000000000e+001,
+          "date":"2023-03-16T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Quiktrip",
+          "description":"QuikTrip",
+          "guid":"TRN-4ec81e98-b2a0-4ef5-9922-b769b60b555b",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Gas",
+          "amount":3.300000000000000e+001,
+          "date":"2023-03-16T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Amazon",
+          "description":"Amazon",
+          "guid":"TRN-2f8ef354-8da0-4ea3-9928-031bf1bd9d04",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Shopping",
+          "amount":1.363000000000000e+001,
+          "date":"2023-03-15T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"McDonald's",
+          "description":"McDonald's",
+          "guid":"TRN-d21ea9e1-de76-4065-a67a-20590e513ad2",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Fast Food",
+          "amount":3.250000000000000e+000,
+          "date":"2023-03-15T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"McDonald's",
+          "description":"McDonald's",
+          "guid":"TRN-c4240684-71d5-42c1-b156-647a16cc08c7",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Fast Food",
+          "amount":8.430000000000000e+000,
+          "date":"2023-03-15T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"ABUELOS HULEN",
+          "description":"Abuelo's",
+          "guid":"TRN-3e820056-5e50-47be-91c8-2fc03a323208",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Restaurants",
+          "amount":5.707000000000000e+001,
+          "date":"2023-03-15T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Afterpay",
+          "description":"Afterpay",
+          "guid":"TRN-c0a7d9da-d75d-4b77-b4f1-84205a186bf1",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Financial",
+          "amount":3.383000000000000e+001,
+          "date":"2023-03-14T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"SQ  J C T M INC",
+          "description":"J T M Inc",
+          "guid":"TRN-aaf4aeee-715c-4287-91b8-1e3aaf138589",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Uncategorized",
+          "amount":1.811000000000000e+001,
+          "date":"2023-03-14T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Deposit from 360 Performance Savings XXXXXXX7617",
+          "description":"Deposit From Performance Savings",
+          "guid":"TRN-d5e95b9b-839e-4cf5-bf7f-023d98dfa55f",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Transfer",
+          "amount":2.000000000000000e+002,
+          "date":"2023-03-14T12:00:00",
+          "type":"CREDIT"
+       },
+       {
+          "originalDescription":"Amazon",
+          "description":"Amazon",
+          "guid":"TRN-f11b68a0-865e-4a7a-9aaf-f78397387fb2",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Shopping",
+          "amount":2.299000000000000e+001,
+          "date":"2023-03-13T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Klarna",
+          "description":"Klarna",
+          "guid":"TRN-32aa004c-3599-4e27-8224-0795f58ce027",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Financial",
+          "amount":4.441000000000000e+001,
+          "date":"2023-03-13T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Crawlin�?T Crab",
+          "description":"Crab",
+          "guid":"TRN-28663cbd-b79a-41b7-ad76-311211a11ac8",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Restaurants",
+          "amount":2.412600000000000e+002,
+          "date":"2023-03-13T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Amazon",
+          "description":"Amazon",
+          "guid":"TRN-222dbdd2-ca31-4c21-a826-ba235d4b19a2",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Shopping",
+          "amount":2.055000000000000e+001,
+          "date":"2023-03-13T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Apple",
+          "description":"Apple",
+          "guid":"TRN-da42eac3-1bb7-4b2c-a30a-b1d5146a673e",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Electronics & Software",
+          "amount":9.900000000000000e-001,
+          "date":"2023-03-12T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"CASH PLUS PAWN  558",
+          "description":"Cash Plus Pawn",
+          "guid":"TRN-7af08b21-4cd5-4aec-81f6-b5ce911b451e",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Shopping",
+          "amount":9.500000000000000e+001,
+          "date":"2023-03-12T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Amazon",
+          "description":"Amazon",
+          "guid":"TRN-fe4f1ceb-b165-487e-b08b-ed89d2409b7b",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Shopping",
+          "amount":2.669000000000000e+001,
+          "date":"2023-03-12T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Cash App",
+          "description":"Cash App",
+          "guid":"TRN-d16c43ab-ca3e-4436-83e3-ba52f9f88c77",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Transfer",
+          "amount":2.500000000000000e+002,
+          "date":"2023-03-12T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Cash App",
+          "description":"Cash App",
+          "guid":"TRN-c9e56f9c-be9e-4ff8-8ec8-0e7134ec30f5",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Transfer",
+          "amount":2.000000000000000e+001,
+          "date":"2023-03-12T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Klarna",
+          "description":"Klarna",
+          "guid":"TRN-5cfe0b63-ed2c-4e0a-9229-59f5b155f468",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Financial",
+          "amount":4.059000000000000e+001,
+          "date":"2023-03-11T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Whataburger",
+          "description":"Whataburger",
+          "guid":"TRN-4d758fad-ad1d-4d68-aa41-4a32f72fb40b",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Fast Food",
+          "amount":7.560000000000000e+000,
+          "date":"2023-03-11T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Quiktrip",
+          "description":"QuikTrip",
+          "guid":"TRN-81175caf-6919-4464-a2b4-3881ad9f872c",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Gas",
+          "amount":6.680000000000000e+000,
+          "date":"2023-03-11T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Deposit from 360 Performance Savings XXXXXXX7617",
+          "description":"Deposit From Performance Savings",
+          "guid":"TRN-9a1a5d8a-1821-4eea-8292-9fb33dd76df9",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Transfer",
+          "amount":5.000000000000000e+002,
+          "date":"2023-03-11T12:00:00",
+          "type":"CREDIT"
+       },
+       {
+          "originalDescription":"Afterpay",
+          "description":"Afterpay",
+          "guid":"TRN-30003870-1581-4824-b915-d843a7d6bd7d",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Financial",
+          "amount":6.602000000000000e+001,
+          "date":"2023-03-11T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Klarna",
+          "description":"Klarna",
+          "guid":"TRN-156fb22f-3cf6-4836-b5f6-d21218b8e66c",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Financial",
+          "amount":4.059000000000000e+001,
+          "date":"2023-03-10T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"SQ  TAQUERIA SAN ANDRE",
+          "description":"Taqueria San Andre",
+          "guid":"TRN-90978a67-4650-4daa-b284-c4bab07e7b97",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Restaurants",
+          "amount":1.277000000000000e+001,
+          "date":"2023-03-10T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Verizon",
+          "description":"Verizon",
+          "guid":"TRN-4f3cc013-9a02-4aad-a730-84aca4be1c4b",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Utilities",
+          "amount":1.801400000000000e+002,
+          "date":"2023-03-10T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"SPDPY AMERICAN CREDIT",
+          "description":"Spdpy American Credit",
+          "guid":"TRN-7ee1143e-61ef-4c62-83c9-d1069e02a474",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Financial",
+          "amount":3.358800000000000e+002,
+          "date":"2023-03-10T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Quiktrip",
+          "description":"QuikTrip",
+          "guid":"TRN-72d0dd6d-952c-4d9f-b9ee-6eaaa8407881",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Gas",
+          "amount":4.090000000000000e+000,
+          "date":"2023-03-10T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Quiktrip",
+          "description":"QuikTrip",
+          "guid":"TRN-12dd2598-1dc8-4fac-95f7-b059acd6bb8d",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Gas",
+          "amount":2.916000000000000e+001,
+          "date":"2023-03-10T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"CHARLES MITCHELL",
+          "description":"Charles Mitchell",
+          "guid":"TRN-b04abd58-c794-43f8-bb5c-2dfa3ae4c2e6",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Hair",
+          "amount":3.000000000000000e+001,
+          "date":"2023-03-10T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Afterpay",
+          "description":"Afterpay",
+          "guid":"TRN-4acd94ef-0258-4f3f-8546-ef43de9f3f5a",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Financial",
+          "amount":5.411000000000000e+001,
+          "date":"2023-03-09T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Afterpay",
+          "description":"Afterpay",
+          "guid":"TRN-985cd248-2170-4d9b-b20c-aabc7542234c",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Financial",
+          "amount":4.872000000000000e+001,
+          "date":"2023-03-09T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Afterpay",
+          "description":"Afterpay",
+          "guid":"TRN-d3199a08-a625-4034-a83c-dd97800467b7",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Financial",
+          "amount":4.871000000000000e+001,
+          "date":"2023-03-09T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Klarna",
+          "description":"Klarna",
+          "guid":"TRN-016c28bd-440c-4599-b2c4-58308a99db32",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Financial",
+          "amount":8.120000000000000e+001,
+          "date":"2023-03-09T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Quiktrip",
+          "description":"QuikTrip",
+          "guid":"TRN-d0e86dc2-3d31-4604-87e8-335282cff85f",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Gas",
+          "amount":8.619999999999999e+000,
+          "date":"2023-03-09T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"ATM Withdrawal",
+          "description":"ATM Withdrawal",
+          "guid":"TRN-8eab453f-3798-4962-935c-e81de7849fdb",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Cash",
+          "amount":1.000000000000000e+002,
+          "date":"2023-03-09T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"ATM Withdrawal",
+          "description":"ATM Withdrawal",
+          "guid":"TRN-e37f4ca8-820f-447f-82a3-f747b65c3d88",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Cash",
+          "amount":4.000000000000000e+002,
+          "date":"2023-03-09T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Amazon",
+          "description":"Amazon",
+          "guid":"TRN-be7b4704-5a98-477c-b9d2-40d3c016872e",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Shopping",
+          "amount":8.650000000000000e+000,
+          "date":"2023-03-08T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"NATASHA SHIELD",
+          "description":"Natasha Shield",
+          "guid":"TRN-bdaa08b0-9deb-45f7-ac09-fe425b4c0300",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Uncategorized",
+          "amount":3.400000000000000e+002,
+          "date":"2023-03-08T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Original Pancake House",
+          "description":"The Original Pancake House",
+          "guid":"TRN-20d4621d-b7f5-4c1a-a0db-d9a8a49e19d8",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Restaurants",
+          "amount":2.008000000000000e+001,
+          "date":"2023-03-08T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Deposit from 360 Performance Savings XXXXXXX7617",
+          "description":"Deposit From Performance Savings",
+          "guid":"TRN-262dfb0f-fd6d-4634-a06d-a4ba742eef37",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Transfer",
+          "amount":3.400000000000000e+002,
+          "date":"2023-03-08T12:00:00",
+          "type":"CREDIT"
+       },
+       {
+          "originalDescription":"ATM Withdrawal",
+          "description":"ATM Withdrawal",
+          "guid":"TRN-28da410f-e497-480d-8c95-e53ef418b39d",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Cash",
+          "amount":8.000000000000000e+001,
+          "date":"2023-03-08T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"NTE MOBILITY PAR",
+          "description":"Nte Mobility Par",
+          "guid":"TRN-88453749-90c2-4459-9322-22a022cabf0c",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Mobile Phone",
+          "amount":5.832000000000001e+002,
+          "date":"2023-03-08T12:00:00",
+          "type":"CREDIT"
+       },
+       {
+          "originalDescription":"Afterpay",
+          "description":"Afterpay",
+          "guid":"TRN-193077cc-f750-44d7-9e71-d6c93fca5991",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Financial",
+          "amount":2.977000000000000e+001,
+          "date":"2023-01-26T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Whataburger",
+          "description":"Whataburger",
+          "guid":"TRN-f0c5fe27-827c-4d9b-bb68-ff8dc8347c46",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Fast Food",
+          "amount":5.730000000000000e+000,
+          "date":"2023-01-26T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"McDonald's",
+          "description":"McDonald's",
+          "guid":"TRN-cc38cdeb-58bd-4936-b43c-14dcfd6dda78",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Fast Food",
+          "amount":8.430000000000000e+000,
+          "date":"2023-01-26T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Quiktrip",
+          "description":"QuikTrip",
+          "guid":"TRN-fa61cf7e-8ba1-4d1b-b362-cc9b349d551a",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Gas",
+          "amount":8.400000000000000e+000,
+          "date":"2023-01-26T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"MY EYELAB",
+          "description":"My Eyelab",
+          "guid":"TRN-a24c0ccf-01ce-4044-8da5-77d8c7b1d189",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Eyecare",
+          "amount":2.906000000000000e+002,
+          "date":"2023-01-26T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Withdrawal to 360 Performance Savings XXXXXXX7617",
+          "description":"To Performance Savings",
+          "guid":"TRN-e21532e5-648c-4662-9ea8-dbce1eea6a0c",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Transfer",
+          "amount":1.150000000000000e+003,
+          "date":"2023-01-25T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"UHC",
+          "description":"Uhc",
+          "guid":"TRN-8b5d54c5-44e9-48d2-b181-6329c52a3602",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Health Insurance",
+          "amount":3.750000000000000e+002,
+          "date":"2023-01-25T12:00:00",
+          "type":"CREDIT"
+       },
+       {
+          "originalDescription":"NTE MOBILITY PAR",
+          "description":"Nte Mobility Par",
+          "guid":"TRN-229ebc87-510e-4ebe-9588-4b167074e85f",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Mobile Phone",
+          "amount":1.209300000000000e+003,
+          "date":"2023-01-25T12:00:00",
+          "type":"CREDIT"
+       },
+       {
+          "originalDescription":"Withdrawal to 360 Performance Savings XXXXXXX7617",
+          "description":"To Performance Savings",
+          "guid":"TRN-cb0f63e2-8f3f-4590-98ff-6283ae02bd1d",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Transfer",
+          "amount":5.000000000000000e+002,
+          "date":"2023-01-25T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"McDonald's",
+          "description":"McDonald's",
+          "guid":"TRN-5081b32d-0824-4d61-8d02-b37b3ebbea03",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Fast Food",
+          "amount":8.430000000000000e+000,
+          "date":"2023-01-25T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Quiktrip",
+          "description":"QuikTrip",
+          "guid":"TRN-aeef79ef-a486-4aed-bc59-c4e023da8863",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Gas",
+          "amount":3.900000000000000e+001,
+          "date":"2023-01-24T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Red Claws Hot Chicken",
+          "description":"Red Claws Hot Chicken",
+          "guid":"TRN-fb3735b1-6dbb-4a87-8eac-c3a8e55032da",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Food & Dining",
+          "amount":1.964600000000000e+002,
+          "date":"2023-01-23T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"H-E-B Grocery",
+          "description":"H-E-B",
+          "guid":"TRN-f85ba892-8463-46dc-bcef-944cfe6b96db",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Groceries",
+          "amount":2.992000000000000e+001,
+          "date":"2023-01-22T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Afterpay",
+          "description":"Afterpay",
+          "guid":"TRN-9ae625ae-c4ea-47fc-a1d2-00c80d0e819f",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Financial",
+          "amount":2.300000000000000e+001,
+          "date":"2023-01-22T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Afterpay",
+          "description":"Afterpay",
+          "guid":"TRN-da657dde-3189-4d30-9565-37698fedbaa3",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Financial",
+          "amount":2.300000000000000e+001,
+          "date":"2023-01-22T12:00:00",
+          "type":"DEBIT"
+       },
+       {
+          "originalDescription":"Klarna",
+          "description":"Klarna",
+          "guid":"TRN-17c6ee9d-39c3-46d2-adbf-237fe69a5de0",
+          "accountGuid":"ACT-a18b9581-40cd-4e53-aedb-9f037e2a0c53",
+          "category":"Financial",
+          "amount":2.977000000000000e+001,
+          "date":"2023-01-22T12:00:00",
+          "type":"DEBIT"
+       }
+    ]
+ }

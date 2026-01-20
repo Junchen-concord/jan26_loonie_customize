@@ -1,0 +1,112 @@
+# Starter pipeline
+# Start with a minimal pipeline that you can customize to build and deploy your code.
+# Add steps that build, run tests, deploy, and more:
+# https://aka.ms/yaml
+
+trigger:
+  - master
+
+pool:
+  vmImage: "windows-latest"
+
+steps:
+
+  - task: PowerShell@2
+    inputs:
+      targetType: 'inline'
+      script: |
+        $version = Get-Content .\src\version\version.txt
+        $version = $version.Trim()
+        Write-Output "Version read from file: $version"
+        Write-Host "##vso[task.setvariable variable=version]$version"
+        Write-Host "##vso[build.updatebuildnumber]$version"
+    displayName: "Read Version and Set Build Number"
+
+  - task: UsePythonVersion@0
+    inputs:
+      versionSpec: "3.11"
+    displayName: "Use Python 3.11"
+
+  - script: |
+      python -m pip install --upgrade pip
+      pip install poetry
+    displayName: "Install Poetry"
+
+  - script: |
+      poetry install
+    displayName: "Install Dependencies with Poetry"
+
+  - script: |
+      poetry run ruff check .
+    displayName: "Lint"
+
+  - script: |
+      poetry run pytest --disable-warnings -vv --cov=./src --cov-config=pyproject.toml --cov-report=xml
+    displayName: "Run Tests"
+    env:
+      REDIS_USE_SSL: $(SIM_REDIS_USE_SSL)
+      REDIS_KB_ENABLED: $(REDIS_KB_ENABLED)
+      REDIS_HOST: $(SIM_REDIS_HOST)
+      REDIS_PORT: $(SIM_REDIS_PORT)
+      REDIS_PASSWORD: $(SIM_REDIS_PASSWORD)
+
+  - task: PublishCodeCoverageResults@2
+    inputs:
+      codeCoverageTool: 'Cobertura'
+      summaryFileLocation: '$(System.DefaultWorkingDirectory)/coverage.xml'
+      reportDirectory: '$(System.DefaultWorkingDirectory)'
+      failIfCoverageEmpty: true
+
+  - task: CopyFiles@2
+    inputs:
+      SourceFolder: "$(Build.SourcesDirectory)/src"
+      Contents: |
+        api/**
+        config/**
+        dataset/**
+        labeling/**
+        model/**
+        postprocess/**
+        test_scripts/**
+        training_scripts/**
+        utils/**
+        version/**
+      TargetFolder: "$(Build.ArtifactStagingDirectory)"
+    displayName: "Copy Source Code"
+
+  - task: PublishBuildArtifacts@1
+    inputs:
+      pathToPublish: "$(Build.ArtifactStagingDirectory)"
+      artifactName: IAModelV16
+    displayName: "Build"
+
+  # # Generate Release Notes
+  # - task: GenerateReleaseNotes@3
+  #   inputs:
+  #     templateLocation: 'inline'
+  #     templatefile: |
+  #       # Release Notes for Build $(Build.BuildNumber)
+
+  #       ## Commits
+  #       {{#for each commits}}
+  #       - **Author**: {{author.displayName}}
+  #         **Commit Message**: {{comment}}
+  #         **Commit Link**: [View Commit]({{remoteUrl}})
+  #       {{/for}}
+  #     outputfile: '$(Build.ArtifactStagingDirectory)/releasenotes.md'
+  #   displayName: "Generate Release Notes"
+
+  # # Optional: Publish Release Notes as a Build Artifact
+  # - task: PublishBuildArtifacts@1
+  #   inputs:
+  #     pathToPublish: "$(Build.ArtifactStagingDirectory)/releasenotes.md"
+  #     artifactName: ReleaseNotes
+  #   displayName: "Publish Release Notes"
+
+  # - script: |
+  #     curl -X POST -H 'Content-type: application/json' \
+  #     --data @<(echo '{
+  #       "text": "Release Notes for Build $(Build.BuildNumber):\n\n'"$(cat $(Build.ArtifactStagingDirectory)/releasenotes.md | jq -sR .)"'"
+  #     }') \
+  #     <YOUR_SLACK_WEBHOOK_URL>
+  #   displayName: "Send Release Notes to Slack"

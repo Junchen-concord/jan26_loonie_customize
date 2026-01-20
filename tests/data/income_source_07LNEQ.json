@@ -1,0 +1,463 @@
+{
+  "asOfDate": "2023-01-04T17:46:12Z",
+  "accounts": [
+    {
+      "accountGuid": "ACT-1ab5550b-9dbc-42f9-885a-709fa0263b3d",
+      "accountType": "CHECKING",
+      "currentBalance": "0",
+      "currentBalanceDate": "2023-01-03T17:46:12Z"
+    }
+  ],
+  "transactions": [
+    {
+      "originalDescription": "Cash App Brilly Brillz Visa Transfercaus",
+      "description": "Transfer To Cash App",
+      "guid": "TRN-7cafba2c-feb6-4436-8e8f-ee189ce45373",
+      "accountGuid": "ACT-1ab5550b-9dbc-42f9-885a-709fa0263b3d",
+      "category": "Transfer",
+      "amount": 2.0,
+      "date": "2023-01-03T17:46:12",
+      "type": "DEBIT"
+    },
+    {
+      "originalDescription": "Moneygram Online Walma Dallas Txus",
+      "description": "MoneyGram",
+      "guid": "TRN-82c265fa-5c08-4f89-b0dd-cfcd03acdc77",
+      "accountGuid": "ACT-1ab5550b-9dbc-42f9-885a-709fa0263b3d",
+      "category": "Transfer",
+      "amount": 2.199e1,
+      "date": "2023-01-03T17:46:12",
+      "type": "DEBIT"
+    },
+    {
+      "originalDescription": "T Mobile 2000 E Central T T Mobile 2000 E Centralkilleen Txus",
+      "description": "T-Mobile",
+      "guid": "TRN-c496b587-e9fc-4f08-9427-01d62a333fae",
+      "accountGuid": "ACT-1ab5550b-9dbc-42f9-885a-709fa0263b3d",
+      "category": "Mobile Phone",
+      "amount": 9.0e1,
+      "date": "2023-01-03T17:46:12",
+      "type": "DEBIT"
+    },
+    {
+      "originalDescription": "Cash App Antwoniece Johvisa Transfercaus",
+      "description": "Transfer To Cash App",
+      "guid": "TRN-567dd8b2-c913-4401-a710-4d7206bc19b0",
+      "accountGuid": "ACT-1ab5550b-9dbc-42f9-885a-709fa0263b3d",
+      "category": "Transfer",
+      "amount": 4.0,
+      "date": "2023-01-03T17:46:12",
+      "type": "DEBIT"
+    },
+    {
+      "originalDescription": "Target Com Brooklyn Parkmnus",
+      "description": "Target",
+      "guid": "TRN-286b5d55-ab61-4bdc-8bf5-13b680735506",
+      "accountGuid": "ACT-1ab5550b-9dbc-42f9-885a-709fa0263b3d",
+      "category": "Shopping",
+      "amount": 5.411e1,
+      "date": "2023-01-03T17:46:12",
+      "type": "DEBIT"
+    },
+    {
+      "originalDescription": "Freebirds World Burrit Killeen Txus",
+      "description": "Freebirds World Burrito",
+      "guid": "TRN-2904d36d-ae24-44fe-aa6f-1c3a3c322183",
+      "accountGuid": "ACT-1ab5550b-9dbc-42f9-885a-709fa0263b3d",
+      "category": "Restaurants",
+      "amount": 1.232e1,
+      "date": "2023-01-03T17:46:12",
+      "type": "DEBIT"
+    },
+    {
+      "originalDescription": "Rosas Cafe Tortilla Fkilleen Txus",
+      "description": "Rosa's Cafe",
+      "guid": "TRN-a2ff07f5-231a-4bf1-a8c1-bbc357eabeba",
+      "accountGuid": "ACT-1ab5550b-9dbc-42f9-885a-709fa0263b3d",
+      "category": "Restaurants",
+      "amount": 3.603e1,
+      "date": "2023-01-03T17:46:12",
+      "type": "DEBIT"
+    },
+    {
+      "originalDescription": "Walmart Grocery Bentonville Arus",
+      "description": "Walmart",
+      "guid": "TRN-d4d3fd08-f2f9-4aa1-99cc-470e891f6096",
+      "accountGuid": "ACT-1ab5550b-9dbc-42f9-885a-709fa0263b3d",
+      "category": "Groceries",
+      "amount": 4.202e1,
+      "date": "2023-01-03T17:46:12",
+      "type": "DEBIT"
+    },
+    {
+      "originalDescription": "Dd Doordash Therollup San Franciscocaus",
+      "description": "DoorDash",
+      "guid": "TRN-c2bfd07d-6b37-4cf7-b572-7e0fd865a03b",
+      "accountGuid": "ACT-1ab5550b-9dbc-42f9-885a-709fa0263b3d",
+      "category": "Food & Dining",
+      "amount": 2.107e1,
+      "date": "2023-01-03T17:46:12",
+      "type": "DEBIT"
+    },
+    {
+      "originalDescription": "Cash App Jibril Abdul Wvisa Transfercaus",
+      "description": "Transfer To Cash App",
+      "guid": "TRN-ade12d7e-d4db-494a-9323-1705ae91e102",
+      "accountGuid": "ACT-1ab5550b-9dbc-42f9-885a-709fa0263b3d",
+      "category": "Transfer",
+      "amount": 9.720000000000001,
+      "date": "2023-01-03T17:46:12",
+      "type": "DEBIT"
+    },
+    {
+      "originalDescription": "Tpusa Fhcs Inc Direct Deposit",
+      "description": "Tpusa Inc Direct Deposit",
+      "guid": "TRN-3a37dec4-3aac-4502-95ff-a24499ac2c0f",
+      "accountGuid": "ACT-1ab5550b-9dbc-42f9-885a-709fa0263b3d",
+      "category": "Paycheck",
+      "amount": 3.8869e2,
+      "date": "2023-01-03T17:46:12",
+      "type": "CREDIT"
+    },
+    {
+      "originalDescription": "Gamestop 2511 Trimmie Gamestop 2511 Trimmie Killeen Txus",
+      "description": "GameStop",
+      "guid": "TRN-12fbce23-0d76-406f-a1b6-cc665ed7cb50",
+      "accountGuid": "ACT-1ab5550b-9dbc-42f9-885a-709fa0263b3d",
+      "category": "Entertainment",
+      "amount": 1.1904e2,
+      "date": "2023-01-03T17:46:12",
+      "type": "DEBIT"
+    },
+    {
+      "originalDescription": "H E B 581 H E B 581 Killeen Txus",
+      "description": "H-E-B",
+      "guid": "TRN-7c7e3f57-d63e-40e8-99fd-25603acc3a01",
+      "accountGuid": "ACT-1ab5550b-9dbc-42f9-885a-709fa0263b3d",
+      "category": "Groceries",
+      "amount": 1.315e1,
+      "date": "2023-01-03T17:46:12",
+      "type": "DEBIT"
+    },
+    {
+      "originalDescription": "Dd Doordash 1 Luvislan San Franciscocaus",
+      "description": "DoorDash",
+      "guid": "TRN-0cea1b64-0137-4689-8b68-021b88a6c9ee",
+      "accountGuid": "ACT-1ab5550b-9dbc-42f9-885a-709fa0263b3d",
+      "category": "Food & Dining",
+      "amount": 3.485e1,
+      "date": "2023-01-03T17:46:12",
+      "type": "DEBIT"
+    },
+    {
+      "originalDescription": "Kikoff Lending Llc 14153614040 Caus",
+      "description": "Kikoff Lending Caus",
+      "guid": "TRN-b1b58660-d3a2-4055-af73-d7b3fe1948aa",
+      "accountGuid": "ACT-1ab5550b-9dbc-42f9-885a-709fa0263b3d",
+      "category": "Transfer",
+      "amount": 1.05e1,
+      "date": "2023-01-03T17:46:12",
+      "type": "DEBIT"
+    },
+    {
+      "originalDescription": "Kikoff Lending Llc 14153614040 Caus",
+      "description": "Kikoff Lending Caus",
+      "guid": "TRN-b72cd634-9b4b-4b89-9c66-0efd07e4df44",
+      "accountGuid": "ACT-1ab5550b-9dbc-42f9-885a-709fa0263b3d",
+      "category": "Transfer",
+      "amount": 5.23,
+      "date": "2023-01-03T17:46:12",
+      "type": "DEBIT"
+    },
+    {
+      "originalDescription": "Dd Doordash Mrbeastbu San Franciscocaus",
+      "description": "DoorDash",
+      "guid": "TRN-d64ebd86-b209-49a3-a89a-f49989a8e0ef",
+      "accountGuid": "ACT-1ab5550b-9dbc-42f9-885a-709fa0263b3d",
+      "category": "Food & Dining",
+      "amount": 8.523e1,
+      "date": "2023-01-03T17:46:12",
+      "type": "DEBIT"
+    },
+    {
+      "originalDescription": "Cash App Dominic Visa Transfercaus",
+      "description": "Transfer To Cash App",
+      "guid": "TRN-f2d4bbf2-66bb-46b6-8a42-1472edccfa49",
+      "accountGuid": "ACT-1ab5550b-9dbc-42f9-885a-709fa0263b3d",
+      "category": "Transfer",
+      "amount": 2.0e1,
+      "date": "2023-01-03T17:46:12",
+      "type": "DEBIT"
+    },
+    {
+      "originalDescription": "Cash App Jibril Abdul Wvisa Transfercaus",
+      "description": "Transfer To Cash App",
+      "guid": "TRN-54650988-57cb-4838-9c16-c675b1848df4",
+      "accountGuid": "ACT-1ab5550b-9dbc-42f9-885a-709fa0263b3d",
+      "category": "Transfer",
+      "amount": 6.33e1,
+      "date": "2023-01-03T17:46:12",
+      "type": "DEBIT"
+    },
+    {
+      "originalDescription": "Tpusa Inc Direct Deposit",
+      "description": "Tpusa Inc Direct Deposit",
+      "guid": "TRN-61a8cdc0-4a4e-4544-910a-231b6a706837",
+      "accountGuid": "ACT-1ab5550b-9dbc-42f9-885a-709fa0263b3d",
+      "category": "Paycheck",
+      "amount": 7.4879e2,
+      "date": "2023-01-03T17:46:12",
+      "type": "CREDIT"
+    },
+    {
+      "originalDescription": "Cash App Arei Visa Transfercaus",
+      "description": "Transfer To Cash App",
+      "guid": "TRN-1acd740d-2c92-4be6-b231-bfd7852f60eb",
+      "accountGuid": "ACT-1ab5550b-9dbc-42f9-885a-709fa0263b3d",
+      "category": "Transfer",
+      "amount": 1.5e2,
+      "date": "2023-01-03T17:46:12",
+      "type": "DEBIT"
+    },
+    {
+      "originalDescription": "Cash App Jibril Abdul Wvisa Transfercaus",
+      "description": "Transfer To Cash App",
+      "guid": "TRN-831da96f-0f03-4e93-af3b-a7a998d318b4",
+      "accountGuid": "ACT-1ab5550b-9dbc-42f9-885a-709fa0263b3d",
+      "category": "Transfer",
+      "amount": 1.713e2,
+      "date": "2023-01-03T17:46:12",
+      "type": "DEBIT"
+    },
+    {
+      "originalDescription": "Fiverr New York Nyus",
+      "description": "Fiverr",
+      "guid": "TRN-f010c6b8-7f3e-4bbe-aa49-2b693521963e",
+      "accountGuid": "ACT-1ab5550b-9dbc-42f9-885a-709fa0263b3d",
+      "category": "Business Services",
+      "amount": 1.713e2,
+      "date": "2023-01-03T17:46:12",
+      "type": "DEBIT"
+    },
+    {
+      "originalDescription": "Cash App Jibril Abdul Wvisa Transfercaus",
+      "description": "Transfer To Cash App",
+      "guid": "TRN-255fb42f-34ed-423d-9f51-bd76c2029b90",
+      "accountGuid": "ACT-1ab5550b-9dbc-42f9-885a-709fa0263b3d",
+      "category": "Transfer",
+      "amount": 1.0,
+      "date": "2023-01-03T17:46:12",
+      "type": "DEBIT"
+    },
+    {
+      "originalDescription": "Cash App Jibril Abdul Wvisa Transfercaus",
+      "description": "Transfer To Cash App",
+      "guid": "TRN-6ecac36a-74a9-4624-98e9-ed992966a153",
+      "accountGuid": "ACT-1ab5550b-9dbc-42f9-885a-709fa0263b3d",
+      "category": "Transfer",
+      "amount": 1.105e1,
+      "date": "2023-01-03T17:46:12",
+      "type": "DEBIT"
+    },
+    {
+      "originalDescription": "Cash App Jibril Abdul Wvisa Transfercaus",
+      "description": "Transfer To Cash App",
+      "guid": "TRN-c4b07082-5e0c-4d14-91d2-8be0c0eb222b",
+      "accountGuid": "ACT-1ab5550b-9dbc-42f9-885a-709fa0263b3d",
+      "category": "Transfer",
+      "amount": 1.838e1,
+      "date": "2023-01-03T17:46:12",
+      "type": "DEBIT"
+    },
+    {
+      "originalDescription": "Cash App Arei Visa Transfercaus",
+      "description": "Transfer To Cash App",
+      "guid": "TRN-0cb3764a-2361-4bc5-b398-54de8b5c632b",
+      "accountGuid": "ACT-1ab5550b-9dbc-42f9-885a-709fa0263b3d",
+      "category": "Transfer",
+      "amount": 3.5e1,
+      "date": "2023-01-03T17:46:12",
+      "type": "DEBIT"
+    },
+    {
+      "originalDescription": "Yank Sing Killeen Txus",
+      "description": "Yank Sing Killeen Txus",
+      "guid": "TRN-e734cbc1-10fe-4898-9dc5-72b998e16746",
+      "accountGuid": "ACT-1ab5550b-9dbc-42f9-885a-709fa0263b3d",
+      "category": "Dentist",
+      "amount": 1.75e1,
+      "date": "2023-01-03T17:46:12",
+      "type": "DEBIT"
+    },
+    {
+      "originalDescription": "Ripright Llc 13476510895 Nyus",
+      "description": "Ripright Nyus",
+      "guid": "TRN-db2f336f-f0c0-4382-b680-10eccac7853b",
+      "accountGuid": "ACT-1ab5550b-9dbc-42f9-885a-709fa0263b3d",
+      "category": "Uncategorized",
+      "amount": 4.33e1,
+      "date": "2023-01-03T17:46:12",
+      "type": "DEBIT"
+    },
+    {
+      "originalDescription": "Fiverrinc 579 7762655 Nyus",
+      "description": "Fiverr",
+      "guid": "TRN-6ba56525-426f-4da6-ba14-0001f71cecbc",
+      "accountGuid": "ACT-1ab5550b-9dbc-42f9-885a-709fa0263b3d",
+      "category": "Business Services",
+      "amount": 5.709e1,
+      "date": "2023-01-03T17:46:12",
+      "type": "DEBIT"
+    },
+    {
+      "originalDescription": "Todaysdeals 8444228125 844 4228125 Caus",
+      "description": "Todaysdeals Caus",
+      "guid": "TRN-e39f0e20-23d1-49ee-bff2-f5dbe547e5a8",
+      "accountGuid": "ACT-1ab5550b-9dbc-42f9-885a-709fa0263b3d",
+      "category": "Uncategorized",
+      "amount": 3.096e1,
+      "date": "2023-01-03T17:46:12",
+      "type": "DEBIT"
+    },
+    {
+      "originalDescription": "Tpusa Inc Direct Deposit",
+      "description": "Tpusa Inc Direct Deposit",
+      "guid": "TRN-ee944cf1-b398-4be6-a1ca-baaab4efbfcb",
+      "accountGuid": "ACT-1ab5550b-9dbc-42f9-885a-709fa0263b3d",
+      "category": "Paycheck",
+      "amount": 1.03389e3,
+      "date": "2023-01-03T17:46:12",
+      "type": "CREDIT"
+    },
+    {
+      "originalDescription": "Fiverrinc 579 7762655 Nyus",
+      "description": "Fiverr",
+      "guid": "TRN-993b01f3-2396-4f9f-88c9-65b1e6d594be",
+      "accountGuid": "ACT-1ab5550b-9dbc-42f9-885a-709fa0263b3d",
+      "category": "Business Services",
+      "amount": 7.913e1,
+      "date": "2023-01-03T17:46:12",
+      "type": "DEBIT"
+    },
+    {
+      "originalDescription": "Cash App Qahir Abdul Visa Transfercaus",
+      "description": "Transfer To Cash App",
+      "guid": "TRN-06012383-b236-47ab-958c-cf94803e2bb4",
+      "accountGuid": "ACT-1ab5550b-9dbc-42f9-885a-709fa0263b3d",
+      "category": "Transfer",
+      "amount": 5.33e2,
+      "date": "2023-01-03T17:46:12",
+      "type": "DEBIT"
+    },
+    {
+      "originalDescription": "Cash App Arei Visa Transfercaus",
+      "description": "Transfer To Cash App",
+      "guid": "TRN-e4fed7e8-15a5-4273-a126-227985b0c3c1",
+      "accountGuid": "ACT-1ab5550b-9dbc-42f9-885a-709fa0263b3d",
+      "category": "Transfer",
+      "amount": 1.5e2,
+      "date": "2023-01-03T17:46:12",
+      "type": "DEBIT"
+    },
+    {
+      "originalDescription": "Cash App Dominic Visa Transfercaus",
+      "description": "Transfer To Cash App",
+      "guid": "TRN-2a3b7eb5-c420-4255-abec-1fcf37bb2f6e",
+      "accountGuid": "ACT-1ab5550b-9dbc-42f9-885a-709fa0263b3d",
+      "category": "Transfer",
+      "amount": 4.0e1,
+      "date": "2023-01-03T17:46:12",
+      "type": "DEBIT"
+    },
+    {
+      "originalDescription": "Yank Sing Killeen Txus",
+      "description": "Yank Sing Killeen Txus",
+      "guid": "TRN-8ed6cafa-8284-489f-9cdb-caf9017dfabf",
+      "accountGuid": "ACT-1ab5550b-9dbc-42f9-885a-709fa0263b3d",
+      "category": "Dentist",
+      "amount": 1.75e1,
+      "date": "2023-01-03T17:46:12",
+      "type": "DEBIT"
+    },
+    {
+      "originalDescription": "Kikoff Lending Llc 14153614040 Caus",
+      "description": "Kikoff Lending Caus",
+      "guid": "TRN-98436ea9-4b67-4ff7-af2a-1e091f04606c",
+      "accountGuid": "ACT-1ab5550b-9dbc-42f9-885a-709fa0263b3d",
+      "category": "Transfer",
+      "amount": 5.5,
+      "date": "2023-01-03T17:46:12",
+      "type": "DEBIT"
+    },
+    {
+      "originalDescription": "Cash App Jibril Abdul Wvisa Transfercaus",
+      "description": "Transfer To Cash App",
+      "guid": "TRN-a6085087-55a2-47bc-b74e-32fe9c87e771",
+      "accountGuid": "ACT-1ab5550b-9dbc-42f9-885a-709fa0263b3d",
+      "category": "Transfer",
+      "amount": 1.096e1,
+      "date": "2023-01-03T17:46:12",
+      "type": "DEBIT"
+    },
+    {
+      "originalDescription": "Tpusa Inc Direct Deposit",
+      "description": "Tpusa Inc Direct Deposit",
+      "guid": "TRN-e38a2cfa-ff10-4e0a-b0f3-dae29973bce9",
+      "accountGuid": "ACT-1ab5550b-9dbc-42f9-885a-709fa0263b3d",
+      "category": "Paycheck",
+      "amount": 6.9258e2,
+      "date": "2023-01-03T17:46:12",
+      "type": "CREDIT"
+    },
+    {
+      "originalDescription": "Cash App Arei Visa Transfercaus",
+      "description": "Transfer To Cash App",
+      "guid": "TRN-1e10a0b6-7669-47c4-9b4a-95d35e9a7791",
+      "accountGuid": "ACT-1ab5550b-9dbc-42f9-885a-709fa0263b3d",
+      "category": "Transfer",
+      "amount": 9.6e1,
+      "date": "2023-01-03T17:46:12",
+      "type": "DEBIT"
+    },
+    {
+      "originalDescription": "Cash App Qahir Abdul Visa Transfercaus",
+      "description": "Transfer To Cash App",
+      "guid": "TRN-4711381b-b2af-4d2e-bfa0-57262dedcf5f",
+      "accountGuid": "ACT-1ab5550b-9dbc-42f9-885a-709fa0263b3d",
+      "category": "Transfer",
+      "amount": 4.0e2,
+      "date": "2023-01-03T17:46:12",
+      "type": "DEBIT"
+    },
+    {
+      "originalDescription": "Cash App Devon Denali Visa Transfercaus",
+      "description": "Transfer To Cash App",
+      "guid": "TRN-00e66a12-aea5-4831-89d8-db5efb5a9e2a",
+      "accountGuid": "ACT-1ab5550b-9dbc-42f9-885a-709fa0263b3d",
+      "category": "Transfer",
+      "amount": 8.5e1,
+      "date": "2023-01-03T17:46:12",
+      "type": "DEBIT"
+    },
+    {
+      "originalDescription": "Dd Doordash Tacobell San Franciscocaus",
+      "description": "Taco Bell via DoorDash",
+      "guid": "TRN-502433ff-5733-41c6-acad-0523795c1122",
+      "accountGuid": "ACT-1ab5550b-9dbc-42f9-885a-709fa0263b3d",
+      "category": "Food & Dining",
+      "amount": 4.507e1,
+      "date": "2023-01-03T17:46:12",
+      "type": "DEBIT"
+    },
+    {
+      "originalDescription": "Cash App Arei Visa Transfercaus",
+      "description": "Transfer To Cash App",
+      "guid": "TRN-672a6adf-25c9-46c2-93bc-9b39e50324b3",
+      "accountGuid": "ACT-1ab5550b-9dbc-42f9-885a-709fa0263b3d",
+      "category": "Transfer",
+      "amount": 5.0e1,
+      "date": "2023-01-03T17:46:12",
+      "type": "DEBIT"
+    }
+  ]
+}

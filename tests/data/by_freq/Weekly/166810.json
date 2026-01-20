@@ -1,0 +1,3232 @@
+{
+  "accounts": [
+    {
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "currentBalance": 361.68,
+      "currentBalanceDate": "2024-01-12"
+    }
+  ],
+  "transactions": [
+    {
+      "originalDescription": "PURCHASE AUTHORIZED ON 12/27 MS MARIAN'S CAFE MURFREESBORO TN S463362074733095 CARD 8681",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 13.17,
+      "date": "2023-12-28",
+      "description": "PURCHASE AUTHORIZED ON 12/27 MS MARIAN'S CAFE MURFREESBORO TN S463362074733095 CARD 8681",
+      "guid": "jEobrJgKn3iLo850OZYytgoQELgdzMSjD6oRY",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "PURCHASE AUTHORIZED ON 11/13 BIZEE MART # 110 SMITHVILLE TN S583317570535954 CARD 6000",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 84.41,
+      "date": "2023-11-14",
+      "description": "PURCHASE AUTHORIZED ON 11/13 BIZEE MART # 110 SMITHVILLE TN S583317570535954 CARD 6000",
+      "guid": "J0Jme8nMB1U3rnokQvd1sZ6Oeo3QmYt7P4VXg",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "ZELLE TO RAINELLI ON 10/26 REF #RP0RNR7N2S",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 500.0,
+      "date": "2023-10-26",
+      "description": "ZELLE TO RAINELLI ON 10/26 REF #RP0RNR7N2S",
+      "guid": "J0Jme8nMB1U3rnokQvd1sZ6Oeo3QmYt7P4VAp",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "PURCHASE AUTHORIZED ON 11/25 Sendwave *8D5TY NY S583329788096394 CARD 6000",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 101.2,
+      "date": "2023-11-27",
+      "description": "PURCHASE AUTHORIZED ON 11/25 Sendwave *8D5TY NY S583329788096394 CARD 6000",
+      "guid": "J0Jme8nMB1U3rnokQvd1sZ6Oeo3QmYt7P4V7g",
+      "type": "DEBIT",
+      "category": "[\"Service\"]"
+    },
+    {
+      "originalDescription": "RECURRING PAYMENT AUTHORIZED ON 12/07 ZIP.CO* QUADPAY CH 164-68139492 NY S583341402660927 CARD 6000",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 68.68,
+      "date": "2023-12-08",
+      "description": "RECURRING PAYMENT AUTHORIZED ON 12/07 ZIP.CO* QUADPAY CH 164-68139492 NY S583341402660927 CARD 6000",
+      "guid": "J0Jme8nMB1U3rnokQvd1sZ6Oeo3QmYt7P4V0Y",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "MONEY TRANSFER AUTHORIZED ON 12/16 CASH APP*YVES TOHO CA S463351058960776 CARD 8681",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 33.0,
+      "date": "2023-12-18",
+      "description": "MONEY TRANSFER AUTHORIZED ON 12/16 CASH APP*YVES TOHO CA S463351058960776 CARD 8681",
+      "guid": "J0Jme8nMB1U3rnokQvd1sZ6dObZwNDC7EdRm5",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "Walmart",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 2.97,
+      "date": "2023-11-16",
+      "description": "Walmart",
+      "guid": "kEbZ487kMyi0bwJRAZ7xse1KVJz9w5ivNX13X",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Department Stores\"]"
+    },
+    {
+      "originalDescription": "PURCHASE AUTHORIZED ON 12/09 WORLDFINANCIALGROU GA S583343385880729 CARD 6000",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 15.0,
+      "date": "2023-12-11",
+      "description": "PURCHASE AUTHORIZED ON 12/09 WORLDFINANCIALGROU GA S583343385880729 CARD 6000",
+      "guid": "kEbZ487kMyi0bwJRAZ7xse1KVJz9w5ivNX1bx",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "RECURRING PAYMENT AUTHORIZED ON 12/30 ZIP.CO* QUADPAY AN 164-68139492 NY S303365270419218 CARD 8681",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 13.55,
+      "date": "2024-01-02",
+      "description": "RECURRING PAYMENT AUTHORIZED ON 12/30 ZIP.CO* QUADPAY AN 164-68139492 NY S303365270419218 CARD 8681",
+      "guid": "J0Jme8nMB1U3rnokQvd1sZ6dObZwNDC7EdRbe",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "RECURRING PAYMENT AUTHORIZED ON 10/31 ZIP.CO* QUADPAY AN 164-68139492 NY S383304366062665 CARD 6000",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 12.79,
+      "date": "2023-11-01",
+      "description": "RECURRING PAYMENT AUTHORIZED ON 10/31 ZIP.CO* QUADPAY AN 164-68139492 NY S383304366062665 CARD 6000",
+      "guid": "kEbZ487kMyi0bwJRAZ7xse1KVJz9w5ivNX1p3",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "Cook Out",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 8.77,
+      "date": "2023-11-28",
+      "description": "Cook Out",
+      "guid": "kEbZ487kMyi0bwJRAZ7xse1KVJz9w5ivNX1vX",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "RECURRING PAYMENT AUTHORIZED ON 12/18 ZIP.CO* QUADPAY AN 164-68139492 NY S583352374441039 CARD 8681",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 52.24,
+      "date": "2023-12-19",
+      "description": "RECURRING PAYMENT AUTHORIZED ON 12/18 ZIP.CO* QUADPAY AN 164-68139492 NY S583352374441039 CARD 8681",
+      "guid": "kEbZ487kMyi0bwJRAZ7xse1nK0evPgtvaOYob",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "Walmart",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 8.98,
+      "date": "2024-01-05",
+      "description": "Walmart",
+      "guid": "kEbZ487kMyi0bwJRAZ7xse1nK0evPgtvaOYRO",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Department Stores\"]"
+    },
+    {
+      "originalDescription": "RECURRING PAYMENT AUTHORIZED ON 12/18 ZIP.CO* QUADPAY CH 164-68139492 NY S583352375772508 CARD 8681",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 60.97,
+      "date": "2023-12-19",
+      "description": "RECURRING PAYMENT AUTHORIZED ON 12/18 ZIP.CO* QUADPAY CH 164-68139492 NY S583352375772508 CARD 8681",
+      "guid": "KjmdeZpg3PtyAY1ZxPXmsVoDPzVRAXtmDwbEE",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "MintoMoney 8444464686 240105 13531980 Yves Lionel Tohouo",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 700.0,
+      "date": "2024-01-08",
+      "description": "MintoMoney 8444464686 240105 13531980 Yves Lionel Tohouo",
+      "guid": "KjmdeZpg3PtyAY1ZxPXmsVoDPzVRAXtmDwbQb",
+      "type": "CREDIT",
+      "category": "[\"Shops\",\"Beauty Products\"]"
+    },
+    {
+      "originalDescription": "Walmart",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 6.5,
+      "date": "2023-11-16",
+      "description": "Walmart",
+      "guid": "KjmdeZpg3PtyAY1ZxPXmsVoPeLqbOatm4gJ1o",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Cash App Yves Tohou 231225 T346VBC88FN9K80 Yves Tohouo",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 6.0,
+      "date": "2023-12-26",
+      "description": "Cash App Yves Tohou 231225 T346VBC88FN9K80 Yves Tohouo",
+      "guid": "J0Jme8nMB1U3rnokQvd1sZ6dObZwNDC7EdRb5",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "BUYUK LOGISTIX DIRECT DEP 231102 603085892649YJZ TOHOUO TCHUESS,YVES",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 600.82,
+      "date": "2023-11-02",
+      "description": "BUYUK LOGISTIX DIRECT DEP 231102 603085892649YJZ TOHOUO TCHUESS,YVES",
+      "guid": "KjmdeZpg3PtyAY1ZxPXmsVoPeLqbOatm4gJLm",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Payroll\"]"
+    },
+    {
+      "originalDescription": "Walmart",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 6.12,
+      "date": "2023-11-28",
+      "description": "Walmart",
+      "guid": "KjmdeZpg3PtyAY1ZxPXmsVoPeLqbOatm4gJmo",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "RECURRING PAYMENT AUTHORIZED ON 12/09 ZIP.CO* QUADPAY CH 164-68139492 NY S463343485911620 CARD 6000",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 10.6,
+      "date": "2023-12-11",
+      "description": "RECURRING PAYMENT AUTHORIZED ON 12/09 ZIP.CO* QUADPAY CH 164-68139492 NY S463343485911620 CARD 6000",
+      "guid": "KjmdeZpg3PtyAY1ZxPXmsVoPeLqbOatm4gJyK",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "PURCHASE AUTHORIZED ON 12/27 3-D FINANCIAL TN S463361693088702 CARD 8681",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 50.41,
+      "date": "2023-12-29",
+      "description": "PURCHASE AUTHORIZED ON 12/27 3-D FINANCIAL TN S463361693088702 CARD 8681",
+      "guid": "gE8Jv45B7PigNMJynX5DsrjRDgrMnwUKnPVq6",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]"
+    },
+    {
+      "originalDescription": "Circle K",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 20.0,
+      "date": "2023-12-26",
+      "description": "Circle K",
+      "guid": "gE8Jv45B7PigNMJynX5DsrjRDgrMnwUKnPV8E",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Convenience Stores\"]"
+    },
+    {
+      "originalDescription": "ATM CASH DEPOSIT ON 12/16 2018 Old Fort Pkwy Murfreesboro TN 0004095 ATM ID 6533P CARD 8681",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 413.0,
+      "date": "2023-12-18",
+      "description": "ATM CASH DEPOSIT ON 12/16 2018 Old Fort Pkwy Murfreesboro TN 0004095 ATM ID 6533P CARD 8681",
+      "guid": "gE8Jv45B7PigNMJynX5DsrjRDgrMnwUKnPV6E",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Deposit\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "TRANSAMERICA INS INSPAYMENT 37L/A 6601426197 YVES LIONEL TOHOUO",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 218.0,
+      "date": "2023-11-24",
+      "description": "TRANSAMERICA INS INSPAYMENT 37L/A 6601426197 YVES LIONEL TOHOUO",
+      "guid": "gE8Jv45B7PigNMJynX5DsrjDN58VOmfKNj9K3",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Insurance\"]"
+    },
+    {
+      "originalDescription": "RECURRING PAYMENT AUTHORIZED ON 10/23 ZIP.CO* QUADPAY CH 164-68139492 NY S583296389822489 CARD 6000",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 40.18,
+      "date": "2023-10-24",
+      "description": "RECURRING PAYMENT AUTHORIZED ON 10/23 ZIP.CO* QUADPAY CH 164-68139492 NY S583296389822489 CARD 6000",
+      "guid": "gE8Jv45B7PigNMJynX5DsrjDN58VOmfKNj9bz",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "Cash App Yves Tohou 231207 T3EAG9WW57F0M85 Yves Tohouo",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 6.0,
+      "date": "2023-12-07",
+      "description": "Cash App Yves Tohou 231207 T3EAG9WW57F0M85 Yves Tohouo",
+      "guid": "gE8Jv45B7PigNMJynX5DsrjDN58VOmfKNj96j",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "PURCHASE AUTHORIZED ON 11/11 SIRI BUBBLE TEA MURFREESBORO TN S383316043535890 CARD 6000",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 15.09,
+      "date": "2023-11-13",
+      "description": "PURCHASE AUTHORIZED ON 11/11 SIRI BUBBLE TEA MURFREESBORO TN S383316043535890 CARD 6000",
+      "guid": "gE8Jv45B7PigNMJynX5DsrjDN58VOmfKNj933",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Food and Beverage Store\"]"
+    },
+    {
+      "originalDescription": "PURCHASE AUTHORIZED ON 11/23 Speedway 1643 New Sal Murfreesboro TN P000000287003158 CARD 6000",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 6.02,
+      "date": "2023-11-24",
+      "description": "PURCHASE AUTHORIZED ON 11/23 Speedway 1643 New Sal Murfreesboro TN P000000287003158 CARD 6000",
+      "guid": "EybverOjLdsDN7qoXVp3c6PNmYxeOQFn4o7nN",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "Walmart",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 38.38,
+      "date": "2023-11-13",
+      "description": "Walmart",
+      "guid": "EybverOjLdsDN7qoXVp3c6PNmYxeOQFn4o7JN",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "ZELLE FROM ARNAULD MAKITA ON 12/07 REF # BACPTD4EZPOO",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 500.0,
+      "date": "2023-12-07",
+      "description": "ZELLE FROM ARNAULD MAKITA ON 12/07 REF # BACPTD4EZPOO",
+      "guid": "EybverOjLdsDN7qoXVp3c6PNmYxeOQFn4o7dO",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "PURCHASE AUTHORIZED ON 10/19 KITCHEN WAY MURFREESBORO TN S463292677700381 CARD 6000",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 12.59,
+      "date": "2023-10-23",
+      "description": "PURCHASE AUTHORIZED ON 10/19 KITCHEN WAY MURFREESBORO TN S463292677700381 CARD 6000",
+      "guid": "EybverOjLdsDN7qoXVp3c6PNmYxeOQFn4o75Y",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "MONEY TRANSFER AUTHORIZED ON 12/21 CASH APP*YVES TOHO CA S463355691902176 CARD 8681",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 2.0,
+      "date": "2023-12-22",
+      "description": "MONEY TRANSFER AUTHORIZED ON 12/21 CASH APP*YVES TOHO CA S463355691902176 CARD 8681",
+      "guid": "EybverOjLdsDN7qoXVp3c6P1Nv6BXqInPRDQ9",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "ZELLE TO DIASPORA LIONS LLC ON 12/13 REF #RP0RSH6RM6",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 17.0,
+      "date": "2023-12-13",
+      "description": "ZELLE TO DIASPORA LIONS LLC ON 12/13 REF #RP0RSH6RM6",
+      "guid": "EybverOjLdsDN7qoXVp3c6P1Nv6BXqInPRDd9",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "MONTHLY SERVICE FEE",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 5.0,
+      "date": "2023-11-30",
+      "description": "MONTHLY SERVICE FEE",
+      "guid": "LrJwe5XMyqFKnNeDb5gyS6xdwEkJ5bFByX7BL",
+      "type": "DEBIT",
+      "category": "[\"Bank Fees\"]"
+    },
+    {
+      "originalDescription": "PURCHASE AUTHORIZED ON 11/02 Wave NY S303306486368054 CARD 6000",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 55.0,
+      "date": "2023-11-03",
+      "description": "PURCHASE AUTHORIZED ON 11/02 Wave NY S303306486368054 CARD 6000",
+      "guid": "LrJwe5XMyqFKnNeDb5gyS6xdwEkJ5bFByX7d5",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\"]"
+    },
+    {
+      "originalDescription": "Cash App Yves Tohou 231108 T3P0KYAQPQEMB4B Yves Tohouo",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 12.0,
+      "date": "2023-11-08",
+      "description": "Cash App Yves Tohou 231108 T3P0KYAQPQEMB4B Yves Tohouo",
+      "guid": "LrJwe5XMyqFKnNeDb5gyS6xdwEkJ5bFByX7dL",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "Circle K",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 4.16,
+      "date": "2023-12-04",
+      "description": "Circle K",
+      "guid": "LrJwe5XMyqFKnNeDb5gyS6xdwEkJ5bFByX7Jx",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Convenience Stores\"]"
+    },
+    {
+      "originalDescription": "ZELLE TO DESMOND ON 11/17 REF #PP0RQHX4DK",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 850.0,
+      "date": "2023-11-17",
+      "description": "ZELLE TO DESMOND ON 11/17 REF #PP0RQHX4DK",
+      "guid": "LrJwe5XMyqFKnNeDb5gyS6xdwEkJ5bFByX7mL",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "MONEY TRANSFER AUTHORIZED ON 10/13 CASH APP*YVES TOHO CA S463286545904261 CARD 6000",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 32.91,
+      "date": "2023-10-16",
+      "description": "MONEY TRANSFER AUTHORIZED ON 10/13 CASH APP*YVES TOHO CA S463286545904261 CARD 6000",
+      "guid": "LrJwe5XMyqFKnNeDb5gyS6xdwEkJ5bFByX7P5",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "ZELLE TO DIASPORA LIONS LLC ON 12/10 REF #RP0RS98Q5C",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 21.0,
+      "date": "2023-12-11",
+      "description": "ZELLE TO DIASPORA LIONS LLC ON 12/10 REF #RP0RS98Q5C",
+      "guid": "LrJwe5XMyqFKnNeDb5gyS6xdwEkJ5bFByX7Zx",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "RECURRING PAYMENT AUTHORIZED ON 01/06 ZIP.CO* SHEIN 164-68139492 NY S584007277628995 CARD 8681",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 22.31,
+      "date": "2024-01-08",
+      "description": "RECURRING PAYMENT AUTHORIZED ON 01/06 ZIP.CO* SHEIN 164-68139492 NY S584007277628995 CARD 8681",
+      "guid": "LrJwe5XMyqFKnNeDb5gyS6xgd067VPIBEgQ0M",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Clothing and Accessories\"]"
+    },
+    {
+      "originalDescription": "Walmart",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 4.66,
+      "date": "2023-12-19",
+      "description": "Walmart",
+      "guid": "LrJwe5XMyqFKnNeDb5gyS6xgd067VPIBEgQZ6",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "OPPFINANC PAYMENT 240111 LAI003246548 YVES LIONEL TOHOUO",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 59.07,
+      "date": "2024-01-11",
+      "description": "OPPFINANC PAYMENT 240111 LAI003246548 YVES LIONEL TOHOUO",
+      "guid": "EybverOjLdsDN7qoXVp3c6P1Nv6BXqInPRD68",
+      "type": "DEBIT",
+      "category": "[\"Payment\"]"
+    },
+    {
+      "originalDescription": "ZELLE FROM LOURCI RAUYE NDZOUNAS ON 12/07 REF # BACLDD86FT82 PARTICIPATION DJANGUY",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 500.0,
+      "date": "2023-12-07",
+      "description": "ZELLE FROM LOURCI RAUYE NDZOUNAS ON 12/07 REF # BACLDD86FT82 PARTICIPATION DJANGUY",
+      "guid": "M4J6emNgKBFk5pVz0EqdhwkgDoV69Zup6Ky04",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "PURCHASE AUTHORIZED ON 11/10 Wave NY S303315123590247 CARD 6000",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 49.7,
+      "date": "2023-11-13",
+      "description": "PURCHASE AUTHORIZED ON 11/10 Wave NY S303315123590247 CARD 6000",
+      "guid": "M4J6emNgKBFk5pVz0EqdhwkgDoV69Zup6Ky5R",
+      "type": "DEBIT",
+      "category": "[\"Service\"]"
+    },
+    {
+      "originalDescription": "PURCHASE AUTHORIZED ON 10/19 KITCHEN WAY MURFREESBORO TN S463292678172527 CARD 6000",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 4.16,
+      "date": "2023-10-23",
+      "description": "PURCHASE AUTHORIZED ON 10/19 KITCHEN WAY MURFREESBORO TN S463292678172527 CARD 6000",
+      "guid": "M4J6emNgKBFk5pVz0EqdhwkgDoV69Zup6KykN",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "FAST CASH ACH DEBIT 231211 1124239573D82AD 23Yves Tohouo",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 480.0,
+      "date": "2023-12-12",
+      "description": "FAST CASH ACH DEBIT 231211 1124239573D82AD 23Yves Tohouo",
+      "guid": "epMJkj8P7DCXDNaK4J8viOmYb5nqJBfbR3on4",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "ZELLE TO LOUEMBET ERIC ON 11/24 REF #RP0RQZ3P87",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 500.0,
+      "date": "2023-11-24",
+      "description": "ZELLE TO LOUEMBET ERIC ON 11/24 REF #RP0RQZ3P87",
+      "guid": "M4J6emNgKBFk5pVz0EqdhwkgDoV69Zup6KypR",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "Walmart",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 23.49,
+      "date": "2023-11-06",
+      "description": "Walmart",
+      "guid": "epMJkj8P7DCXDNaK4J8viOmYb5nqJBfbR3oLg",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Department Stores\"]"
+    },
+    {
+      "originalDescription": "RECURRING PAYMENT AUTHORIZED ON 11/09 ZIP.CO* QUADPAY AN 164-68139492 NY S463313629406987 CARD 6000",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 75.05,
+      "date": "2023-11-10",
+      "description": "RECURRING PAYMENT AUTHORIZED ON 11/09 ZIP.CO* QUADPAY AN 164-68139492 NY S463313629406987 CARD 6000",
+      "guid": "epMJkj8P7DCXDNaK4J8viOmYb5nqJBfbR3oL9",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "Cash App Yves Tohou 231118 T3PZGQR2TK4DT7Y Yves Tohouo",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 12.0,
+      "date": "2023-11-20",
+      "description": "Cash App Yves Tohou 231118 T3PZGQR2TK4DT7Y Yves Tohouo",
+      "guid": "epMJkj8P7DCXDNaK4J8viOmYb5nqJBfbR3ok9",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "Credit One Bank Payment 231013 44062004 YVES TOHOUO",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 20.0,
+      "date": "2023-10-17",
+      "description": "Credit One Bank Payment 231013 44062004 YVES TOHOUO",
+      "guid": "epMJkj8P7DCXDNaK4J8viOmYb5nqJBfbR3oeg",
+      "type": "DEBIT",
+      "category": "[\"Payment\",\"Credit Card\"]"
+    },
+    {
+      "originalDescription": "MONEY TRANSFER AUTHORIZED ON 12/01 CASH APP*YVES TOHO CA S583335340977890 CARD 6000",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 53.0,
+      "date": "2023-12-04",
+      "description": "MONEY TRANSFER AUTHORIZED ON 12/01 CASH APP*YVES TOHO CA S583335340977890 CARD 6000",
+      "guid": "epMJkj8P7DCXDNaK4J8viOmYb5nqJBfbR3ob9",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "Walmart",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 41.32,
+      "date": "2023-12-05",
+      "description": "Walmart",
+      "guid": "epMJkj8P7DCXDNaK4J8viOmYb5nqJBfbR3o44",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "MONEY TRANSFER AUTHORIZED ON 01/09 CASH APP*YVES TOHO CA S464009835477101 CARD 8681",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 110.0,
+      "date": "2024-01-10",
+      "description": "MONEY TRANSFER AUTHORIZED ON 01/09 CASH APP*YVES TOHO CA S464009835477101 CARD 8681",
+      "guid": "epMJkj8P7DCXDNaK4J8viOmrYXON7vfbXOKxX",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "BUYUK LOGISTIX DIRECT DEP 231221 748067414239YJZ TOHOUO TCHUESS,YVES",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 664.0,
+      "date": "2023-12-21",
+      "description": "BUYUK LOGISTIX DIRECT DEP 231221 748067414239YJZ TOHOUO TCHUESS,YVES",
+      "guid": "epMJkj8P7DCXDNaK4J8viOmrYXON7vfbXOKnK",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Payroll\"]"
+    },
+    {
+      "originalDescription": "Cash App Yves Tohou 231219 T365B8HR3ZRTW3Q Yves Tohouo",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 9.0,
+      "date": "2023-12-19",
+      "description": "Cash App Yves Tohou 231219 T365B8HR3ZRTW3Q Yves Tohouo",
+      "guid": "dp9RK0J1mLCoaZPBXRJqs1XjAd1ZJPhQgORK5",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "BUYUK LOGISTIX DIRECT DEP 231214 719092872385YJZ TOHOUO TCHUESS,YVES",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 689.23,
+      "date": "2023-12-14",
+      "description": "BUYUK LOGISTIX DIRECT DEP 231214 719092872385YJZ TOHOUO TCHUESS,YVES",
+      "guid": "M4J6emNgKBFk5pVz0Eqdhwkrg5wQzYfp9rY0A",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Payroll\"]"
+    },
+    {
+      "originalDescription": "MONEY TRANSFER AUTHORIZED ON 12/21 CASH APP*YVES TOHO CA S583355696603092 CARD 8681",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 294.0,
+      "date": "2023-12-22",
+      "description": "MONEY TRANSFER AUTHORIZED ON 12/21 CASH APP*YVES TOHO CA S583355696603092 CARD 8681",
+      "guid": "M4J6emNgKBFk5pVz0Eqdhwkrg5wQzYfp9rYXA",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "Cash App Yves Tohou 231219 T3J7MN8SF0RW535 Yves Tohouo",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 12.0,
+      "date": "2023-12-19",
+      "description": "Cash App Yves Tohou 231219 T3J7MN8SF0RW535 Yves Tohouo",
+      "guid": "mE4ox5Vv7kiy09E8XPV4sQNAmyQj0rsv9jPB1",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "Walmart",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 11.21,
+      "date": "2024-01-09",
+      "description": "Walmart",
+      "guid": "mE4ox5Vv7kiy09E8XPV4sQNAmyQj0rsv9jPMq",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Department Stores\"]"
+    },
+    {
+      "originalDescription": "Walmart",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 1782.0,
+      "date": "2024-01-09",
+      "description": "Walmart",
+      "guid": "dp9RK0J1mLCoaZPBXRJqs1XjAd1ZJPhQgORbM",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "PURCHASE AUTHORIZED ON 11/17 RACETRAC 2583 LA VERGNE TN P583322077588642 CARD 6000",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 4.27,
+      "date": "2023-11-20",
+      "description": "PURCHASE AUTHORIZED ON 11/17 RACETRAC 2583 LA VERGNE TN P583322077588642 CARD 6000",
+      "guid": "dp9RK0J1mLCoaZPBXRJqs1XAwLKa3YSQ7apy7",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "RECURRING PAYMENT AUTHORIZED ON 11/30 ZIP.CO* QUADPAY AN 164-68139492 NY S463335263517880 CARD 6000",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 28.68,
+      "date": "2023-12-01",
+      "description": "RECURRING PAYMENT AUTHORIZED ON 11/30 ZIP.CO* QUADPAY AN 164-68139492 NY S463335263517880 CARD 6000",
+      "guid": "dp9RK0J1mLCoaZPBXRJqs1XAwLKa3YSQ7apQ7",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "Cash App Yves Tohou 231204 T3JRWDXFDGANVE0 Yves Tohouo",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 12.0,
+      "date": "2023-12-04",
+      "description": "Cash App Yves Tohou 231204 T3JRWDXFDGANVE0 Yves Tohouo",
+      "guid": "dp9RK0J1mLCoaZPBXRJqs1XAwLKa3YSQ7apo1",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "Cash App Yves Tohou 231211 T3ARGVQWAJFJ8R3 Yves Tohouo",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 10.0,
+      "date": "2023-12-11",
+      "description": "Cash App Yves Tohou 231211 T3ARGVQWAJFJ8R3 Yves Tohouo",
+      "guid": "dp9RK0J1mLCoaZPBXRJqs1XAwLKa3YSQ7apK1",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "ZELLE TO RAUYE ON 11/03 REF #RP0RPFRDTF",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 500.0,
+      "date": "2023-11-03",
+      "description": "ZELLE TO RAUYE ON 11/03 REF #RP0RPFRDTF",
+      "guid": "dp9RK0J1mLCoaZPBXRJqs1XAwLKa3YSQ7ap8J",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "OPPFINANC PAYMENT 231109 LAI003246548 YVES LIONEL TOHOUO",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 59.07,
+      "date": "2023-11-09",
+      "description": "OPPFINANC PAYMENT 231109 LAI003246548 YVES LIONEL TOHOUO",
+      "guid": "dp9RK0J1mLCoaZPBXRJqs1XAwLKa3YSQ7ap87",
+      "type": "DEBIT",
+      "category": "[\"Payment\"]"
+    },
+    {
+      "originalDescription": "RECURRING PAYMENT AUTHORIZED ON 10/14 ZIP.CO* QUADPAY AN 164-68139492 NY S583287787105185 CARD 6000",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 20.5,
+      "date": "2023-10-16",
+      "description": "RECURRING PAYMENT AUTHORIZED ON 10/14 ZIP.CO* QUADPAY AN 164-68139492 NY S583287787105185 CARD 6000",
+      "guid": "dp9RK0J1mLCoaZPBXRJqs1XAwLKa3YSQ7ap1J",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "PURCHASE AUTHORIZED ON 11/18 Shifty's MURFREESBORO TN P303323027129877 CARD 6000",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 41.68,
+      "date": "2023-11-20",
+      "description": "PURCHASE AUTHORIZED ON 11/18 Shifty's MURFREESBORO TN P303323027129877 CARD 6000",
+      "guid": "mE4ox5Vv7kiy09E8XPV4sQNmPLoEkvTvK1Y3g",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "Cash App Yves Tohou 231016 T3KNYTP15YCD3ZM Yves Tohouo",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 6.98,
+      "date": "2023-10-16",
+      "description": "Cash App Yves Tohou 231016 T3KNYTP15YCD3ZM Yves Tohouo",
+      "guid": "mE4ox5Vv7kiy09E8XPV4sQNmPLoEkvTvK1Y46",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "Cash App Yves Tohou 231204 T3T6XP0GBSMKGNY Yves Tohouo",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 13.0,
+      "date": "2023-12-04",
+      "description": "Cash App Yves Tohou 231204 T3T6XP0GBSMKGNY Yves Tohouo",
+      "guid": "mE4ox5Vv7kiy09E8XPV4sQNmPLoEkvTvK1Y8m",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "CAPITAL ONE CRCARDPMT 231210 3SUKY2VPINI5676 YVES LIONEL T TOHOUO",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 96.0,
+      "date": "2023-12-11",
+      "description": "CAPITAL ONE CRCARDPMT 231210 3SUKY2VPINI5676 YVES LIONEL T TOHOUO",
+      "guid": "mE4ox5Vv7kiy09E8XPV4sQNmPLoEkvTvK1YBm",
+      "type": "DEBIT",
+      "category": "[\"Payment\",\"Credit Card\"]"
+    },
+    {
+      "originalDescription": "Cook Out",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 8.44,
+      "date": "2023-11-06",
+      "description": "Cook Out",
+      "guid": "mE4ox5Vv7kiy09E8XPV4sQNmPLoEkvTvK1Ym6",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "MONEY TRANSFER AUTHORIZED ON 11/10 FROM 3-D Financial - IF TN S583314780521373 CARD 6000",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 200.0,
+      "date": "2023-11-10",
+      "description": "MONEY TRANSFER AUTHORIZED ON 11/10 FROM 3-D Financial - IF TN S583314780521373 CARD 6000",
+      "guid": "mE4ox5Vv7kiy09E8XPV4sQNmPLoEkvTvK1Ymg",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "PURCHASE AUTHORIZED ON 01/06 THAI SPICE MURFREESBORO TN S304007077259930 CARD 8681",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 15.37,
+      "date": "2024-01-08",
+      "description": "PURCHASE AUTHORIZED ON 01/06 THAI SPICE MURFREESBORO TN S304007077259930 CARD 8681",
+      "guid": "D3YAejV06xsLxpoZjr05tYoVN3YDmKIRAbrZk",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "MONEY TRANSFER AUTHORIZED ON 12/18 CASH APP*YVES TOHO CA S383353186045750 CARD 8681",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 10.0,
+      "date": "2023-12-19",
+      "description": "MONEY TRANSFER AUTHORIZED ON 12/18 CASH APP*YVES TOHO CA S383353186045750 CARD 8681",
+      "guid": "D3YAejV06xsLxpoZjr05tYoVN3YDmKIRAbrwj",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "Cash App Yves Tohou 231201 T357R268FZG4XS2 Yves Tohouo",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 6.0,
+      "date": "2023-12-01",
+      "description": "Cash App Yves Tohou 231201 T357R268FZG4XS2 Yves Tohouo",
+      "guid": "mE4ox5Vv7kiy09E8XPV4sQNmPLoEkvTvK1Yvg",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "PURCHASE AUTHORIZED ON 11/01 Sendwave *5SJI3 NY S463306247056850 CARD 6000",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 66.0,
+      "date": "2023-11-03",
+      "description": "PURCHASE AUTHORIZED ON 11/01 Sendwave *5SJI3 NY S463306247056850 CARD 6000",
+      "guid": "D3YAejV06xsLxpoZjr05tYoN5O89erFR4Kdz9",
+      "type": "DEBIT",
+      "category": "[\"Service\"]"
+    },
+    {
+      "originalDescription": "Walmart",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 4.56,
+      "date": "2023-11-08",
+      "description": "Walmart",
+      "guid": "D3YAejV06xsLxpoZjr05tYoN5O89erFR4Kdz1",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "ZELLE FROM DIASPORA LIONS LLC ON 12/21 REF # BACFFW4WCNWU",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 294.0,
+      "date": "2023-12-21",
+      "description": "ZELLE FROM DIASPORA LIONS LLC ON 12/21 REF # BACFFW4WCNWU",
+      "guid": "NaJLYbemk3fAQpbj63YwTekDPReXEytLODkoj",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "CAPITAL ONE CRCARDPMT 240110 3WR4WGPZ8U4PACI YVES LIONEL T TOHOUO",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 32.0,
+      "date": "2024-01-10",
+      "description": "CAPITAL ONE CRCARDPMT 240110 3WR4WGPZ8U4PACI YVES LIONEL T TOHOUO",
+      "guid": "NaJLYbemk3fAQpbj63YwTekDPReXEytLODkY5",
+      "type": "DEBIT",
+      "category": "[\"Payment\",\"Credit Card\"]"
+    },
+    {
+      "originalDescription": "PURCHASE AUTHORIZED ON 12/02 Sendwave *KTH54 NY S583337045216192 CARD 6000",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 37.0,
+      "date": "2023-12-04",
+      "description": "PURCHASE AUTHORIZED ON 12/02 Sendwave *KTH54 NY S583337045216192 CARD 6000",
+      "guid": "D3YAejV06xsLxpoZjr05tYoN5O89erFR4KdXO",
+      "type": "DEBIT",
+      "category": "[\"Service\"]"
+    },
+    {
+      "originalDescription": "ZELLE TO DIASPORA LIONS LLC ON 12/10 REF #RP0RS94SZJ",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 60.1,
+      "date": "2023-12-11",
+      "description": "ZELLE TO DIASPORA LIONS LLC ON 12/10 REF #RP0RS94SZJ",
+      "guid": "D3YAejV06xsLxpoZjr05tYoN5O89erFR4KdwO",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "Cook Out",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 18.41,
+      "date": "2023-10-18",
+      "description": "Cook Out",
+      "guid": "NaJLYbemk3fAQpbj63YwTekP7JoVmniL46nbD",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "PURCHASE AUTHORIZED ON 12/01 Wave NY S583335779347401 CARD 6000",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 76.0,
+      "date": "2023-12-04",
+      "description": "PURCHASE AUTHORIZED ON 12/01 Wave NY S583335779347401 CARD 6000",
+      "guid": "NaJLYbemk3fAQpbj63YwTekP7JoVmniL46nLJ",
+      "type": "DEBIT",
+      "category": "[\"Service\"]"
+    },
+    {
+      "originalDescription": "Walmart",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 6.74,
+      "date": "2023-11-06",
+      "description": "Walmart",
+      "guid": "NaJLYbemk3fAQpbj63YwTekP7JoVmniL46npD",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "RECURRING PAYMENT AUTHORIZED ON 11/09 ZIP.CO* QUADPAY CH 164-68139492 NY S463313640362524 CARD 6000",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 68.67,
+      "date": "2023-11-10",
+      "description": "RECURRING PAYMENT AUTHORIZED ON 11/09 ZIP.CO* QUADPAY CH 164-68139492 NY S463313640362524 CARD 6000",
+      "guid": "NaJLYbemk3fAQpbj63YwTekP7JoVmniL46npJ",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "ZELLE TO DESMOND ON 11/17 REF #PP0RQHDYCJ",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 1500.0,
+      "date": "2023-11-17",
+      "description": "ZELLE TO DESMOND ON 11/17 REF #PP0RQHDYCJ",
+      "guid": "D3YAejV06xsLxpoZjr05tYoN5O89erFR4KdV1",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "Cash App Yves Tohou 231120 T3RAPJFJ2K78RZ4 Yves Tohouo",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 11.0,
+      "date": "2023-11-20",
+      "description": "Cash App Yves Tohou 231120 T3RAPJFJ2K78RZ4 Yves Tohouo",
+      "guid": "NaJLYbemk3fAQpbj63YwTekP7JoVmniL46nxJ",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "Cash App Yves Tohou 231205 T3PFNYDVR53NZ4E Yves Tohouo",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 11.0,
+      "date": "2023-12-05",
+      "description": "Cash App Yves Tohou 231205 T3PFNYDVR53NZ4E Yves Tohouo",
+      "guid": "NaJLYbemk3fAQpbj63YwTekP7JoVmniL46nyo",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "OPPFINANC PAYMENT 231130 LAI003246548 YVES LIONEL TOHOUO",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 59.07,
+      "date": "2023-11-30",
+      "description": "OPPFINANC PAYMENT 231130 LAI003246548 YVES LIONEL TOHOUO",
+      "guid": "D3YAejV06xsLxpoZjr05tYoN5O89erFR4KdR1",
+      "type": "DEBIT",
+      "category": "[\"Payment\"]"
+    },
+    {
+      "originalDescription": "Shane's Rib Shack",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 3.23,
+      "date": "2023-10-16",
+      "description": "Shane's Rib Shack",
+      "guid": "D3YAejV06xsLxpoZjr05tYoN5O89erFR4Kdq9",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "BUYUK LOGISTIX DIRECT DEP 231116 942927976247YJZ TOHOUO TCHUESS,YVES",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 869.58,
+      "date": "2023-11-16",
+      "description": "BUYUK LOGISTIX DIRECT DEP 231116 942927976247YJZ TOHOUO TCHUESS,YVES",
+      "guid": "jEobrJgKn3iLo850OZYytgoEnbe36Jhj5nM1P",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Payroll\"]"
+    },
+    {
+      "originalDescription": "Walmart",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 45.63,
+      "date": "2023-11-27",
+      "description": "Walmart",
+      "guid": "jEobrJgKn3iLo850OZYytgoEnbe36Jhj5nMjP",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "PURCHASE AUTHORIZED ON 01/04 SPEEDY CASH OH S304005053974113 CARD 8681",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 49.34,
+      "date": "2024-01-08",
+      "description": "PURCHASE AUTHORIZED ON 01/04 SPEEDY CASH OH S304005053974113 CARD 8681",
+      "guid": "BqVKev7AdxfwvjApNO41cjnO9Ej045t7wEX9A",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]"
+    },
+    {
+      "originalDescription": "RECURRING PAYMENT AUTHORIZED ON 12/18 ZIP.CO* PAYMENT DA 164-68139492 NY S303352380094040 CARD 8681",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 34.27,
+      "date": "2023-12-19",
+      "description": "RECURRING PAYMENT AUTHORIZED ON 12/18 ZIP.CO* PAYMENT DA 164-68139492 NY S303352380094040 CARD 8681",
+      "guid": "BqVKev7AdxfwvjApNO41cjnO9Ej045t7wEX3x",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "ATM CASH DEPOSIT ON 11/17 2018 Old Fort Pkwy Murfreesboro TN 0003009 ATM ID 6533P CARD 6000",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 500.0,
+      "date": "2023-11-17",
+      "description": "ATM CASH DEPOSIT ON 11/17 2018 Old Fort Pkwy Murfreesboro TN 0003009 ATM ID 6533P CARD 6000",
+      "guid": "BqVKev7AdxfwvjApNO41cjn9PoMZQXt7nZ5dB",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Deposit\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "PURCHASE AUTHORIZED ON 11/02 MURPHY5509ATWAL MURFREESBORO TN P000000171677961 CARD 6000",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 18.0,
+      "date": "2023-11-02",
+      "description": "PURCHASE AUTHORIZED ON 11/02 MURPHY5509ATWAL MURFREESBORO TN P000000171677961 CARD 6000",
+      "guid": "BqVKev7AdxfwvjApNO41cjn9PoMZQXt7nZ589",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "RECURRING PAYMENT AUTHORIZED ON 11/28 ZIP.CO* QUADPAY AN 164-68139492 NY S463333057001649 CARD 6000",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 52.23,
+      "date": "2023-11-29",
+      "description": "RECURRING PAYMENT AUTHORIZED ON 11/28 ZIP.CO* QUADPAY AN 164-68139492 NY S463333057001649 CARD 6000",
+      "guid": "BqVKev7AdxfwvjApNO41cjn9PoMZQXt7nZ57B",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "ZELLE TO DIASPORA LIONS LLC ON 12/09 REF #RP0RS7FGCS",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 1.0,
+      "date": "2023-12-11",
+      "description": "ZELLE TO DIASPORA LIONS LLC ON 12/09 REF #RP0RS7FGCS",
+      "guid": "BqVKev7AdxfwvjApNO41cjn9PoMZQXt7nZ53g",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "RECURRING PAYMENT AUTHORIZED ON 12/28 ADVANCE FINANCIAL TN S583362373524413 CARD 8681",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 174.13,
+      "date": "2023-12-29",
+      "description": "RECURRING PAYMENT AUTHORIZED ON 12/28 ADVANCE FINANCIAL TN S583362373524413 CARD 8681",
+      "guid": "bQ8n3AaLRwCEwg8rMNabsZDoKdZaebCDK3YqJ",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]"
+    },
+    {
+      "originalDescription": "OPPFINANC PAYMENT 231221 LAI003246548 YVES LIONEL TOHOUO",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 59.07,
+      "date": "2023-12-21",
+      "description": "OPPFINANC PAYMENT 231221 LAI003246548 YVES LIONEL TOHOUO",
+      "guid": "nn4bJoO07Atrb13VmDO7FJQpxrJZdqIp3Z9Be",
+      "type": "DEBIT",
+      "category": "[\"Payment\"]"
+    },
+    {
+      "originalDescription": "PURCHASE AUTHORIZED ON 01/10 MS MARIAN'S CAFE MURFREESBORO TN S384011060391481 CARD 8681",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 9.33,
+      "date": "2024-01-11",
+      "description": "PURCHASE AUTHORIZED ON 01/10 MS MARIAN'S CAFE MURFREESBORO TN S384011060391481 CARD 8681",
+      "guid": "nn4bJoO07Atrb13VmDO7FJQpxrJZdqIp3Z9QJ",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "ZELLE FROM RAINELLI KOUMANGOYE ON 11/13 REF # BACQZPTK3HMB FUEL",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 90.0,
+      "date": "2023-11-13",
+      "description": "ZELLE FROM RAINELLI KOUMANGOYE ON 11/13 REF # BACQZPTK3HMB FUEL",
+      "guid": "nn4bJoO07Atrb13VmDO7FJQx6mOaMEHpKk604",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "MONEY TRANSFER AUTHORIZED ON 12/16 FROM GD-Loan Disbursements GD-Loan OH P000000776707272 CARD 8681",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 975.0,
+      "date": "2023-12-18",
+      "description": "MONEY TRANSFER AUTHORIZED ON 12/16 FROM GD-Loan Disbursements GD-Loan OH P000000776707272 CARD 8681",
+      "guid": "bQ8n3AaLRwCEwg8rMNabsZDoKdZaebCDK3YPw",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "Walmart",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 16.01,
+      "date": "2023-12-26",
+      "description": "Walmart",
+      "guid": "bQ8n3AaLRwCEwg8rMNabsZDoKdZaebCDK3YJw",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "PURCHASE AUTHORIZED ON 12/02 QT 7145 INSIDE LEBANON TN S463336444233703 CARD 6000",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 11.67,
+      "date": "2023-12-04",
+      "description": "PURCHASE AUTHORIZED ON 12/02 QT 7145 INSIDE LEBANON TN S463336444233703 CARD 6000",
+      "guid": "nn4bJoO07Atrb13VmDO7FJQx6mOaMEHpKk6j4",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "PURCHASE AUTHORIZED ON 12/05 MS MARIAN'S CAFE MURFREESBORO TN S463340018501852 CARD 6000",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 12.06,
+      "date": "2023-12-06",
+      "description": "PURCHASE AUTHORIZED ON 12/05 MS MARIAN'S CAFE MURFREESBORO TN S463340018501852 CARD 6000",
+      "guid": "nn4bJoO07Atrb13VmDO7FJQx6mOaMEHpKk6j8",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "Cash App Yves Tohou 231107 T3F94FKW8EFMRWC Yves Tohouo",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 1.0,
+      "date": "2023-11-07",
+      "description": "Cash App Yves Tohou 231107 T3F94FKW8EFMRWC Yves Tohouo",
+      "guid": "nn4bJoO07Atrb13VmDO7FJQx6mOaMEHpKk6MD",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "Cash App Yves Tohou 231207 T36VJA07221H7R1 Yves Tohouo",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 10.0,
+      "date": "2023-12-07",
+      "description": "Cash App Yves Tohou 231207 T36VJA07221H7R1 Yves Tohouo",
+      "guid": "bQ8n3AaLRwCEwg8rMNabsZDKX5JwRLtDRzvPe",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "ZELLE FROM JOSE LOUIS CHARLES ON 11/24 REF # NAV0I00KVGCL",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 500.0,
+      "date": "2023-11-24",
+      "description": "ZELLE FROM JOSE LOUIS CHARLES ON 11/24 REF # NAV0I00KVGCL",
+      "guid": "nn4bJoO07Atrb13VmDO7FJQx6mOaMEHpKk6p4",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "OPPFINANC PAYMENT 231019 LAI003246548 YVES LIONEL TOHOUO",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 59.07,
+      "date": "2023-10-19",
+      "description": "OPPFINANC PAYMENT 231019 LAI003246548 YVES LIONEL TOHOUO",
+      "guid": "nn4bJoO07Atrb13VmDO7FJQx6mOaMEHpKk6qD",
+      "type": "DEBIT",
+      "category": "[\"Payment\"]"
+    },
+    {
+      "originalDescription": "Cash App Yves Tohou 231113 T3BT5FMJRWCNX9T Yves Tohouo",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 1.0,
+      "date": "2023-11-13",
+      "description": "Cash App Yves Tohou 231113 T3BT5FMJRWCNX9T Yves Tohouo",
+      "guid": "bQ8n3AaLRwCEwg8rMNabsZDKX5JwRLtDRzvgD",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "PURCHASE AUTHORIZED ON 11/23 SPEEDY CASH OH S303328222163216 CARD 6000",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 500.0,
+      "date": "2023-11-27",
+      "description": "PURCHASE AUTHORIZED ON 11/23 SPEEDY CASH OH S303328222163216 CARD 6000",
+      "guid": "bQ8n3AaLRwCEwg8rMNabsZDKX5JwRLtDRzvDD",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]"
+    },
+    {
+      "originalDescription": "Cash App Yves Tohou 231024 T3FB9HMTCAA7HPH Yves Tohouo",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 6.24,
+      "date": "2023-10-24",
+      "description": "Cash App Yves Tohou 231024 T3FB9HMTCAA7HPH Yves Tohouo",
+      "guid": "bQ8n3AaLRwCEwg8rMNabsZDKX5JwRLtDRzvd8",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "Cook Out",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 12.05,
+      "date": "2023-12-19",
+      "description": "Cook Out",
+      "guid": "APNyeAgkY8Cdn1yZ870KINVrQmNbqLUnXDyMn",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "ZELLE FROM JOSE LOUIS CHARLES ON 01/05 REF # NAV006TA0UVB BILLS",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 700.0,
+      "date": "2024-01-05",
+      "description": "ZELLE FROM JOSE LOUIS CHARLES ON 01/05 REF # NAV006TA0UVB BILLS",
+      "guid": "APNyeAgkY8Cdn1yZ870KINVrQmNbqLUnXDy64",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "PURCHASE AUTHORIZED ON 10/31 SPEEDWAY - 07101 M MURFREESBORO TN S583304254080675 CARD 6000",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 2.59,
+      "date": "2023-11-01",
+      "description": "PURCHASE AUTHORIZED ON 10/31 SPEEDWAY - 07101 M MURFREESBORO TN S583304254080675 CARD 6000",
+      "guid": "APNyeAgkY8Cdn1yZ870KINVQ16DkwOUn3A5ZZ",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "ZELLE TO DIASPORA LIONS LLC ON 12/14 REF #RP0RSL4H9K",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 41.0,
+      "date": "2023-12-14",
+      "description": "ZELLE TO DIASPORA LIONS LLC ON 12/14 REF #RP0RSL4H9K",
+      "guid": "OxODegdEAyHv5pK8xzd6s7p1687K9jsgbERpj",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "ZELLE TO RAUYE ON 12/22 REF #RP0RT9DKBQ",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 500.0,
+      "date": "2023-12-22",
+      "description": "ZELLE TO RAUYE ON 12/22 REF #RP0RT9DKBQ",
+      "guid": "OxODegdEAyHv5pK8xzd6s7p1687K9jsgbERxj",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "Walmart",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 19.26,
+      "date": "2023-12-11",
+      "description": "Walmart",
+      "guid": "APNyeAgkY8Cdn1yZ870KINVQ16DkwOUn3A5wd",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Cash App Yves Tohou 231125 T3P920YWPRZ9QNV Yves Tohouo",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 11.0,
+      "date": "2023-11-27",
+      "description": "Cash App Yves Tohou 231125 T3P920YWPRZ9QNV Yves Tohouo",
+      "guid": "APNyeAgkY8Cdn1yZ870KINVQ16DkwOUn3A5nP",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "Walmart",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 6.34,
+      "date": "2023-11-24",
+      "description": "Walmart",
+      "guid": "OxODegdEAyHv5pK8xzd6s7p65AxdQMTgjO1ge",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Cook Out",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 16.22,
+      "date": "2023-10-23",
+      "description": "Cook Out",
+      "guid": "OxODegdEAyHv5pK8xzd6s7p65AxdQMTgjO1Nn",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "MONEY TRANSFER AUTHORIZED ON 12/06 CASH APP*YVES TOHO CA S303340426173148 CARD 6000",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 12.0,
+      "date": "2023-12-07",
+      "description": "MONEY TRANSFER AUTHORIZED ON 12/06 CASH APP*YVES TOHO CA S303340426173148 CARD 6000",
+      "guid": "OxODegdEAyHv5pK8xzd6s7p65AxdQMTgjO1pB",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "RECURRING PAYMENT AUTHORIZED ON 11/11 ZIP.CO* QUADPAY AN 164-68139492 NY S383315342501382 CARD 6000",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 20.5,
+      "date": "2023-11-13",
+      "description": "RECURRING PAYMENT AUTHORIZED ON 11/11 ZIP.CO* QUADPAY AN 164-68139492 NY S383315342501382 CARD 6000",
+      "guid": "OxODegdEAyHv5pK8xzd6s7p65AxdQMTgjO1Ve",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "ZELLE FROM ARNAULD MAKITA ON 11/16 REF # BACH6IIX5EQ0",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 500.0,
+      "date": "2023-11-16",
+      "description": "ZELLE FROM ARNAULD MAKITA ON 11/16 REF # BACH6IIX5EQ0",
+      "guid": "APNyeAgkY8Cdn1yZ870KINVQ16DkwOUn3A5bP",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "PURCHASE AUTHORIZED ON 10/28 HUMBLE BARON SHELBYVILLE TN S383302119821772 CARD 6000",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 21.97,
+      "date": "2023-10-30",
+      "description": "PURCHASE AUTHORIZED ON 10/28 HUMBLE BARON SHELBYVILLE TN S383302119821772 CARD 6000",
+      "guid": "jEobrJgKn3iLo850OZYytgoEnbe36Jhj5nMQm",
+      "type": "DEBIT",
+      "category": "[\"Recreation\"]"
+    },
+    {
+      "originalDescription": "PURCHASE AUTHORIZED ON 12/07 CNG WINE & SPIRITS MURFREESBORO TN S383342022148819 CARD 6000",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 37.29,
+      "date": "2023-12-11",
+      "description": "PURCHASE AUTHORIZED ON 12/07 CNG WINE & SPIRITS MURFREESBORO TN S383342022148819 CARD 6000",
+      "guid": "jEobrJgKn3iLo850OZYytgoEnbe36Jhj5nMvq",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Food and Beverage Store\"]"
+    },
+    {
+      "originalDescription": "ZELLE FROM DIASPORA LIONS LLC ON 01/03 REF # BACHHP4CPRTO",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 90.0,
+      "date": "2024-01-03",
+      "description": "ZELLE FROM DIASPORA LIONS LLC ON 01/03 REF # BACHHP4CPRTO",
+      "guid": "aEmJBk460diMvpdXyx41SRvE05ReN1I1rBMZL",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "TRANSAMERICA INS INSPAYMENT 37L/A 6601426197 YVES LIONEL TOHOUO",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 218.0,
+      "date": "2023-12-26",
+      "description": "TRANSAMERICA INS INSPAYMENT 37L/A 6601426197 YVES LIONEL TOHOUO",
+      "guid": "aEmJBk460diMvpdXyx41SRvE05ReN1I1rBMZ5",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Insurance\"]"
+    },
+    {
+      "originalDescription": "RECURRING PAYMENT AUTHORIZED ON 12/16 ZIP.CO* QUADPAY AN 164-68139492 NY S383351223661101 CARD 8681",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 13.55,
+      "date": "2023-12-18",
+      "description": "RECURRING PAYMENT AUTHORIZED ON 12/16 ZIP.CO* QUADPAY AN 164-68139492 NY S383351223661101 CARD 8681",
+      "guid": "aEmJBk460diMvpdXyx41SRvE05ReN1I1rBM75",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "RECURRING PAYMENT AUTHORIZED ON 10/26 ZIP.CO* QUADPAY AN 164-68139492 NY S383299549703359 CARD 6000",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 75.05,
+      "date": "2023-10-27",
+      "description": "RECURRING PAYMENT AUTHORIZED ON 10/26 ZIP.CO* QUADPAY AN 164-68139492 NY S383299549703359 CARD 6000",
+      "guid": "aEmJBk460diMvpdXyx41SRv0yjp3XbF1xApyV",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "ZELLE TO RAINELLI ON 12/08 REF #RP0RS47968",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 139.0,
+      "date": "2023-12-08",
+      "description": "ZELLE TO RAINELLI ON 12/08 REF #RP0RS47968",
+      "guid": "aEmJBk460diMvpdXyx41SRv0yjp3XbF1xApKd",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "RECURRING PAYMENT AUTHORIZED ON 11/14 ZIP.CO* QUADPAY AN 164-68139492 NY S383318364757440 CARD 6000",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 12.8,
+      "date": "2023-11-15",
+      "description": "RECURRING PAYMENT AUTHORIZED ON 11/14 ZIP.CO* QUADPAY AN 164-68139492 NY S383318364757440 CARD 6000",
+      "guid": "aEmJBk460diMvpdXyx41SRv0yjp3XbF1xAp9m",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "RECURRING PAYMENT AUTHORIZED ON 11/26 ZIP.CO* QUADPAY AN 164-68139492 NY S383330369919924 CARD 6000",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 20.97,
+      "date": "2023-11-27",
+      "description": "RECURRING PAYMENT AUTHORIZED ON 11/26 ZIP.CO* QUADPAY AN 164-68139492 NY S383330369919924 CARD 6000",
+      "guid": "aEmJBk460diMvpdXyx41SRv0yjp3XbF1xAp1m",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "PURCHASE AUTHORIZED ON 12/16 SPEEDY CASH OH S463350675542394 CARD 8681",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 500.0,
+      "date": "2023-12-18",
+      "description": "PURCHASE AUTHORIZED ON 12/16 SPEEDY CASH OH S463350675542394 CARD 8681",
+      "guid": "oY4J8bMjXrUvQoeyzBa8sPk7zvPqy9CbKqN4K",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]"
+    },
+    {
+      "originalDescription": "Cash App Yves Tohou 231229 T39BTXTGMZHDTX5 Yves Tohouo",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 13.0,
+      "date": "2023-12-29",
+      "description": "Cash App Yves Tohou 231229 T39BTXTGMZHDTX5 Yves Tohouo",
+      "guid": "oY4J8bMjXrUvQoeyzBa8sPk7zvPqy9CbKqNBB",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "PURCHASE AUTHORIZED ON 12/23 Wave NY S383357483849036 CARD 8681",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 85.2,
+      "date": "2023-12-26",
+      "description": "PURCHASE AUTHORIZED ON 12/23 Wave NY S383357483849036 CARD 8681",
+      "guid": "oY4J8bMjXrUvQoeyzBa8sPk7zvPqy9CbKqNBK",
+      "type": "DEBIT",
+      "category": "[\"Service\"]"
+    },
+    {
+      "originalDescription": "ZELLE FROM DIASPORA LIONS LLC ON 12/23 REF # BACIGQ8X6YPE",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 100.0,
+      "date": "2023-12-26",
+      "description": "ZELLE FROM DIASPORA LIONS LLC ON 12/23 REF # BACIGQ8X6YPE",
+      "guid": "95A6V1aDextgRLbKEd8xsXmnaxXRVgfxwEBg0",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "ZELLE TO DIASPORA LIONS LLC ON 12/14 REF #RP0RSMRC59",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 45.0,
+      "date": "2023-12-15",
+      "description": "ZELLE TO DIASPORA LIONS LLC ON 12/14 REF #RP0RSMRC59",
+      "guid": "95A6V1aDextgRLbKEd8xsXmnaxXRVgfxwEB60",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "Cash App Yves Tohou 231124 T398HCVR8V8D8R9 Yves Tohouo",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 11.0,
+      "date": "2023-11-24",
+      "description": "Cash App Yves Tohou 231124 T398HCVR8V8D8R9 Yves Tohouo",
+      "guid": "95A6V1aDextgRLbKEd8xsXmaorze3BIxn9zxr",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "Walmart",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 12.34,
+      "date": "2023-10-23",
+      "description": "Walmart",
+      "guid": "95A6V1aDextgRLbKEd8xsXmaorze3BIxn9zrn",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "RECURRING PAYMENT AUTHORIZED ON 11/24 ZIP.CO* QUADPAY AN 164-68139492 NY S583328737104863 CARD 6000",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 14.42,
+      "date": "2023-11-27",
+      "description": "RECURRING PAYMENT AUTHORIZED ON 11/24 ZIP.CO* QUADPAY AN 164-68139492 NY S583328737104863 CARD 6000",
+      "guid": "oY4J8bMjXrUvQoeyzBa8sPkzjnY61XCbgE5br",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "PURCHASE AUTHORIZED ON 10/24 SAN MARCOS SUPERME MURFREESBORO TN S303297835848537 CARD 6000",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 39.45,
+      "date": "2023-10-25",
+      "description": "PURCHASE AUTHORIZED ON 10/24 SAN MARCOS SUPERME MURFREESBORO TN S303297835848537 CARD 6000",
+      "guid": "oY4J8bMjXrUvQoeyzBa8sPkzjnY61XCbgE5k0",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "RECURRING PAYMENT AUTHORIZED ON 11/11 PlayStation Networ CA S383315726942923 CARD 6000",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 54.86,
+      "date": "2023-11-13",
+      "description": "RECURRING PAYMENT AUTHORIZED ON 11/11 PlayStation Networ CA S383315726942923 CARD 6000",
+      "guid": "95A6V1aDextgRLbKEd8xsXmaorze3BIxn9zkr",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Computers and Electronics\",\"Video Games\"]"
+    },
+    {
+      "originalDescription": "Cash App Yves Tohou 231111 T394A9E16SV5JFJ Yves Tohouo",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 11.0,
+      "date": "2023-11-13",
+      "description": "Cash App Yves Tohou 231111 T394A9E16SV5JFJ Yves Tohouo",
+      "guid": "oY4J8bMjXrUvQoeyzBa8sPkzjnY61XCbgE5or",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "OPPFINANC PAYMENT 231207 LAI003246548 YVES LIONEL TOHOUO",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 59.07,
+      "date": "2023-12-07",
+      "description": "OPPFINANC PAYMENT 231207 LAI003246548 YVES LIONEL TOHOUO",
+      "guid": "oY4J8bMjXrUvQoeyzBa8sPkzjnY61XCbgE5rq",
+      "type": "DEBIT",
+      "category": "[\"Payment\"]"
+    },
+    {
+      "originalDescription": "Kroger",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 105.83,
+      "date": "2023-12-07",
+      "description": "Kroger",
+      "guid": "95A6V1aDextgRLbKEd8xsXmaorze3BIxn9z6m",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Cash App Yves Tohou 231225 T37S64ZF5T23DT0 Yves Tohouo",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 2.2,
+      "date": "2023-12-26",
+      "description": "Cash App Yves Tohou 231225 T37S64ZF5T23DT0 Yves Tohouo",
+      "guid": "8Zkw9D4L5xUmvgN1nz6dc1J84o19X3hvjgnyr",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "PURCHASE AUTHORIZED ON 12/30 FAST CASH TN S303364563375062 CARD 8681",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 72.0,
+      "date": "2024-01-02",
+      "description": "PURCHASE AUTHORIZED ON 12/30 FAST CASH TN S303364563375062 CARD 8681",
+      "guid": "8Zkw9D4L5xUmvgN1nz6dc1J84o19X3hvjgnyO",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]"
+    },
+    {
+      "originalDescription": "RECURRING PAYMENT AUTHORIZED ON 12/16 ZIP.CO* QUADPAY AN 164-68139492 NY S303351055453761 CARD 8681",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 26.49,
+      "date": "2023-12-18",
+      "description": "RECURRING PAYMENT AUTHORIZED ON 12/16 ZIP.CO* QUADPAY AN 164-68139492 NY S303351055453761 CARD 8681",
+      "guid": "8Zkw9D4L5xUmvgN1nz6dc1J84o19X3hvjgnxr",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "PURCHASE AUTHORIZED ON 12/06 QT 7145 INSIDE LEBANON TN S383340399782605 CARD 6000",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 4.89,
+      "date": "2023-12-08",
+      "description": "PURCHASE AUTHORIZED ON 12/06 QT 7145 INSIDE LEBANON TN S383340399782605 CARD 6000",
+      "guid": "8Zkw9D4L5xUmvgN1nz6dc1J4g5dqPnSv8ErYM",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "RECURRING PAYMENT AUTHORIZED ON 11/25 ZIP.CO* QUADPAY AN 164-68139492 NY S383329342933147 CARD 6000",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 20.5,
+      "date": "2023-11-27",
+      "description": "RECURRING PAYMENT AUTHORIZED ON 11/25 ZIP.CO* QUADPAY AN 164-68139492 NY S383329342933147 CARD 6000",
+      "guid": "8Zkw9D4L5xUmvgN1nz6dc1J4g5dqPnSv8Erv1",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "BUYUK LOGISTIX DIRECT DEP 231026 936128110935YJZ TOHOUO TCHUESS,YVES",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 903.49,
+      "date": "2023-10-26",
+      "description": "BUYUK LOGISTIX DIRECT DEP 231026 936128110935YJZ TOHOUO TCHUESS,YVES",
+      "guid": "8Zkw9D4L5xUmvgN1nz6dc1J4g5dqPnSv8Ermp",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Payroll\"]"
+    },
+    {
+      "originalDescription": "PURCHASE AUTHORIZED ON 11/16 PAD THAI CAFE MURFREESBORO TN S463320839569042 CARD 6000",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 51.86,
+      "date": "2023-11-17",
+      "description": "PURCHASE AUTHORIZED ON 11/16 PAD THAI CAFE MURFREESBORO TN S463320839569042 CARD 6000",
+      "guid": "PJb1e7wgvKt0XOz41vwLsxRk7nowL5FARqj1Z",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "MONEY TRANSFER AUTHORIZED ON 10/13 CASH APP*YVES TOHO CA S463286269328427 CARD 6000",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 44.0,
+      "date": "2023-10-16",
+      "description": "MONEY TRANSFER AUTHORIZED ON 10/13 CASH APP*YVES TOHO CA S463286269328427 CARD 6000",
+      "guid": "PJb1e7wgvKt0XOz41vwLsxRk7nowL5FARqj7M",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "ZELLE FROM JOSE LOUIS CHARLES ON 11/03 REF # NAV0HZF8YQ17",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 30.0,
+      "date": "2023-11-03",
+      "description": "ZELLE FROM JOSE LOUIS CHARLES ON 11/03 REF # NAV0HZF8YQ17",
+      "guid": "PJb1e7wgvKt0XOz41vwLsxRk7nowL5FARqjaM",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "PURCHASE AUTHORIZED ON 11/29 MS MARIAN'S CAFE MURFREESBORO TN S383334048572196 CARD 6000",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 18.93,
+      "date": "2023-11-30",
+      "description": "PURCHASE AUTHORIZED ON 11/29 MS MARIAN'S CAFE MURFREESBORO TN S383334048572196 CARD 6000",
+      "guid": "PJb1e7wgvKt0XOz41vwLsxRk7nowL5FARqjAZ",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "Cash App Yves Tohou 231111 T35WDJZNAJZ4GA5 Yves Tohouo",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 11.0,
+      "date": "2023-11-13",
+      "description": "Cash App Yves Tohou 231111 T35WDJZNAJZ4GA5 Yves Tohouo",
+      "guid": "8Zkw9D4L5xUmvgN1nz6dc1J4g5dqPnSv8ErJ1",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "ZELLE TO DIASPORA LIONS LLC ON 12/09 REF #RP0RS93P8L",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 8.0,
+      "date": "2023-12-11",
+      "description": "ZELLE TO DIASPORA LIONS LLC ON 12/09 REF #RP0RS93P8L",
+      "guid": "PJb1e7wgvKt0XOz41vwLsxRk7nowL5FARqjoj",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "ZELLE TO ERIC ON 01/06 REF #RP0RVF6YC7",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 500.0,
+      "date": "2024-01-08",
+      "description": "ZELLE TO ERIC ON 01/06 REF #RP0RVF6YC7",
+      "guid": "PJb1e7wgvKt0XOz41vwLsxRMkmxBEVtApP6mk",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "RECURRING PAYMENT AUTHORIZED ON 12/18 ZIP.CO* QUADPAY AN 164-68139492 NY S383352538225680 CARD 8681",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 123.34,
+      "date": "2023-12-19",
+      "description": "RECURRING PAYMENT AUTHORIZED ON 12/18 ZIP.CO* QUADPAY AN 164-68139492 NY S383352538225680 CARD 8681",
+      "guid": "PJb1e7wgvKt0XOz41vwLsxRMkmxBEVtApP6oB",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "OPPFINANC PAYMENT 231228 LAI003246548 YVES LIONEL TOHOUO",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 59.07,
+      "date": "2023-12-28",
+      "description": "OPPFINANC PAYMENT 231228 LAI003246548 YVES LIONEL TOHOUO",
+      "guid": "78Kd7Lr64xCpvnOD953aiw9zpbwJgDf5pXLQ5",
+      "type": "DEBIT",
+      "category": "[\"Payment\"]"
+    },
+    {
+      "originalDescription": "PURCHASE AUTHORIZED ON 12/20 MS MARIAN'S CAFE MURFREESBORO TN S383355058571044 CARD 8681",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 13.17,
+      "date": "2023-12-21",
+      "description": "PURCHASE AUTHORIZED ON 12/20 MS MARIAN'S CAFE MURFREESBORO TN S383355058571044 CARD 8681",
+      "guid": "pM4JZgEr7xTAEYzROaPbTOybXkOon6f4yo83v",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "Cook Out",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 6.56,
+      "date": "2024-01-11",
+      "description": "Cook Out",
+      "guid": "pM4JZgEr7xTAEYzROaPbTOybXkOon6f4yo8er",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "ZELLE TO ARNAULD ON 12/15 REF #RP0RSN5W6G",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 500.0,
+      "date": "2023-12-15",
+      "description": "ZELLE TO ARNAULD ON 12/15 REF #RP0RSN5W6G",
+      "guid": "78Kd7Lr64xCpvnOD953aiw9zpbwJgDf5pXL8B",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "MONEY TRANSFER AUTHORIZED ON 12/26 FROM AF247.com AF247.com TN P000000974840206 CARD 8681",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 499.0,
+      "date": "2023-12-26",
+      "description": "MONEY TRANSFER AUTHORIZED ON 12/26 FROM AF247.com AF247.com TN P000000974840206 CARD 8681",
+      "guid": "78Kd7Lr64xCpvnOD953aiw9zpbwJgDf5pXL0B",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "Walmart",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 5.5,
+      "date": "2023-10-23",
+      "description": "Walmart",
+      "guid": "78Kd7Lr64xCpvnOD953aiw9pnK10kLu5gnrzV",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Department Stores\"]"
+    },
+    {
+      "originalDescription": "PURCHASE AUTHORIZED ON 11/11 Sendwave *EAYDX NY S583316023224392 CARD 6000",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 165.23,
+      "date": "2023-11-13",
+      "description": "PURCHASE AUTHORIZED ON 11/11 Sendwave *EAYDX NY S583316023224392 CARD 6000",
+      "guid": "78Kd7Lr64xCpvnOD953aiw9pnK10kLu5gnrD4",
+      "type": "DEBIT",
+      "category": "[\"Service\"]"
+    },
+    {
+      "originalDescription": "Walmart",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 19.25,
+      "date": "2023-12-07",
+      "description": "Walmart",
+      "guid": "78Kd7Lr64xCpvnOD953aiw9pnK10kLu5gnr86",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Department Stores\"]"
+    },
+    {
+      "originalDescription": "Cash App Yves Tohou 231124 T3T064Q3R9ZV2H9 Yves Tohouo",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 13.0,
+      "date": "2023-11-24",
+      "description": "Cash App Yves Tohou 231124 T3T064Q3R9ZV2H9 Yves Tohouo",
+      "guid": "78Kd7Lr64xCpvnOD953aiw9pnK10kLu5gnr54",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "PURCHASE AUTHORIZED ON 11/17 MURPHY6889ATWAL MURFREESBORO TN P000000272710293 CARD 6000",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 20.0,
+      "date": "2023-11-17",
+      "description": "PURCHASE AUTHORIZED ON 11/17 MURPHY6889ATWAL MURFREESBORO TN P000000272710293 CARD 6000",
+      "guid": "6Jyag6jw4et509dQ6KNmh0pjae7b49FNEXKy7",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "ZELLE TO DIASPORA LIONS LLC ON 12/11 REF #RP0RSC2PTD",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 20.0,
+      "date": "2023-12-11",
+      "description": "ZELLE TO DIASPORA LIONS LLC ON 12/11 REF #RP0RSC2PTD",
+      "guid": "6Jyag6jw4et509dQ6KNmh0pjae7b49FNEXKwm",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "RECURRING PAYMENT AUTHORIZED ON 11/02 ZIP.CO* QUADPAY AN 164-68139492 NY S463307105605327 CARD 6000",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 28.68,
+      "date": "2023-11-03",
+      "description": "RECURRING PAYMENT AUTHORIZED ON 11/02 ZIP.CO* QUADPAY AN 164-68139492 NY S463307105605327 CARD 6000",
+      "guid": "6Jyag6jw4et509dQ6KNmh0pjae7b49FNEXKVQ",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "BUYUK LOGISTIX DIRECT DEP 231109 937428481034YJZ TOHOUO TCHUESS,YVES",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 600.82,
+      "date": "2023-11-09",
+      "description": "BUYUK LOGISTIX DIRECT DEP 231109 937428481034YJZ TOHOUO TCHUESS,YVES",
+      "guid": "6Jyag6jw4et509dQ6KNmh0pjae7b49FNEXKV7",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Payroll\"]"
+    },
+    {
+      "originalDescription": "ATM CASH DEPOSIT ON 12/01 2018 Old Fort Pkwy Murfreesboro TN 0003515 ATM ID 6533P CARD 6000",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 425.0,
+      "date": "2023-12-01",
+      "description": "ATM CASH DEPOSIT ON 12/01 2018 Old Fort Pkwy Murfreesboro TN 0003515 ATM ID 6533P CARD 6000",
+      "guid": "6Jyag6jw4et509dQ6KNmh0pjae7b49FNEXKN7",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Deposit\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "ATM CASH DEPOSIT ON 11/24 2018 Old Fort Pkwy Murfreesboro TN 0003242 ATM ID 6533P CARD 6000",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 2908.0,
+      "date": "2023-11-24",
+      "description": "ATM CASH DEPOSIT ON 11/24 2018 Old Fort Pkwy Murfreesboro TN 0003242 ATM ID 6533P CARD 6000",
+      "guid": "pM4JZgEr7xTAEYzROaPbTOyXa4VLd8f4Rwr4N",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Deposit\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "RECURRING PAYMENT AUTHORIZED ON 11/06 ZIP.CO* QUADPAY CH 164-68139492 NY S303310394108649 CARD 6000",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 40.18,
+      "date": "2023-11-07",
+      "description": "RECURRING PAYMENT AUTHORIZED ON 11/06 ZIP.CO* QUADPAY CH 164-68139492 NY S303310394108649 CARD 6000",
+      "guid": "pM4JZgEr7xTAEYzROaPbTOyXa4VLd8f4Rwr7Y",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "PURCHASE AUTHORIZED ON 12/04 KITCHEN WAY MURFREESBORO TN S383339077537154 CARD 6000",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 9.86,
+      "date": "2023-12-06",
+      "description": "PURCHASE AUTHORIZED ON 12/04 KITCHEN WAY MURFREESBORO TN S383339077537154 CARD 6000",
+      "guid": "pM4JZgEr7xTAEYzROaPbTOyXa4VLd8f4RwrAe",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "MONEY TRANSFER AUTHORIZED ON 12/03 CASH APP*YVES TOHO CA S463337810690358 CARD 6000",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 17.0,
+      "date": "2023-12-04",
+      "description": "MONEY TRANSFER AUTHORIZED ON 12/03 CASH APP*YVES TOHO CA S463337810690358 CARD 6000",
+      "guid": "6Jyag6jw4et509dQ6KNmh0pjae7b49FNEXKAm",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "Cook Out",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 12.05,
+      "date": "2023-12-04",
+      "description": "Cook Out",
+      "guid": "pM4JZgEr7xTAEYzROaPbTOyXa4VLd8f4RwrAN",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "ZELLE TO DIASPORA LIONS LLC ON 10/13 REF #RP0RMSX6NG",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 129.0,
+      "date": "2023-10-16",
+      "description": "ZELLE TO DIASPORA LIONS LLC ON 10/13 REF #RP0RMSX6NG",
+      "guid": "6Jyag6jw4et509dQ6KNmh0pjae7b49FNEXK9Q",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "Cash App Yves Tohou 231219 T38G0T83VM4TD1Y Yves Tohouo",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 8.0,
+      "date": "2023-12-19",
+      "description": "Cash App Yves Tohou 231219 T38G0T83VM4TD1Y Yves Tohouo",
+      "guid": "6Jyag6jw4et509dQ6KNmh0p6jn0zPvfNdRrw1",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "Walmart",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 14.18,
+      "date": "2023-10-19",
+      "description": "Walmart",
+      "guid": "pM4JZgEr7xTAEYzROaPbTOyXa4VLd8f4RwrQY",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Department Stores\"]"
+    },
+    {
+      "originalDescription": "ZELLE TO ARNAULD ON 11/10 REF #RP0RPYYDCM",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 500.0,
+      "date": "2023-11-10",
+      "description": "ZELLE TO ARNAULD ON 11/10 REF #RP0RPYYDCM",
+      "guid": "pM4JZgEr7xTAEYzROaPbTOyXa4VLd8f4RwrZN",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "RECURRING PAYMENT AUTHORIZED ON 01/07 ZIP.CO* QUADPAY AN 164-68139492 NY S304007441338768 CARD 8681",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 26.49,
+      "date": "2024-01-08",
+      "description": "RECURRING PAYMENT AUTHORIZED ON 01/07 ZIP.CO* QUADPAY AN 164-68139492 NY S304007441338768 CARD 8681",
+      "guid": "6Jyag6jw4et509dQ6KNmh0p6jn0zPvfNdRraE",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "PURCHASE AUTHORIZED ON 12/20 QT 7140 INSIDE CHATTANOOGA TN S463354392027234 CARD 8681",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 6.6,
+      "date": "2023-12-22",
+      "description": "PURCHASE AUTHORIZED ON 12/20 QT 7140 INSIDE CHATTANOOGA TN S463354392027234 CARD 8681",
+      "guid": "Q8JPe96g0kCjB8Drea6nSQX18EQ5aVs4L1rOn",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "Cash App Yves Tohou 240111 T3WBSZFFFDERCXP Yves Tohouo",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 4.75,
+      "date": "2024-01-11",
+      "description": "Cash App Yves Tohou 240111 T3WBSZFFFDERCXP Yves Tohouo",
+      "guid": "Q8JPe96g0kCjB8Drea6nSQX18EQ5aVs4L1ryP",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "RECURRING PAYMENT AUTHORIZED ON 11/22 ZIP.CO* QUADPAY AN 164-68139492 NY S303326788384619 CARD 6000",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 75.05,
+      "date": "2023-11-24",
+      "description": "RECURRING PAYMENT AUTHORIZED ON 11/22 ZIP.CO* QUADPAY AN 164-68139492 NY S303326788384619 CARD 6000",
+      "guid": "Q8JPe96g0kCjB8Drea6nSQX8rRO6AYT4VxR4R",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "BUYUK LOGISTIX DIRECT DEP 231207 938328756260YJZ TOHOUO TCHUESS,YVES",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 1010.63,
+      "date": "2023-12-07",
+      "description": "BUYUK LOGISTIX DIRECT DEP 231207 938328756260YJZ TOHOUO TCHUESS,YVES",
+      "guid": "Q8JPe96g0kCjB8Drea6nSQX8rRO6AYT4VxR95",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Payroll\"]"
+    },
+    {
+      "originalDescription": "PURCHASE AUTHORIZED ON 10/18 Wave NY S383292160864276 CARD 6000",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 66.0,
+      "date": "2023-10-20",
+      "description": "PURCHASE AUTHORIZED ON 10/18 Wave NY S383292160864276 CARD 6000",
+      "guid": "Q8JPe96g0kCjB8Drea6nSQX8rRO6AYT4VxRbN",
+      "type": "DEBIT",
+      "category": "[\"Service\"]"
+    },
+    {
+      "originalDescription": "PURCHASE AUTHORIZED ON 11/10 SIRI BUBBLE TEA MURFREESBORO TN S583315060529341 CARD 6000",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 18.08,
+      "date": "2023-11-13",
+      "description": "PURCHASE AUTHORIZED ON 11/10 SIRI BUBBLE TEA MURFREESBORO TN S583315060529341 CARD 6000",
+      "guid": "Q8JPe96g0kCjB8Drea6nSQX8rRO6AYT4VxRzR",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Food and Beverage Store\"]"
+    },
+    {
+      "originalDescription": "ZELLE TO DIASPORA LIONS LLC ON 12/16 REF #RP0RSSNLHP",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 69.0,
+      "date": "2023-12-18",
+      "description": "ZELLE TO DIASPORA LIONS LLC ON 12/16 REF #RP0RSSNLHP",
+      "guid": "5m34bw0dOnFZQJqKOy9NsD8M0yDoJQI458awy",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "PURCHASE AUTHORIZED ON 12/23 MS MARIAN'S CAFE MURFREESBORO TN S303358057296658 CARD 8681",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 9.33,
+      "date": "2023-12-26",
+      "description": "PURCHASE AUTHORIZED ON 12/23 MS MARIAN'S CAFE MURFREESBORO TN S303358057296658 CARD 8681",
+      "guid": "5m34bw0dOnFZQJqKOy9NsD8M0yDoJQI458aBy",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "MONTHLY SERVICE FEE",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 5.0,
+      "date": "2023-12-29",
+      "description": "MONTHLY SERVICE FEE",
+      "guid": "5m34bw0dOnFZQJqKOy9NsD8M0yDoJQI458aBD",
+      "type": "DEBIT",
+      "category": "[\"Bank Fees\"]"
+    },
+    {
+      "originalDescription": "ZELLE FROM RAINELLI KOUMANGOYE ON 12/07 REF # BACLJBN7WMTM DJANGUY",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 500.0,
+      "date": "2023-12-08",
+      "description": "ZELLE FROM RAINELLI KOUMANGOYE ON 12/07 REF # BACLJBN7WMTM DJANGUY",
+      "guid": "5m34bw0dOnFZQJqKOy9NsD801Ak635F4MnzNa",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "PURCHASE AUTHORIZED ON 10/24 SAN MARCOS SUPERME MURFREESBORO TN S463297837901880 CARD 6000",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 8.91,
+      "date": "2023-10-25",
+      "description": "PURCHASE AUTHORIZED ON 10/24 SAN MARCOS SUPERME MURFREESBORO TN S463297837901880 CARD 6000",
+      "guid": "5m34bw0dOnFZQJqKOy9NsD801Ak635F4Mnzd9",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "Cash App Yves Tohou 231111 T3QTPJHYK47B84D Yves Tohouo",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 11.0,
+      "date": "2023-11-13",
+      "description": "Cash App Yves Tohou 231111 T3QTPJHYK47B84D Yves Tohouo",
+      "guid": "5m34bw0dOnFZQJqKOy9NsD801Ak635F4Mnz6w",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "PURCHASE AUTHORIZED ON 11/24 SIRI BUBBLE TEA MURFREESBORO TN S583328772984297 CARD 6000",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 13.16,
+      "date": "2023-11-27",
+      "description": "PURCHASE AUTHORIZED ON 11/24 SIRI BUBBLE TEA MURFREESBORO TN S583328772984297 CARD 6000",
+      "guid": "5m34bw0dOnFZQJqKOy9NsD801Ak635F4Mnz4w",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Food and Beverage Store\"]"
+    },
+    {
+      "originalDescription": "RECURRING PAYMENT AUTHORIZED ON 12/18 ZIP.CO* PAYMENT 63 164-68139492 NY S383352387003381 CARD 8681",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 41.94,
+      "date": "2023-12-19",
+      "description": "RECURRING PAYMENT AUTHORIZED ON 12/18 ZIP.CO* PAYMENT 63 164-68139492 NY S383352387003381 CARD 8681",
+      "guid": "qMxJ57R4ErT1RONgBowbTak3EAayvLhE8pMDz",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "RECURRING PAYMENT AUTHORIZED ON 01/05 DEFERIT* JAN MTHLY HTTPSDEFERIT. NY S464005701170042 CARD 8681",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 14.99,
+      "date": "2024-01-08",
+      "description": "RECURRING PAYMENT AUTHORIZED ON 01/05 DEFERIT* JAN MTHLY HTTPSDEFERIT. NY S464005701170042 CARD 8681",
+      "guid": "qMxJ57R4ErT1RONgBowbTak3EAayvLhE8pMJV",
+      "type": "DEBIT",
+      "category": "[\"Service\"]"
+    },
+    {
+      "originalDescription": "PURCHASE AUTHORIZED ON 11/16 Sendwave *3811S NY S583320406050145 CARD 6000",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 100.85,
+      "date": "2023-11-17",
+      "description": "PURCHASE AUTHORIZED ON 11/16 Sendwave *3811S NY S583320406050145 CARD 6000",
+      "guid": "qMxJ57R4ErT1RONgBowbTakENY1q9pIE964BQ",
+      "type": "DEBIT",
+      "category": "[\"Service\"]"
+    },
+    {
+      "originalDescription": "ZELLE TO DIASPORA LIONS LLC ON 12/09 REF #RP0RS7FRTM",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 173.0,
+      "date": "2023-12-11",
+      "description": "ZELLE TO DIASPORA LIONS LLC ON 12/09 REF #RP0RS7FRTM",
+      "guid": "qMxJ57R4ErT1RONgBowbTakENY1q9pIE964Dv",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "BUYUK LOGISTIX DIRECT DEP 231130 649066184659YJZ TOHOUO TCHUESS,YVES",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 736.2,
+      "date": "2023-11-30",
+      "description": "BUYUK LOGISTIX DIRECT DEP 231130 649066184659YJZ TOHOUO TCHUESS,YVES",
+      "guid": "qMxJ57R4ErT1RONgBowbTakENY1q9pIE964EQ",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Payroll\"]"
+    },
+    {
+      "originalDescription": "ATM WITHDRAWAL AUTHORIZED ON 11/26 2018 Old Fort Pkwy Murfreesboro TN 0003317 ATM ID 6533P CARD 6000",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 500.0,
+      "date": "2023-11-27",
+      "description": "ATM WITHDRAWAL AUTHORIZED ON 11/26 2018 Old Fort Pkwy Murfreesboro TN 0003317 ATM ID 6533P CARD 6000",
+      "guid": "4aBrodvxenf8yw7OBxN5iAoYDbxLn5Tnxo6na",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "PURCHASE AUTHORIZED ON 11/14 SIRI BUBBLE TEA MURFREESBORO TN S303318846928097 CARD 6000",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 13.72,
+      "date": "2023-11-15",
+      "description": "PURCHASE AUTHORIZED ON 11/14 SIRI BUBBLE TEA MURFREESBORO TN S303318846928097 CARD 6000",
+      "guid": "4aBrodvxenf8yw7OBxN5iAoYDbxLn5Tnxo6Ja",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Food and Beverage Store\"]"
+    },
+    {
+      "originalDescription": "OPPFINANC PAYMENT 231102 LAI003246548 YVES LIONEL TOHOUO",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 59.07,
+      "date": "2023-11-02",
+      "description": "OPPFINANC PAYMENT 231102 LAI003246548 YVES LIONEL TOHOUO",
+      "guid": "qMxJ57R4ErT1RONgBowbTakENY1q9pIE964xN",
+      "type": "DEBIT",
+      "category": "[\"Payment\"]"
+    },
+    {
+      "originalDescription": "Cash App Yves Tohou 231208 T38BDVFFNSAHNNB Yves Tohouo",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 4.5,
+      "date": "2023-12-08",
+      "description": "Cash App Yves Tohou 231208 T38BDVFFNSAHNNB Yves Tohouo",
+      "guid": "4aBrodvxenf8yw7OBxN5iAoYDbxLn5Tnxo6DL",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "Circle K",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 2.49,
+      "date": "2023-10-30",
+      "description": "Circle K",
+      "guid": "4aBrodvxenf8yw7OBxN5iAoYDbxLn5Tnxo61Z",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Convenience Stores\"]"
+    },
+    {
+      "originalDescription": "Walmart",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 7.75,
+      "date": "2023-12-18",
+      "description": "Walmart",
+      "guid": "4aBrodvxenf8yw7OBxN5iAo3YaAd69Hnd9pR8",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Department Stores\"]"
+    },
+    {
+      "originalDescription": "BUYUK LOGISTIX DIRECT DEP 231228 941828837964YJZ TOHOUO TCHUESS,YVES",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 668.7,
+      "date": "2023-12-28",
+      "description": "BUYUK LOGISTIX DIRECT DEP 231228 941828837964YJZ TOHOUO TCHUESS,YVES",
+      "guid": "4aBrodvxenf8yw7OBxN5iAo3YaAd69Hnd9pk8",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Payroll\"]"
+    },
+    {
+      "originalDescription": "Walmart",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 7.75,
+      "date": "2024-01-03",
+      "description": "Walmart",
+      "guid": "4aBrodvxenf8yw7OBxN5iAo3YaAd69Hnd9pk5",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Department Stores\"]"
+    },
+    {
+      "originalDescription": "BUYUK LOGISTIX DIRECT DEP 240104 939928586565YJZ TOHOUO TCHUESS,YVES",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 161.61,
+      "date": "2024-01-04",
+      "description": "BUYUK LOGISTIX DIRECT DEP 240104 939928586565YJZ TOHOUO TCHUESS,YVES",
+      "guid": "rM4Jo9QadrTrV0o47ZxbFJp09vJRmEIw1RMB0",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Payroll\"]"
+    },
+    {
+      "originalDescription": "PURCHASE AUTHORIZED ON 12/27 CASH APP*KEEGAN RO CA S583361739722048 CARD 8681",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 45.0,
+      "date": "2023-12-28",
+      "description": "PURCHASE AUTHORIZED ON 12/27 CASH APP*KEEGAN RO CA S583361739722048 CARD 8681",
+      "guid": "rM4Jo9QadrTrV0o47ZxbFJp09vJRmEIw1RMBb",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "ZELLE TO DIASPORA LIONS LLC ON 12/17 REF #RP0RSW4KZC",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 37.0,
+      "date": "2023-12-18",
+      "description": "ZELLE TO DIASPORA LIONS LLC ON 12/17 REF #RP0RSW4KZC",
+      "guid": "rM4Jo9QadrTrV0o47ZxbFJp09vJRmEIw1RMVb",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "Cash App Yves Tohou 231115 T3JT8QFVCN1VVP9 Yves Tohouo",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 11.0,
+      "date": "2023-11-15",
+      "description": "Cash App Yves Tohou 231115 T3JT8QFVCN1VVP9 Yves Tohouo",
+      "guid": "rM4Jo9QadrTrV0o47ZxbFJp9AO6Xw3HwNL5ax",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "ZELLE TO DIASPORA LIONS LLC ON 12/18 REF #RP0RSWTLZ6",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 524.0,
+      "date": "2023-12-18",
+      "description": "ZELLE TO DIASPORA LIONS LLC ON 12/18 REF #RP0RSWTLZ6",
+      "guid": "jEobrJgKn3iLo850OZYytgoQELgdzMSjD6oeY",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "RECURRING PAYMENT AUTHORIZED ON 10/28 ZIP.CO* QUADPAY AN 164-68139492 NY S583301345886977 CARD 6000",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 20.5,
+      "date": "2023-10-30",
+      "description": "RECURRING PAYMENT AUTHORIZED ON 10/28 ZIP.CO* QUADPAY AN 164-68139492 NY S583301345886977 CARD 6000",
+      "guid": "rM4Jo9QadrTrV0o47ZxbFJp9AO6Xw3HwNL5Kg",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "PURCHASE AUTHORIZED ON 12/07 QT 7145 INSIDE LEBANON TN S383341370654145 CARD 6000",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 7.33,
+      "date": "2023-12-11",
+      "description": "PURCHASE AUTHORIZED ON 12/07 QT 7145 INSIDE LEBANON TN S383341370654145 CARD 6000",
+      "guid": "rM4Jo9QadrTrV0o47ZxbFJp9AO6Xw3HwNL5rQ",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "PURCHASE AUTHORIZED ON 11/26 GLOBAL STAR MARKET MURFREESBORO TN S463330799357618 CARD 6000",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 40.14,
+      "date": "2023-11-27",
+      "description": "PURCHASE AUTHORIZED ON 11/26 GLOBAL STAR MARKET MURFREESBORO TN S463330799357618 CARD 6000",
+      "guid": "rM4Jo9QadrTrV0o47ZxbFJp9AO6Xw3HwNL5wx",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "RECURRING PAYMENT AUTHORIZED ON 12/18 ZIP.CO* PAYMENT AC 164-68139492 NY S383352377908738 CARD 8681",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 21.2,
+      "date": "2023-12-19",
+      "description": "RECURRING PAYMENT AUTHORIZED ON 12/18 ZIP.CO* PAYMENT AC 164-68139492 NY S383352377908738 CARD 8681",
+      "guid": "34qm5MAabnFJnx9Verd1UzKxAXze1qFAwykoD",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "PURCHASE AUTHORIZED ON 01/04 QT 7145 INSIDE LEBANON TN S304004500336949 CARD 8681",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 5.66,
+      "date": "2024-01-08",
+      "description": "PURCHASE AUTHORIZED ON 01/04 QT 7145 INSIDE LEBANON TN S304004500336949 CARD 8681",
+      "guid": "34qm5MAabnFJnx9Verd1UzKxAXze1qFAwykKa",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "RECURRING PAYMENT AUTHORIZED ON 12/21 ADVANCE FINANCIAL TN S303355690160516 CARD 8681",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 200.0,
+      "date": "2023-12-22",
+      "description": "RECURRING PAYMENT AUTHORIZED ON 12/21 ADVANCE FINANCIAL TN S303355690160516 CARD 8681",
+      "guid": "RZJqeVLgdAUrMX0mQdL1F6Q7PK6AjVIqn73ek",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]"
+    },
+    {
+      "originalDescription": "Cash App Yves Tohou 240111 T3EG58D2JCDEZS2 Yves Tohouo",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 12.46,
+      "date": "2024-01-11",
+      "description": "Cash App Yves Tohou 240111 T3EG58D2JCDEZS2 Yves Tohouo",
+      "guid": "RZJqeVLgdAUrMX0mQdL1F6Q7PK6AjVIqn73VB",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "PURCHASE AUTHORIZED ON 11/10 SIRI BUBBLE TEA MURFREESBORO TN S583315061730132 CARD 6000",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 6.31,
+      "date": "2023-11-13",
+      "description": "PURCHASE AUTHORIZED ON 11/10 SIRI BUBBLE TEA MURFREESBORO TN S583315061730132 CARD 6000",
+      "guid": "RZJqeVLgdAUrMX0mQdL1F6QP98eLXMFqaZP45",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Food and Beverage Store\"]"
+    },
+    {
+      "originalDescription": "ZELLE FROM ERIC LOUEMBET ON 12/07 REF # RGN0I0DSEHEW",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 500.0,
+      "date": "2023-12-07",
+      "description": "ZELLE FROM ERIC LOUEMBET ON 12/07 REF # RGN0I0DSEHEW",
+      "guid": "RZJqeVLgdAUrMX0mQdL1F6QP98eLXMFqaZP9M",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "RECURRING PAYMENT AUTHORIZED ON 10/19 ZIP.CO* QUADPAY CH 164-68139492 NY S303292438411341 CARD 6000",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 54.09,
+      "date": "2023-10-20",
+      "description": "RECURRING PAYMENT AUTHORIZED ON 10/19 ZIP.CO* QUADPAY CH 164-68139492 NY S303292438411341 CARD 6000",
+      "guid": "RZJqeVLgdAUrMX0mQdL1F6QP98eLXMFqaZPdD",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "RECURRING PAYMENT AUTHORIZED ON 11/23 ZIP.CO* QUADPAY CH 164-68139492 NY S383327389874649 CARD 6000",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 68.67,
+      "date": "2023-11-24",
+      "description": "RECURRING PAYMENT AUTHORIZED ON 11/23 ZIP.CO* QUADPAY CH 164-68139492 NY S383327389874649 CARD 6000",
+      "guid": "RZJqeVLgdAUrMX0mQdL1F6QP98eLXMFqaZPq5",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "PURCHASE AUTHORIZED ON 01/11 RACETRAC 2583 LA VERGNE TN P304012231285187 CARD 8681",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 9.09,
+      "date": "2024-01-12",
+      "description": "PURCHASE AUTHORIZED ON 01/11 RACETRAC 2583 LA VERGNE TN P304012231285187 CARD 8681",
+      "guid": "RZJqeVLgdAUrMX0mQdLvSKgzkQDXJqI49jan3",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "Cash App Yves Tohou 231222 T3PRBQKB19X4RC7 Yves Tohouo",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 12.0,
+      "date": "2023-12-22",
+      "description": "Cash App Yves Tohou 231222 T3PRBQKB19X4RC7 Yves Tohouo",
+      "guid": "VEQKewqgDXiJXZyMQeq3UvY6Prvap8FjEgx41",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "OPPFINANC PAYMENT 231214 LAI003246548 YVES LIONEL TOHOUO",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 59.07,
+      "date": "2023-12-14",
+      "description": "OPPFINANC PAYMENT 231214 LAI003246548 YVES LIONEL TOHOUO",
+      "guid": "VEQKewqgDXiJXZyMQeq3UvY6Prvap8FjEgxn1",
+      "type": "DEBIT",
+      "category": "[\"Payment\"]"
+    },
+    {
+      "originalDescription": "PURCHASE AUTHORIZED ON 10/21 Shifty's MURFREESBORO TN P463295045788711 CARD 6000",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 16.45,
+      "date": "2023-10-23",
+      "description": "PURCHASE AUTHORIZED ON 10/21 Shifty's MURFREESBORO TN P463295045788711 CARD 6000",
+      "guid": "VEQKewqgDXiJXZyMQeq3UvYPOd4wmNfjvMDa0",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "OPPFINANC PAYMENT 231124 LAI003246548 YVES LIONEL TOHOUO",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 59.07,
+      "date": "2023-11-24",
+      "description": "OPPFINANC PAYMENT 231124 LAI003246548 YVES LIONEL TOHOUO",
+      "guid": "VEQKewqgDXiJXZyMQeq3UvYPOd4wmNfjvMDjk",
+      "type": "DEBIT",
+      "category": "[\"Payment\"]"
+    },
+    {
+      "originalDescription": "Circle K",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 4.05,
+      "date": "2023-11-02",
+      "description": "Circle K",
+      "guid": "34qm5MAabnFJnx9Verd1UzKAJ8pORbIAnqdzo",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Convenience Stores\"]"
+    },
+    {
+      "originalDescription": "Walmart",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 15.78,
+      "date": "2023-12-11",
+      "description": "Walmart",
+      "guid": "34qm5MAabnFJnx9Verd1UzKAJ8pORbIAnqdow",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Department Stores\"]"
+    },
+    {
+      "originalDescription": "PURCHASE AUTHORIZED ON 11/28 Sendwave *JXHOW NY S583332812349170 CARD 6000",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 210.0,
+      "date": "2023-11-29",
+      "description": "PURCHASE AUTHORIZED ON 11/28 Sendwave *JXHOW NY S583332812349170 CARD 6000",
+      "guid": "34qm5MAabnFJnx9Verd1UzKAJ8pORbIAnqdAk",
+      "type": "DEBIT",
+      "category": "[\"Service\"]"
+    },
+    {
+      "originalDescription": "ZELLE FROM JOSE LOUIS CHARLES ON 11/17 REF # NAV0HZTH0TSA",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 500.0,
+      "date": "2023-11-17",
+      "description": "ZELLE FROM JOSE LOUIS CHARLES ON 11/17 REF # NAV0HZTH0TSA",
+      "guid": "34qm5MAabnFJnx9Verd1UzKAJ8pORbIAnqd7k",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "PURCHASE AUTHORIZED ON 12/02 MS MARIAN'S CAFE MURFREESBORO TN S383337043624430 CARD 6000",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 9.33,
+      "date": "2023-12-04",
+      "description": "PURCHASE AUTHORIZED ON 12/02 MS MARIAN'S CAFE MURFREESBORO TN S383337043624430 CARD 6000",
+      "guid": "1j1v8VKrRntayAgo4Jz9sbYKa3kxeBFgyxDYQ",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "Starbucks",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 8.63,
+      "date": "2023-10-16",
+      "description": "Starbucks",
+      "guid": "1j1v8VKrRntayAgo4Jz9sbYKa3kxeBFgyxDqO",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Coffee Shop\"]"
+    },
+    {
+      "originalDescription": "Walmart",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 9.18,
+      "date": "2023-11-08",
+      "description": "Walmart",
+      "guid": "1j1v8VKrRntayAgo4Jz9sbYKa3kxeBFgyxDop",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "PURCHASE AUTHORIZED ON 11/01 Sendwave *EX67V NY S463306075781542 CARD 6000",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 57.2,
+      "date": "2023-11-03",
+      "description": "PURCHASE AUTHORIZED ON 11/01 Sendwave *EX67V NY S463306075781542 CARD 6000",
+      "guid": "1j1v8VKrRntayAgo4Jz9sbYKa3kxeBFgyxDoO",
+      "type": "DEBIT",
+      "category": "[\"Service\"]"
+    },
+    {
+      "originalDescription": "ZELLE TO DIASPORA LIONS LLC ON 12/10 REF #RP0RS94QPL",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 85.0,
+      "date": "2023-12-11",
+      "description": "ZELLE TO DIASPORA LIONS LLC ON 12/10 REF #RP0RS94QPL",
+      "guid": "1j1v8VKrRntayAgo4Jz9sbYKa3kxeBFgyxDnQ",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "RECURRING PAYMENT AUTHORIZED ON 11/16 ZIP.CO* QUADPAY AN 164-68139492 NY S303321263118341 CARD 6000",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 28.68,
+      "date": "2023-11-17",
+      "description": "RECURRING PAYMENT AUTHORIZED ON 11/16 ZIP.CO* QUADPAY AN 164-68139492 NY S303321263118341 CARD 6000",
+      "guid": "1j1v8VKrRntayAgo4Jz9sbYKa3kxeBFgyxDjp",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "Walmart",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 13.1,
+      "date": "2023-11-30",
+      "description": "Walmart",
+      "guid": "1j1v8VKrRntayAgo4Jz9sbYKa3kxeBFgyxDgp",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Department Stores\"]"
+    },
+    {
+      "originalDescription": "MONEY TRANSFER AUTHORIZED ON 12/18 CASH APP*YVES TOHO CA S583353159963837 CARD 8681",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 9.0,
+      "date": "2023-12-19",
+      "description": "MONEY TRANSFER AUTHORIZED ON 12/18 CASH APP*YVES TOHO CA S583353159963837 CARD 8681",
+      "guid": "1j1v8VKrRntayAgo4Jz9sbY9KobP7ECgaNZn5",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "PURCHASE AUTHORIZED ON 01/06 Shifty's MURFREESBORO TN P384007075000786 CARD 8681",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 16.45,
+      "date": "2024-01-08",
+      "description": "PURCHASE AUTHORIZED ON 01/06 Shifty's MURFREESBORO TN P384007075000786 CARD 8681",
+      "guid": "1j1v8VKrRntayAgo4Jz9sbY9KobP7ECgaNZmV",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "Best Buy",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 17.46,
+      "date": "2024-01-04",
+      "description": "Best Buy",
+      "guid": "jEobrJgKn3iLo850OZYytgoQELgdzMSjD6oRr",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Computers and Electronics\"]"
+    },
+    {
+      "originalDescription": "PURCHASE AUTHORIZED ON 10/29 Sendwave *HGDU1 NY S583302536417388 CARD 6000",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 147.13,
+      "date": "2023-10-30",
+      "description": "PURCHASE AUTHORIZED ON 10/29 Sendwave *HGDU1 NY S583302536417388 CARD 6000",
+      "guid": "00DAJ9mjRnU4zNb8e1ZQfeXYNB8ry1ivO4ExJ",
+      "type": "DEBIT",
+      "category": "[\"Service\"]"
+    },
+    {
+      "originalDescription": "PURCHASE AUTHORIZED ON 11/26 SAN MARCOS SUPERME MURFREESBORO TN S383330862858348 CARD 6000",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 14.02,
+      "date": "2023-11-27",
+      "description": "PURCHASE AUTHORIZED ON 11/26 SAN MARCOS SUPERME MURFREESBORO TN S383330862858348 CARD 6000",
+      "guid": "00DAJ9mjRnU4zNb8e1ZQfeXYNB8ry1ivO4EvQ",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "PURCHASE AUTHORIZED ON 12/07 Wave NY S583342129820648 CARD 6000",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 50.1,
+      "date": "2023-12-11",
+      "description": "PURCHASE AUTHORIZED ON 12/07 Wave NY S583342129820648 CARD 6000",
+      "guid": "00DAJ9mjRnU4zNb8e1ZQfeXYNB8ry1ivO4E9O",
+      "type": "DEBIT",
+      "category": "[\"Service\"]"
+    },
+    {
+      "originalDescription": "Cash App Yves Tohou 231228 T3E7ZPHP7W1JZZE Yves Tohouo",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 8.0,
+      "date": "2023-12-28",
+      "description": "Cash App Yves Tohou 231228 T3E7ZPHP7W1JZZE Yves Tohouo",
+      "guid": "00DAJ9mjRnU4zNb8e1ZQfeXvYEejq9tvdwzrx",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "MONEY TRANSFER AUTHORIZED ON 01/03 CASH APP*YVES TOHO CA S584004015823365 CARD 8681",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 109.0,
+      "date": "2024-01-04",
+      "description": "MONEY TRANSFER AUTHORIZED ON 01/03 CASH APP*YVES TOHO CA S584004015823365 CARD 8681",
+      "guid": "00DAJ9mjRnU4zNb8e1ZQfeXvYEejq9tvdwzrR",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "Advance Financia RETRY PAYM 141225 23273972 Yves L Tohouo Tchuessa",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 152.34,
+      "date": "2023-12-18",
+      "description": "Advance Financia RETRY PAYM 141225 23273972 Yves L Tohouo Tchuessa",
+      "guid": "00DAJ9mjRnU4zNb8e1ZQfeXvYEejq9tvdwzAx",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]"
+    },
+    {
+      "originalDescription": "RECURRING PAYMENT AUTHORIZED ON 01/11 ADVANCE FINANCIAL TN S584011376453220 CARD 8681",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 389.25,
+      "date": "2024-01-12",
+      "description": "RECURRING PAYMENT AUTHORIZED ON 01/11 ADVANCE FINANCIAL TN S584011376453220 CARD 8681",
+      "guid": "nn4bJoO07Atrb13VmDOPSrw1vQyMKAI0jwK3v",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]"
+    },
+    {
+      "originalDescription": "MONEY MESSIAH II DIRECT PAY SD1800 240112143833L99 YVES LIONEL TOHOUO TCH",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 600.0,
+      "date": "2024-01-12",
+      "description": "MONEY MESSIAH II DIRECT PAY SD1800 240112143833L99 YVES LIONEL TOHOUO TCH",
+      "guid": "pM4JZgEr7xTAEYzROaPBFk5Zxyed1JiZA5Ryw",
+      "type": "CREDIT",
+      "category": "[\"Shops\",\"Beauty Products\"]"
+    },
+    {
+      "originalDescription": "PURCHASE AUTHORIZED ON 01/11 Sendwave *FDPHL NY S464011734110883 CARD 8681",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 52.0,
+      "date": "2024-01-12",
+      "description": "PURCHASE AUTHORIZED ON 01/11 Sendwave *FDPHL NY S464011734110883 CARD 8681",
+      "guid": "Q8JPe96g0kCjB8Drea6AUE3ZmX9Ax4Uz9aVL1",
+      "type": "DEBIT",
+      "category": "[\"Service\"]"
+    },
+    {
+      "originalDescription": "Walmart",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 1700.0,
+      "date": "2023-12-07",
+      "description": "Walmart",
+      "guid": "VEQKewqgDXiJXZyMQeq3UvYPOd4wmNfjvMDnB",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "MONEY TRANSFER AUTHORIZED ON 11/11 CASH APP*YVES TOHO CA S583315469431145 CARD 6000",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 10.0,
+      "date": "2023-11-13",
+      "description": "MONEY TRANSFER AUTHORIZED ON 11/11 CASH APP*YVES TOHO CA S583315469431145 CARD 6000",
+      "guid": "VEQKewqgDXiJXZyMQeq3UvYPOd4wmNfjvMDXk",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "Cash App Yves Tohou 231125 T3MYAMSFQGX7ZHX Yves Tohouo",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 11.0,
+      "date": "2023-11-27",
+      "description": "Cash App Yves Tohou 231125 T3MYAMSFQGX7ZHX Yves Tohouo",
+      "guid": "vMVL9dN6DgTpBy4NjE5biBwayNjxOJf0KqJ0d",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "ZELLE FROM LOURCI RAUYE NDZOUNAS ON 11/16 REF # BACQYCGJC9QC",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 500.0,
+      "date": "2023-11-16",
+      "description": "ZELLE FROM LOURCI RAUYE NDZOUNAS ON 11/16 REF # BACQYCGJC9QC",
+      "guid": "vMVL9dN6DgTpBy4NjE5biBwayNjxOJf0KqJkd",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "RECURRING PAYMENT AUTHORIZED ON 12/08 ZIP.CO* QUADPAY AN 164-68139492 NY S463342496174409 CARD 6000",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 14.43,
+      "date": "2023-12-11",
+      "description": "RECURRING PAYMENT AUTHORIZED ON 12/08 ZIP.CO* QUADPAY AN 164-68139492 NY S463342496174409 CARD 6000",
+      "guid": "vMVL9dN6DgTpBy4NjE5biBwayNjxOJf0KqJpx",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "MONTHLY SERVICE FEE",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 5.0,
+      "date": "2023-10-31",
+      "description": "MONTHLY SERVICE FEE",
+      "guid": "vMVL9dN6DgTpBy4NjE5biBwayNjxOJf0KqJY7",
+      "type": "DEBIT",
+      "category": "[\"Bank Fees\"]"
+    },
+    {
+      "originalDescription": "Cash App Yves Tohou 231228 T3S89H6Y9C3VRRR Yves Tohouo",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 11.0,
+      "date": "2023-12-28",
+      "description": "Cash App Yves Tohou 231228 T3S89H6Y9C3VRRR Yves Tohouo",
+      "guid": "vMVL9dN6DgTpBy4NjE5biBwna4BgPAt0n4bmk",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "OPPFINANC PAYMENT 240104 LAI003246548 YVES LIONEL TOHOUO",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 59.07,
+      "date": "2024-01-04",
+      "description": "OPPFINANC PAYMENT 240104 LAI003246548 YVES LIONEL TOHOUO",
+      "guid": "vMVL9dN6DgTpBy4NjE5biBwna4BgPAt0n4bmq",
+      "type": "DEBIT",
+      "category": "[\"Payment\"]"
+    },
+    {
+      "originalDescription": "Cash App Yves Tohou 231218 T3PG97HH35FEC5P Yves Tohouo",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 11.0,
+      "date": "2023-12-18",
+      "description": "Cash App Yves Tohou 231218 T3PG97HH35FEC5P Yves Tohouo",
+      "guid": "vMVL9dN6DgTpBy4NjE5biBwna4BgPAt0n4bVk",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "PURCHASE AUTHORIZED ON 11/08 E & S INTERNATIONA MURFREESBORO TN S583313081564014 CARD 6000",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 6.19,
+      "date": "2023-11-09",
+      "description": "PURCHASE AUTHORIZED ON 11/08 E & S INTERNATIONA MURFREESBORO TN S583313081564014 CARD 6000",
+      "guid": "wMdDVweL1RTvzRP6YOmbsZj6Ow1gP4tvkBXe4",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "Walmart",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 66.0,
+      "date": "2023-11-03",
+      "description": "Walmart",
+      "guid": "wMdDVweL1RTvzRP6YOmbsZj6Ow1gP4tvkBXen",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "ZELLE TO DIASPORA LIONS LLC ON 12/11 REF #RP0RSC65RH",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 100.0,
+      "date": "2023-12-11",
+      "description": "ZELLE TO DIASPORA LIONS LLC ON 12/11 REF #RP0RSC65RH",
+      "guid": "wMdDVweL1RTvzRP6YOmbsZj6Ow1gP4tvkBXKr",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "PURCHASE AUTHORIZED ON 10/13 QT 7144 OUTSIDE GOODLETTSVILL TN P303287194063412 CARD 6000",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 8.03,
+      "date": "2023-10-16",
+      "description": "PURCHASE AUTHORIZED ON 10/13 QT 7144 OUTSIDE GOODLETTSVILL TN P303287194063412 CARD 6000",
+      "guid": "wMdDVweL1RTvzRP6YOmbsZj6Ow1gP4tvkBXMn",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "Cash App Yves Tohou 231204 T3ZBP0Y16Q4D5RZ Yves Tohouo",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 11.0,
+      "date": "2023-12-04",
+      "description": "Cash App Yves Tohou 231204 T3ZBP0Y16Q4D5RZ Yves Tohouo",
+      "guid": "wMdDVweL1RTvzRP6YOmbsZj6Ow1gP4tvkBXRr",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "PURCHASE AUTHORIZED ON 11/30 Wave NY S303334437383928 CARD 6000",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 17.0,
+      "date": "2023-12-01",
+      "description": "PURCHASE AUTHORIZED ON 11/30 Wave NY S303334437383928 CARD 6000",
+      "guid": "wMdDVweL1RTvzRP6YOmbsZj6Ow1gP4tvkBXv4",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\"]"
+    },
+    {
+      "originalDescription": "PURCHASE AUTHORIZED ON 11/17 FAST CASH TN S303321486210780 CARD 6000",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 480.0,
+      "date": "2023-11-20",
+      "description": "PURCHASE AUTHORIZED ON 11/17 FAST CASH TN S303321486210780 CARD 6000",
+      "guid": "wMdDVweL1RTvzRP6YOmbsZj6Ow1gP4tvkBXy4",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]"
+    },
+    {
+      "originalDescription": "Cash App Yves Tohou 231219 T3RMAKY87GT3VBN Yves Tohouo",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 8.0,
+      "date": "2023-12-19",
+      "description": "Cash App Yves Tohou 231219 T3RMAKY87GT3VBN Yves Tohouo",
+      "guid": "wMdDVweL1RTvzRP6YOmbsZjX6vZdbyCvwNbK8",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "RECURRING PAYMENT AUTHORIZED ON 01/08 ZIP.CO* QUADPAY AN 164-68139492 NY S584008534171160 CARD 8681",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 90.92,
+      "date": "2024-01-09",
+      "description": "RECURRING PAYMENT AUTHORIZED ON 01/08 ZIP.CO* QUADPAY AN 164-68139492 NY S584008534171160 CARD 8681",
+      "guid": "wMdDVweL1RTvzRP6YOmbsZjX6vZdbyCvwNbL0",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "Best Buy",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 17.46,
+      "date": "2023-12-21",
+      "description": "Best Buy",
+      "guid": "XE8AeL3gPXiZ8zr0xP3Ksq8XYQqzjeSaxgndR",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Computers and Electronics\"]"
+    },
+    {
+      "originalDescription": "BUYUK LOGISTIX DIRECT DEP 240111 537090145238YJZ ,DIAPORA LION LLC",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 900.0,
+      "date": "2024-01-11",
+      "description": "BUYUK LOGISTIX DIRECT DEP 240111 537090145238YJZ ,DIAPORA LION LLC",
+      "guid": "XE8AeL3gPXiZ8zr0xP3Ksq8XYQqzjeSaxgnr8",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Payroll\"]"
+    },
+    {
+      "originalDescription": "PURCHASE AUTHORIZED ON 11/09 WORLDFINANCIALGROU GA S303314031492054 CARD 6000",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 15.0,
+      "date": "2023-11-10",
+      "description": "PURCHASE AUTHORIZED ON 11/09 WORLDFINANCIALGROU GA S303314031492054 CARD 6000",
+      "guid": "XE8AeL3gPXiZ8zr0xP3Ksq8YwMdLmPHa9NQ0x",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "BUYUK LOGISTIX DIRECT DEP 231124 539090256965YJZ TOHOUO TCHUESS,YVES",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 729.58,
+      "date": "2023-11-24",
+      "description": "BUYUK LOGISTIX DIRECT DEP 231124 539090256965YJZ TOHOUO TCHUESS,YVES",
+      "guid": "XE8AeL3gPXiZ8zr0xP3Ksq8YwMdLmPHa9NQax",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Payroll\"]"
+    },
+    {
+      "originalDescription": "PURCHASE AUTHORIZED ON 11/05 SHIFTY'S MURFREESBORO TN S583309771138586 CARD 6000",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 16.45,
+      "date": "2023-11-06",
+      "description": "PURCHASE AUTHORIZED ON 11/05 SHIFTY'S MURFREESBORO TN S583309771138586 CARD 6000",
+      "guid": "XE8AeL3gPXiZ8zr0xP3Ksq8YwMdLmPHa9NQOn",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "BUYUK LOGISTIX DIRECT DEP 231019 936428866499YJZ TOHOUO TCHUESS,YVES",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 208.45,
+      "date": "2023-10-19",
+      "description": "BUYUK LOGISTIX DIRECT DEP 231019 936428866499YJZ TOHOUO TCHUESS,YVES",
+      "guid": "XE8AeL3gPXiZ8zr0xP3Ksq8YwMdLmPHa9NQPn",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Payroll\"]"
+    },
+    {
+      "originalDescription": "PURCHASE AUTHORIZED ON 12/04 QT 7145 INSIDE LEBANON TN S583338466981952 CARD 6000",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 4.71,
+      "date": "2023-12-06",
+      "description": "PURCHASE AUTHORIZED ON 12/04 QT 7145 INSIDE LEBANON TN S583338466981952 CARD 6000",
+      "guid": "XE8AeL3gPXiZ8zr0xP3Ksq8YwMdLmPHa9NQz4",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "Walmart",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 9.24,
+      "date": "2023-12-04",
+      "description": "Walmart",
+      "guid": "XE8AeL3gPXiZ8zr0xP3Ksq8YwMdLmPHa9NQzx",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "OPPFINANC PAYMENT 231026 LAI003246548 YVES LIONEL TOHOUO",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 59.07,
+      "date": "2023-10-26",
+      "description": "OPPFINANC PAYMENT 231026 LAI003246548 YVES LIONEL TOHOUO",
+      "guid": "xMw1Y6dDPrT15wjL4ONeTLJ6drDxBoFKqb3A3",
+      "type": "DEBIT",
+      "category": "[\"Payment\"]"
+    },
+    {
+      "originalDescription": "Credit One Bank Payment 231110 44062004 YVES TOHOUO",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 24.0,
+      "date": "2023-11-14",
+      "description": "Credit One Bank Payment 231110 44062004 YVES TOHOUO",
+      "guid": "xMw1Y6dDPrT15wjL4ONeTLJ6drDxBoFKqb3J5",
+      "type": "DEBIT",
+      "category": "[\"Payment\",\"Credit Card\"]"
+    },
+    {
+      "originalDescription": "RECURRING PAYMENT AUTHORIZED ON 11/25 ZIP.CO* QUADPAY CH 164-68139492 NY S583329840765553 CARD 6000",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 10.6,
+      "date": "2023-11-27",
+      "description": "RECURRING PAYMENT AUTHORIZED ON 11/25 ZIP.CO* QUADPAY CH 164-68139492 NY S583329840765553 CARD 6000",
+      "guid": "xMw1Y6dDPrT15wjL4ONeTLJ6drDxBoFKqb3K5",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "RECURRING PAYMENT AUTHORIZED ON 12/07 ZIP.CO* QUADPAY CH 164-68139492 NY S383342070657671 CARD 6000",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 60.96,
+      "date": "2023-12-08",
+      "description": "RECURRING PAYMENT AUTHORIZED ON 12/07 ZIP.CO* QUADPAY CH 164-68139492 NY S383342070657671 CARD 6000",
+      "guid": "xMw1Y6dDPrT15wjL4ONeTLJ6drDxBoFKqb3mz",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "ZELLE TO CHARLES JOSE ON 01/02 REF #RP0RV2N867",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 500.0,
+      "date": "2024-01-02",
+      "description": "ZELLE TO CHARLES JOSE ON 01/02 REF #RP0RV2N867",
+      "guid": "xMw1Y6dDPrT15wjL4ONeTLJa61LjpEtKBX8M7",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "Cash App Yves Tohou 231226 T3JHA0NJ20XJB74 Yves Tohouo",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 8.0,
+      "date": "2023-12-26",
+      "description": "Cash App Yves Tohou 231226 T3JHA0NJ20XJB74 Yves Tohouo",
+      "guid": "xMw1Y6dDPrT15wjL4ONeTLJa61LjpEtKBX8MV",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "RECURRING PAYMENT AUTHORIZED ON 12/16 ZIP.CO* SHEIN 164-68139492 NY S303351217700060 CARD 8681",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 22.31,
+      "date": "2023-12-18",
+      "description": "RECURRING PAYMENT AUTHORIZED ON 12/16 ZIP.CO* SHEIN 164-68139492 NY S303351217700060 CARD 8681",
+      "guid": "xMw1Y6dDPrT15wjL4ONeTLJa61LjpEtKBX8OV",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Clothing and Accessories\"]"
+    },
+    {
+      "originalDescription": "Credit One Bank Payment 231210 44062004 YVES TOHOUO",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 47.0,
+      "date": "2023-12-12",
+      "description": "Credit One Bank Payment 231210 44062004 YVES TOHOUO",
+      "guid": "YEpvdDygqXi5vQP4Bqykho7NY5JDBmuqoMjJq",
+      "type": "DEBIT",
+      "category": "[\"Payment\",\"Credit Card\"]"
+    },
+    {
+      "originalDescription": "Cook Out",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 16.55,
+      "date": "2023-11-10",
+      "description": "Cook Out",
+      "guid": "YEpvdDygqXi5vQP4Bqykho7NY5JDBmuqoMjn1",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "Circle K",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 4.05,
+      "date": "2023-11-06",
+      "description": "Circle K",
+      "guid": "YEpvdDygqXi5vQP4Bqykho7NY5JDBmuqoMjnM",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Convenience Stores\"]"
+    },
+    {
+      "originalDescription": "Walmart",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 6.7,
+      "date": "2023-10-17",
+      "description": "Walmart",
+      "guid": "YEpvdDygqXi5vQP4Bqykho7NY5JDBmuqoMjpM",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Department Stores\"]"
+    },
+    {
+      "originalDescription": "ZELLE FROM JOSE LOUIS CHARLES ON 12/03 REF # NAV0I09QHWOK RENT",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 700.0,
+      "date": "2023-12-04",
+      "description": "ZELLE FROM JOSE LOUIS CHARLES ON 12/03 REF # NAV0I09QHWOK RENT",
+      "guid": "YEpvdDygqXi5vQP4Bqykho7NY5JDBmuqoMjq1",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "Walmart",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 15.48,
+      "date": "2023-11-20",
+      "description": "Walmart",
+      "guid": "YEpvdDygqXi5vQP4Bqykho7NY5JDBmuqoMjw1",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "PURCHASE AUTHORIZED ON 12/04 Sendwave *FMR67 NY S303338748150215 CARD 6000",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 100.0,
+      "date": "2023-12-05",
+      "description": "PURCHASE AUTHORIZED ON 12/04 Sendwave *FMR67 NY S303338748150215 CARD 6000",
+      "guid": "YEpvdDygqXi5vQP4Bqykho7NY5JDBmuqoMjzq",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "Best Buy",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 10.2,
+      "date": "2023-12-20",
+      "description": "Best Buy",
+      "guid": "YEpvdDygqXi5vQP4Bqykho7pNQoa0VIqDObJO",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Computers and Electronics\"]"
+    },
+    {
+      "originalDescription": "PURCHASE AUTHORIZED ON 10/01 CNG WINE & SPIRITS MURFREESBORO TN S624010478289977 CARD 6000",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 14.26,
+      "date": "2024-01-10",
+      "description": "PURCHASE AUTHORIZED ON 10/01 CNG WINE & SPIRITS MURFREESBORO TN S624010478289977 CARD 6000",
+      "guid": "YEpvdDygqXi5vQP4Bqykho7pNQoa0VIqDObQx",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Food and Beverage Store\"]"
+    },
+    {
+      "originalDescription": "CASHNETUSA14 CASHADVANC 240108 XXXXX7627 YVES LIONEL TOHOUO",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 1200.0,
+      "date": "2024-01-08",
+      "description": "CASHNETUSA14 CASHADVANC 240108 XXXXX7627 YVES LIONEL TOHOUO",
+      "guid": "yM6PYLw1q4T1nqVDgdEbTL0az1L8q9tgAZ8OQ",
+      "type": "CREDIT",
+      "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]"
+    },
+    {
+      "originalDescription": "RECURRING PAYMENT AUTHORIZED ON 12/18 ZIP.CO* PAYMENT FB 164-68139492 NY S463352376618251 CARD 8681",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 28.86,
+      "date": "2023-12-19",
+      "description": "RECURRING PAYMENT AUTHORIZED ON 12/18 ZIP.CO* PAYMENT FB 164-68139492 NY S463352376618251 CARD 8681",
+      "guid": "yM6PYLw1q4T1nqVDgdEbTL0az1L8q9tgAZ8pO",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Third Party\"]"
+    },
+    {
+      "originalDescription": "OPPFINANC PAYMENT 231116 LAI003246548 YVES LIONEL TOHOUO",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 59.07,
+      "date": "2023-11-16",
+      "description": "OPPFINANC PAYMENT 231116 LAI003246548 YVES LIONEL TOHOUO",
+      "guid": "yM6PYLw1q4T1nqVDgdEbTL0zwY6d5XFgqyY3Z",
+      "type": "DEBIT",
+      "category": "[\"Payment\"]"
+    },
+    {
+      "originalDescription": "ATM CASH DEPOSIT ON 11/02 2018 Old Fort Pkwy Murfreesboro TN 0002459 ATM ID 6533P CARD 6000",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 410.0,
+      "date": "2023-11-02",
+      "description": "ATM CASH DEPOSIT ON 11/02 2018 Old Fort Pkwy Murfreesboro TN 0002459 ATM ID 6533P CARD 6000",
+      "guid": "yM6PYLw1q4T1nqVDgdEbTL0zwY6d5XFgqyYDR",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Deposit\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "RECURRING PAYMENT AUTHORIZED ON 11/28 ZIP.CO* QUADPAY AN 164-68139492 NY S583332364853249 CARD 6000",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 12.8,
+      "date": "2023-11-29",
+      "description": "RECURRING PAYMENT AUTHORIZED ON 11/28 ZIP.CO* QUADPAY AN 164-68139492 NY S583332364853249 CARD 6000",
+      "guid": "yM6PYLw1q4T1nqVDgdEbTL0zwY6d5XFgqyYgZ",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "PURCHASE AUTHORIZED ON 12/09 E & S INTERNATIONAL MA MURFREESBORO TN P000000371668696 CARD 6000",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 14.95,
+      "date": "2023-12-11",
+      "description": "PURCHASE AUTHORIZED ON 12/09 E & S INTERNATIONAL MA MURFREESBORO TN P000000371668696 CARD 6000",
+      "guid": "yM6PYLw1q4T1nqVDgdEbTL0zwY6d5XFgqyYR1",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "ZELLE FROM JOSE LOUIS CHARLES ON 12/08 REF # NAV0I0ETHT43",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 500.0,
+      "date": "2023-12-08",
+      "description": "ZELLE FROM JOSE LOUIS CHARLES ON 12/08 REF # NAV0I0ETHT43",
+      "guid": "ZER0w1KgmXiodZ3rNgKAs7neELb1X8Tkog78m",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "MONEY TRANSFER AUTHORIZED ON 11/24 CASH APP*YVES TOHO CA S583329084359427 CARD 6000",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 16.0,
+      "date": "2023-11-27",
+      "description": "MONEY TRANSFER AUTHORIZED ON 11/24 CASH APP*YVES TOHO CA S583329084359427 CARD 6000",
+      "guid": "ZER0w1KgmXiodZ3rNgKAs7neELb1X8Tkog7kR",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "Cash App Yves Tohou 231111 T37T7FADK18RKPE Yves Tohouo",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 11.0,
+      "date": "2023-11-13",
+      "description": "Cash App Yves Tohou 231111 T37T7FADK18RKPE Yves Tohouo",
+      "guid": "ZER0w1KgmXiodZ3rNgKAs7neELb1X8Tkog7VR",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "TRANSAMERICA INS INSPAYMENT 37L/A 6601426197 YVES LIONEL TOHOUO",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 218.0,
+      "date": "2023-10-26",
+      "description": "TRANSAMERICA INS INSPAYMENT 37L/A 6601426197 YVES LIONEL TOHOUO",
+      "guid": "ZER0w1KgmXiodZ3rNgKAs7neELb1X8Tkog7zp",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Insurance\"]"
+    },
+    {
+      "originalDescription": "ZELLE TO DIASPORA LIONS LLC ON 12/16 REF #RP0RSSNPMV",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 61.0,
+      "date": "2023-12-18",
+      "description": "ZELLE TO DIASPORA LIONS LLC ON 12/16 REF #RP0RSSNPMV",
+      "guid": "ZER0w1KgmXiodZ3rNgKAs7nmeR7Zwpskpwdbx",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "PURCHASE AUTHORIZED ON 12/30 Wave NY S583364360960828 CARD 8681",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 20.0,
+      "date": "2024-01-02",
+      "description": "PURCHASE AUTHORIZED ON 12/30 Wave NY S583364360960828 CARD 8681",
+      "guid": "ZER0w1KgmXiodZ3rNgKAs7nmeR7ZwpskpwdRQ",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\"]"
+    },
+    {
+      "originalDescription": "PURCHASE AUTHORIZED ON 12/23 CNG WINE & SPIRITS MURFREESBORO TN S583358072656133 CARD 8681",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 15.35,
+      "date": "2023-12-26",
+      "description": "PURCHASE AUTHORIZED ON 12/23 CNG WINE & SPIRITS MURFREESBORO TN S583358072656133 CARD 8681",
+      "guid": "ZER0w1KgmXiodZ3rNgKAs7nmeR7ZwpskpwdRx",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Food and Beverage Store\"]"
+    },
+    {
+      "originalDescription": "Cash App Yves Tohou 240109 T39F8ACY262ZGXS Yves Tohouo",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 6.0,
+      "date": "2024-01-09",
+      "description": "Cash App Yves Tohou 240109 T39F8ACY262ZGXS Yves Tohouo",
+      "guid": "zMLqYD6PBaTbBV71ewpQI4RAYb4JjDfnLrQOk",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "MONEY TRANSFER AUTHORIZED ON 12/19 CASH APP*YVES TOHO CA S463353615203476 CARD 8681",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 35.0,
+      "date": "2023-12-20",
+      "description": "MONEY TRANSFER AUTHORIZED ON 12/19 CASH APP*YVES TOHO CA S463353615203476 CARD 8681",
+      "guid": "zMLqYD6PBaTbBV71ewpQI4RAYb4JjDfnLrQvD",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "RECURRING PAYMENT AUTHORIZED ON 10/16 ZIP.CO* QUADPAY AN 164-68139492 NY S303290037393125 CARD 6000",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 12.79,
+      "date": "2023-10-17",
+      "description": "RECURRING PAYMENT AUTHORIZED ON 10/16 ZIP.CO* QUADPAY AN 164-68139492 NY S303290037393125 CARD 6000",
+      "guid": "zMLqYD6PBaTbBV71ewpQI4RY6wxXNBfnjbYBP",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "RECURRING PAYMENT AUTHORIZED ON 11/19 ZIP.CO* QUADPAY CH 164-68139492 NY S303324178154506 CARD 6000",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 40.18,
+      "date": "2023-11-20",
+      "description": "RECURRING PAYMENT AUTHORIZED ON 11/19 ZIP.CO* QUADPAY CH 164-68139492 NY S303324178154506 CARD 6000",
+      "guid": "zMLqYD6PBaTbBV71ewpQI4RY6wxXNBfnjbYdV",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "MONEY TRANSFER AUTHORIZED ON 12/04 CASH APP*YVES TOHO CA S583338506954968 CARD 6000",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 12.0,
+      "date": "2023-12-05",
+      "description": "MONEY TRANSFER AUTHORIZED ON 12/04 CASH APP*YVES TOHO CA S583338506954968 CARD 6000",
+      "guid": "zMLqYD6PBaTbBV71ewpQI4RY6wxXNBfnjbYMd",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "Cash App Yves Tohou 231201 T3FR4BM9BQ78753 Yves Tohouo",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 11.0,
+      "date": "2023-12-01",
+      "description": "Cash App Yves Tohou 231201 T3FR4BM9BQ78753 Yves Tohouo",
+      "guid": "zMLqYD6PBaTbBV71ewpQI4RY6wxXNBfnjbYnV",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "ZELLE TO DIASPORA LIONS LLC ON 12/12 REF #RP0RSGCM9T",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 60.0,
+      "date": "2023-12-12",
+      "description": "ZELLE TO DIASPORA LIONS LLC ON 12/12 REF #RP0RSGCM9T",
+      "guid": "zMLqYD6PBaTbBV71ewpQI4RY6wxXNBfnjbYvd",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "Walmart",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 11.83,
+      "date": "2023-11-06",
+      "description": "Walmart",
+      "guid": "zMLqYD6PBaTbBV71ewpQI4RY6wxXNBfnjbYzP",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Department Stores\"]"
+    },
+    {
+      "originalDescription": "ATM CASH DEPOSIT ON 11/10 2018 Old Fort Pkwy Murfreesboro TN 0002796 ATM ID 6533P CARD 6000",
+      "accountGuid": "D3YAejV06xsLxpoZjr05tYowqnE9nXtVr3g69",
+      "amount": 405.0,
+      "date": "2023-11-10",
+      "description": "ATM CASH DEPOSIT ON 11/10 2018 Old Fort Pkwy Murfreesboro TN 0002796 ATM ID 6533P CARD 6000",
+      "guid": "zMLqYD6PBaTbBV71ewpQI4RY6wxXNBfnjbYzV",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Deposit\",\"ATM\"]"
+    }
+  ],
+  "asOfDate": "2024-01-12"
+}

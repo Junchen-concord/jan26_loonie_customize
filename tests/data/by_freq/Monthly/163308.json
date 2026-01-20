@@ -1,0 +1,772 @@
+{
+  "accounts": [
+    {
+      "accountGuid": "NpOkD6Lm3oTJzexjkvVJC8pBdNeDP1CzeV5q5B",
+      "currentBalance": -187.5,
+      "currentBalanceDate": "2024-01-03"
+    }
+  ],
+  "transactions": [
+    {
+      "originalDescription": "Social Security Administration",
+      "accountGuid": "NpOkD6Lm3oTJzexjkvVJC8pBdNeDP1CzeV5q5B",
+      "amount": 2044.0,
+      "date": "2023-11-22",
+      "description": "Social Security Administration",
+      "guid": "RXYdBPqgAoi8R56mqnZ8CyaDQwzXZmFq6VqMY",
+      "type": "CREDIT",
+      "category": "[\"Community\",\"Government Departments and Agencies\"]"
+    },
+    {
+      "originalDescription": "ONLINE TRANSFER TO IPOCK G EVERYDAY CHECKING XXXXXX2148 REF #IB0LDRCD5Q ON 11/21/23",
+      "accountGuid": "NpOkD6Lm3oTJzexjkvVJC8pBdNeDP1CzeV5q5B",
+      "amount": 1245.0,
+      "date": "2023-11-21",
+      "description": "ONLINE TRANSFER TO IPOCK G EVERYDAY CHECKING XXXXXX2148 REF #IB0LDRCD5Q ON 11/21/23",
+      "guid": "QpY0q1PgkoTRzZQrb0yRILv9XgZAPnt4Qy4pB",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "ONLINE TRANSFER TO IPOCK G EVERYDAY CHECKING XXXXXX2148 REF #IB0LPXDFKV ON 12/22/23",
+      "accountGuid": "NpOkD6Lm3oTJzexjkvVJC8pBdNeDP1CzeV5q5B",
+      "amount": 325.0,
+      "date": "2023-12-22",
+      "description": "ONLINE TRANSFER TO IPOCK G EVERYDAY CHECKING XXXXXX2148 REF #IB0LPXDFKV ON 12/22/23",
+      "guid": "QpY0q1PgkoTRzZQrb0yRILv6vJoK0mHw0q6Xb",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "Verizon Wireless",
+      "accountGuid": "NpOkD6Lm3oTJzexjkvVJC8pBdNeDP1CzeV5q5B",
+      "amount": 197.34,
+      "date": "2023-12-05",
+      "description": "Verizon Wireless",
+      "guid": "qb6EkYJ4rDTdaLmgjZndu0wqwDjXoxHxO03dY",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Telecommunication Services\"]"
+    },
+    {
+      "originalDescription": "ONLINE TRANSFER TO IPOCK G EVERYDAY CHECKING XXXXXX2148 REF #IB0L67LLVF ON 10/30/23",
+      "accountGuid": "NpOkD6Lm3oTJzexjkvVJC8pBdNeDP1CzeV5q5B",
+      "amount": 260.0,
+      "date": "2023-10-30",
+      "description": "ONLINE TRANSFER TO IPOCK G EVERYDAY CHECKING XXXXXX2148 REF #IB0L67LLVF ON 10/30/23",
+      "guid": "qb6EkYJ4rDTdaLmgjZndu0w8keO9zPUEYNE7k",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "HEIGHTS FINANCE TRANS PMT 231207 38 320910020000 IPOCK GEORGE A",
+      "accountGuid": "NpOkD6Lm3oTJzexjkvVJC8pBdNeDP1CzeV5q5B",
+      "amount": 484.13,
+      "date": "2023-12-07",
+      "description": "HEIGHTS FINANCE TRANS PMT 231207 38 320910020000 IPOCK GEORGE A",
+      "guid": "PpYvPD1gKoTno8x4Rb5nIyPwPJpObafanN49R",
+      "type": "CREDIT",
+      "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]"
+    },
+    {
+      "originalDescription": "CAPITAL ONE MOBILE PMT 231028 3SLJ5IUBJRU0Z26 GEORGE A IPOCK",
+      "accountGuid": "NpOkD6Lm3oTJzexjkvVJC8pBdNeDP1CzeV5q5B",
+      "amount": 25.0,
+      "date": "2023-10-30",
+      "description": "CAPITAL ONE MOBILE PMT 231028 3SLJ5IUBJRU0Z26 GEORGE A IPOCK",
+      "guid": "PpYvPD1gKoTno8x4Rb5nIyP6R93LqXFAxwABD",
+      "type": "DEBIT",
+      "category": "[\"Payment\",\"Credit Card\"]"
+    },
+    {
+      "originalDescription": "Advance America",
+      "accountGuid": "NpOkD6Lm3oTJzexjkvVJC8pBdNeDP1CzeV5q5B",
+      "amount": 240.0,
+      "date": "2023-11-28",
+      "description": "Advance America",
+      "guid": "VpYDkvKgX5T5O7vMdgY5hQ0BYnzmMEFj0Ojb3",
+      "type": "CREDIT",
+      "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]"
+    },
+    {
+      "originalDescription": "ONLINE TRANSFER FROM IPOCK G EVERYDAY CHECKING XXXXXX2148 REF #IB0LNXRPYC ON 12/19/23",
+      "accountGuid": "NpOkD6Lm3oTJzexjkvVJC8pBdNeDP1CzeV5q5B",
+      "amount": 139.0,
+      "date": "2023-12-19",
+      "description": "ONLINE TRANSFER FROM IPOCK G EVERYDAY CHECKING XXXXXX2148 REF #IB0LNXRPYC ON 12/19/23",
+      "guid": "pbw7KYJrxLT6XLgRdm36TjPLP30QDxU7zxbqD",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "DOMINION ENERGY DRAFT 231115 3210134184733 MR GEORGE A IPOCK",
+      "accountGuid": "NpOkD6Lm3oTJzexjkvVJC8pBdNeDP1CzeV5q5B",
+      "amount": 16.55,
+      "date": "2023-11-16",
+      "description": "DOMINION ENERGY DRAFT 231115 3210134184733 MR GEORGE A IPOCK",
+      "guid": "pbw7KYJrxLT6XLgRdm36TjPeyvZdAzI40e49p",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Utilities\",\"Electric\"]"
+    },
+    {
+      "originalDescription": "CHECK",
+      "accountGuid": "NpOkD6Lm3oTJzexjkvVJC8pBdNeDP1CzeV5q5B",
+      "amount": 205.64,
+      "date": "2023-11-24",
+      "description": "CHECK",
+      "guid": "OpYA1LDEyoTAOJ78nyZAuBPNpzDQO3Cg7og0O",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\",\"Check\"]"
+    },
+    {
+      "originalDescription": "Social Security Administration",
+      "accountGuid": "NpOkD6Lm3oTJzexjkvVJC8pBdNeDP1CzeV5q5B",
+      "amount": 2044.0,
+      "date": "2023-12-27",
+      "description": "Social Security Administration",
+      "guid": "OpYA1LDEyoTAOJ78nyZAuBPdP4ERyaCZJvYrp",
+      "type": "CREDIT",
+      "category": "[\"Community\",\"Government Departments and Agencies\"]"
+    },
+    {
+      "originalDescription": "ONLINE TRANSFER TO IPOCK G EVERYDAY CHECKING XXXXXX5269 REF #IB0LR6VYVW ON 12/27/23",
+      "accountGuid": "NpOkD6Lm3oTJzexjkvVJC8pBdNeDP1CzeV5q5B",
+      "amount": 310.0,
+      "date": "2023-12-27",
+      "description": "ONLINE TRANSFER TO IPOCK G EVERYDAY CHECKING XXXXXX5269 REF #IB0LR6VYVW ON 12/27/23",
+      "guid": "VpYDkvKgX5T5O7vMdgY5hQ0w0kV9gDhz73Be4",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "ONLINE TRANSFER TO IPOCK G EVERYDAY CHECKING XXXXXX5269 REF #IB0LLLG2P3 ON 12/11/23",
+      "accountGuid": "NpOkD6Lm3oTJzexjkvVJC8pBdNeDP1CzeV5q5B",
+      "amount": 20.0,
+      "date": "2023-12-11",
+      "description": "ONLINE TRANSFER TO IPOCK G EVERYDAY CHECKING XXXXXX5269 REF #IB0LLLG2P3 ON 12/11/23",
+      "guid": "wbB149DLRyTn1QJ6NA9nIYmgmKa7RJse9zpQ6",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "ONLINE TRANSFER FROM IPOCK G EVERYDAY CHECKING XXXXXX2148 REF #IB0LRQGFCH ON 12/29/23",
+      "accountGuid": "NpOkD6Lm3oTJzexjkvVJC8pBdNeDP1CzeV5q5B",
+      "amount": 212.0,
+      "date": "2023-12-29",
+      "description": "ONLINE TRANSFER FROM IPOCK G EVERYDAY CHECKING XXXXXX2148 REF #IB0LRQGFCH ON 12/29/23",
+      "guid": "oNdXyVJjr6c6nNdy90R6TMd6d4EJrLtd3A7XD",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "ONLINE TRANSFER FROM IPOCK G EVERYDAY CHECKING XXXXXX5269 REF #IB0L8JFKW8 ON 11/06/23",
+      "accountGuid": "NpOkD6Lm3oTJzexjkvVJC8pBdNeDP1CzeV5q5B",
+      "amount": 35.0,
+      "date": "2023-11-06",
+      "description": "ONLINE TRANSFER FROM IPOCK G EVERYDAY CHECKING XXXXXX5269 REF #IB0L8JFKW8 ON 11/06/23",
+      "guid": "wbB149DLRyTn1QJ6NA9nIYmQj9ePDNiv4dvjv",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "McDonald's",
+      "accountGuid": "NpOkD6Lm3oTJzexjkvVJC8pBdNeDP1CzeV5q5B",
+      "amount": 9.6,
+      "date": "2023-12-14",
+      "description": "McDonald's",
+      "guid": "NpOkD6Lm3oTJzexjkvVJC8pVp3xbv4fpv7wV8",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "RECURRING PAYMENT AUTHORIZED ON 11/13 AFFIRM * PAY 7LLX7 CA S463317371287115 CARD 5753",
+      "accountGuid": "NpOkD6Lm3oTJzexjkvVJC8pBdNeDP1CzeV5q5B",
+      "amount": 33.32,
+      "date": "2023-11-14",
+      "description": "RECURRING PAYMENT AUTHORIZED ON 11/13 AFFIRM * PAY 7LLX7 CA S463317371287115 CARD 5753",
+      "guid": "NpOkD6Lm3oTJzexjkvVJC8pdk1Qm60FLBYL1g",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]"
+    },
+    {
+      "originalDescription": "ONLINE TRANSFER TO IPOCK G EVERYDAY CHECKING XXXXXX5269 REF #IB0LDRBL72 ON 11/21/23",
+      "accountGuid": "NpOkD6Lm3oTJzexjkvVJC8pBdNeDP1CzeV5q5B",
+      "amount": 593.52,
+      "date": "2023-11-21",
+      "description": "ONLINE TRANSFER TO IPOCK G EVERYDAY CHECKING XXXXXX5269 REF #IB0LDRBL72 ON 11/21/23",
+      "guid": "nNY73xb0AwcN90JVqRgNFNoyQk1M8bIpmQpbO",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "ONLINE TRANSFER TO IPOCK G EVERYDAY CHECKING XXXXXX2148 REF #IB0LPXB76Q ON 12/22/23",
+      "accountGuid": "NpOkD6Lm3oTJzexjkvVJC8pBdNeDP1CzeV5q5B",
+      "amount": 221.0,
+      "date": "2023-12-22",
+      "description": "ONLINE TRANSFER TO IPOCK G EVERYDAY CHECKING XXXXXX2148 REF #IB0LPXB76Q ON 12/22/23",
+      "guid": "nNY73xb0AwcN90JVqRgNFNoaoB47jvHMLvoD7",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "CASH AMERICA TOD 8558405680 112123 231121CB61CYYMS ***SC**",
+      "accountGuid": "NpOkD6Lm3oTJzexjkvVJC8pBdNeDP1CzeV5q5B",
+      "amount": 144.0,
+      "date": "2023-11-22",
+      "description": "CASH AMERICA TOD 8558405680 112123 231121CB61CYYMS ***SC**",
+      "guid": "MpVKLw6gBETBZaXzJ1DBiv3akeJ9KOCpAdpLz",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]"
+    },
+    {
+      "originalDescription": "ONLINE TRANSFER TO IPOCK G EVERYDAY CHECKING XXXXXX5269 REF #IB0LQZPV9H ON 12/26/23",
+      "accountGuid": "NpOkD6Lm3oTJzexjkvVJC8pBdNeDP1CzeV5q5B",
+      "amount": 144.48,
+      "date": "2023-12-26",
+      "description": "ONLINE TRANSFER TO IPOCK G EVERYDAY CHECKING XXXXXX5269 REF #IB0LQZPV9H ON 12/26/23",
+      "guid": "MpVKLw6gBETBZaXzJ1DBiv363P8R1XHBmaExp",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "CAPITAL ONE ONLINE PMT 231107 3SNNCF7VIEKWX32 GEORGE A IPOCK",
+      "accountGuid": "NpOkD6Lm3oTJzexjkvVJC8pBdNeDP1CzeV5q5B",
+      "amount": 90.0,
+      "date": "2023-11-07",
+      "description": "CAPITAL ONE ONLINE PMT 231107 3SNNCF7VIEKWX32 GEORGE A IPOCK",
+      "guid": "mNY7BrovkdcvBoQ8dg7vFdZYNKbkVafv5rvLB",
+      "type": "DEBIT",
+      "category": "[\"Payment\",\"Credit Card\"]"
+    },
+    {
+      "originalDescription": "CONCORA CREDIT PAYMENT 231208 043000091690488 IPOCK GEORGE",
+      "accountGuid": "NpOkD6Lm3oTJzexjkvVJC8pBdNeDP1CzeV5q5B",
+      "amount": 44.0,
+      "date": "2023-12-11",
+      "description": "CONCORA CREDIT PAYMENT 231208 043000091690488 IPOCK GEORGE",
+      "guid": "mNY7BrovkdcvBoQ8dg7vFdZEZBJO8nfmqnkXR",
+      "type": "DEBIT",
+      "category": "[\"Payment\",\"Credit Card\"]"
+    },
+    {
+      "originalDescription": "GENESIS-FS CARD PAYMENT 231007 043000094582934 IPOCK GEORGE",
+      "accountGuid": "NpOkD6Lm3oTJzexjkvVJC8pBdNeDP1CzeV5q5B",
+      "amount": 60.0,
+      "date": "2023-10-10",
+      "description": "GENESIS-FS CARD PAYMENT 231007 043000094582934 IPOCK GEORGE",
+      "guid": "xb3PaB1DrKTqzdZLEkoqhzN7JQXB5vCK1RK51",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Digital Purchase\"]"
+    },
+    {
+      "originalDescription": "McDonald's",
+      "accountGuid": "NpOkD6Lm3oTJzexjkvVJC8pBdNeDP1CzeV5q5B",
+      "amount": 3.94,
+      "date": "2023-12-26",
+      "description": "McDonald's",
+      "guid": "RXYdBPqgAoi8R56mqnZ8CyaLa1xNnkfKAmYNK",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "ONLINE TRANSFER FROM IPOCK G EVERYDAY CHECKING XXXXXX5269 REF #IB0L7QN7Q9 ON 11/03/23",
+      "accountGuid": "NpOkD6Lm3oTJzexjkvVJC8pBdNeDP1CzeV5q5B",
+      "amount": 17.5,
+      "date": "2023-11-03",
+      "description": "ONLINE TRANSFER FROM IPOCK G EVERYDAY CHECKING XXXXXX5269 REF #IB0L7QN7Q9 ON 11/03/23",
+      "guid": "LN9y6dwMqocEZ4ODqarEhqyNxXr5KzfBMoBnd",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "Red Lobster",
+      "accountGuid": "NpOkD6Lm3oTJzexjkvVJC8pBdNeDP1CzeV5q5B",
+      "amount": 52.34,
+      "date": "2023-12-11",
+      "description": "Red Lobster",
+      "guid": "LN9y6dwMqocEZ4ODqarEhqyJy8ROaLTdAOrqA",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "ONLINE TRANSFER FROM IPOCK G EVERYDAY CHECKING XXXXXX2148 REF #IB0L4N9XRR ON 10/24/23",
+      "accountGuid": "NpOkD6Lm3oTJzexjkvVJC8pBdNeDP1CzeV5q5B",
+      "amount": 360.0,
+      "date": "2023-10-24",
+      "description": "ONLINE TRANSFER FROM IPOCK G EVERYDAY CHECKING XXXXXX2148 REF #IB0L4N9XRR ON 10/24/23",
+      "guid": "KY73w5dgPotLbrBZv4zLhkEYoZdO58Hmjdm67",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "ONLINE TRANSFER TO IPOCK G EVERYDAY CHECKING XXXXXX2148 REF #IB0L3TWQWD ON 10/21/23",
+      "accountGuid": "NpOkD6Lm3oTJzexjkvVJC8pBdNeDP1CzeV5q5B",
+      "amount": 2044.0,
+      "date": "2023-10-23",
+      "description": "ONLINE TRANSFER TO IPOCK G EVERYDAY CHECKING XXXXXX2148 REF #IB0L3TWQWD ON 10/21/23",
+      "guid": "kOYMP0ZkyXi6rpeRkoP6T4OQ17xwq6tvm9vn6",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "PURCHASE AUTHORIZED ON 12/29 ACI EXETER FINANCE TX S383363582423626 CARD 5753",
+      "accountGuid": "NpOkD6Lm3oTJzexjkvVJC8pBdNeDP1CzeV5q5B",
+      "amount": 274.07,
+      "date": "2024-01-02",
+      "description": "PURCHASE AUTHORIZED ON 12/29 ACI EXETER FINANCE TX S383363582423626 CARD 5753",
+      "guid": "JpgBdAmM1XTxejEk654xuqMQMkBP5LTABDnjn",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]"
+    },
+    {
+      "originalDescription": "CHECK",
+      "accountGuid": "NpOkD6Lm3oTJzexjkvVJC8pBdNeDP1CzeV5q5B",
+      "amount": 205.64,
+      "date": "2023-12-28",
+      "description": "CHECK",
+      "guid": "gOY769JBPMi8zPry3xq8CZaVaJde6kfMxkRoZ",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\",\"Check\"]"
+    },
+    {
+      "originalDescription": "PURCHASE AUTHORIZED ON 12/22 PHIFERS HOT WINGS STATESVILLE NC S583356835684270 CARD 5753",
+      "accountGuid": "NpOkD6Lm3oTJzexjkvVJC8pBdNeDP1CzeV5q5B",
+      "amount": 21.3,
+      "date": "2023-12-26",
+      "description": "PURCHASE AUTHORIZED ON 12/22 PHIFERS HOT WINGS STATESVILLE NC S583356835684270 CARD 5753",
+      "guid": "Ep8LMAvjdoTYjKeoAkbYs3ReREawk8IZ1bz3J",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "PURCHASE AUTHORIZED ON 12/30 ALLENS RESTAURANT WADESBORO NC S463364692267186 CARD 5753",
+      "accountGuid": "NpOkD6Lm3oTJzexjkvVJC8pBdNeDP1CzeV5q5B",
+      "amount": 27.14,
+      "date": "2024-01-02",
+      "description": "PURCHASE AUTHORIZED ON 12/30 ALLENS RESTAURANT WADESBORO NC S463364692267186 CARD 5753",
+      "guid": "xb3PaB1DrKTqzdZLEkoqhzNxNOZ9mbfAkxnZ4",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "ONLINE TRANSFER FROM IPOCK G EVERYDAY CHECKING XXXXXX2148 REF #IB0LF2RGP2 ON 11/22/23",
+      "accountGuid": "NpOkD6Lm3oTJzexjkvVJC8pBdNeDP1CzeV5q5B",
+      "amount": 144.0,
+      "date": "2023-11-22",
+      "description": "ONLINE TRANSFER FROM IPOCK G EVERYDAY CHECKING XXXXXX2148 REF #IB0LF2RGP2 ON 11/22/23",
+      "guid": "Ep8LMAvjdoTYjKeoAkbYs3R7P05OMDhnK6nVM",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "ONLINE TRANSFER FROM IPOCK G EVERYDAY CHECKING XXXXXX2148 REF #IB0LBQTG3H ON 11/14/23",
+      "accountGuid": "NpOkD6Lm3oTJzexjkvVJC8pBdNeDP1CzeV5q5B",
+      "amount": 14.0,
+      "date": "2023-11-14",
+      "description": "ONLINE TRANSFER FROM IPOCK G EVERYDAY CHECKING XXXXXX2148 REF #IB0LBQTG3H ON 11/14/23",
+      "guid": "eOY7dvJPDzixm1OKM5bxueEQmLaJMxUbvxb8j",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "DOMINION ENERGY DRAFT 231215 3210134184733 MR GEORGE A IPOCK",
+      "accountGuid": "NpOkD6Lm3oTJzexjkvVJC8pBdNeDP1CzeV5q5B",
+      "amount": 51.46,
+      "date": "2023-12-18",
+      "description": "DOMINION ENERGY DRAFT 231215 3210134184733 MR GEORGE A IPOCK",
+      "guid": "XpYPv0AgX5TkYVq0M5nkh7BLB64k5VtOqLbRX",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Utilities\",\"Electric\"]"
+    },
+    {
+      "originalDescription": "RECURRING PAYMENT AUTHORIZED ON 12/13 AFFIRM * PAY GLZET CA S583347454484691 CARD 5753",
+      "accountGuid": "NpOkD6Lm3oTJzexjkvVJC8pBdNeDP1CzeV5q5B",
+      "amount": 33.32,
+      "date": "2023-12-14",
+      "description": "RECURRING PAYMENT AUTHORIZED ON 12/13 AFFIRM * PAY GLZET CA S583347454484691 CARD 5753",
+      "guid": "eOY7dvJPDzixm1OKM5bxueEqE0yR4gSLQgrp5",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]"
+    },
+    {
+      "originalDescription": "ONLINE TRANSFER FROM IPOCK G EVERYDAY CHECKING XXXXXX2148 REF #IB0L7QML6X ON 11/03/23",
+      "accountGuid": "NpOkD6Lm3oTJzexjkvVJC8pBdNeDP1CzeV5q5B",
+      "amount": 178.0,
+      "date": "2023-11-03",
+      "description": "ONLINE TRANSFER FROM IPOCK G EVERYDAY CHECKING XXXXXX2148 REF #IB0L7QML6X ON 11/03/23",
+      "guid": "DpJ6MvA0xoTOzy7ZKneOhQZaoz6eJqFRaYR9q",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "Sheetz",
+      "accountGuid": "NpOkD6Lm3oTJzexjkvVJC8pBdNeDP1CzeV5q5B",
+      "amount": 21.0,
+      "date": "2023-12-11",
+      "description": "Sheetz",
+      "guid": "DpJ6MvA0xoTOzy7ZKneOhQZ9Zg4dnXhznLB5J",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "UPGRADE, INC. PAYMENT 231112 49709788 GEORGE IPOCK",
+      "accountGuid": "NpOkD6Lm3oTJzexjkvVJC8pBdNeDP1CzeV5q5B",
+      "amount": 28.27,
+      "date": "2023-11-14",
+      "description": "UPGRADE, INC. PAYMENT 231112 49709788 GEORGE IPOCK",
+      "guid": "XpYPv0AgX5TkYVq0M5nkh7By8EAmNDTaBra33",
+      "type": "DEBIT",
+      "category": "[\"Payment\"]"
+    },
+    {
+      "originalDescription": "ONLINE TRANSFER FROM IPOCK G EVERYDAY CHECKING XXXXXX2148 REF #IB0L8T8SPK ON 11/07/23",
+      "accountGuid": "NpOkD6Lm3oTJzexjkvVJC8pBdNeDP1CzeV5q5B",
+      "amount": 176.0,
+      "date": "2023-11-07",
+      "description": "ONLINE TRANSFER FROM IPOCK G EVERYDAY CHECKING XXXXXX2148 REF #IB0L8T8SPK ON 11/07/23",
+      "guid": "dOYmb4R1L5iDbV1BLdjDiN0QXer3vDIQn0Qxo",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "ONLINE TRANSFER TO IPOCK G EVERYDAY CHECKING XXXXXX5269 REF #IB0LLPFF62 ON 12/11/23",
+      "accountGuid": "NpOkD6Lm3oTJzexjkvVJC8pBdNeDP1CzeV5q5B",
+      "amount": 35.5,
+      "date": "2023-12-11",
+      "description": "ONLINE TRANSFER TO IPOCK G EVERYDAY CHECKING XXXXXX5269 REF #IB0LLPFF62 ON 12/11/23",
+      "guid": "dOYmb4R1L5iDbV1BLdjDiN0a0oz7kgH8E6JBg",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "Credit One Bank Payment 231201 59317891 GEORGE IPOCK",
+      "accountGuid": "NpOkD6Lm3oTJzexjkvVJC8pBdNeDP1CzeV5q5B",
+      "amount": 45.0,
+      "date": "2023-12-05",
+      "description": "Credit One Bank Payment 231201 59317891 GEORGE IPOCK",
+      "guid": "BXadREKAxpiLgB5pk6ZLhKvZvNYB6kt8MbJBK",
+      "type": "DEBIT",
+      "category": "[\"Payment\",\"Credit Card\"]"
+    },
+    {
+      "originalDescription": "Advance America",
+      "accountGuid": "NpOkD6Lm3oTJzexjkvVJC8pBdNeDP1CzeV5q5B",
+      "amount": 200.0,
+      "date": "2023-10-30",
+      "description": "Advance America",
+      "guid": "BXadREKAxpiLgB5pk6ZLhKvJnVgQLbH7p47rO",
+      "type": "CREDIT",
+      "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]"
+    },
+    {
+      "originalDescription": "ATM CASH DEPOSIT ON 12/29 1609 E BROAD ST STATESVILLE NC 0009052 ATM ID 6818O CARD 5753",
+      "accountGuid": "NpOkD6Lm3oTJzexjkvVJC8pBdNeDP1CzeV5q5B",
+      "amount": 600.0,
+      "date": "2023-12-29",
+      "description": "ATM CASH DEPOSIT ON 12/29 1609 E BROAD ST STATESVILLE NC 0009052 ATM ID 6818O CARD 5753",
+      "guid": "bpYRmvnLwgTjXBZr6AyjFNEwE9rVAPHx8e10V",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Deposit\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "DOMINION ENERGY DRAFT 231017 3210134184733 MR GEORGE A IPOCK",
+      "accountGuid": "NpOkD6Lm3oTJzexjkvVJC8pBdNeDP1CzeV5q5B",
+      "amount": 10.7,
+      "date": "2023-10-18",
+      "description": "DOMINION ENERGY DRAFT 231017 3210134184733 MR GEORGE A IPOCK",
+      "guid": "AX4YMByk8VimwqMZp9EmT7J3VMXwpYTnaNnzX",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Utilities\",\"Electric\"]"
+    },
+    {
+      "originalDescription": "Walgreens",
+      "accountGuid": "NpOkD6Lm3oTJzexjkvVJC8pBdNeDP1CzeV5q5B",
+      "amount": 14.93,
+      "date": "2024-01-02",
+      "description": "Walgreens",
+      "guid": "aOY0ZXJ6d5iqErRXjYAqhPw3w4LqYgFywOEoN",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Pharmacies\"]"
+    },
+    {
+      "originalDescription": "CASH AMERICA TOD 8558405680 122623 231226P6UEY4C16 ***SC**",
+      "accountGuid": "NpOkD6Lm3oTJzexjkvVJC8pBdNeDP1CzeV5q5B",
+      "amount": 144.0,
+      "date": "2023-12-27",
+      "description": "CASH AMERICA TOD 8558405680 122623 231226P6UEY4C16 ***SC**",
+      "guid": "9XyeMz6DxOiaBr3KYZDahDYeYOvkMwtPpqQYd",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]"
+    },
+    {
+      "originalDescription": "Social Security Administration",
+      "accountGuid": "NpOkD6Lm3oTJzexjkvVJC8pBdNeDP1CzeV5q5B",
+      "amount": 2044.0,
+      "date": "2023-10-25",
+      "description": "Social Security Administration",
+      "guid": "ybyqxoP14kTBewmD94aBiNEv0nx5KJIgVXgvY",
+      "type": "CREDIT",
+      "category": "[\"Community\",\"Government Departments and Agencies\"]"
+    },
+    {
+      "originalDescription": "ONLINE TRANSFER TO IPOCK G EVERYDAY CHECKING XXXXXX2148 REF #IB0LGNCX64 ON 11/28/23",
+      "accountGuid": "NpOkD6Lm3oTJzexjkvVJC8pBdNeDP1CzeV5q5B",
+      "amount": 42.0,
+      "date": "2023-11-28",
+      "description": "ONLINE TRANSFER TO IPOCK G EVERYDAY CHECKING XXXXXX2148 REF #IB0LGNCX64 ON 11/28/23",
+      "guid": "9XyeMz6DxOiaBr3KYZDahDY0m413NJHxNXx3E",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "BCBS PREMIUM DRAFTS 122723 00000001896823 IPOCK GEORGE",
+      "accountGuid": "NpOkD6Lm3oTJzexjkvVJC8pBdNeDP1CzeV5q5B",
+      "amount": 212.74,
+      "date": "2023-12-29",
+      "description": "BCBS PREMIUM DRAFTS 122723 00000001896823 IPOCK GEORGE",
+      "guid": "8e35M7wLxVh4JqP1YDL4tpjqjQ7kbwtmR40Me",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Insurance\"]"
+    },
+    {
+      "originalDescription": "ONLINE TRANSFER TO IPOCK G EVERYDAY CHECKING XXXXXX2148 REF #IB0LRMM8Y3 ON 12/28/23",
+      "accountGuid": "NpOkD6Lm3oTJzexjkvVJC8pBdNeDP1CzeV5q5B",
+      "amount": 350.0,
+      "date": "2023-12-28",
+      "description": "ONLINE TRANSFER TO IPOCK G EVERYDAY CHECKING XXXXXX2148 REF #IB0LRMM8Y3 ON 12/28/23",
+      "guid": "7XB4znd6xVirzAkDeBJrhjy0y3mAo5U4BJNv3",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "Verizon Wireless",
+      "accountGuid": "NpOkD6Lm3oTJzexjkvVJC8pBdNeDP1CzeV5q5B",
+      "amount": 198.04,
+      "date": "2023-11-03",
+      "description": "Verizon Wireless",
+      "guid": "6Xq4MNaweVijZM4QYgJjFZEXpLB4K5HNJ0N4y",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Telecommunication Services\"]"
+    },
+    {
+      "originalDescription": "PetSmart",
+      "accountGuid": "NpOkD6Lm3oTJzexjkvVJC8pBdNeDP1CzeV5q5B",
+      "amount": 29.33,
+      "date": "2023-12-11",
+      "description": "PetSmart",
+      "guid": "6Xq4MNaweVijZM4QYgJjFZEbEMqRoxfVvz18Z",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Pets\"]"
+    },
+    {
+      "originalDescription": "ONLINE TRANSFER TO IPOCK G EVERYDAY CHECKING XXXXXX2148 REF #IB0LRZ2KFN ON 12/29/23",
+      "accountGuid": "NpOkD6Lm3oTJzexjkvVJC8pBdNeDP1CzeV5q5B",
+      "amount": 700.0,
+      "date": "2023-12-29",
+      "description": "ONLINE TRANSFER TO IPOCK G EVERYDAY CHECKING XXXXXX2148 REF #IB0LRZ2KFN ON 12/29/23",
+      "guid": "5XPOMe4dnzi0wm3KYAd0hO464rxnzXUbOxoJr",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "ONLINE TRANSFER TO IPOCK G EVERYDAY CHECKING XXXXXX2148 REF #IB0LSW66B6 ON 01/02/24",
+      "accountGuid": "NpOkD6Lm3oTJzexjkvVJC8pBdNeDP1CzeV5q5B",
+      "amount": 5.5,
+      "date": "2024-01-02",
+      "description": "ONLINE TRANSFER TO IPOCK G EVERYDAY CHECKING XXXXXX2148 REF #IB0LSW66B6 ON 01/02/24",
+      "guid": "4X1eM7rxnVivdYnOoLAvFMwLwjvkXVt1M4Owo",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "Sheetz",
+      "accountGuid": "NpOkD6Lm3oTJzexjkvVJC8pBdNeDP1CzeV5q5B",
+      "amount": 16.0,
+      "date": "2023-12-14",
+      "description": "Sheetz",
+      "guid": "YeYq0xvgXQh3nAo49LY3cr6D69j3LZfn1XPyj",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "CHECK",
+      "accountGuid": "NpOkD6Lm3oTJzexjkvVJC8pBdNeDP1CzeV5q5B",
+      "amount": 205.64,
+      "date": "2023-10-26",
+      "description": "CHECK",
+      "guid": "3XDbevmanViA5oRVY3qAudgPKwERk3fA5DARJ",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\",\"Check\"]"
+    },
+    {
+      "originalDescription": "ONLINE TRANSFER FROM IPOCK G EVERYDAY CHECKING XXXXXX2148 REF #IB0LJCHNQV ON 12/03/23",
+      "accountGuid": "NpOkD6Lm3oTJzexjkvVJC8pBdNeDP1CzeV5q5B",
+      "amount": 45.0,
+      "date": "2023-12-04",
+      "description": "ONLINE TRANSFER FROM IPOCK G EVERYDAY CHECKING XXXXXX2148 REF #IB0LJCHNQV ON 12/03/23",
+      "guid": "3XDbevmanViA5oRVY3qAudgOgZYQaVfzYg41v",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "ONLINE TRANSFER FROM IPOCK G EVERYDAY CHECKING XXXXXX2148 REF #IB0L9QJ8GT ON 11/10/23",
+      "accountGuid": "NpOkD6Lm3oTJzexjkvVJC8pBdNeDP1CzeV5q5B",
+      "amount": 30.0,
+      "date": "2023-11-10",
+      "description": "ONLINE TRANSFER FROM IPOCK G EVERYDAY CHECKING XXXXXX2148 REF #IB0L9QJ8GT ON 11/10/23",
+      "guid": "YeYq0xvgXQh3nAo49LY3cr6g7v4BMqFq6eqKe",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "CAPITAL ONE MOBILE PMT 231207 3STZDRVZUBQ0WOU GEORGE A IPOCK",
+      "accountGuid": "NpOkD6Lm3oTJzexjkvVJC8pBdNeDP1CzeV5q5B",
+      "amount": 70.0,
+      "date": "2023-12-08",
+      "description": "CAPITAL ONE MOBILE PMT 231207 3STZDRVZUBQ0WOU GEORGE A IPOCK",
+      "guid": "1X6RMNvrnEiKbXeoYjqKi50x0RDQwyIoR7LPz",
+      "type": "DEBIT",
+      "category": "[\"Payment\",\"Credit Card\"]"
+    },
+    {
+      "originalDescription": "Credit One Bank Payment 231027 30875972 GEORGE IPOCK",
+      "accountGuid": "NpOkD6Lm3oTJzexjkvVJC8pBdNeDP1CzeV5q5B",
+      "amount": 70.0,
+      "date": "2023-10-31",
+      "description": "Credit One Bank Payment 231027 30875972 GEORGE IPOCK",
+      "guid": "1X6RMNvrnEiKbXeoYjqKi508Y1JeZnhgvbgeA",
+      "type": "DEBIT",
+      "category": "[\"Payment\",\"Credit Card\"]"
+    },
+    {
+      "originalDescription": "ONLINE TRANSFER FROM IPOCK G EVERYDAY CHECKING XXXXXX2148 REF #IB0KYYV3XP ON 10/11/23",
+      "accountGuid": "NpOkD6Lm3oTJzexjkvVJC8pBdNeDP1CzeV5q5B",
+      "amount": 34.0,
+      "date": "2023-10-11",
+      "description": "ONLINE TRANSFER FROM IPOCK G EVERYDAY CHECKING XXXXXX2148 REF #IB0KYYV3XP ON 10/11/23",
+      "guid": "rbLdmKJar1TneNv4EKOnIqxQp5ew7DfwOZw63",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "ONLINE TRANSFER FROM IPOCK G EVERYDAY CHECKING XXXXXX2148 REF #IB0KXVT7JT ON 10/07/23",
+      "accountGuid": "NpOkD6Lm3oTJzexjkvVJC8pBdNeDP1CzeV5q5B",
+      "amount": 160.0,
+      "date": "2023-10-10",
+      "description": "ONLINE TRANSFER FROM IPOCK G EVERYDAY CHECKING XXXXXX2148 REF #IB0KXVT7JT ON 10/07/23",
+      "guid": "JpgBdAmM1XTxejEk654xuqMa6Vzmp9f7z97a1",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "UPGRADE, INC. PAYMENT 231012 48083034 GEORGE IPOCK",
+      "accountGuid": "NpOkD6Lm3oTJzexjkvVJC8pBdNeDP1CzeV5q5B",
+      "amount": 28.27,
+      "date": "2023-10-12",
+      "description": "UPGRADE, INC. PAYMENT 231012 48083034 GEORGE IPOCK",
+      "guid": "jOzn10bK35ipak10bgXpIVKPoNr678UjqZjd8",
+      "type": "DEBIT",
+      "category": "[\"Payment\"]"
+    },
+    {
+      "originalDescription": "RECURRING PAYMENT AUTHORIZED ON 10/13 AFFIRM * PAY LMA98 CA S463286710066797 CARD 5753",
+      "accountGuid": "NpOkD6Lm3oTJzexjkvVJC8pBdNeDP1CzeV5q5B",
+      "amount": 33.32,
+      "date": "2023-10-16",
+      "description": "RECURRING PAYMENT AUTHORIZED ON 10/13 AFFIRM * PAY LMA98 CA S463286710066797 CARD 5753",
+      "guid": "vbqDr5L6g3T1nzwNk091c35Xw7DO9Yh0LM09N",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]"
+    },
+    {
+      "originalDescription": "CONCORA CREDIT PAYMENT 231108 043000097995068 IPOCK GEORGE",
+      "accountGuid": "NpOkD6Lm3oTJzexjkvVJC8pBdNeDP1CzeV5q5B",
+      "amount": 86.0,
+      "date": "2023-11-09",
+      "description": "CONCORA CREDIT PAYMENT 231108 043000097995068 IPOCK GEORGE",
+      "guid": "zbKBJjqPaAT3n6o1OLx3c9pdRE5N1PUnwAn6O",
+      "type": "DEBIT",
+      "category": "[\"Payment\",\"Credit Card\"]"
+    },
+    {
+      "originalDescription": "UPGRADE, INC. PAYMENT 231212 51236940 GEORGE IPOCK",
+      "accountGuid": "NpOkD6Lm3oTJzexjkvVJC8pBdNeDP1CzeV5q5B",
+      "amount": 28.27,
+      "date": "2023-12-12",
+      "description": "UPGRADE, INC. PAYMENT 231212 51236940 GEORGE IPOCK",
+      "guid": "zbKBJjqPaAT3n6o1OLx3c9pXpvomMkuzNDyo3",
+      "type": "DEBIT",
+      "category": "[\"Payment\"]"
+    },
+    {
+      "originalDescription": "CAPITAL ONE ONLINE PMT 231007 3SH3EKBK3K12YDA GEORGE A IPOCK",
+      "accountGuid": "NpOkD6Lm3oTJzexjkvVJC8pBdNeDP1CzeV5q5B",
+      "amount": 100.0,
+      "date": "2023-10-10",
+      "description": "CAPITAL ONE ONLINE PMT 231007 3SH3EKBK3K12YDA GEORGE A IPOCK",
+      "guid": "aOY0ZXJ6d5iqErRXjYAqhPwmv8oX6MU1qj1vx",
+      "type": "DEBIT",
+      "category": "[\"Payment\",\"Credit Card\"]"
+    },
+    {
+      "originalDescription": "ONLINE TRANSFER FROM IPOCK G EVERYDAY CHECKING XXXXXX2148 REF #IB0KYTSXG2 ON 10/11/23",
+      "accountGuid": "NpOkD6Lm3oTJzexjkvVJC8pBdNeDP1CzeV5q5B",
+      "amount": 30.0,
+      "date": "2023-10-11",
+      "description": "ONLINE TRANSFER FROM IPOCK G EVERYDAY CHECKING XXXXXX2148 REF #IB0KYTSXG2 ON 10/11/23",
+      "guid": "4X1eM7rxnVivdYnOoLAvFMw8omPnp1CnjAnKP",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "Credit One Bank Payment 231228 30875972 GEORGE IPOCK",
+      "accountGuid": "NpOkD6Lm3oTJzexjkvVJC8pBdNeDP1CzeV5q5B",
+      "amount": 76.0,
+      "date": "2023-12-29",
+      "description": "Credit One Bank Payment 231228 30875972 GEORGE IPOCK",
+      "guid": "ZOYmj30gX5ivX97rL6QvFQy1yvNo60hz3aO1N",
+      "type": "DEBIT",
+      "category": "[\"Payment\",\"Credit Card\"]"
+    },
+    {
+      "originalDescription": "ONLINE TRANSFER FROM IPOCK G EVERYDAY CHECKING XXXXXX2148 REF #IB0L2G6JTC ON 10/16/23",
+      "accountGuid": "NpOkD6Lm3oTJzexjkvVJC8pBdNeDP1CzeV5q5B",
+      "amount": 11.0,
+      "date": "2023-10-16",
+      "description": "ONLINE TRANSFER FROM IPOCK G EVERYDAY CHECKING XXXXXX2148 REF #IB0L2G6JTC ON 10/16/23",
+      "guid": "0XwRM5Ajneim9jy8oYpmTPgLXnVyzKUv1evkB",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "ONLINE TRANSFER FROM IPOCK G EVERYDAY CHECKING XXXXXX5269 REF #IB0LTDTWCT ON 01/03/24",
+      "accountGuid": "NpOkD6Lm3oTJzexjkvVJC8pBdNeDP1CzeV5q5B",
+      "amount": 188.0,
+      "date": "2024-01-03",
+      "description": "ONLINE TRANSFER FROM IPOCK G EVERYDAY CHECKING XXXXXX5269 REF #IB0LTDTWCT ON 01/03/24",
+      "guid": "mNY7BrovkdcvBoQ8dg75SQNAgMJmmQtNM8Mbo",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "RAPITAL CAPITAL 8558773405 SD1800 240103141847O0P GEORGE A IPOCK",
+      "accountGuid": "NpOkD6Lm3oTJzexjkvVJC8pBdNeDP1CzeV5q5B",
+      "amount": 600.0,
+      "date": "2024-01-03",
+      "description": "RAPITAL CAPITAL 8558773405 SD1800 240103141847O0P GEORGE A IPOCK",
+      "guid": "dOYmb4R1L5iDbV1BLdjEf1XjObzAA1fDbobYA",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "Verizon Wireless",
+      "accountGuid": "NpOkD6Lm3oTJzexjkvVJC8pBdNeDP1CzeV5q5B",
+      "amount": 187.99,
+      "date": "2024-01-03",
+      "description": "Verizon Wireless",
+      "guid": "zbKBJjqPaAT3n6o1OLxKt4RALOoYY4fKOMOeX",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Telecommunication Services\"]"
+    }
+  ],
+  "asOfDate": "2024-01-03"
+}

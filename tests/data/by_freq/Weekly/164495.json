@@ -1,0 +1,3072 @@
+{
+  "accounts": [
+    {
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "currentBalance": 132.82,
+      "currentBalanceDate": "2024-01-04"
+    }
+  ],
+  "transactions": [
+    {
+      "originalDescription": "CHECKCARD 1227 INTELLIRENT HTTPSWWW.MYINCA XXXXX1633XXXXXXXXXX3480",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 49.0,
+      "date": "2023-12-28",
+      "description": "CHECKCARD 1227 INTELLIRENT HTTPSWWW.MYINCA XXXXX1633XXXXXXXXXX3480",
+      "guid": "Q8zxBEkeqkUR3e6BRNxbHwkBrag3zPToZYZVRz",
+      "type": "DEBIT",
+      "category": "[\"Payment\",\"Rent\"]"
+    },
+    {
+      "originalDescription": "BKOFAMERICA ATM 01/04 #XXXXX3755 WITHDRWL VALLEY & SIERRA",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 40.0,
+      "date": "2024-01-04",
+      "description": "BKOFAMERICA ATM 01/04 #XXXXX3755 WITHDRWL VALLEY & SIERRA",
+      "guid": "Q8zxBEkeqkUR3e6BRNxbHwkBrag3zPToZYZVez",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1021 ROSS STORES #212 RCH CUCAMONGACA XXXXX4332XXXXXXXXXX2084",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 31.22,
+      "date": "2023-10-23",
+      "description": "CHECKCARD 1021 ROSS STORES #212 RCH CUCAMONGACA XXXXX4332XXXXXXXXXX2084",
+      "guid": "Q8zxBEkeqkUR3e6BRNxbHwkoNaEpmntgaO51k",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Clothing and Accessories\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1129 MR. DONUTS Corona CA XXXXX1633XXXXXXXXXX5388",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 29.0,
+      "date": "2023-11-30",
+      "description": "CHECKCARD 1129 MR. DONUTS Corona CA XXXXX1633XXXXXXXXXX5388",
+      "guid": "Q8zxBEkeqkUR3e6BRNxbHwkoNaEpmntgaO58N",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "SKYCESS SERVIC 10/31 #XXXXX1881 PURCHASE SKYCESS SERVICE",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 5.23,
+      "date": "2023-10-31",
+      "description": "SKYCESS SERVIC 10/31 #XXXXX1881 PURCHASE SKYCESS SERVICE",
+      "guid": "Q8zxBEkeqkUR3e6BRNxbHwkoNaEpmntgaO5rk",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1012 BAKERS - 155 RIVERSIDE CA XXXXX4632XXXXXXXXXX7578",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 16.45,
+      "date": "2023-10-16",
+      "description": "CHECKCARD 1012 BAKERS - 155 RIVERSIDE CA XXXXX4632XXXXXXXXXX7578",
+      "guid": "qMAqoKr5krUd8BwRde9jtZ6jrvA5xPIqgDz0d",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1122 NAYAX WASH HUNT VALLEY MD XXXXX3933XXXXXXXXXX4138",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 5.0,
+      "date": "2023-11-24",
+      "description": "CHECKCARD 1122 NAYAX WASH HUNT VALLEY MD XXXXX3933XXXXXXXXXX4138",
+      "guid": "qMAqoKr5krUd8BwRde9jtZ6jrvA5xPIqgDzdN",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Shipping and Freight\"]"
+    },
+    {
+      "originalDescription": "BKOFAMERICA ATM 11/08 #XXXXX5205 WITHDRWL FOOTHILL-CITRUS",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 300.0,
+      "date": "2023-11-08",
+      "description": "BKOFAMERICA ATM 11/08 #XXXXX5205 WITHDRWL FOOTHILL-CITRUS",
+      "guid": "qMAqoKr5krUd8BwRde9jtZ6jrvA5xPIqgDzdq",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "Credit One Bank DES:Payment ID:53047681 INDN:PEDRO ALONZO CO ID:WEB000004 WEB",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 20.0,
+      "date": "2023-10-26",
+      "description": "Credit One Bank DES:Payment ID:53047681 INDN:PEDRO ALONZO CO ID:WEB000004 WEB",
+      "guid": "qMAqoKr5krUd8BwRde9jtZ6jrvA5xPIqgDzMq",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "RIVER ROAD X-P 10/19 #XXXXX9395 PURCHASE RIVER ROAD X-PR",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 2.09,
+      "date": "2023-10-19",
+      "description": "RIVER ROAD X-P 10/19 #XXXXX9395 PURCHASE RIVER ROAD X-PR",
+      "guid": "qMAqoKr5krUd8BwRde9jtZ6jrvA5xPIqgDzpq",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "ARCO #42501 01/01 #XXXXX8245 PURCHASE ARCO #42501 RANCHO CUCAMO",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 6.25,
+      "date": "2024-01-02",
+      "description": "ARCO #42501 01/01 #XXXXX8245 PURCHASE ARCO #42501 RANCHO CUCAMO",
+      "guid": "qMAqoKr5krUd8BwRde9jtZ6VNvegKzI5eme94m",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "ARCO #42501 12/13 #XXXXX0790 PURCHASE ARCO #42501 RANCHO CUCAMO",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 1.96,
+      "date": "2023-12-13",
+      "description": "ARCO #42501 12/13 #XXXXX0790 PURCHASE ARCO #42501 RANCHO CUCAMO",
+      "guid": "qMAqoKr5krUd8BwRde9jtZ6VNvegKzI5eme9qL",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "ARCO #42653 12/22 #XXXXX5687 PURCHASE ARCO #42653",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 11.96,
+      "date": "2023-12-22",
+      "description": "ARCO #42653 12/22 #XXXXX5687 PURCHASE ARCO #42653",
+      "guid": "qMAqoKr5krUd8BwRde9jtZ6VNvegKzI5eme9vL",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "PMNT SENT 1012 APPLE CASH BALANCE ADD CA XXXXX2332XXXXXXXXXX5688",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 20.0,
+      "date": "2023-10-13",
+      "description": "PMNT SENT 1012 APPLE CASH BALANCE ADD CA XXXXX2332XXXXXXXXXX5688",
+      "guid": "rMvEXAromrUn87xVnz6EcKLnZmv4dDhYkV6Do",
+      "type": "DEBIT",
+      "category": "[\"Payment\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1104 LUCYS DINER FONTANA CA XXXXX4233XXXXXXXXXX8310",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 14.0,
+      "date": "2023-11-06",
+      "description": "CHECKCARD 1104 LUCYS DINER FONTANA CA XXXXX4233XXXXXXXXXX8310",
+      "guid": "rMvEXAromrUn87xVnz6EcKLnZmv4dDhYkV6M9",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1024 CANTEEN VENDING GARDEN GROVE CA XXXXX2332XXXXXXXXXX8521",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 3.1,
+      "date": "2023-10-25",
+      "description": "CHECKCARD 1024 CANTEEN VENDING GARDEN GROVE CA XXXXX2332XXXXXXXXXX8521",
+      "guid": "rMvEXAromrUn87xVnz6EcKLnZmv4dDhYkV6R9",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1229 LLANTERA CERVANTES INC CORONA CA XXXXX9833XXXXXXXXXX0060",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 5.0,
+      "date": "2024-01-02",
+      "description": "CHECKCARD 1229 LLANTERA CERVANTES INC CORONA CA XXXXX9833XXXXXXXXXX0060",
+      "guid": "rMvEXAromrUn87xVnz6EcKLPAm5kr7Tj3q3N5M",
+      "type": "DEBIT",
+      "category": "[\"Service\"]"
+    },
+    {
+      "originalDescription": "BKOFAMERICA ATM 12/20 #XXXXX1714 WITHDRWL ATLANTIC-WHITTIER",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 40.0,
+      "date": "2023-12-20",
+      "description": "BKOFAMERICA ATM 12/20 #XXXXX1714 WITHDRWL ATLANTIC-WHITTIER",
+      "guid": "rMvEXAromrUn87xVnz6EcKLPAm5kr7Tj3q3N8V",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "RIVER ROAD X-P 12/12 #XXXXX7517 PURCHASE RIVER ROAD X-PR",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 1.69,
+      "date": "2023-12-12",
+      "description": "RIVER ROAD X-P 12/12 #XXXXX7517 PURCHASE RIVER ROAD X-PR",
+      "guid": "rMvEXAromrUn87xVnz6EcKLPAm5kr7Tj3q3NYV",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1216 TOYOTA ARENA F&B ONTARIO CA XXXXX4133XXXXXXXXXX1032",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 15.77,
+      "date": "2023-12-18",
+      "description": "CHECKCARD 1216 TOYOTA ARENA F&B ONTARIO CA XXXXX4133XXXXXXXXXX1032",
+      "guid": "RZzObQAeBAF8jQLM8kbqfO0E9jwg4ZFrvxvabA",
+      "type": "DEBIT",
+      "category": "[\"Recreation\",\"Stadiums and Arenas\"]"
+    },
+    {
+      "originalDescription": "Chevron",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 1.95,
+      "date": "2023-12-28",
+      "description": "Chevron",
+      "guid": "RZzObQAeBAF8jQLM8kbqfO0E9jwg4ZFrvxvaPq",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "BKOFAMERICA ATM 10/31 #XXXXX8939 WITHDRWL VINEYARD VALLEY MA",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 20.0,
+      "date": "2023-10-31",
+      "description": "BKOFAMERICA ATM 10/31 #XXXXX8939 WITHDRWL VINEYARD VALLEY MA",
+      "guid": "RZzObQAeBAF8jQLM8kbqfO0xrjKpkmHbjep3p",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "Walmart",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 8.16,
+      "date": "2023-10-23",
+      "description": "Walmart",
+      "guid": "RZzObQAeBAF8jQLM8kbqfO0xrjKpkmHbjep7p",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1130 ACI*WESTLAKE PAYMENT CA XXXXX1633XXXXXXXXXX4767",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 205.0,
+      "date": "2023-11-30",
+      "description": "CHECKCARD 1130 ACI*WESTLAKE PAYMENT CA XXXXX1633XXXXXXXXXX4767",
+      "guid": "RZzObQAeBAF8jQLM8kbqfO0xrjKpkmHbjepwD",
+      "type": "DEBIT",
+      "category": "[\"Payment\"]"
+    },
+    {
+      "originalDescription": "EMPOWER DES:XXXXX27123 ID:Empower Advance INDN:PedroAlonzo CO ID:XXXXX79144 PPD",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 207.0,
+      "date": "2023-12-27",
+      "description": "EMPOWER DES:XXXXX27123 ID:Empower Advance INDN:PedroAlonzo CO ID:XXXXX79144 PPD",
+      "guid": "pMkam3xZKxU6JOPE6KkdSmw7anv5KAhLBEBRrQ",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]"
+    },
+    {
+      "originalDescription": "BKOFAMERICA ATM 12/09 #XXXXX2639 WITHDRWL SAN BERNARDINO MAI SAN BERNARDIN",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 60.0,
+      "date": "2023-12-11",
+      "description": "BKOFAMERICA ATM 12/09 #XXXXX2639 WITHDRWL SAN BERNARDINO MAI SAN BERNARDIN",
+      "guid": "VEzrMdXekXI5LQqX501dfRoAOpnZXMCJ919v66",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "FOOD4LESS 1287 12/28 #XXXXX0158 PURCHASE FOOD4LESS 12879 F RANCHO CUCAMO",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 28.36,
+      "date": "2023-12-28",
+      "description": "FOOD4LESS 1287 12/28 #XXXXX0158 PURCHASE FOOD4LESS 12879 F RANCHO CUCAMO",
+      "guid": "VEzrMdXekXI5LQqX501dfRoAOpnZXMCJ919vDO",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Zelle payment from RICARDO J ZAMUDIO Conf# 0VBO1U9PS",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 20.0,
+      "date": "2023-12-19",
+      "description": "Zelle payment from RICARDO J ZAMUDIO Conf# 0VBO1U9PS",
+      "guid": "VEzrMdXekXI5LQqX501dfRoAOpnZXMCJ919vL6",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "Transfer Empower ; \"Empower Cash Advance\"",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 150.0,
+      "date": "2023-10-10",
+      "description": "Transfer Empower ; \"Empower Cash Advance\"",
+      "guid": "VEzrMdXekXI5LQqX501dfRoVbpr5DEF6o4d3Y",
+      "type": "CREDIT",
+      "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]"
+    },
+    {
+      "originalDescription": "WINCO FOODS #3 10/23 #XXXXX2733 PURCHASE WINCO FOODS #33 1",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 4.48,
+      "date": "2023-10-23",
+      "description": "WINCO FOODS #3 10/23 #XXXXX2733 PURCHASE WINCO FOODS #33 1",
+      "guid": "VEzrMdXekXI5LQqX501dfRoVbpr5DEF6o4dgA",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Counter Credit",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 460.0,
+      "date": "2023-12-04",
+      "description": "Counter Credit",
+      "guid": "VEzrMdXekXI5LQqX501dfRoVbpr5DEF6o4dV0",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "RIVER ROAD X-P 11/01 #XXXXX1797 PURCHASE RIVER ROAD X-PR",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 1.69,
+      "date": "2023-11-01",
+      "description": "RIVER ROAD X-P 11/01 #XXXXX1797 PURCHASE RIVER ROAD X-PR",
+      "guid": "VEzrMdXekXI5LQqX501dfRoVbpr5DEF6o4dxA",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "McDonald's",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 7.0,
+      "date": "2024-01-04",
+      "description": "McDonald's",
+      "guid": "pMkam3xZKxU6JOPE6KkdSmw7anv5KAhLBEBRnQ",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "EMPOWER DES:XXXXX26403 ID:Empower Advance INDN:PedroAlonzo CO ID:XXXXX79144 PPD",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 207.0,
+      "date": "2023-12-20",
+      "description": "EMPOWER DES:XXXXX26403 ID:Empower Advance INDN:PedroAlonzo CO ID:XXXXX79144 PPD",
+      "guid": "vM4POJg9rgU1rj5B1ZOkf0qbyP7rR9HPoxoKjB",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]"
+    },
+    {
+      "originalDescription": "WINCO FOODS #3 12/30 #XXXXX8200 PURCHASE WINCO FOODS #33 1",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 5.78,
+      "date": "2024-01-02",
+      "description": "WINCO FOODS #3 12/30 #XXXXX8200 PURCHASE WINCO FOODS #33 1",
+      "guid": "vM4POJg9rgU1rj5B1ZOkf0qbyP7rR9HPoxoKJQ",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "FOOD4LESS #038 12/12 #XXXXX9257 PURCHASE FOOD4LESS #0389 1",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 10.76,
+      "date": "2023-12-12",
+      "description": "FOOD4LESS #038 12/12 #XXXXX9257 PURCHASE FOOD4LESS #0389 1",
+      "guid": "vM4POJg9rgU1rj5B1ZOkf0qbyP7rR9HPoxoKXB",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Zelle payment from JENNIFER NAVARRO Conf# 99a448p3g",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 10.0,
+      "date": "2023-10-26",
+      "description": "Zelle payment from JENNIFER NAVARRO Conf# 99a448p3g",
+      "guid": "vM4POJg9rgU1rj5B1ZOkf0qKoP4ELYFXrV94K",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "CARDENAS 1621 11/04 #XXXXX6741 PURCHASE CARDENAS 16212 F",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 15.34,
+      "date": "2023-11-06",
+      "description": "CARDENAS 1621 11/04 #XXXXX6741 PURCHASE CARDENAS 16212 F",
+      "guid": "vM4POJg9rgU1rj5B1ZOkf0qKoP4ELYFXrV9bK",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "ARCO #42501 10/13 #XXXXX7596 PURCHASE 12925 ARROW R RANCHO CUCAMO",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 1.96,
+      "date": "2023-10-13",
+      "description": "ARCO #42501 10/13 #XXXXX7596 PURCHASE 12925 ARROW R RANCHO CUCAMO",
+      "guid": "vM4POJg9rgU1rj5B1ZOkf0qKoP4ELYFXrV9e6",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "Zelle payment from ARLENE APODACA Conf# T0RTJX4MP",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 19.0,
+      "date": "2023-12-26",
+      "description": "Zelle payment from ARLENE APODACA Conf# T0RTJX4MP",
+      "guid": "wMagqZRV4RUnrYmzn7xNcAB0Ob95LDhJP0PkoQ",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 0101 6126 CONSERV FUEL FONTANA CA XXXXX5440XXXXXXXXXX7133",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 20.0,
+      "date": "2024-01-03",
+      "description": "CHECKCARD 0101 6126 CONSERV FUEL FONTANA CA XXXXX5440XXXXXXXXXX7133",
+      "guid": "wMagqZRV4RUnrYmzn7xNcAB0Ob95LDhJP0PkqO",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "BKOFAMERICA ATM 12/26 #XXXXX6534 WITHDRWL SIXTH & SHERMAN",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 20.0,
+      "date": "2023-12-26",
+      "description": "BKOFAMERICA ATM 12/26 #XXXXX6534 WITHDRWL SIXTH & SHERMAN",
+      "guid": "wMagqZRV4RUnrYmzn7xNcAB0Ob95LDhJP0PkXO",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "BKOFAMERICA ATM 10/28 #XXXXX1074 WITHDRWL LOMA LINDA",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 20.0,
+      "date": "2023-10-30",
+      "description": "BKOFAMERICA ATM 10/28 #XXXXX1074 WITHDRWL LOMA LINDA",
+      "guid": "wMagqZRV4RUnrYmzn7xNcABaEbvrJNsO5Kxbg",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "Chevron",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 1.93,
+      "date": "2023-10-20",
+      "description": "Chevron",
+      "guid": "wMagqZRV4RUnrYmzn7xNcABaEbvrJNsO5KxNg",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "APPLE CASH INS 11/22 #XXXXX1448 PMNT RCVD APPLE CASH INST X Visa Direct",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 14.75,
+      "date": "2023-11-22",
+      "description": "APPLE CASH INS 11/22 #XXXXX1448 PMNT RCVD APPLE CASH INST X Visa Direct",
+      "guid": "wMagqZRV4RUnrYmzn7xNcABaEbvrJNsO5KxQg",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "Shell",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 5.1,
+      "date": "2023-11-27",
+      "description": "Shell",
+      "guid": "wMagqZRV4RUnrYmzn7xNcABaEbvrJNsO5KxQn",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "CARDENAS 1621 10/14 #XXXXX1032 PURCHASE CARDENAS 16212 F",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 4.3,
+      "date": "2023-10-16",
+      "description": "CARDENAS 1621 10/14 #XXXXX1032 PURCHASE CARDENAS 16212 F",
+      "guid": "wMagqZRV4RUnrYmzn7xNcABaEbvrJNsO5KxzA",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Chevron",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 1.61,
+      "date": "2023-12-26",
+      "description": "Chevron",
+      "guid": "XEzwrDXevXIk1x38kB9Mtog1wjEv0NFjeAe98B",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "EMPOWER DES:XXXXX27933 ID:Empower Advance INDN:PedroAlonzo CO ID:XXXXX79144 PPD",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 207.0,
+      "date": "2024-01-03",
+      "description": "EMPOWER DES:XXXXX27933 ID:Empower Advance INDN:PedroAlonzo CO ID:XXXXX79144 PPD",
+      "guid": "XEzwrDXevXIk1x38kB9Mtog1wjEv0NFjeAe9k6",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]"
+    },
+    {
+      "originalDescription": "BKOFAMERICA ATM 12/17 #XXXXX6193 WITHDRWL LOMA LINDA",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 40.0,
+      "date": "2023-12-18",
+      "description": "BKOFAMERICA ATM 12/17 #XXXXX6193 WITHDRWL LOMA LINDA",
+      "guid": "XEzwrDXevXIk1x38kB9Mtog1wjEv0NFjeAe9MB",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "WINCO FOODS #3 12/27 #XXXXX4924 PURCHASE WINCO FOODS #33 1",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 8.87,
+      "date": "2023-12-27",
+      "description": "WINCO FOODS #3 12/27 #XXXXX4924 PURCHASE WINCO FOODS #33 1",
+      "guid": "XEzwrDXevXIk1x38kB9Mtog1wjEv0NFjeAe9Q6",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Transfer Empower ; \"Empower Cash Advance\"",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 50.0,
+      "date": "2023-11-29",
+      "description": "Transfer Empower ; \"Empower Cash Advance\"",
+      "guid": "XEzwrDXevXIk1x38kB9Mtog4RjQZVDUMZdDEn",
+      "type": "CREDIT",
+      "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]"
+    },
+    {
+      "originalDescription": "McDonald's",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 6.46,
+      "date": "2023-10-23",
+      "description": "McDonald's",
+      "guid": "XEzwrDXevXIk1x38kB9Mtog4RjQZVDUMZdDgd",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "NNT SUPER 1 FO 12/24 #XXXXX6558 PURCHASE 9960 BLOOMINGTON",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 17.41,
+      "date": "2023-12-26",
+      "description": "NNT SUPER 1 FO 12/24 #XXXXX6558 PURCHASE 9960 BLOOMINGTON",
+      "guid": "pMkam3xZKxU6JOPE6KkdSmw7anv5KAhLBEBRjR",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1129 EMPOWER ADVANC SAN FRANCISCOCA XXXXXXXXXXXXXXX00202101 RECURRING",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 27.0,
+      "date": "2023-11-29",
+      "description": "CHECKCARD 1129 EMPOWER ADVANC SAN FRANCISCOCA XXXXXXXXXXXXXXX00202101 RECURRING",
+      "guid": "pMkam3xZKxU6JOPE6KkdSmw0RnkExziN53XYY",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "APPLE CASH INS 10/31 #XXXXX5437 PMNT RCVD APPLE CASH INST X Visa Direct",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 14.75,
+      "date": "2023-10-31",
+      "description": "APPLE CASH INS 10/31 #XXXXX5437 PMNT RCVD APPLE CASH INST X Visa Direct",
+      "guid": "pMkam3xZKxU6JOPE6KkdSmw0RnkExziN53X8J",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "RIVER ROAD X-P 01/02 #XXXXX4317 PURCHASE RIVER ROAD X-PR",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 0.99,
+      "date": "2024-01-02",
+      "description": "RIVER ROAD X-P 01/02 #XXXXX4317 PURCHASE RIVER ROAD X-PR",
+      "guid": "PJzX3OKePKCn91wXnVdRcZjY7E9v1qI5X0XRjX",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "ARCO #42305 AM 12/24 #XXXXX8752 PURCHASE ARCO #42305 AMPM",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 4.11,
+      "date": "2023-12-26",
+      "description": "ARCO #42305 AM 12/24 #XXXXX8752 PURCHASE ARCO #42305 AMPM",
+      "guid": "PJzX3OKePKCn91wXnVdRcZjY7E9v1qI5X0XR3X",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Convenience Stores\"]"
+    },
+    {
+      "originalDescription": "APPLE CASH INS 12/23 #XXXXX2816 PMNT RCVD APPLE CASH INST X Visa Direct",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 322.43,
+      "date": "2023-12-26",
+      "description": "APPLE CASH INS 12/23 #XXXXX2816 PMNT RCVD APPLE CASH INST X Visa Direct",
+      "guid": "PJzX3OKePKCn91wXnVdRcZjY7E9v1qI5X0XR3E",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "ARCO #42501 11/23 #XXXXX0423 PURCHASE ARCO #42501 RANCHO CUCAMO",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 1.96,
+      "date": "2023-11-24",
+      "description": "ARCO #42501 11/23 #XXXXX0423 PURCHASE ARCO #42501 RANCHO CUCAMO",
+      "guid": "PJzX3OKePKCn91wXnVdRcZjp8EmeaXIgEod9M",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "EMPOWER DES:XXXXX21114 ID:Empower Advance INDN:PedroAlonzo CO ID:XXXXX79144 PPD",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 156.0,
+      "date": "2023-11-08",
+      "description": "EMPOWER DES:XXXXX21114 ID:Empower Advance INDN:PedroAlonzo CO ID:XXXXX79144 PPD",
+      "guid": "PJzX3OKePKCn91wXnVdRcZjp8EmeaXIgEod93",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1025 PY *COFFEE NUTZZ RANCHO RANCHO CUCAMOCA XXXXX0032XXXXXXXXXX4290",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 2.65,
+      "date": "2023-10-27",
+      "description": "CHECKCARD 1025 PY *COFFEE NUTZZ RANCHO RANCHO CUCAMOCA XXXXX0032XXXXXXXXXX4290",
+      "guid": "PJzX3OKePKCn91wXnVdRcZjp8EmeaXIgEod63",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Coffee Shop\"]"
+    },
+    {
+      "originalDescription": "RUBICON GEAR DES:DIRECT DEP ID:XXXXX0328338CE5 INDN:ALONZO,PEDRO CO ID:XXXXX11103 PPD",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 688.16,
+      "date": "2023-12-20",
+      "description": "RUBICON GEAR DES:DIRECT DEP ID:XXXXX0328338CE5 INDN:ALONZO,PEDRO CO ID:XXXXX11103 PPD",
+      "guid": "oYK0nqr8yrS6OzaQ6Y39S0bxjyeVagH09m9gPQ",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Payroll\"]"
+    },
+    {
+      "originalDescription": "Chevron",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 1.39,
+      "date": "2023-12-29",
+      "description": "Chevron",
+      "guid": "oYK0nqr8yrS6OzaQ6Y39S0bxjyeVagH09m9g5Y",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "Zelle payment to Clarice Conf# qci6bg12s",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 10.0,
+      "date": "2023-10-24",
+      "description": "Zelle payment to Clarice Conf# qci6bg12s",
+      "guid": "oYK0nqr8yrS6OzaQ6Y39S0bEQyvZLoFpV4nqA",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "Zelle payment to jennifer Conf# rke2jm2nt",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 20.0,
+      "date": "2023-11-02",
+      "description": "Zelle payment to jennifer Conf# rke2jm2nt",
+      "guid": "oYK0nqr8yrS6OzaQ6Y39S0bEQyvZLoFpV4nNA",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "BKOFAMERICA ATM 12/28 #XXXXX7161 WITHDRWL SIXTH & SHERMAN",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 40.0,
+      "date": "2023-12-28",
+      "description": "BKOFAMERICA ATM 12/28 #XXXXX7161 WITHDRWL SIXTH & SHERMAN",
+      "guid": "OxzPB9ye1yFA4xd5A10nCbqZ59zLVOfP6d6j18",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "CA TLR cash withdrawal from CHK 3388 Banking Ctr CARMENITA-TELEGRAPH #0000515 CA Confirmation# XXXXX21584",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 38.0,
+      "date": "2023-12-01",
+      "description": "CA TLR cash withdrawal from CHK 3388 Banking Ctr CARMENITA-TELEGRAPH #0000515 CA Confirmation# XXXXX21584",
+      "guid": "OxzPB9ye1yFA4xd5A10nCbqEw98ka3FXmxzyn",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\"]"
+    },
+    {
+      "originalDescription": "Chevron",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 1.49,
+      "date": "2023-10-06",
+      "description": "Chevron",
+      "guid": "OxzPB9ye1yFA4xd5A10nCbqEw98ka3FXmxzv5",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "Zelle payment to jennifer Conf# oulevlene",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 20.0,
+      "date": "2023-11-01",
+      "description": "Zelle payment to jennifer Conf# oulevlene",
+      "guid": "OxzPB9ye1yFA4xd5A10nCbqEw98ka3FXmxzRL",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "Walmart",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 28.14,
+      "date": "2023-10-23",
+      "description": "Walmart",
+      "guid": "OxzPB9ye1yFA4xd5A10nCbqEw98ka3FXmxzEL",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "BKOFAMERICA ATM 01/04 #XXXXX7318 WITHDRWL BROADWAY-MANCHESTE",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 80.0,
+      "date": "2024-01-04",
+      "description": "BKOFAMERICA ATM 01/04 #XXXXX7318 WITHDRWL BROADWAY-MANCHESTE",
+      "guid": "nny9X1AJ3ACN6mObN8oqCRYV6dkw08CXdRdKJM",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1227 INTELLIRENT HTTPSWWW.MYINCA XXXXX1633XXXXXXXXXX3247",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 49.0,
+      "date": "2023-12-28",
+      "description": "CHECKCARD 1227 INTELLIRENT HTTPSWWW.MYINCA XXXXX1633XXXXXXXXXX3247",
+      "guid": "nny9X1AJ3ACN6mObN8oqCRYV6dkw08CXdRdK6M",
+      "type": "DEBIT",
+      "category": "[\"Payment\",\"Rent\"]"
+    },
+    {
+      "originalDescription": "Smoke Shop Blo 12/24 #XXXXX8358 PURCHASE Smoke Shop Bloomi",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 2.0,
+      "date": "2023-12-26",
+      "description": "Smoke Shop Blo 12/24 #XXXXX8358 PURCHASE Smoke Shop Bloomi",
+      "guid": "nny9X1AJ3ACN6mObN8oqCRYV6dkw08CXdRdK4R",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Tobacco\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1021 NikePOS_US Ontario CA XXXXX2932XXXXXXXXXX3072",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 16.32,
+      "date": "2023-10-23",
+      "description": "CHECKCARD 1021 NikePOS_US Ontario CA XXXXX2932XXXXXXXXXX3072",
+      "guid": "nny9X1AJ3ACN6mObN8oqCRY4gdrXvbF5wBYZQ",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1129 EMPOWER SAN FRANCISCOCA XXXXXXXXXXXXXXX00198859 RECURRING",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 8.0,
+      "date": "2023-11-29",
+      "description": "CHECKCARD 1129 EMPOWER SAN FRANCISCOCA XXXXXXXXXXXXXXX00198859 RECURRING",
+      "guid": "nny9X1AJ3ACN6mObN8oqCRY4gdrXvbF5wBYzD",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "Zelle payment from JENNIFER NAVARRO Conf# 99a4cef3y",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 5.0,
+      "date": "2023-10-31",
+      "description": "Zelle payment from JENNIFER NAVARRO Conf# 99a4cef3y",
+      "guid": "nny9X1AJ3ACN6mObN8oqCRY4gdrXvbF5wBY9Q",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "BKOFAMERICA ATM 10/30 #XXXXX1779 WITHDRWL LOMA LINDA",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 20.0,
+      "date": "2023-10-30",
+      "description": "BKOFAMERICA ATM 10/30 #XXXXX1779 WITHDRWL LOMA LINDA",
+      "guid": "NazM7g3YD3FJ56YQJaqkSZ9xMERK40I5Eogky",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "Zelle payment from CLARICE NAVARRO Conf# 99a5qb7gx",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 60.0,
+      "date": "2023-11-29",
+      "description": "Zelle payment from CLARICE NAVARRO Conf# 99a5qb7gx",
+      "guid": "NazM7g3YD3FJ56YQJaqkSZ9xMERK40I5EogjD",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1225 ACI*WESTLAKE PAYMENT CA XXXXX1633XXXXXXXXXX0864",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 399.86,
+      "date": "2023-12-26",
+      "description": "CHECKCARD 1225 ACI*WESTLAKE PAYMENT CA XXXXX1633XXXXXXXXXX0864",
+      "guid": "NazM7g3YD3FJ56YQJaqkSZ9O7E1NL6Izqeq4rA",
+      "type": "DEBIT",
+      "category": "[\"Payment\"]"
+    },
+    {
+      "originalDescription": "CA TLR cash withdrawal from CHK 3388 Banking Ctr SOUTH SANTA ANA #0000451 CA Confirmation# XXXXX10657",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 40.0,
+      "date": "2023-12-27",
+      "description": "CA TLR cash withdrawal from CHK 3388 Banking Ctr SOUTH SANTA ANA #0000451 CA Confirmation# XXXXX10657",
+      "guid": "NazM7g3YD3FJ56YQJaqkSZ9O7E1NL6Izqeq4nQ",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\"]"
+    },
+    {
+      "originalDescription": "FOOD4LESS #032 01/03 #XXXXX2530 PURCHASE FOOD4LESS #0328 1 RANCHO CUCAMO",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 9.68,
+      "date": "2024-01-03",
+      "description": "FOOD4LESS #032 01/03 #XXXXX2530 PURCHASE FOOD4LESS #0328 1 RANCHO CUCAMO",
+      "guid": "NazM7g3YD3FJ56YQJaqkSZ9O7E1NL6Izqeq40Q",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Zelle payment to FERNANDO HERNANDEZ Conf# ogiua0w01",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 3.0,
+      "date": "2023-12-26",
+      "description": "Zelle payment to FERNANDO HERNANDEZ Conf# ogiua0w01",
+      "guid": "mE39jLkxBkIvAXV0vZYdSgxqP0K73VCEzgzKYY",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "BKOFAMERICA ATM 12/24 #XXXXX2045 WITHDRWL VINEYARD VALLEY MA",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 60.0,
+      "date": "2023-12-26",
+      "description": "BKOFAMERICA ATM 12/24 #XXXXX2045 WITHDRWL VINEYARD VALLEY MA",
+      "guid": "mE39jLkxBkIvAXV0vZYdSgxqP0K73VCEzgzKyV",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "PMNT SENT 0102 APPLE CASH BALANCE ADD CA XXXXX2340XXXXXXXXXX7631",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 10.0,
+      "date": "2024-01-03",
+      "description": "PMNT SENT 0102 APPLE CASH BALANCE ADD CA XXXXX2340XXXXXXXXXX7631",
+      "guid": "mE39jLkxBkIvAXV0vZYdSgxqP0K73VCEzgzKJY",
+      "type": "DEBIT",
+      "category": "[\"Payment\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1027 QUICK LUBE & OIL NORCO CA XXXXX1633XXXXXXXXXX7021",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 1.62,
+      "date": "2023-10-30",
+      "description": "CHECKCARD 1027 QUICK LUBE & OIL NORCO CA XXXXX1633XXXXXXXXXX7021",
+      "guid": "mE39jLkxBkIvAXV0vZYdSgxJD0yznahR7BAP4",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Automotive\",\"Maintenance and Repair\"]"
+    },
+    {
+      "originalDescription": "Walmart",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 6.85,
+      "date": "2023-11-27",
+      "description": "Walmart",
+      "guid": "mE39jLkxBkIvAXV0vZYdSgxJD0yznahR7BAb6",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Zelle payment to jennifer Conf# r8xgnp1p7",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 20.0,
+      "date": "2023-11-22",
+      "description": "Zelle payment to jennifer Conf# r8xgnp1p7",
+      "guid": "mE39jLkxBkIvAXV0vZYdSgxJD0yznahR7BAb4",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "BKOFAMERICA ATM 12/28 #XXXXX3480 WITHDRWL CARMENITA-TELEGRAP SANTA FE SPRI",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 20.0,
+      "date": "2023-12-28",
+      "description": "BKOFAMERICA ATM 12/28 #XXXXX3480 WITHDRWL CARMENITA-TELEGRAP SANTA FE SPRI",
+      "guid": "M4zxPoBeLBHB90q5BojJhNbnDze4MKCgjZj6yX",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "RUBICON GEAR DES:DIRECT DEP ID:XXXXX7841198CE5 INDN:ALONZO,PEDRO CO ID:XXXXX11103 PPD",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 327.12,
+      "date": "2023-11-01",
+      "description": "RUBICON GEAR DES:DIRECT DEP ID:XXXXX7841198CE5 INDN:ALONZO,PEDRO CO ID:XXXXX11103 PPD",
+      "guid": "M4zxPoBeLBHB90q5BojJhNb8Bz5yXOUDzX7Yv",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Payroll\"]"
+    },
+    {
+      "originalDescription": "McDonald's",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 11.09,
+      "date": "2023-10-23",
+      "description": "McDonald's",
+      "guid": "M4zxPoBeLBHB90q5BojJhNb8Bz5yXOUDzX7rv",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "Zelle payment from JENNIFER NAVARRO Conf# 99a5ur4y1",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 25.0,
+      "date": "2023-12-01",
+      "description": "Zelle payment from JENNIFER NAVARRO Conf# 99a5ur4y1",
+      "guid": "M4zxPoBeLBHB90q5BojJhNb8Bz5yXOUDzX7oN",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "McDonald's",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 6.46,
+      "date": "2023-10-06",
+      "description": "McDonald's",
+      "guid": "M4zxPoBeLBHB90q5BojJhNb8Bz5yXOUDzX7aw",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "Float Me, Corp. DES:PAYMENTS ID:240101D057XMVOP INDN:Pedro Alonzo CO ID:XXXXX05000 CCD",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 2.99,
+      "date": "2024-01-02",
+      "description": "Float Me, Corp. DES:PAYMENTS ID:240101D057XMVOP INDN:Pedro Alonzo CO ID:XXXXX05000 CCD",
+      "guid": "LrzxbZqe6qFEdbgnEvzqIm3ZwVXDeKhj9b9y7K",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Personal Care\"]"
+    },
+    {
+      "originalDescription": "ARCO #42501 12/26 #XXXXX4172 PURCHASE ARCO #42501 RANCHO CUCAMO",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 1.96,
+      "date": "2023-12-26",
+      "description": "ARCO #42501 12/26 #XXXXX4172 PURCHASE ARCO #42501 RANCHO CUCAMO",
+      "guid": "LrzxbZqe6qFEdbgnEvzqIm3ZwVXDeKhj9b9y4K",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "Cleo Salary Ad 12/23 #XXXXX5880 PMNT RCVD Cleo Salary Advan",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 30.0,
+      "date": "2023-12-26",
+      "description": "Cleo Salary Ad 12/23 #XXXXX5880 PMNT RCVD Cleo Salary Advan",
+      "guid": "LrzxbZqe6qFEdbgnEvzqIm3ZwVXDeKhj9b9y4g",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Payroll\"]"
+    },
+    {
+      "originalDescription": "Zelle payment from EFRAIN CORREA Conf# 99a4aya5y",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 30.0,
+      "date": "2023-10-30",
+      "description": "Zelle payment from EFRAIN CORREA Conf# 99a4aya5y",
+      "guid": "LrzxbZqe6qFEdbgnEvzqIm3RAV0pLziNVZvQR",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "APPLE CASH INS 11/27 #XXXXX6041 PMNT RCVD APPLE CASH INST X Visa Direct",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 9.75,
+      "date": "2023-11-27",
+      "description": "APPLE CASH INS 11/27 #XXXXX6041 PMNT RCVD APPLE CASH INST X Visa Direct",
+      "guid": "LrzxbZqe6qFEdbgnEvzqIm3RAV0pLziNVZvq5",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "CARDENAS MARKE 12/31 #XXXXX6141 PURCHASE CARDENAS MARKETS",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 1.47,
+      "date": "2024-01-02",
+      "description": "CARDENAS MARKE 12/31 #XXXXX6141 PURCHASE CARDENAS MARKETS",
+      "guid": "KjzxQJPewPUL6xXALoqvS3BxeAZ7M5FK0a04JV",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Shell",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 1.4,
+      "date": "2023-12-21",
+      "description": "Shell",
+      "guid": "KjzxQJPewPUL6xXALoqvS3BxeAZ7M5FK0a047O",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1024 TST* El Rey Taco Grill Fontana CA XXXXX1632XXXXXXXXXX8385",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 12.11,
+      "date": "2023-10-26",
+      "description": "CHECKCARD 1024 TST* El Rey Taco Grill Fontana CA XXXXX1632XXXXXXXXXX8385",
+      "guid": "KjzxQJPewPUL6xXALoqvS3B0wAzp18CnqEew3",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1105 BURGER TOWN USA FONTANA CA XXXXX4233XXXXXXXXXX8737",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 7.64,
+      "date": "2023-11-06",
+      "description": "CHECKCARD 1105 BURGER TOWN USA FONTANA CA XXXXX4233XXXXXXXXXX8737",
+      "guid": "KjzxQJPewPUL6xXALoqvS3B0wAzp18CnqEeb3",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "APPLE CASH INS 11/23 #XXXXX4546 PMNT RCVD APPLE CASH INST X Visa Direct",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 9.28,
+      "date": "2023-11-24",
+      "description": "APPLE CASH INS 11/23 #XXXXX4546 PMNT RCVD APPLE CASH INST X Visa Direct",
+      "guid": "KjzxQJPewPUL6xXALoqvS3B0wAzp18CnqEe9m",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1219 CARLS JR 1100700 CORONA CA XXXXX4233XXXXXXXXXX1813",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 7.81,
+      "date": "2023-12-21",
+      "description": "CHECKCARD 1219 CARLS JR 1100700 CORONA CA XXXXX4233XXXXXXXXXX1813",
+      "guid": "kEqNgzy4PyI6jA7b6OQkSdpNVP7y3qIZMzMNBn",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "CARDENAS 1621 12/31 #XXXXX2202 PURCHASE CARDENAS 16212 F",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 70.09,
+      "date": "2024-01-02",
+      "description": "CARDENAS 1621 12/31 #XXXXX2202 PURCHASE CARDENAS 16212 F",
+      "guid": "kEqNgzy4PyI6jA7b6OQkSdpNVP7y3qIZMzMN1g",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Family Dollar",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 13.8,
+      "date": "2023-11-06",
+      "description": "Family Dollar",
+      "guid": "kEqNgzy4PyI6jA7b6OQkSdpLoP0rB6U6yorYM",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Discount Stores\"]"
+    },
+    {
+      "originalDescription": "Taco Bell",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 6.73,
+      "date": "2023-10-26",
+      "description": "Taco Bell",
+      "guid": "kEqNgzy4PyI6jA7b6OQkSdpLoP0rB6U6yorOM",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "APPLE CASH INS 11/24 #XXXXX9541 PMNT RCVD APPLE CASH INST X Visa Direct",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 39.4,
+      "date": "2023-11-24",
+      "description": "APPLE CASH INS 11/24 #XXXXX9541 PMNT RCVD APPLE CASH INST X Visa Direct",
+      "guid": "kEqNgzy4PyI6jA7b6OQkSdpLoP0rB6U6yor53",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "McDonald's",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 5.7,
+      "date": "2023-11-06",
+      "description": "McDonald's",
+      "guid": "jEPMAe3r13IpqOYopKNbImkyRzLOB8iAaedop",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "ROSS DRESS FOR 10/25 #XXXXX2207 PURCHASE ROSS DRESS FOR LE",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 16.16,
+      "date": "2023-10-25",
+      "description": "ROSS DRESS FOR 10/25 #XXXXX2207 PURCHASE ROSS DRESS FOR LE",
+      "guid": "jEPMAe3r13IpqOYopKNbImkyRzLOB8iAaed6p",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Clothing and Accessories\",\"Women\\u0027s Store\"]"
+    },
+    {
+      "originalDescription": "WINCO FOODS #3 12/20 #XXXXX9374 PURCHASE WINCO FOODS #33 1",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 0.84,
+      "date": "2023-12-20",
+      "description": "WINCO FOODS #3 12/20 #XXXXX9374 PURCHASE WINCO FOODS #33 1",
+      "guid": "jEPMAe3r13IpqOYopKNbImkXnzNaA7hk0g05XR",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "ARCO #42501 12/29 #XXXXX6619 PURCHASE ARCO #42501 RANCHO CUCAMO",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 4.65,
+      "date": "2024-01-02",
+      "description": "ARCO #42501 12/29 #XXXXX6619 PURCHASE ARCO #42501 RANCHO CUCAMO",
+      "guid": "jEPMAe3r13IpqOYopKNbImkXnzNaA7hk0g05Mx",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "Brigit 12/30 #XXXXX7275 PMNT RCVD Brigit",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 50.0,
+      "date": "2024-01-02",
+      "description": "Brigit 12/30 #XXXXX7275 PMNT RCVD Brigit",
+      "guid": "J0zLya1ed1IxyQdrxp86cxAXeNVr8pI3MJMPVN",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1220 FloatMe",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 1.99,
+      "date": "2023-12-20",
+      "description": "CHECKCARD 1220 FloatMe",
+      "guid": "J0zLya1ed1IxyQdrxp86cxAXeNVr8pI3MJMPpA",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "McDonald's",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 1.39,
+      "date": "2023-11-03",
+      "description": "McDonald's",
+      "guid": "J0zLya1ed1IxyQdrxp86cxABnNbEL9I6NmaRj",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "STATERBRO 7200 10/24 #XXXXX5300 PURCHASE STATERBRO 7200 DA RANCHO CUCAMO",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 7.95,
+      "date": "2023-10-24",
+      "description": "STATERBRO 7200 10/24 #XXXXX5300 PURCHASE STATERBRO 7200 DA RANCHO CUCAMO",
+      "guid": "J0zLya1ed1IxyQdrxp86cxABnNbEL9I6Nmadj",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1218 CLEO AI HTTPSWWW.MEETDE XXXXX3433XXXXXXXXXX1271 RECURRING",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 5.99,
+      "date": "2023-12-19",
+      "description": "CHECKCARD 1218 CLEO AI HTTPSWWW.MEETDE XXXXX3433XXXXXXXXXX1271 RECURRING",
+      "guid": "gELykRPv6PI8dn5N8aE3f0PzNn1E34HEzezNDO",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\"]"
+    },
+    {
+      "originalDescription": "PMNT SENT 1228 APPLE CASH BALANCE ADD CA XXXXX2333XXXXXXXXXX5548",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 11.0,
+      "date": "2023-12-29",
+      "description": "PMNT SENT 1228 APPLE CASH BALANCE ADD CA XXXXX2333XXXXXXXXXX5548",
+      "guid": "gELykRPv6PI8dn5N8aE3f0PzNn1E34HEzezN9y",
+      "type": "DEBIT",
+      "category": "[\"Payment\"]"
+    },
+    {
+      "originalDescription": "EMPOWER DES:XXXXX20161 ID:Empower Advance INDN:PedroAlonzo CO ID:XXXXX79144 PPD",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 156.0,
+      "date": "2023-11-01",
+      "description": "EMPOWER DES:XXXXX20161 ID:Empower Advance INDN:PedroAlonzo CO ID:XXXXX79144 PPD",
+      "guid": "gELykRPv6PI8dn5N8aE3f0PdpngYkQFBY8vVY",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]"
+    },
+    {
+      "originalDescription": "Zelle payment from JENNIFER NAVARRO for \"dinner\"; Conf# 99a40x00t",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 20.0,
+      "date": "2023-10-24",
+      "description": "Zelle payment from JENNIFER NAVARRO for \"dinner\"; Conf# 99a40x00t",
+      "guid": "gELykRPv6PI8dn5N8aE3f0PdpngYkQFBY8vPY",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1227 INTELLIRENT HTTPSWWW.MYINCA XXXXX1633XXXXXXXXXX5450",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 49.0,
+      "date": "2023-12-28",
+      "description": "CHECKCARD 1227 INTELLIRENT HTTPSWWW.MYINCA XXXXX1633XXXXXXXXXX5450",
+      "guid": "Eyzk03deMdsYQXpNYmgAUdJpmX0jKMIqymy47d",
+      "type": "DEBIT",
+      "category": "[\"Payment\",\"Rent\"]"
+    },
+    {
+      "originalDescription": "PURCHASE 1130 FuboTV Inc XXX-XX13826 NY XXXXX2933XXXXXXXXXX6032 RECURRING",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 88.98,
+      "date": "2023-11-30",
+      "description": "PURCHASE 1130 FuboTV Inc XXX-XX13826 NY XXXXX2933XXXXXXXXXX6032 RECURRING",
+      "guid": "Eyzk03deMdsYQXpNYmgAUdJaoXvg8DUrXQexY",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Cable\"]"
+    },
+    {
+      "originalDescription": "Chevron",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 1.39,
+      "date": "2023-10-23",
+      "description": "Chevron",
+      "guid": "Eyzk03deMdsYQXpNYmgAUdJaoXvg8DUrXQeRV",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "NNT BLOOMINGTO 10/31 #XXXXX7502 PURCHASE 18484 VALLEY BLVD",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 2.36,
+      "date": "2023-10-31",
+      "description": "NNT BLOOMINGTO 10/31 #XXXXX7502 PURCHASE 18484 VALLEY BLVD",
+      "guid": "Eyzk03deMdsYQXpNYmgAUdJaoXvg8DUrXQeDV",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "Zelle payment to Clarice Conf# m739az352",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 10.0,
+      "date": "2023-10-30",
+      "description": "Zelle payment to Clarice Conf# m739az352",
+      "guid": "epw3yVDkdDUx348Dx70Mcz1yw7XZgxUMZnPKb",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "RUBICON GEAR DES:DIRECT DEP ID:XXXXX3893443CE5 INDN:ALONZO,PEDRO CO ID:XXXXX11103 PPD",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 261.04,
+      "date": "2023-11-29",
+      "description": "RUBICON GEAR DES:DIRECT DEP ID:XXXXX3893443CE5 INDN:ALONZO,PEDRO CO ID:XXXXX11103 PPD",
+      "guid": "epw3yVDkdDUx348Dx70Mcz1yw7XZgxUMZnPBg",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Payroll\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1227 CLEO AI CASH A",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 33.99,
+      "date": "2023-12-27",
+      "description": "CHECKCARD 1227 CLEO AI CASH A",
+      "guid": "epw3yVDkdDUx348Dx70Mcz1Ab7LjkMF9AmARo7",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\"]"
+    },
+    {
+      "originalDescription": "BKOFAMERICA ATM 01/03 #XXXXX7016 WITHDRWL COSTA MESA",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 20.0,
+      "date": "2024-01-03",
+      "description": "BKOFAMERICA ATM 01/03 #XXXXX7016 WITHDRWL COSTA MESA",
+      "guid": "epw3yVDkdDUx348Dx70Mcz1Ab7LjkMF9AmAR57",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "PMNT SENT 1223 APPLE CASH BALANCE ADD CA XXXXX2333XXXXXXXXXX3852",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 367.0,
+      "date": "2023-12-26",
+      "description": "PMNT SENT 1223 APPLE CASH BALANCE ADD CA XXXXX2333XXXXXXXXXX3852",
+      "guid": "epw3yVDkdDUx348Dx70Mcz1Ab7LjkMF9AmAR1D",
+      "type": "DEBIT",
+      "category": "[\"Payment\"]"
+    },
+    {
+      "originalDescription": "7-Eleven",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 6.0,
+      "date": "2023-11-27",
+      "description": "7-Eleven",
+      "guid": "dpd3y7LKbLUDAXJaD95LfOVz6Jd5gDHk5KwYJ",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Convenience Stores\"]"
+    },
+    {
+      "originalDescription": "MOBILE PURCHASE 1121 KING LIQUOR MARKET TUSTIN CA XXXXX9733XXXXXXXXXX0527",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 2.14,
+      "date": "2023-11-22",
+      "description": "MOBILE PURCHASE 1121 KING LIQUOR MARKET TUSTIN CA XXXXX9733XXXXXXXXXX0527",
+      "guid": "dpd3y7LKbLUDAXJaD95LfOVz6Jd5gDHk5KwYD",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Food and Beverage Store\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1026 PY *COFFEE NUTZZ RANCHO RANCHO CUCAMOCA XXXXX0033XXXXXXXXXX7047",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 2.65,
+      "date": "2023-10-30",
+      "description": "CHECKCARD 1026 PY *COFFEE NUTZZ RANCHO RANCHO CUCAMOCA XXXXX0033XXXXXXXXXX7047",
+      "guid": "dpd3y7LKbLUDAXJaD95LfOVz6Jd5gDHk5KwRD",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Coffee Shop\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 0101 BAKERS - 138 RIVERSIDE CA XXXXX4640XXXXXXXXXX5334",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 8.61,
+      "date": "2024-01-03",
+      "description": "CHECKCARD 0101 BAKERS - 138 RIVERSIDE CA XXXXX4640XXXXXXXXXX5334",
+      "guid": "dpd3y7LKbLUDAXJaD95LfOVEwJe9yvFPMXM7Vj",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "Walmart",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 53.22,
+      "date": "2023-12-26",
+      "description": "Walmart",
+      "guid": "dpd3y7LKbLUDAXJaD95LfOVEwJe9yvFPMXM7pj",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Zelle payment from ARLENE APODACA Conf# T0RTJWL9P",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 1.0,
+      "date": "2023-12-26",
+      "description": "Zelle payment from ARLENE APODACA Conf# T0RTJWL9P",
+      "guid": "dpd3y7LKbLUDAXJaD95LfOVEwJe9yvFPMXM7jB",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Payroll\"]"
+    },
+    {
+      "originalDescription": "Wendy's",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 7.23,
+      "date": "2023-10-27",
+      "description": "Wendy's",
+      "guid": "D3zmOqxeMxFOAj0xO6MKtpE4xm3wXqUMmwyrp",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "Panera Bread",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 3.59,
+      "date": "2023-11-13",
+      "description": "Panera Bread",
+      "guid": "D3zmOqxeMxFOAj0xO6MKtpE4xm3wXqUMmwy5p",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "Zelle payment from JENNIFER NAVARRO Conf# 99a5jrpir",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 60.0,
+      "date": "2023-11-27",
+      "description": "Zelle payment from JENNIFER NAVARRO Conf# 99a5jrpir",
+      "guid": "D3zmOqxeMxFOAj0xO6MKtpE4xm3wXqUMmwy59",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "7-Eleven",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 1.41,
+      "date": "2024-01-02",
+      "description": "7-Eleven",
+      "guid": "D3zmOqxeMxFOAj0xO6MKtpE05mzjbJFQJxJ4dQ",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Convenience Stores\"]"
+    },
+    {
+      "originalDescription": "SUPERIOR SUPER 12/25 #XXXXX2776 PURCHASE SUPERIOR SUPER WH",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 6.72,
+      "date": "2023-12-26",
+      "description": "SUPERIOR SUPER 12/25 #XXXXX2776 PURCHASE SUPERIOR SUPER WH",
+      "guid": "D3zmOqxeMxFOAj0xO6MKtpE05mzjbJFQJxJ43Q",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Bookstores\"]"
+    },
+    {
+      "originalDescription": "APPLE CASH INS 12/26 #XXXXX5639 PMNT RCVD APPLE CASH INST X Visa Direct",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 39.4,
+      "date": "2023-12-26",
+      "description": "APPLE CASH INS 12/26 #XXXXX5639 PMNT RCVD APPLE CASH INST X Visa Direct",
+      "guid": "D3zmOqxeMxFOAj0xO6MKtpE05mzjbJFQJxJ43L",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "ARCO #42501 10/26 #XXXXX1970 PURCHASE ARCO #42501 RANCHO CUCAMO",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 1.74,
+      "date": "2023-10-26",
+      "description": "ARCO #42501 10/26 #XXXXX1970 PURCHASE ARCO #42501 RANCHO CUCAMO",
+      "guid": "Bqzk3LxeRxTLKN4vLxmkS1AYz4EdkbhgV3zXw",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "RUBICON GEAR DES:DIRECT DEP ID:XXXXX7801075CE5 INDN:ALONZO,PEDRO CO ID:XXXXX11103 PPD",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 370.85,
+      "date": "2023-11-08",
+      "description": "RUBICON GEAR DES:DIRECT DEP ID:XXXXX7801075CE5 INDN:ALONZO,PEDRO CO ID:XXXXX11103 PPD",
+      "guid": "Bqzk3LxeRxTLKN4vLxmkS1AYz4EdkbhgV3zBw",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Payroll\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1122 THE DIRT STRIPPER, LL NORCO CA XXXXX2333XXXXXXXXXX0776",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 10.0,
+      "date": "2023-11-24",
+      "description": "CHECKCARD 1122 THE DIRT STRIPPER, LL NORCO CA XXXXX2333XXXXXXXXXX0776",
+      "guid": "Bqzk3LxeRxTLKN4vLxmkS1AYz4EdkbhgV3zB9",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Discount Stores\"]"
+    },
+    {
+      "originalDescription": "BKOFAMERICA ATM 12/22 #XXXXX7381 WITHDRWL VINEYARD VALLEY MA",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 20.0,
+      "date": "2023-12-22",
+      "description": "BKOFAMERICA ATM 12/22 #XXXXX7381 WITHDRWL VINEYARD VALLEY MA",
+      "guid": "Bqzk3LxeRxTLKN4vLxmkS1AaP4VmDLIR6P6nkJ",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "Chevron",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 1.79,
+      "date": "2024-01-02",
+      "description": "Chevron",
+      "guid": "Bqzk3LxeRxTLKN4vLxmkS1AaP4VmDLIR6P6n5n",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "Empower Inc DES:XXXXX20130 ID:EMPSUBSCR10/23 INDN:PedroAlonzo CO ID:XXXXX79144 PPD",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 8.0,
+      "date": "2023-11-01",
+      "description": "Empower Inc DES:XXXXX20130 ID:EMPSUBSCR10/23 INDN:PedroAlonzo CO ID:XXXXX79144 PPD",
+      "guid": "bQzbo5w3mwuj4Mawj9L6Hn3r6edmPvFNZJVYz",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "PMNT SENT 1023 APPLE CASH SENT MONEY 1INFINITELOOPCA XXXXX2332XXXXXXXXXX3755",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 5.0,
+      "date": "2023-10-24",
+      "description": "PMNT SENT 1023 APPLE CASH SENT MONEY 1INFINITELOOPCA XXXXX2332XXXXXXXXXX3755",
+      "guid": "bQzbo5w3mwuj4Mawj9L6Hn3r6edmPvFNZJV3z",
+      "type": "DEBIT",
+      "category": "[\"Payment\"]"
+    },
+    {
+      "originalDescription": "McDonald's",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 10.84,
+      "date": "2023-12-29",
+      "description": "McDonald's",
+      "guid": "bQzbo5w3mwuj4Mawj9L6Hn3kXe7Bg1CajEjRvk",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "BKOFAMERICA ATM 12/19 #XXXXX4262 WITHDRWL SIXTH & SHERMAN",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 20.0,
+      "date": "2023-12-19",
+      "description": "BKOFAMERICA ATM 12/19 #XXXXX4262 WITHDRWL SIXTH & SHERMAN",
+      "guid": "bQzbo5w3mwuj4Mawj9L6Hn3kXe7Bg1CajEjRmO",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "FOOD4LESS #032 11/04 #XXXXX3903 PURCHASE FOOD4LESS #0328 1 RANCHO CUCAMO",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 5.26,
+      "date": "2023-11-06",
+      "description": "FOOD4LESS #032 11/04 #XXXXX3903 PURCHASE FOOD4LESS #0328 1 RANCHO CUCAMO",
+      "guid": "APzJKw8eM8HmX80nm3LpFgyB8qmKoYhYPMvyr",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1024 CANTEEN 1 HUNT VALLEY MD XXXXX3932XXXXXXXXXX2641",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 1.25,
+      "date": "2023-10-26",
+      "description": "CHECKCARD 1024 CANTEEN 1 HUNT VALLEY MD XXXXX3932XXXXXXXXXX2641",
+      "guid": "APzJKw8eM8HmX80nm3LpFgyB8qmKoYhYPMvDr",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\"]"
+    },
+    {
+      "originalDescription": "ARCO #42501 12/31 #XXXXX7642 PURCHASE ARCO #42501 RANCHO CUCAMO",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 1.96,
+      "date": "2024-01-02",
+      "description": "ARCO #42501 12/31 #XXXXX7642 PURCHASE ARCO #42501 RANCHO CUCAMO",
+      "guid": "APzJKw8eM8HmX80nm3LpFgy01qMd4pCxdrd35q",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "Starbucks",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 6.25,
+      "date": "2023-12-21",
+      "description": "Starbucks",
+      "guid": "APzJKw8eM8HmX80nm3LpFgy01qMd4pCxdrd30v",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Coffee Shop\"]"
+    },
+    {
+      "originalDescription": "Zelle payment from JENNIFER NAVARRO Conf# 99a4kx6qt",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 20.0,
+      "date": "2023-11-06",
+      "description": "Zelle payment from JENNIFER NAVARRO Conf# 99a4kx6qt",
+      "guid": "aEzAD8dBZdIqQy4vqwJjfarLBN5VgMHRN7vMX",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "Zelle payment from JENNIFER NAVARRO Conf# 99a424xvv",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 123.0,
+      "date": "2023-10-25",
+      "description": "Zelle payment from JENNIFER NAVARRO Conf# 99a424xvv",
+      "guid": "aEzAD8dBZdIqQy4vqwJjfarLBN5VgMHRN7vBX",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "Brigit 12/30 #XXXXX1899 PMNT RCVD Brigit",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 0.01,
+      "date": "2024-01-02",
+      "description": "Brigit 12/30 #XXXXX1899 PMNT RCVD Brigit",
+      "guid": "aEzAD8dBZdIqQy4vqwJjfarKyN8Z96t3nJnxpO",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Payroll\"]"
+    },
+    {
+      "originalDescription": "Zelle payment to RICARDO ZAMUDIO Conf# lou3c7f82",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 20.0,
+      "date": "2023-12-20",
+      "description": "Zelle payment to RICARDO ZAMUDIO Conf# lou3c7f82",
+      "guid": "aEzAD8dBZdIqQy4vqwJjfarKyN8Z96t3nJnxe1",
+      "type": "DEBIT",
+      "category": "[\"Payment\",\"Credit Card\"]"
+    },
+    {
+      "originalDescription": "ARCO #42501 10/23 #XXXXX1727 PURCHASE ARCO #42501 RANCHO CUCAMO",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 5.95,
+      "date": "2023-10-23",
+      "description": "ARCO #42501 10/23 #XXXXX1727 PURCHASE ARCO #42501 RANCHO CUCAMO",
+      "guid": "95pPJ7xVMxua6E8RaJeYIpbvAVxKwJUVZgLEQ",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "Walmart",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 60.0,
+      "date": "2023-11-01",
+      "description": "Walmart",
+      "guid": "95pPJ7xVMxua6E8RaJeYIpbvAVxKwJUVZgLBQ",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "Zelle payment to jennifer Conf# pem49q7lp",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 20.0,
+      "date": "2023-12-04",
+      "description": "Zelle payment to jennifer Conf# pem49q7lp",
+      "guid": "95pPJ7xVMxua6E8RaJeYIpbvAVxKwJUVZgL1n",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "Taco Bell",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 6.73,
+      "date": "2023-12-29",
+      "description": "Taco Bell",
+      "guid": "95pPJ7xVMxua6E8RaJeYIpb8oV4yLNFJ0e0nza",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "Zelle payment from VALENTIN HURTADO Conf# 99a6qly48",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 15.0,
+      "date": "2023-12-19",
+      "description": "Zelle payment from VALENTIN HURTADO Conf# 99a6qly48",
+      "guid": "95pPJ7xVMxua6E8RaJeYIpb8oV4yLNFJ0e0nKK",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "Taco Bell",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 15.26,
+      "date": "2023-11-03",
+      "description": "Taco Bell",
+      "guid": "8ZpQJbx9MxF4wn6v4QkYfvK7VXoMwDfpqxOnD",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "STATERBRO 7200 10/24 #XXXXX6650 PURCHASE STATERBRO 7200 DA RANCHO CUCAMO",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 35.09,
+      "date": "2023-10-24",
+      "description": "STATERBRO 7200 10/24 #XXXXX6650 PURCHASE STATERBRO 7200 DA RANCHO CUCAMO",
+      "guid": "8ZpQJbx9MxF4wn6v4QkYfvK7VXoMwDfpqxOgD",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Transfer Empower ; \"Empower Cash Advance\"",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 200.0,
+      "date": "2024-01-02",
+      "description": "Transfer Empower ; \"Empower Cash Advance\"",
+      "guid": "8ZpQJbx9MxF4wn6v4QkYfvK6gXYZOaHkXbX8r3",
+      "type": "CREDIT",
+      "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1220 CLEO AI CASH A",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 28.99,
+      "date": "2023-12-20",
+      "description": "CHECKCARD 1220 CLEO AI CASH A",
+      "guid": "8ZpQJbx9MxF4wn6v4QkYfvK6gXYZOaHkXbX89K",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\"]"
+    },
+    {
+      "originalDescription": "Transfer Empower ; \"Empower Cash Advance\"",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 150.0,
+      "date": "2023-10-24",
+      "description": "Transfer Empower ; \"Empower Cash Advance\"",
+      "guid": "78e9R5x7zxUrd93vrNxehVOmegbv5NUw60aXx",
+      "type": "CREDIT",
+      "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]"
+    },
+    {
+      "originalDescription": "ARCO #42501 11/01 #XXXXX0544 PURCHASE ARCO #42501 RANCHO CUCAMO",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 5.95,
+      "date": "2023-11-01",
+      "description": "ARCO #42501 11/01 #XXXXX0544 PURCHASE ARCO #42501 RANCHO CUCAMO",
+      "guid": "78e9R5x7zxUrd93vrNxehVOmegbv5NUw60aLx",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "Credit One Bank DES:Payment ID:53047681 INDN:PEDRO ALONZO CO ID:TEL000004 TEL",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 42.0,
+      "date": "2023-12-05",
+      "description": "Credit One Bank DES:Payment ID:53047681 INDN:PEDRO ALONZO CO ID:TEL000004 TEL",
+      "guid": "78e9R5x7zxUrd93vrNxehVOmegbv5NUw60aeV",
+      "type": "DEBIT",
+      "category": "[\"Payment\",\"Credit Card\"]"
+    },
+    {
+      "originalDescription": "PMNT SENT 1228 APPLE CASH BALANCE ADD CA XXXXX2333XXXXXXXXXX3039",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 10.0,
+      "date": "2023-12-29",
+      "description": "PMNT SENT 1228 APPLE CASH BALANCE ADD CA XXXXX2333XXXXXXXXXX3039",
+      "guid": "78e9R5x7zxUrd93vrNxehVOBngRradfZ1V1gra",
+      "type": "DEBIT",
+      "category": "[\"Payment\"]"
+    },
+    {
+      "originalDescription": "Chevron",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 15.06,
+      "date": "2023-12-19",
+      "description": "Chevron",
+      "guid": "78e9R5x7zxUrd93vrNxehVOBngRradfZ1V1gqr",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "BKOFAMERICA ATM 11/25 #XXXXX3525 WITHDRWL FOOTHILL-CITRUS",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 60.0,
+      "date": "2023-11-27",
+      "description": "BKOFAMERICA ATM 11/25 #XXXXX3525 WITHDRWL FOOTHILL-CITRUS",
+      "guid": "6JpLb8egMeCjn6N0jBrYHJdq3Pn1x5CqOwD8Q",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "Zelle payment from VALENTIN HURTADO Conf# 99a5f12rn",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 20.0,
+      "date": "2023-11-22",
+      "description": "Zelle payment from VALENTIN HURTADO Conf# 99a5f12rn",
+      "guid": "6JpLb8egMeCjn6N0jBrYHJdq3Pn1x5CqOwD8j",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "APPLE CASH INS 12/26 #XXXXX1391 PMNT RCVD APPLE CASH INST X Visa Direct",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 29.55,
+      "date": "2023-12-26",
+      "description": "APPLE CASH INS 12/26 #XXXXX1391 PMNT RCVD APPLE CASH INST X Visa Direct",
+      "guid": "6JpLb8egMeCjn6N0jBrYHJdNaPLYDKFZMgMELr",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "RUBICON GEAR DES:DIRECT DEP ID:XXXXX7120595CE5 INDN:ALONZO,PEDRO CO ID:XXXXX11103 PPD",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 501.96,
+      "date": "2024-01-03",
+      "description": "RUBICON GEAR DES:DIRECT DEP ID:XXXXX7120595CE5 INDN:ALONZO,PEDRO CO ID:XXXXX11103 PPD",
+      "guid": "6JpLb8egMeCjn6N0jBrYHJdNaPLYDKFZMgMEkd",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Payroll\"]"
+    },
+    {
+      "originalDescription": "BKOFAMERICA ATM 11/02 #XXXXX5358 WITHDRWL BROADWAY-MANCHESTE",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 40.0,
+      "date": "2023-11-02",
+      "description": "BKOFAMERICA ATM 11/02 #XXXXX5358 WITHDRWL BROADWAY-MANCHESTE",
+      "guid": "5mp6JxnbMnU0kO9Q0jRYSEqxLJydXPFyYw7a8",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "UNITED PACIFIC 10/24 #XXXXX2724 PURCHASE UNITED PACIFIC 5 RANCHO CUCAMO",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 1.61,
+      "date": "2023-10-24",
+      "description": "UNITED PACIFIC 10/24 #XXXXX2724 PURCHASE UNITED PACIFIC 5 RANCHO CUCAMO",
+      "guid": "5mp6JxnbMnU0kO9Q0jRYSEqxLJydXPFyYw788",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "RIVER ROAD X-P 12/29 #XXXXX4210 PURCHASE RIVER ROAD X-PR",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 2.62,
+      "date": "2023-12-29",
+      "description": "RIVER ROAD X-P 12/29 #XXXXX4210 PURCHASE RIVER ROAD X-PR",
+      "guid": "5mp6JxnbMnU0kO9Q0jRYSEq91JmV7asm0j0MzP",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1218 IN-N-OUTRANCHOCUCAMONG RANCHO CUCAMOCA XXXXX1633XXXXXXXXXX3439",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 10.72,
+      "date": "2023-12-20",
+      "description": "CHECKCARD 1218 IN-N-OUTRANCHOCUCAMONG RANCHO CUCAMOCA XXXXX1633XXXXXXXXXX3439",
+      "guid": "5mp6JxnbMnU0kO9Q0jRYSEq91JmV7asm0j0MK1",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1103 QUICK LUBE & OIL NORCO CA XXXXX1633XXXXXXXXXX9390",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 1.62,
+      "date": "2023-11-06",
+      "description": "CHECKCARD 1103 QUICK LUBE & OIL NORCO CA XXXXX1633XXXXXXXXXX9390",
+      "guid": "4apwN4noMnFvKBNyvgQoSe7vE6a0V1CegRKpY",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Automotive\",\"Maintenance and Repair\"]"
+    },
+    {
+      "originalDescription": "Zelle payment from JENNIFER NAVARRO for \"shoes\"; Conf# 99a42puau",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 15.0,
+      "date": "2023-10-25",
+      "description": "Zelle payment from JENNIFER NAVARRO for \"shoes\"; Conf# 99a42puau",
+      "guid": "4apwN4noMnFvKBNyvgQoSe7vE6a0V1CegRK9Y",
+      "type": "CREDIT",
+      "category": "[\"Shops\",\"Clothing and Accessories\",\"Shoe Store\"]"
+    },
+    {
+      "originalDescription": "RIVER ROAD X-P 12/20 #XXXXX9267 PURCHASE RIVER ROAD X-PR",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 1.69,
+      "date": "2023-12-20",
+      "description": "RIVER ROAD X-P 12/20 #XXXXX9267 PURCHASE RIVER ROAD X-PR",
+      "guid": "4apwN4noMnFvKBNyvgQoSe7ND6mqKpczmPmxQD",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "BKOFAMERICA ATM 12/30 #XXXXX2736 WITHDRWL SAN BERNARDINO MAI SAN BERNARDIN",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 80.0,
+      "date": "2024-01-02",
+      "description": "BKOFAMERICA ATM 12/30 #XXXXX2736 WITHDRWL SAN BERNARDINO MAI SAN BERNARDIN",
+      "guid": "4apwN4noMnFvKBNyvgQoSe7ND6mqKpczmPmx69",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "McDonald's",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 3.65,
+      "date": "2023-10-26",
+      "description": "McDonald's",
+      "guid": "34pd0jn5enHAyednADNYC59Y41XmV3UVEoryZ",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "Chevron",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 1.61,
+      "date": "2023-11-06",
+      "description": "Chevron",
+      "guid": "34pd0jn5enHAyednADNYC59Y41XmV3UVEorkZ",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "Burger King",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 10.82,
+      "date": "2023-11-24",
+      "description": "Burger King",
+      "guid": "34pd0jn5enHAyednADNYC59Y41XmV3UVEor1o",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "Chevron",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 1.61,
+      "date": "2024-01-02",
+      "description": "Chevron",
+      "guid": "34pd0jn5enHAyednADNYC59MJ1wLrkhMb3bnd5",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1220 IN-N-OUT CORONA CORONA CA XXXXX1633XXXXXXXXXX2112",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 10.82,
+      "date": "2023-12-22",
+      "description": "CHECKCARD 1220 IN-N-OUT CORONA CORONA CA XXXXX1633XXXXXXXXXX2112",
+      "guid": "34pd0jn5enHAyednADNYC59MJ1wLrkhMb3bnBm",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "BKOFAMERICA ATM 01/02 #XXXXX8197 WITHDRWL SOUTH SANTA ANA",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 40.0,
+      "date": "2024-01-02",
+      "description": "BKOFAMERICA ATM 01/02 #XXXXX8197 WITHDRWL SOUTH SANTA ANA",
+      "guid": "1jpg7kn8MnUKB4zyK3LYIvgza71AOZHr3z3yDR",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "Transfer Empower ; \"Empower Cash Advance\"",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 200.0,
+      "date": "2023-12-26",
+      "description": "Transfer Empower ; \"Empower Cash Advance\"",
+      "guid": "1jpg7kn8MnUKB4zyK3LYIvgza71AOZHr3z3y8x",
+      "type": "CREDIT",
+      "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]"
+    },
+    {
+      "originalDescription": "NNT BLOOMINGTO 12/25 #XXXXX8915 PURCHASE 18484 VALLEY BLVD",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 2.36,
+      "date": "2023-12-26",
+      "description": "NNT BLOOMINGTO 12/25 #XXXXX8915 PURCHASE 18484 VALLEY BLVD",
+      "guid": "1jpg7kn8MnUKB4zyK3LYIvgza71AOZHr3z3y8R",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1026 LIDS 5181 ONTARIO CA XXXXX1433XXXXXXXXXX0343",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 30.44,
+      "date": "2023-10-27",
+      "description": "CHECKCARD 1026 LIDS 5181 ONTARIO CA XXXXX1433XXXXXXXXXX0343",
+      "guid": "1jpg7kn8MnUKB4zyK3LYIvgDp7o4ynf09nOZD",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Clothing and Accessories\"]"
+    },
+    {
+      "originalDescription": "BKOFAMERICA ATM 11/24 #XXXXX7965 WITHDRWL VINEYARD VALLEY MA",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 40.0,
+      "date": "2023-11-24",
+      "description": "BKOFAMERICA ATM 11/24 #XXXXX7965 WITHDRWL VINEYARD VALLEY MA",
+      "guid": "1jpg7kn8MnUKB4zyK3LYIvgDp7o4ynf09nOPO",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "Panera Bread",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 3.59,
+      "date": "2023-11-09",
+      "description": "Panera Bread",
+      "guid": "1jpg7kn8MnUKB4zyK3LYIvgDp7o4ynf09nOPD",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "ARCO #42501 12/30 #XXXXX8028 PURCHASE ARCO #42501 RANCHO CUCAMO",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 1.96,
+      "date": "2024-01-02",
+      "description": "ARCO #42501 12/30 #XXXXX8028 PURCHASE ARCO #42501 RANCHO CUCAMO",
+      "guid": "00pgQynJMnImqeZzm75oFxbZNqnJkzIBgZgOE3",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "FOOD4LESS #032 12/20 #XXXXX4226 PURCHASE FOOD4LESS #0328 1 RANCHO CUCAMO",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 11.38,
+      "date": "2023-12-20",
+      "description": "FOOD4LESS #032 12/20 #XXXXX4226 PURCHASE FOOD4LESS #0328 1 RANCHO CUCAMO",
+      "guid": "00pgQynJMnImqeZzm75oFxbZNqnJkzIBgZgOae",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1104 SUN CLEANERS FONTANA CA XXXXX9733XXXXXXXXXX1465",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 7.3,
+      "date": "2023-11-06",
+      "description": "CHECKCARD 1104 SUN CLEANERS FONTANA CA XXXXX9733XXXXXXXXXX1465",
+      "guid": "00pgQynJMnImqeZzm75oFxbRaqE3AKIyRAkz1",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Personal Care\"]"
+    },
+    {
+      "originalDescription": "FOOD4LESS 1287 10/25 #XXXXX1631 PURCHASE FOOD4LESS 12879 F RANCHO CUCAMO",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 18.35,
+      "date": "2023-10-25",
+      "description": "FOOD4LESS 1287 10/25 #XXXXX1631 PURCHASE FOOD4LESS 12879 F RANCHO CUCAMO",
+      "guid": "00pgQynJMnImqeZzm75oFxbRaqE3AKIyRAkw1",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "ARCO #42501 12/16 #XXXXX7405 PURCHASE ARCO #42501 RANCHO CUCAMO",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 1.96,
+      "date": "2023-12-18",
+      "description": "ARCO #42501 12/16 #XXXXX7405 PURCHASE ARCO #42501 RANCHO CUCAMO",
+      "guid": "Q8zxBEkeqkUR3e6BRNxbHwkBrag3zPToZYZVgZ",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1216 ACI*WESTLAKE PAYMENT CA XXXXX1633XXXXXXXXXX3558",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 55.0,
+      "date": "2023-12-18",
+      "description": "CHECKCARD 1216 ACI*WESTLAKE PAYMENT CA XXXXX1633XXXXXXXXXX3558",
+      "guid": "pMkam3xZKxU6JOPE6KkdSmw7anv5KAhLBEBRNR",
+      "type": "DEBIT",
+      "category": "[\"Payment\"]"
+    },
+    {
+      "originalDescription": "FOOD4LESS #032 10/21 #XXXXX4667 PURCHASE FOOD4LESS #0328 1 RANCHO CUCAMO",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 2.78,
+      "date": "2023-10-23",
+      "description": "FOOD4LESS #032 10/21 #XXXXX4667 PURCHASE FOOD4LESS #0328 1 RANCHO CUCAMO",
+      "guid": "pMkam3xZKxU6JOPE6KkdSmw0RnkExziN53XoJ",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1213 TARGET T-0736",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 2.54,
+      "date": "2023-12-13",
+      "description": "CHECKCARD 1213 TARGET T-0736",
+      "guid": "PJzX3OKePKCn91wXnVdRcZjY7E9v1qI5X0XRgE",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Zelle payment to jennifer Conf# ry6z760fh",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 20.0,
+      "date": "2023-10-19",
+      "description": "Zelle payment to jennifer Conf# ry6z760fh",
+      "guid": "PJzX3OKePKCn91wXnVdRcZjp8EmeaXIgEodP3",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1013 CANTEEN VENDING GARDEN GROVE CA XXXXX2332XXXXXXXXXX3924",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 3.1,
+      "date": "2023-10-16",
+      "description": "CHECKCARD 1013 CANTEEN VENDING GARDEN GROVE CA XXXXX2332XXXXXXXXXX3924",
+      "guid": "PJzX3OKePKCn91wXnVdRcZjp8EmeaXIgEodNV",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\"]"
+    },
+    {
+      "originalDescription": "RIVER ROAD X-P 10/10 #XXXXX2648 PURCHASE RIVER ROAD X-PR",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 1.69,
+      "date": "2023-10-10",
+      "description": "RIVER ROAD X-P 10/10 #XXXXX2648 PURCHASE RIVER ROAD X-PR",
+      "guid": "oYK0nqr8yrS6OzaQ6Y39S0bEQyvZLoFpV4nAb",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "CA TLR cash withdrawal from CHK 3388 Banking Ctr COSTA MESA #0000517 CA Confirmation# XXXXX98900",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 200.0,
+      "date": "2023-12-07",
+      "description": "CA TLR cash withdrawal from CHK 3388 Banking Ctr COSTA MESA #0000517 CA Confirmation# XXXXX98900",
+      "guid": "OxzPB9ye1yFA4xd5A10nCbqZ59zLVOfP6d6jXb",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\"]"
+    },
+    {
+      "originalDescription": "WINCO FOODS #3 12/17 #XXXXX0652 PURCHASE WINCO FOODS #33 1",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 11.41,
+      "date": "2023-12-18",
+      "description": "WINCO FOODS #3 12/17 #XXXXX0652 PURCHASE WINCO FOODS #33 1",
+      "guid": "OxzPB9ye1yFA4xd5A10nCbqZ59zLVOfP6d6j3b",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Chick-fil-A",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 16.07,
+      "date": "2023-12-18",
+      "description": "Chick-fil-A",
+      "guid": "nny9X1AJ3ACN6mObN8oqCRYV6dkw08CXdRdK5R",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "Chevron",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 10.0,
+      "date": "2023-10-23",
+      "description": "Chevron",
+      "guid": "NazM7g3YD3FJ56YQJaqkSZ9xMERK40I5EogDy",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "BKOFAMERICA ATM 12/16 #XXXXX2102 WITHDRWL POMONA MAIN",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 100.0,
+      "date": "2023-12-18",
+      "description": "BKOFAMERICA ATM 12/16 #XXXXX2102 WITHDRWL POMONA MAIN",
+      "guid": "NazM7g3YD3FJ56YQJaqkSZ9O7E1NL6Izqeq45A",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "PMNT SENT 1214 APPLE CASH BALANCE ADD CA XXXXX2333XXXXXXXXXX9462",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 10.0,
+      "date": "2023-12-15",
+      "description": "PMNT SENT 1214 APPLE CASH BALANCE ADD CA XXXXX2333XXXXXXXXXX9462",
+      "guid": "mE39jLkxBkIvAXV0vZYdSgxqP0K73VCEzgzKRV",
+      "type": "DEBIT",
+      "category": "[\"Payment\"]"
+    },
+    {
+      "originalDescription": "Chevron",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 1.61,
+      "date": "2023-10-16",
+      "description": "Chevron",
+      "guid": "mE39jLkxBkIvAXV0vZYdSgxJD0yznahR7BAnK",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "Zelle payment from JENNIFER NAVARRO Conf# 99a3y5426",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 30.0,
+      "date": "2023-10-23",
+      "description": "Zelle payment from JENNIFER NAVARRO Conf# 99a3y5426",
+      "guid": "mE39jLkxBkIvAXV0vZYdSgxJD0yznahR7BAj4",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "Family Dollar",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 26.14,
+      "date": "2023-12-18",
+      "description": "Family Dollar",
+      "guid": "M4zxPoBeLBHB90q5BojJhNbnDze4MKCgjZj6De",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Discount Stores\"]"
+    },
+    {
+      "originalDescription": "RUBICON GEAR DES:DIRECT DEP ID:XXXXX6077294CE5 INDN:ALONZO,PEDRO CO ID:XXXXX11103 PPD",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 656.66,
+      "date": "2023-12-06",
+      "description": "RUBICON GEAR DES:DIRECT DEP ID:XXXXX6077294CE5 INDN:ALONZO,PEDRO CO ID:XXXXX11103 PPD",
+      "guid": "M4zxPoBeLBHB90q5BojJhNbnDze4MKCgjZj69e",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Payroll\"]"
+    },
+    {
+      "originalDescription": "Customer Withdrawal Image",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 1015.0,
+      "date": "2023-12-13",
+      "description": "Customer Withdrawal Image",
+      "guid": "LrzxbZqe6qFEdbgnEvzqIm3ZwVXDeKhj9b9yNg",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\"]"
+    },
+    {
+      "originalDescription": "VICTORIA WOODS 10/14 #XXXXX4496 PURCHASE VICTORIA WOODS RCH CUCAMONGA",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 1129.44,
+      "date": "2023-10-16",
+      "description": "VICTORIA WOODS 10/14 #XXXXX4496 PURCHASE VICTORIA WOODS RCH CUCAMONGA",
+      "guid": "LrzxbZqe6qFEdbgnEvzqIm3RAV0pLziNVZvOw",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Clothing and Accessories\"]"
+    },
+    {
+      "originalDescription": "PURCHASE 1019 Roku for Hulu LLC XXX-XX28107 DE XXXXX2932XXXXXXXXXX3070 RECURRING",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 7.99,
+      "date": "2023-10-20",
+      "description": "PURCHASE 1019 Roku for Hulu LLC XXX-XX28107 DE XXXXX2932XXXXXXXXXX3070 RECURRING",
+      "guid": "LrzxbZqe6qFEdbgnEvzqIm3RAV0pLziNVZvgR",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Subscription\"]"
+    },
+    {
+      "originalDescription": "Temporary Credit Adjustment on 12/13/23 Card # XXXXXXXXXX548209 Claim # XXXXX0516807",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 88.98,
+      "date": "2023-12-13",
+      "description": "Temporary Credit Adjustment on 12/13/23 Card # XXXXXXXXXX548209 Claim # XXXXX0516807",
+      "guid": "KjzxQJPewPUL6xXALoqvS3BxeAZ7M5FK0a04nO",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "Zelle payment from JENNIFER NAVARRO Conf# 99a3kkdnl",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 15.0,
+      "date": "2023-10-16",
+      "description": "Zelle payment from JENNIFER NAVARRO Conf# 99a3kkdnl",
+      "guid": "KjzxQJPewPUL6xXALoqvS3B0wAzp18CnqEeog",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "Zelle payment to jennifer Conf# mwgfpadv2",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 100.0,
+      "date": "2023-10-18",
+      "description": "Zelle payment to jennifer Conf# mwgfpadv2",
+      "guid": "KjzxQJPewPUL6xXALoqvS3B0wAzp18CnqEeo3",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "RUBICON GEAR DES:DIRECT DEP ID:XXXXX7577833CE5 INDN:ALONZO,PEDRO CO ID:XXXXX11103 PPD",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 702.74,
+      "date": "2023-12-13",
+      "description": "RUBICON GEAR DES:DIRECT DEP ID:XXXXX7577833CE5 INDN:ALONZO,PEDRO CO ID:XXXXX11103 PPD",
+      "guid": "kEqNgzy4PyI6jA7b6OQkSdpNVP7y3qIZMzMN6n",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Payroll\"]"
+    },
+    {
+      "originalDescription": "Zelle payment from JENNIFER NAVARRO Conf# 99a3k8t3k",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 40.0,
+      "date": "2023-10-16",
+      "description": "Zelle payment from JENNIFER NAVARRO Conf# 99a3k8t3k",
+      "guid": "kEqNgzy4PyI6jA7b6OQkSdpLoP0rB6U6yorey",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "RUBICON GEAR DES:DIRECT DEP ID:XXXXX6010983CE5 INDN:ALONZO,PEDRO CO ID:XXXXX11103 PPD",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 579.95,
+      "date": "2023-10-18",
+      "description": "RUBICON GEAR DES:DIRECT DEP ID:XXXXX6010983CE5 INDN:ALONZO,PEDRO CO ID:XXXXX11103 PPD",
+      "guid": "kEqNgzy4PyI6jA7b6OQkSdpLoP0rB6U6yoreM",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Payroll\"]"
+    },
+    {
+      "originalDescription": "Chick-fil-A",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 16.74,
+      "date": "2023-10-13",
+      "description": "Chick-fil-A",
+      "guid": "jEPMAe3r13IpqOYopKNbImkyRzLOB8iAaed7y",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1212 TARGET T-0736",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 7.02,
+      "date": "2023-12-12",
+      "description": "CHECKCARD 1212 TARGET T-0736",
+      "guid": "jEPMAe3r13IpqOYopKNbImkXnzNaA7hk0g05AR",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "BKOFAMERICA ATM 12/11 #XXXXX9529 WITHDRWL CARMENITA-TELEGRAP SANTA FE SPRI",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 40.0,
+      "date": "2023-12-11",
+      "description": "BKOFAMERICA ATM 12/11 #XXXXX9529 WITHDRWL CARMENITA-TELEGRAP SANTA FE SPRI",
+      "guid": "J0zLya1ed1IxyQdrxp86cxAXeNVr8pI3MJMP6A",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "BKOFAMERICA ATM 10/12 #XXXXX9228 DEPOSIT SIXTH & SHERMAN",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 40.0,
+      "date": "2023-10-12",
+      "description": "BKOFAMERICA ATM 10/12 #XXXXX9228 DEPOSIT SIXTH & SHERMAN",
+      "guid": "J0zLya1ed1IxyQdrxp86cxABnNbEL9I6NmaD9",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Deposit\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "ARCO #66578 12/09 #XXXXX3107 PURCHASE ARCO #66578 SAN BERNARDIN",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 0.75,
+      "date": "2023-12-11",
+      "description": "ARCO #66578 12/09 #XXXXX3107 PURCHASE ARCO #66578 SAN BERNARDIN",
+      "guid": "gELykRPv6PI8dn5N8aE3f0PzNn1E34HEzezNBO",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "FOOD4LESS #032 10/07 #XXXXX4480 PURCHASE FOOD4LESS #0328 1 RANCHO CUCAMO",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 4.77,
+      "date": "2023-10-10",
+      "description": "FOOD4LESS #032 10/07 #XXXXX4480 PURCHASE FOOD4LESS #0328 1 RANCHO CUCAMO",
+      "guid": "gELykRPv6PI8dn5N8aE3f0PdpngYkQFBY8vkM",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Walgreens",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 8.6,
+      "date": "2023-12-18",
+      "description": "Walgreens",
+      "guid": "Eyzk03deMdsYQXpNYmgAUdJpmX0jKMIqymy4rq",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Pharmacies\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1020 Spectrum MO XXXXX1632XXXXXXXXXX0094 RECURRING",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 24.99,
+      "date": "2023-10-23",
+      "description": "CHECKCARD 1020 Spectrum MO XXXXX1632XXXXXXXXXX0094 RECURRING",
+      "guid": "epw3yVDkdDUx348Dx70Mcz1yw7XZgxUMZnPOb",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Cable\"]"
+    },
+    {
+      "originalDescription": "Zelle payment from JENNIFER NAVARRO Conf# 99a6mic0u",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 10.0,
+      "date": "2023-12-18",
+      "description": "Zelle payment from JENNIFER NAVARRO Conf# 99a6mic0u",
+      "guid": "epw3yVDkdDUx348Dx70Mcz1Ab7LjkMF9AmARMD",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "BKOFAMERICA ATM 10/20 #XXXXX5350 WITHDRWL VINEYARD VALLEY MA",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 60.0,
+      "date": "2023-10-20",
+      "description": "BKOFAMERICA ATM 10/20 #XXXXX5350 WITHDRWL VINEYARD VALLEY MA",
+      "guid": "dpd3y7LKbLUDAXJaD95LfOVz6Jd5gDHk5KwOD",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "CARDENAS 1621 10/14 #XXXXX3916 PURCHASE CARDENAS 16212 F",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 4.38,
+      "date": "2023-10-16",
+      "description": "CARDENAS 1621 10/14 #XXXXX3916 PURCHASE CARDENAS 16212 F",
+      "guid": "dpd3y7LKbLUDAXJaD95LfOVz6Jd5gDHk5Kw6n",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Transfer Empower ; \"Empower Cash Advance\"",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 200.0,
+      "date": "2023-12-15",
+      "description": "Transfer Empower ; \"Empower Cash Advance\"",
+      "guid": "dpd3y7LKbLUDAXJaD95LfOVEwJe9yvFPMXM7kB",
+      "type": "CREDIT",
+      "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]"
+    },
+    {
+      "originalDescription": "Chevron",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 1.95,
+      "date": "2023-10-16",
+      "description": "Chevron",
+      "guid": "D3zmOqxeMxFOAj0xO6MKtpE4xm3wXqUMmwyLD",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "Zelle payment from JENNIFER NAVARRO Conf# 99a3v307o",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 20.0,
+      "date": "2023-10-20",
+      "description": "Zelle payment from JENNIFER NAVARRO Conf# 99a3v307o",
+      "guid": "D3zmOqxeMxFOAj0xO6MKtpE4xm3wXqUMmwybp",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "Zelle payment to Baby Johnny Conf# onzwek0qs",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 20.0,
+      "date": "2023-12-13",
+      "description": "Zelle payment to Baby Johnny Conf# onzwek0qs",
+      "guid": "D3zmOqxeMxFOAj0xO6MKtpE05mzjbJFQJxJ4ML",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "Chevron",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 1.61,
+      "date": "2023-10-19",
+      "description": "Chevron",
+      "guid": "Bqzk3LxeRxTLKN4vLxmkS1AYz4EdkbhgV3zEw",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1013 CANTEEN 1 HUNT VALLEY MD XXXXX3932XXXXXXXXXX6455",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 1.25,
+      "date": "2023-10-16",
+      "description": "CHECKCARD 1013 CANTEEN 1 HUNT VALLEY MD XXXXX3932XXXXXXXXXX6455",
+      "guid": "Bqzk3LxeRxTLKN4vLxmkS1AYz4EdkbhgV3zbX",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\"]"
+    },
+    {
+      "originalDescription": "Chevron",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 1.61,
+      "date": "2023-12-13",
+      "description": "Chevron",
+      "guid": "Bqzk3LxeRxTLKN4vLxmkS1AaP4VmDLIR6P6ngJ",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "Zelle payment to Clarice Conf# kheuhzo00",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 10.0,
+      "date": "2023-10-10",
+      "description": "Zelle payment to Clarice Conf# kheuhzo00",
+      "guid": "bQzbo5w3mwuj4Mawj9L6Hn3r6edmPvFNZJVeg",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "McDonald's",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 4.84,
+      "date": "2023-12-11",
+      "description": "McDonald's",
+      "guid": "bQzbo5w3mwuj4Mawj9L6Hn3kXe7Bg1CajEjRNO",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "H&S ENERGY PRO 10/13 #XXXXX2188 PURCHASE H&S ENERGY PROD",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 1.39,
+      "date": "2023-10-13",
+      "description": "H&S ENERGY PRO 10/13 #XXXXX2188 PURCHASE H&S ENERGY PROD",
+      "guid": "APzJKw8eM8HmX80nm3LpFgyB8qmKoYhYPMv4E",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Utilities\",\"Electric\"]"
+    },
+    {
+      "originalDescription": "VALLEY LIQUOR 12/12 #XXXXX2738 PURCHASE 17707 VALLEY BOUL",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 2.25,
+      "date": "2023-12-12",
+      "description": "VALLEY LIQUOR 12/12 #XXXXX2738 PURCHASE 17707 VALLEY BOUL",
+      "guid": "APzJKw8eM8HmX80nm3LpFgy01qMd4pCxdrd3Yv",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Food and Beverage Store\"]"
+    },
+    {
+      "originalDescription": "Taco Bell",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 6.51,
+      "date": "2023-10-12",
+      "description": "Taco Bell",
+      "guid": "aEzAD8dBZdIqQy4vqwJjfarLBN5VgMHRN7vOv",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "ExxonMobil",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 1.69,
+      "date": "2023-12-12",
+      "description": "ExxonMobil",
+      "guid": "aEzAD8dBZdIqQy4vqwJjfarKyN8Z96t3nJnxR1",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "Zelle payment from JENNIFER NAVARRO Conf# 99a3c98km",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 15.0,
+      "date": "2023-10-10",
+      "description": "Zelle payment from JENNIFER NAVARRO Conf# 99a3c98km",
+      "guid": "95pPJ7xVMxua6E8RaJeYIpbvAVxKwJUVZgLqy",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "BKOFAMERICA ATM 12/09 #XXXXX3429 WITHDRWL VINEYARD VALLEY MA",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 60.0,
+      "date": "2023-12-11",
+      "description": "BKOFAMERICA ATM 12/09 #XXXXX3429 WITHDRWL VINEYARD VALLEY MA",
+      "guid": "95pPJ7xVMxua6E8RaJeYIpb8oV4yLNFJ0e0nVK",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "Zelle payment from JENNIFER NAVARRO Conf# 99a3gstge",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 500.0,
+      "date": "2023-10-12",
+      "description": "Zelle payment from JENNIFER NAVARRO Conf# 99a3gstge",
+      "guid": "8ZpQJbx9MxF4wn6v4QkYfvK7VXoMwDfpqxO4y",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "ARCO #42501 12/10 #XXXXX9032 PURCHASE ARCO #42501 RANCHO CUCAMO",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 3.96,
+      "date": "2023-12-11",
+      "description": "ARCO #42501 12/10 #XXXXX9032 PURCHASE ARCO #42501 RANCHO CUCAMO",
+      "guid": "8ZpQJbx9MxF4wn6v4QkYfvK6gXYZOaHkXbX8pK",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "BKOFAMERICA ATM 10/08 #XXXXX3805 WITHDRWL VALLEY & SIERRA",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 40.0,
+      "date": "2023-10-10",
+      "description": "BKOFAMERICA ATM 10/08 #XXXXX3805 WITHDRWL VALLEY & SIERRA",
+      "guid": "78e9R5x7zxUrd93vrNxehVOmegbv5NUw60aJz",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1209 JOSES MEXICAN FOOD SAN SAN BERNARDINCA XXXXX7933XXXXXXXXXX9501",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 49.84,
+      "date": "2023-12-11",
+      "description": "CHECKCARD 1209 JOSES MEXICAN FOOD SAN SAN BERNARDINCA XXXXX7933XXXXXXXXXX9501",
+      "guid": "78e9R5x7zxUrd93vrNxehVOBngRradfZ1V1gwr",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "Cinnabon",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 7.64,
+      "date": "2023-10-16",
+      "description": "Cinnabon",
+      "guid": "6JpLb8egMeCjn6N0jBrYHJdq3Pn1x5CqOwDze",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "PURCHASE 1019 Roku for Hulu LLC XXX-XX28107 DE XXXXX2932XXXXXXXXXX1065 RECURRING",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 10.0,
+      "date": "2023-10-20",
+      "description": "PURCHASE 1019 Roku for Hulu LLC XXX-XX28107 DE XXXXX2932XXXXXXXXXX1065 RECURRING",
+      "guid": "6JpLb8egMeCjn6N0jBrYHJdq3Pn1x5CqOwDRj",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Subscription\"]"
+    },
+    {
+      "originalDescription": "PMNT SENT 1213 APPLE CASH BALANCE ADD CA XXXXX2333XXXXXXXXXX5253",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 10.0,
+      "date": "2023-12-14",
+      "description": "PMNT SENT 1213 APPLE CASH BALANCE ADD CA XXXXX2333XXXXXXXXXX5253",
+      "guid": "6JpLb8egMeCjn6N0jBrYHJdNaPLYDKFZMgMEqr",
+      "type": "DEBIT",
+      "category": "[\"Payment\"]"
+    },
+    {
+      "originalDescription": "BKOFAMERICA ATM 10/10 #XXXXX7969 WITHDRWL NORCO",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 120.0,
+      "date": "2023-10-10",
+      "description": "BKOFAMERICA ATM 10/10 #XXXXX7969 WITHDRWL NORCO",
+      "guid": "5mp6JxnbMnU0kO9Q0jRYSEqxLJydXPFyYw7xN",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "Chevron",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 3.98,
+      "date": "2023-12-11",
+      "description": "Chevron",
+      "guid": "5mp6JxnbMnU0kO9Q0jRYSEq91JmV7asm0j0My1",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "Zelle payment from JENNIFER NAVARRO Conf# 99a3i3pv5",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 50.0,
+      "date": "2023-10-13",
+      "description": "Zelle payment from JENNIFER NAVARRO Conf# 99a3i3pv5",
+      "guid": "4apwN4noMnFvKBNyvgQoSe7vE6a0V1CegRK4v",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1211 SUPER STAR DONUTS FONTANA CA XXXXX1633XXXXXXXXXX8113",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 3.95,
+      "date": "2023-12-12",
+      "description": "CHECKCARD 1211 SUPER STAR DONUTS FONTANA CA XXXXX1633XXXXXXXXXX8113",
+      "guid": "4apwN4noMnFvKBNyvgQoSe7ND6mqKpczmPmxeD",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "Chevron",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 3.18,
+      "date": "2023-10-19",
+      "description": "Chevron",
+      "guid": "34pd0jn5enHAyednADNYC59Y41XmV3UVEorgZ",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "BKOFAMERICA ATM 10/13 #XXXXX3983 WITHDRWL VINEYARD VALLEY MA",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 60.0,
+      "date": "2023-10-16",
+      "description": "BKOFAMERICA ATM 10/13 #XXXXX3983 WITHDRWL VINEYARD VALLEY MA",
+      "guid": "34pd0jn5enHAyednADNYC59Y41XmV3UVEorgy",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1211 CARLS JR 1101173 NORCO CA XXXXX4233XXXXXXXXXX2918",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 6.94,
+      "date": "2023-12-13",
+      "description": "CHECKCARD 1211 CARLS JR 1101173 NORCO CA XXXXX4233XXXXXXXXXX2918",
+      "guid": "34pd0jn5enHAyednADNYC59MJ1wLrkhMb3bnVm",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "BKOFAMERICA ATM 12/13 #XXXXX5243 WITHDRWL CORONA",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 140.0,
+      "date": "2023-12-13",
+      "description": "BKOFAMERICA ATM 12/13 #XXXXX5243 WITHDRWL CORONA",
+      "guid": "1jpg7kn8MnUKB4zyK3LYIvgza71AOZHr3z3y0x",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "BKOFAMERICA ATM 10/19 #XXXXX2581 WITHDRWL CARMENITA-TELEGRAP SANTA FE SPRI",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 40.0,
+      "date": "2023-10-19",
+      "description": "BKOFAMERICA ATM 10/19 #XXXXX2581 WITHDRWL CARMENITA-TELEGRAP SANTA FE SPRI",
+      "guid": "1jpg7kn8MnUKB4zyK3LYIvgDp7o4ynf09nOND",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1013 MIGUEL'S JR31 SANTA ANA CA XXXXX2332XXXXXXXXXX6375",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 5.11,
+      "date": "2023-10-16",
+      "description": "CHECKCARD 1013 MIGUEL'S JR31 SANTA ANA CA XXXXX2332XXXXXXXXXX6375",
+      "guid": "1jpg7kn8MnUKB4zyK3LYIvgDp7o4ynf09nO7X",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "BKOFAMERICA ATM 12/12 #XXXXX4324 WITHDRWL VINEYARD VALLEY MA",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 20.0,
+      "date": "2023-12-12",
+      "description": "BKOFAMERICA ATM 12/12 #XXXXX4324 WITHDRWL VINEYARD VALLEY MA",
+      "guid": "00pgQynJMnImqeZzm75oFxbZNqnJkzIBgZgOye",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1012 CANTEEN VENDING GARDEN GROVE CA XXXXX2332XXXXXXXXXX8705",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 5.0,
+      "date": "2023-10-13",
+      "description": "CHECKCARD 1012 CANTEEN VENDING GARDEN GROVE CA XXXXX2332XXXXXXXXXX8705",
+      "guid": "00pgQynJMnImqeZzm75oFxbRaqE3AKIyRAkqn",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\"]"
+    },
+    {
+      "originalDescription": "APPLE CASH INS 10/31 #XXXXX3255 PMNT RCVD APPLE CASH INST X Visa Direct",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 20.68,
+      "date": "2023-10-31",
+      "description": "APPLE CASH INS 10/31 #XXXXX3255 PMNT RCVD APPLE CASH INST X Visa Direct",
+      "guid": "XEzwrDXevXIk1x38kB9Mtog4RjQZVDUMZdDnd",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "Cleo Salary Ad 12/30 #XXXXX7433 PMNT RCVD Cleo Salary Advan",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 40.0,
+      "date": "2024-01-02",
+      "description": "Cleo Salary Ad 12/30 #XXXXX7433 PMNT RCVD Cleo Salary Advan",
+      "guid": "xMxgmorYarUq74N5q9BEfk3wdpQVK5fpawaq3b",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Payroll\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1220 FloatMe",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 1.99,
+      "date": "2023-12-20",
+      "description": "CHECKCARD 1220 FloatMe",
+      "guid": "xMxgmorYarUq74N5q9BEfk3wdpQVK5fpawaqvJ",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "EMPOWER DES:XXXXX25197 ID:Empower Advance INDN:PedroAlonzo CO ID:XXXXX79144 PPD",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 53.0,
+      "date": "2023-12-11",
+      "description": "EMPOWER DES:XXXXX25197 ID:Empower Advance INDN:PedroAlonzo CO ID:XXXXX79144 PPD",
+      "guid": "xMxgmorYarUq74N5q9BEfk3wdpQVK5fpawaqYJ",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]"
+    },
+    {
+      "originalDescription": "Transfer Empower ; \"Empower Cash Advance\"",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 150.0,
+      "date": "2023-11-06",
+      "description": "Transfer Empower ; \"Empower Cash Advance\"",
+      "guid": "xMxgmorYarUq74N5q9BEfk3Zqp1RbvIYPO58e",
+      "type": "CREDIT",
+      "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]"
+    },
+    {
+      "originalDescription": "RUBICON GEAR DES:DIRECT DEP ID:XXXXX7630891CE5 INDN:ALONZO,PEDRO CO ID:XXXXX11103 PPD",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 493.05,
+      "date": "2023-10-25",
+      "description": "RUBICON GEAR DES:DIRECT DEP ID:XXXXX7630891CE5 INDN:ALONZO,PEDRO CO ID:XXXXX11103 PPD",
+      "guid": "xMxgmorYarUq74N5q9BEfk3Zqp1RbvIYPO5Xe",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Payroll\"]"
+    },
+    {
+      "originalDescription": "Zelle payment from JENNIFER NAVARRO Conf# 99a3gyd0f",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 25.0,
+      "date": "2023-10-12",
+      "description": "Zelle payment from JENNIFER NAVARRO Conf# 99a3gyd0f",
+      "guid": "xMxgmorYarUq74N5q9BEfk3Zqp1RbvIYPO5xL",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "BKOFAMERICA ATM 12/25 #XXXXX2281 WITHDRWL VINEYARD VALLEY MA",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 20.0,
+      "date": "2023-12-26",
+      "description": "BKOFAMERICA ATM 12/25 #XXXXX2281 WITHDRWL VINEYARD VALLEY MA",
+      "guid": "YEz6MPXd0XI3mByv3619fRd8Y0vOwMC7RkRo3V",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 0103 CLEO AI CASH A",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 43.99,
+      "date": "2024-01-03",
+      "description": "CHECKCARD 0103 CLEO AI CASH A",
+      "guid": "YEz6MPXd0XI3mByv3619fRd8Y0vOwMC7RkRogE",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\"]"
+    },
+    {
+      "originalDescription": "ARCO #42501 12/26 #XXXXX3883 PURCHASE ARCO #42501 RANCHO CUCAMO",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 7.34,
+      "date": "2023-12-27",
+      "description": "ARCO #42501 12/26 #XXXXX3883 PURCHASE ARCO #42501 RANCHO CUCAMO",
+      "guid": "YEz6MPXd0XI3mByv3619fRd8Y0vOwMC7RkRojE",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "Cleo Salary Ad 12/18 #XXXXX2465 PMNT RCVD Cleo Salary Advan",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 25.0,
+      "date": "2023-12-18",
+      "description": "Cleo Salary Ad 12/18 #XXXXX2465 PMNT RCVD Cleo Salary Advan",
+      "guid": "YEz6MPXd0XI3mByv3619fRd8Y0vOwMC7RkRoNV",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Payroll\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1028 QUICK LUBE & OIL NORCO CA XXXXX1633XXXXXXXXXX7282",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 1.62,
+      "date": "2023-10-30",
+      "description": "CHECKCARD 1028 QUICK LUBE & OIL NORCO CA XXXXX1633XXXXXXXXXX7282",
+      "guid": "YEz6MPXd0XI3mByv3619fRdjE0QzZqFNZJ4bw",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Automotive\",\"Maintenance and Repair\"]"
+    },
+    {
+      "originalDescription": "Zelle payment from JENNIFER NAVARRO Conf# 99a3yaqyz",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 5.0,
+      "date": "2023-10-23",
+      "description": "Zelle payment from JENNIFER NAVARRO Conf# 99a3yaqyz",
+      "guid": "YEz6MPXd0XI3mByv3619fRdjE0QzZqFNZJ4Ow",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "RIVER ROAD X-P 11/28 #XXXXX9864 PURCHASE RIVER ROAD X-PR",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 1.66,
+      "date": "2023-11-28",
+      "description": "RIVER ROAD X-P 11/28 #XXXXX9864 PURCHASE RIVER ROAD X-PR",
+      "guid": "YEz6MPXd0XI3mByv3619fRdjE0QzZqFNZJ4vM",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "PMNT SENT 1212 APPLE CASH BALANCE ADD CA XXXXX2333XXXXXXXXXX0134",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 15.0,
+      "date": "2023-12-13",
+      "description": "PMNT SENT 1212 APPLE CASH BALANCE ADD CA XXXXX2333XXXXXXXXXX0134",
+      "guid": "yMJ0Rg4Yx4UBpgEnB359h4yAwqnbgKUP0e0qrE",
+      "type": "DEBIT",
+      "category": "[\"Payment\"]"
+    },
+    {
+      "originalDescription": "APPLE CASH INS 12/22 #XXXXX5453 PMNT RCVD APPLE CASH INST X Visa Direct",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 39.4,
+      "date": "2023-12-22",
+      "description": "APPLE CASH INS 12/22 #XXXXX5453 PMNT RCVD APPLE CASH INST X Visa Direct",
+      "guid": "yMJ0Rg4Yx4UBpgEnB359h4yAwqnbgKUP0e0qxE",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "FOOD4LESS #032 12/31 #XXXXX3146 PURCHASE FOOD4LESS #0328 1 RANCHO CUCAMO",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 2.0,
+      "date": "2024-01-02",
+      "description": "FOOD4LESS #032 12/31 #XXXXX3146 PURCHASE FOOD4LESS #0328 1 RANCHO CUCAMO",
+      "guid": "yMJ0Rg4Yx4UBpgEnB359h4yAwqnbgKUP0e0qY5",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Zelle payment to FERNANDO HERNANDEZ Conf# qb1qs7o4v",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 3.0,
+      "date": "2023-11-06",
+      "description": "Zelle payment to FERNANDO HERNANDEZ Conf# qb1qs7o4v",
+      "guid": "yMJ0Rg4Yx4UBpgEnB359h4ymPq1okJHrbpK8P",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "BKOFAMERICA ATM 10/16 #XXXXX1640 DEPOSIT SIXTH & SHERMAN",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 3.0,
+      "date": "2023-10-16",
+      "description": "BKOFAMERICA ATM 10/16 #XXXXX1640 DEPOSIT SIXTH & SHERMAN",
+      "guid": "yMJ0Rg4Yx4UBpgEnB359h4ymPq1okJHrbpKBB",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Deposit\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "EMPOWER DES:XXXXX18390 ID:Empower Advance INDN:PedroAlonzo CO ID:XXXXX79144 PPD",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 156.0,
+      "date": "2023-10-18",
+      "description": "EMPOWER DES:XXXXX18390 ID:Empower Advance INDN:PedroAlonzo CO ID:XXXXX79144 PPD",
+      "guid": "yMJ0Rg4Yx4UBpgEnB359h4ymPq1okJHrbpKBP",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]"
+    },
+    {
+      "originalDescription": "Shell",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 3.49,
+      "date": "2023-11-24",
+      "description": "Shell",
+      "guid": "yMJ0Rg4Yx4UBpgEnB359h4ymPq1okJHrbpKQR",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1026 ACI*WESTLAKE PAYMENT CA XXXXX1632XXXXXXXXXX5878",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 628.68,
+      "date": "2023-10-26",
+      "description": "CHECKCARD 1026 ACI*WESTLAKE PAYMENT CA XXXXX1632XXXXXXXXXX5878",
+      "guid": "yMJ0Rg4Yx4UBpgEnB359h4ymPq1okJHrbpKZP",
+      "type": "DEBIT",
+      "category": "[\"Payment\"]"
+    },
+    {
+      "originalDescription": "Empower Inc DES:XXXXX27502 ID:EMPSUBSCR12/23 INDN:PedroAlonzo CO ID:XXXXX79144 PPD",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 8.0,
+      "date": "2023-12-29",
+      "description": "Empower Inc DES:XXXXX27502 ID:EMPSUBSCR12/23 INDN:PedroAlonzo CO ID:XXXXX79144 PPD",
+      "guid": "ZEzLyBXwjXIvqNKdvyJLSP9BEw4DVgCPKYKo7O",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "PMNT SENT 1219 APPLE CASH BALANCE ADD CA XXXXX2333XXXXXXXXXX0363",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 30.0,
+      "date": "2023-12-20",
+      "description": "PMNT SENT 1219 APPLE CASH BALANCE ADD CA XXXXX2333XXXXXXXXXX0363",
+      "guid": "ZEzLyBXwjXIvqNKdvyJLSP9BEw4DVgCPKYKoxv",
+      "type": "DEBIT",
+      "category": "[\"Payment\"]"
+    },
+    {
+      "originalDescription": "RUBICON GEAR DES:DIRECT DEP ID:XXXXX6946944CE5 INDN:ALONZO,PEDRO CO ID:XXXXX11103 PPD",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 566.38,
+      "date": "2023-10-11",
+      "description": "RUBICON GEAR DES:DIRECT DEP ID:XXXXX6946944CE5 INDN:ALONZO,PEDRO CO ID:XXXXX11103 PPD",
+      "guid": "ZEzLyBXwjXIvqNKdvyJLSP9NawR50AHX5bqab",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Payroll\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1101 CARLS JR 1100123 SANTA ANA CA XXXXX4233XXXXXXXXXX6943",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 5.47,
+      "date": "2023-11-03",
+      "description": "CHECKCARD 1101 CARLS JR 1100123 SANTA ANA CA XXXXX4233XXXXXXXXXX6943",
+      "guid": "ZEzLyBXwjXIvqNKdvyJLSP9NawR50AHX5bqdd",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "BKOFAMERICA ATM 10/24 #XXXXX4194 WITHDRWL SIXTH & SHERMAN",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 60.0,
+      "date": "2023-10-24",
+      "description": "BKOFAMERICA ATM 10/24 #XXXXX4194 WITHDRWL SIXTH & SHERMAN",
+      "guid": "ZEzLyBXwjXIvqNKdvyJLSP9NawR50AHX5bqwd",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "7-Eleven",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 11.61,
+      "date": "2023-10-16",
+      "description": "7-Eleven",
+      "guid": "zM8mR9aYJaU3repB3mNOfLKo0jbQkPUaPv1D0",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Convenience Stores\"]"
+    },
+    {
+      "originalDescription": "Chevron",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 1.61,
+      "date": "2023-11-28",
+      "description": "Chevron",
+      "guid": "zM8mR9aYJaU3repB3mNOfLKo0jbQkPUaPv1eP",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "BKOFAMERICA ATM 11/22 #XXXXX7629 WITHDRWL VINEYARD VALLEY MA",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 20.0,
+      "date": "2023-11-22",
+      "description": "BKOFAMERICA ATM 11/22 #XXXXX7629 WITHDRWL VINEYARD VALLEY MA",
+      "guid": "zM8mR9aYJaU3repB3mNOfLKo0jbQkPUaPv1ez",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "Chevron",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 3.71,
+      "date": "2023-10-30",
+      "description": "Chevron",
+      "guid": "zM8mR9aYJaU3repB3mNOfLKo0jbQkPUaPv1Qz",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "Zelle payment from JENNIFER NAVARRO Conf# 99a3zgn7o",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 8.0,
+      "date": "2023-10-23",
+      "description": "Zelle payment from JENNIFER NAVARRO Conf# 99a3zgn7o",
+      "guid": "zM8mR9aYJaU3repB3mNOfLKo0jbQkPUaPv1rz",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "BKOFAMERICA ATM 12/23 #XXXXX1788 WITHDRWL VINEYARD VALLEY MA",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 40.0,
+      "date": "2023-12-26",
+      "description": "BKOFAMERICA ATM 12/23 #XXXXX1788 WITHDRWL VINEYARD VALLEY MA",
+      "guid": "zM8mR9aYJaU3repB3mNOfLKZ6jEgn1IkV0Vj39",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "Zelle payment from JENNIFER NAVARRO Conf# 99a6ox3os",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 30.0,
+      "date": "2023-12-18",
+      "description": "Zelle payment from JENNIFER NAVARRO Conf# 99a6ox3os",
+      "guid": "zM8mR9aYJaU3repB3mNOfLKZ6jEgn1IkV0Vja9",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "Chevron",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 1.39,
+      "date": "2024-01-03",
+      "description": "Chevron",
+      "guid": "zM8mR9aYJaU3repB3mNOfLKZ6jEgn1IkV0Vjqq",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "RUBICON GEAR DES:DIRECT DEP ID:XXXXX7426483CE5 INDN:ALONZO,PEDRO CO ID:XXXXX11103 PPD",
+      "accountGuid": "yMJ0Rg4Yx4UBpgEnB359h4y53OdXzLHP007VwK",
+      "amount": 588.41,
+      "date": "2023-12-27",
+      "description": "RUBICON GEAR DES:DIRECT DEP ID:XXXXX7426483CE5 INDN:ALONZO,PEDRO CO ID:XXXXX11103 PPD",
+      "guid": "zM8mR9aYJaU3repB3mNOfLKZ6jEgn1IkV0VjYq",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Payroll\"]"
+    }
+  ],
+  "asOfDate": "2024-01-04"
+}

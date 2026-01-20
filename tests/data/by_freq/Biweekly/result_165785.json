@@ -1,0 +1,2302 @@
+{
+  "accounts": [
+    {
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "currentBalance": 480.17,
+      "currentBalanceDate": "2024-01-09"
+    }
+  ],
+  "transactions": [
+    {
+      "originalDescription": "Publix",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 11.67,
+      "date": "2023-11-16",
+      "description": "Publix",
+      "guid": "eNapja63B9s1DJXMyZwaF4xPMrdmDKIbrVLqE",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "TIL*PL CICIS PIZZA 165",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 2.0,
+      "date": "2023-10-27",
+      "description": "TIL*PL CICIS PIZZA 165",
+      "guid": "eNapja63B9s1DJXMyZwaF4xPMrdmDKIbrVLyE",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "OD FEE WINDOW REFUND",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 29.0,
+      "date": "2023-11-21",
+      "description": "OD FEE WINDOW REFUND",
+      "guid": "ExRyrRZkYnhKNVDArvxqHkD9M1nPZrtnzYZ0y",
+      "type": "CREDIT",
+      "category": "[\"Bank Fees\",\"Overdraft\"]"
+    },
+    {
+      "originalDescription": "Circle K",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 4.3,
+      "date": "2023-10-24",
+      "description": "Circle K",
+      "guid": "Aj0PA07JDruqn7dprY6yF9YZprnVEatneoZRN",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Convenience Stores\"]"
+    },
+    {
+      "originalDescription": "APPLE.COM/BILL",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 9.99,
+      "date": "2023-10-23",
+      "description": "APPLE.COM/BILL",
+      "guid": "Aj0PA07JDruqn7dprY6yF9YZprnVEatneoZRY",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Digital Purchase\"]"
+    },
+    {
+      "originalDescription": "Walmart",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 44.57,
+      "date": "2023-10-27",
+      "description": "Walmart",
+      "guid": "ExRyrRZkYnhKNVDArvxqHkD9M1nPZrtnzYZjy",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Cracker Barrel",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 59.8,
+      "date": "2023-11-27",
+      "description": "Cracker Barrel",
+      "guid": "Aj0PA07JDruqn7dprY6yF9YZprnVEatneoZeN",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "Zelle: Brown",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 40.0,
+      "date": "2023-12-04",
+      "description": "Zelle: Brown",
+      "guid": "Aj0PA07JDruqn7dprY6yF9YZprnVEatneoZeK",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "Walmart",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 84.78,
+      "date": "2023-10-16",
+      "description": "Walmart",
+      "guid": "ExRyrRZkYnhKNVDArvxqHkD9M1nPZrtnzYZOX",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "APPLE CASH INST XFER VISA DIRECT",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 111.3,
+      "date": "2023-11-13",
+      "description": "APPLE CASH INST XFER VISA DIRECT",
+      "guid": "Aj0PA07JDruqn7dprY6yF9YZprnVEatneoZ1N",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "TIAA STADIUM CLUBS",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 32.97,
+      "date": "2023-10-23",
+      "description": "TIAA STADIUM CLUBS",
+      "guid": "aeREkRqAy7trvxMjPNZdFYMJ6E7vDxF1EdyLy",
+      "type": "DEBIT",
+      "category": "[\"Recreation\",\"Gyms and Fitness Centers\"]"
+    },
+    {
+      "originalDescription": "Zelle: Brown",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 320.0,
+      "date": "2023-11-09",
+      "description": "Zelle: Brown",
+      "guid": "aeREkRqAy7trvxMjPNZdFYMJ6E7vDxF1Edyky",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "Circle K",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 9.78,
+      "date": "2023-11-27",
+      "description": "Circle K",
+      "guid": "aeREkRqAy7trvxMjPNZdFYMJ6E7vDxF1EdyEy",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Convenience Stores\"]"
+    },
+    {
+      "originalDescription": "GATE 1215",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 19.61,
+      "date": "2023-11-29",
+      "description": "GATE 1215",
+      "guid": "aeREkRqAy7trvxMjPNZdFYMJ6E7vDxF1EdyEN",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "Klarna",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 138.25,
+      "date": "2023-11-27",
+      "description": "Klarna",
+      "guid": "bNMQAMBbqZsBwNE6Kxe8CAvx1oqDQzhD1bx1V",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\"]"
+    },
+    {
+      "originalDescription": "GATE 1225",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 12.23,
+      "date": "2023-10-23",
+      "description": "GATE 1225",
+      "guid": "bNMQAMBbqZsBwNE6Kxe8CAvx1oqDQzhD1bxBv",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "DEPOSIT@MOBILE",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 1338.77,
+      "date": "2023-10-18",
+      "description": "DEPOSIT@MOBILE",
+      "guid": "bNMQAMBbqZsBwNE6Kxe8CAvx1oqDQzhD1bxkp",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Deposit\"]"
+    },
+    {
+      "originalDescription": "OSAKA JAPANESE STEAKHOUSEJACKSONVILLE",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 77.2,
+      "date": "2023-10-19",
+      "description": "OSAKA JAPANESE STEAKHOUSEJACKSONVILLE",
+      "guid": "aeREkRqAy7trvxMjPNZdFYMJ6E7vDxF1Edy0J",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "Publix",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 15.72,
+      "date": "2023-10-17",
+      "description": "Publix",
+      "guid": "9Bq51qLPn3crRdgY5QvbFMJENnqm6jCxQ7PvB",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "DAILY STOP EXPRESS6780 RIJACKSONVILLE",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 16.93,
+      "date": "2023-11-24",
+      "description": "DAILY STOP EXPRESS6780 RIJACKSONVILLE",
+      "guid": "9Bq51qLPn3crRdgY5QvbFMJENnqm6jCxQ7PQw",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "Publix",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 12.37,
+      "date": "2023-10-30",
+      "description": "Publix",
+      "guid": "9Bq51qLPn3crRdgY5QvbFMJENnqm6jCxQ7Pjw",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "RECURRING DEB CARD PUR",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 29.0,
+      "date": "2023-10-31",
+      "description": "RECURRING DEB CARD PUR",
+      "guid": "bNMQAMBbqZsBwNE6Kxe8CAvx1oqDQzhD1bxyv",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "GATE 1225",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 31.01,
+      "date": "2023-10-18",
+      "description": "GATE 1225",
+      "guid": "8qPZDP6QOBHqvzmYB75NFbDEa8NJzmCv0Lmow",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "Wells Fargo Ban4120 BELFOJACKSONVILLE",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 23.0,
+      "date": "2023-10-23",
+      "description": "Wells Fargo Ban4120 BELFOJACKSONVILLE",
+      "guid": "8qPZDP6QOBHqvzmYB75NFbDEa8NJzmCv0LmNB",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "GATE 1223",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 18.99,
+      "date": "2023-11-08",
+      "description": "GATE 1223",
+      "guid": "8qPZDP6QOBHqvzmYB75NFbDEa8NJzmCv0LmeB",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "ROWE S IG 1670 WELLS R",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 31.98,
+      "date": "2023-11-24",
+      "description": "ROWE S IG 1670 WELLS R",
+      "guid": "gNaE4aDydZsPNXg39oLJI6Qx4Rqjy7FKR7MRD",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\",\"Financial Planning and Investments\"]"
+    },
+    {
+      "originalDescription": "IIQ*MYSCOREIQ.COM",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 27.99,
+      "date": "2023-10-17",
+      "description": "IIQ*MYSCOREIQ.COM",
+      "guid": "gNaE4aDydZsPNXg39oLJI6Qx4Rqjy7FKR7Mro",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\"]"
+    },
+    {
+      "originalDescription": "ATT* BILL PAYMENT",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 708.72,
+      "date": "2023-10-30",
+      "description": "ATT* BILL PAYMENT",
+      "guid": "gNaE4aDydZsPNXg39oLJI6Qx4Rqjy7FKR7MwD",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Telecommunication Services\"]"
+    },
+    {
+      "originalDescription": "Publix",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 20.09,
+      "date": "2023-11-13",
+      "description": "Publix",
+      "guid": "BrjqvjZk14TBvOwkrPqAC6beLO7n3rF7Jo8ey",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "WM SUPERCENTER #6978Wal-MJACKSONVILLE",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 25.78,
+      "date": "2023-11-28",
+      "description": "WM SUPERCENTER #6978Wal-MJACKSONVILLE",
+      "guid": "8qPZDP6QOBHqvzmYB75NFbDEa8NJzmCv0Lm0e",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "APPLE CASH SENT MONEY 1INFINITELOOPCA",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 119.45,
+      "date": "2023-11-24",
+      "description": "APPLE CASH SENT MONEY 1INFINITELOOPCA",
+      "guid": "8qPZDP6QOBHqvzmYB75NFbDEa8NJzmCv0Lm0B",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "GATE 1178",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 6.56,
+      "date": "2023-12-07",
+      "description": "GATE 1178",
+      "guid": "BrjqvjZk14TBvOwkrPqAC6beLO7n3rF7Jo8JK",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "Publix",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 25.38,
+      "date": "2023-11-24",
+      "description": "Publix",
+      "guid": "7P18L1w9ZqhAv5peqZKOCoNQdzY9qZS5NP4Nw",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "GLS1200 Brookfield BlvUS",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 630.0,
+      "date": "2023-10-30",
+      "description": "GLS1200 Brookfield BlvUS",
+      "guid": "7P18L1w9ZqhAv5peqZKOCoNQdzY9qZS5NP4Mw",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "MEGA SMOKE SHOP 2",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 21.27,
+      "date": "2023-10-17",
+      "description": "MEGA SMOKE SHOP 2",
+      "guid": "7P18L1w9ZqhAv5peqZKOCoNQdzY9qZS5NP4be",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Tobacco\"]"
+    },
+    {
+      "originalDescription": "CHARLEYS PHILLY STEAKS 2JACKSONVILLE",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 63.01,
+      "date": "2023-10-24",
+      "description": "CHARLEYS PHILLY STEAKS 2JACKSONVILLE",
+      "guid": "BrjqvjZk14TBvOwkrPqAC6beLO7n3rF7Jo8yy",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "Klarna",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 136.25,
+      "date": "2023-12-08",
+      "description": "Klarna",
+      "guid": "61DJ6DdL9PuM0K5YxbedCo5mR95Aj5TN15Vbk",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\"]"
+    },
+    {
+      "originalDescription": "KFC",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 19.21,
+      "date": "2023-10-25",
+      "description": "KFC",
+      "guid": "61DJ6DdL9PuM0K5YxbedCo5mK6rp8OSN15VQz",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "Wells Fargo Ban4120 BELFOJACKSONVILLE",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 43.0,
+      "date": "2023-10-13",
+      "description": "Wells Fargo Ban4120 BELFOJACKSONVILLE",
+      "guid": "61DJ6DdL9PuM0K5YxbedCo5mK6rp8OSN15VnN",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "Olive Garden",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 86.58,
+      "date": "2023-11-13",
+      "description": "Olive Garden",
+      "guid": "61DJ6DdL9PuM0K5YxbedCo5mK6rp8OSN15VBz",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "MILLER S ALE HOUSE 039 OL904-278-4600",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 56.78,
+      "date": "2023-12-08",
+      "description": "MILLER S ALE HOUSE 039 OL904-278-4600",
+      "guid": "DaR3jRXmK8UyxrLKB8boFnqBdrqkNqtRB1zE3",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "SMOKE AND VAPE WELLS",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 24.71,
+      "date": "2023-12-08",
+      "description": "SMOKE AND VAPE WELLS",
+      "guid": "61DJ6DdL9PuM0K5YxbedCo5mK6rp8OSN15V1Z",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Tobacco\"]"
+    },
+    {
+      "originalDescription": "Publix",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 39.77,
+      "date": "2023-11-13",
+      "description": "Publix",
+      "guid": "DaR3jRXmK8UyxrLKB8boFnqBJVRoPvFRB1z7m",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Shell",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 10.52,
+      "date": "2023-10-18",
+      "description": "Shell",
+      "guid": "5DLmwL7691umQyZYa6rqHzPNaMZ8vwH4oXbrX",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "RECURRING DEB CARD PUR",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 29.0,
+      "date": "2023-11-07",
+      "description": "RECURRING DEB CARD PUR",
+      "guid": "5DLmwL7691umQyZYa6rqHzPNaMZ8vwH4oXbPQ",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "Credit One Bank Payment",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 40.0,
+      "date": "2023-11-27",
+      "description": "Credit One Bank Payment",
+      "guid": "5DLmwL7691umQyZYa6rqHzPNaMZ8vwH4oXbor",
+      "type": "DEBIT",
+      "category": "[\"Payment\",\"Credit Card\"]"
+    },
+    {
+      "originalDescription": "ROWE S IGA IV 1670 WELLS",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 86.27,
+      "date": "2023-11-24",
+      "description": "ROWE S IGA IV 1670 WELLS",
+      "guid": "5DLmwL7691umQyZYa6rqHzPNaMZ8vwH4oXboQ",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Jacksonville Fir ACCTVERIFY 263079124",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 0.21,
+      "date": "2023-12-08",
+      "description": "Jacksonville Fir ACCTVERIFY 263079124",
+      "guid": "DaR3jRXmK8UyxrLKB8boFnqBJVRoPvFRB1zBJ",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "Publix",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 21.47,
+      "date": "2023-10-23",
+      "description": "Publix",
+      "guid": "5DLmwL7691umQyZYa6rqHzPNaMZ8vwH4oXbeQ",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "ATM REBATE",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 3.0,
+      "date": "2023-10-23",
+      "description": "ATM REBATE",
+      "guid": "jNpEJpqMLwskoZLbj7P5Iv857QDojYtjK4QEk",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "GATE 1217",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 14.6,
+      "date": "2023-10-13",
+      "description": "GATE 1217",
+      "guid": "DaR3jRXmK8UyxrLKB8boFnqBJVRoPvFRB1zez",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "THE HAPPY GRILLED CHEESE",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 15.05,
+      "date": "2023-11-30",
+      "description": "THE HAPPY GRILLED CHEESE",
+      "guid": "jNpEJpqMLwskoZLbj7P5Iv857QDojYtjK4QK6",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "Cold Stone Creamery",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 16.17,
+      "date": "2023-11-27",
+      "description": "Cold Stone Creamery",
+      "guid": "jNpEJpqMLwskoZLbj7P5Iv857QDojYtjK4QKv",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\"]"
+    },
+    {
+      "originalDescription": "APPLE COMONE APPLE PARK WCUPERTINO",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 11.09,
+      "date": "2023-10-25",
+      "description": "APPLE COMONE APPLE PARK WCUPERTINO",
+      "guid": "DaR3jRXmK8UyxrLKB8boFnqBJVRoPvFRB1zjm",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Computers and Electronics\"]"
+    },
+    {
+      "originalDescription": "SMOKE AND MORE8540 ARGYLEJACKSONVILLE",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 27.94,
+      "date": "2023-11-10",
+      "description": "SMOKE AND MORE8540 ARGYLEJACKSONVILLE",
+      "guid": "jNpEJpqMLwskoZLbj7P5Iv857QDojYtjK4QPv",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Tobacco\"]"
+    },
+    {
+      "originalDescription": "LOCKER ROOM BY LIDS 81191ORANGE PARK",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 59.1,
+      "date": "2023-10-23",
+      "description": "LOCKER ROOM BY LIDS 81191ORANGE PARK",
+      "guid": "jNpEJpqMLwskoZLbj7P5Iv857QDojYtjK4Qyv",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Clothing and Accessories\"]"
+    },
+    {
+      "originalDescription": "Klarna",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 35.59,
+      "date": "2023-10-23",
+      "description": "Klarna",
+      "guid": "4L6ad65wzDsYyx8oajb7IX1rp34oOBInOY1yJ",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\"]"
+    },
+    {
+      "originalDescription": "IC* INSTACART*159 HTTPSINSTACARCA",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 25.08,
+      "date": "2023-11-29",
+      "description": "IC* INSTACART*159 HTTPSINSTACARCA",
+      "guid": "4L6ad65wzDsYyx8oajb7IX1rp34oOBInOY1Oo",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "APPLE.COM/BILL",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 11.09,
+      "date": "2023-11-27",
+      "description": "APPLE.COM/BILL",
+      "guid": "4L6ad65wzDsYyx8oajb7IX1rp34oOBInOY1OJ",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Digital Purchase\"]"
+    },
+    {
+      "originalDescription": "Walmart",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 13.94,
+      "date": "2023-10-20",
+      "description": "Walmart",
+      "guid": "4L6ad65wzDsYyx8oajb7IX1rp34oOBInOY1am",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Department Stores\"]"
+    },
+    {
+      "originalDescription": "Family Dollar",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 11.56,
+      "date": "2023-11-10",
+      "description": "Family Dollar",
+      "guid": "4L6ad65wzDsYyx8oajb7IX1rp34oOBInOY15J",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Discount Stores\"]"
+    },
+    {
+      "originalDescription": "Smoothie King",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 11.51,
+      "date": "2023-10-16",
+      "description": "Smoothie King",
+      "guid": "dNap0aw3qnsVaRoL38QPSkDMvjbX4BtQJr8AK",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\"]"
+    },
+    {
+      "originalDescription": "GATE 1215",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 7.52,
+      "date": "2023-11-14",
+      "description": "GATE 1215",
+      "guid": "dNap0aw3qnsVaRoL38QPSkDMvjbX4BtQJr8mR",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "Winn-Dixie",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 19.29,
+      "date": "2023-11-13",
+      "description": "Winn-Dixie",
+      "guid": "36w4MwZd9LuonrJYpO89Fa3BkxDK07UA48zmX",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "GATE 1225",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 8.41,
+      "date": "2023-10-26",
+      "description": "GATE 1225",
+      "guid": "dNap0aw3qnsVaRoL38QPSkDMvjbX4BtQJr8zR",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "KFC",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 34.0,
+      "date": "2023-10-24",
+      "description": "KFC",
+      "guid": "36w4MwZd9LuonrJYpO89Fa3BkxDK07UA48z6X",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "QUIZLET.COM",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 7.99,
+      "date": "2023-12-06",
+      "description": "QUIZLET.COM",
+      "guid": "36w4MwZd9LuonrJYpO89Fa3BkxDK07UA48z4v",
+      "type": "DEBIT",
+      "category": "[\"Service\"]"
+    },
+    {
+      "originalDescription": "CULVERS OF JACKSONVILLE",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 34.24,
+      "date": "2023-10-16",
+      "description": "CULVERS OF JACKSONVILLE",
+      "guid": "eNapja63B9s1DJXMyZwaF4xPMrdmDKIbrVL0P",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "McDonald's",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 9.21,
+      "date": "2023-10-25",
+      "description": "McDonald's",
+      "guid": "1dJjVJ5g9whXyJaYpx5gTwnrZ9XYd6FgLKoMJ",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "Jacksonville Fir ACCTVERIFY 263079124",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 0.18,
+      "date": "2023-12-08",
+      "description": "Jacksonville Fir ACCTVERIFY 263079124",
+      "guid": "1dJjVJ5g9whXyJaYpx5gTwnrZ9XYd6FgLKoLz",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "GATE 1217",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 25.0,
+      "date": "2023-11-13",
+      "description": "GATE 1217",
+      "guid": "1dJjVJ5g9whXyJaYpx5gTwnrZ9XYd6FgLKodJ",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "ATM REBATE",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 3.0,
+      "date": "2023-10-13",
+      "description": "ATM REBATE",
+      "guid": "1dJjVJ5g9whXyJaYpx5gTwnrZ9XYd6FgLKo5q",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "METRO DINER HTTPSMETRODINFL",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 47.8,
+      "date": "2023-12-08",
+      "description": "METRO DINER HTTPSMETRODINFL",
+      "guid": "1dJjVJ5g9whXyJaYpx5gTwnrQBnLKnCgLKoJ0",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "APPLE CASH SENT MONEY 1INFINITELOOPCA",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 37.43,
+      "date": "2023-10-18",
+      "description": "APPLE CASH SENT MONEY 1INFINITELOOPCA",
+      "guid": "JoR08R5LwYHjrv36OKLoT591pd76y0C7nOAKz",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "WASABI JAPANESE STEAKH",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 140.0,
+      "date": "2023-11-24",
+      "description": "WASABI JAPANESE STEAKH",
+      "guid": "JoR08R5LwYHjrv36OKLoT591pd76y0C7nOAnk",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "LONGHORN STEAK 0125021",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 70.0,
+      "date": "2023-11-28",
+      "description": "LONGHORN STEAK 0125021",
+      "guid": "JoR08R5LwYHjrv36OKLoT591pd76y0C7nOAnn",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "GATE EXPRESS 7002",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 20.0,
+      "date": "2023-11-30",
+      "description": "GATE EXPRESS 7002",
+      "guid": "07O09OKgxdHjz14odP6bTOKQzv6XpwIvQLxQz",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "Circle K",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 20.8,
+      "date": "2023-11-27",
+      "description": "Circle K",
+      "guid": "07O09OKgxdHjz14odP6bTOKQzv6XpwIvQLxQA",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Convenience Stores\"]"
+    },
+    {
+      "originalDescription": "GATE 1225",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 25.01,
+      "date": "2023-10-23",
+      "description": "GATE 1225",
+      "guid": "JoR08R5LwYHjrv36OKLoT591pd76y0C7nOArk",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "TOUR* BOUNCEHOUSE EVEN WWW.FUNBOX.COTX",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 37.76,
+      "date": "2023-11-10",
+      "description": "TOUR* BOUNCEHOUSE EVEN WWW.FUNBOX.COTX",
+      "guid": "07O09OKgxdHjz14odP6bTOKQzv6XpwIvQLxnA",
+      "type": "DEBIT",
+      "category": "[\"Recreation\",\"Arts and Entertainment\"]"
+    },
+    {
+      "originalDescription": "GATE 1217",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 4.07,
+      "date": "2023-10-23",
+      "description": "GATE 1217",
+      "guid": "07O09OKgxdHjz14odP6bTOKQzv6XpwIvQLx68",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "Zelle: Soccer",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 80.0,
+      "date": "2023-11-08",
+      "description": "Zelle: Soccer",
+      "guid": "JoR08R5LwYHjrv36OKLoT591pd76y0C7nOAZk",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Sporting Goods\"]"
+    },
+    {
+      "originalDescription": "Zelle: Brown",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 600.0,
+      "date": "2023-10-23",
+      "description": "Zelle: Brown",
+      "guid": "07O09OKgxdHjz14odP6bTOKQzv6XpwIvQLx0A",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "Publix",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 39.53,
+      "date": "2023-12-04",
+      "description": "Publix",
+      "guid": "KbNjZNEx68urAPyvOjQ1F4865DmoJKIm8kL8R",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "GATE 1225",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 27.03,
+      "date": "2023-10-24",
+      "description": "GATE 1225",
+      "guid": "KbNjZNEx68urAPyvOjQ1F4865DmoJKIm8kLMe",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "APPLE.COM/BILL",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 9.99,
+      "date": "2023-11-13",
+      "description": "APPLE.COM/BILL",
+      "guid": "KbNjZNEx68urAPyvOjQ1F4865DmoJKIm8kLxe",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Digital Purchase\"]"
+    },
+    {
+      "originalDescription": "Klarna",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 136.25,
+      "date": "2024-01-05",
+      "description": "Klarna",
+      "guid": "KbNjZNEx68urAPyvOjQ1F48KMxjVV8UmEAB0E",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\"]"
+    },
+    {
+      "originalDescription": "Zelle: Brown",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 165.0,
+      "date": "2023-12-22",
+      "description": "Zelle: Brown",
+      "guid": "KbNjZNEx68urAPyvOjQ1F48KMxjVV8UmEABaY",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "Publix",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 54.98,
+      "date": "2024-01-05",
+      "description": "Publix",
+      "guid": "kmpE8pBND6upbZ0knzqJCb6m3NAee6Cvo0AMb",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Klarna",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 136.25,
+      "date": "2023-12-22",
+      "description": "Klarna",
+      "guid": "kmpE8pBND6upbZ0knzqJCb6m3NAee6Cvo0AzZ",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\"]"
+    },
+    {
+      "originalDescription": "BUFFALO WILD ECOM 0314",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 67.28,
+      "date": "2023-11-27",
+      "description": "BUFFALO WILD ECOM 0314",
+      "guid": "kmpE8pBND6upbZ0knzqJCb6XqnR1ZmCvJgpJ4",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "Klarna 184-45527621",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 33.6,
+      "date": "2023-12-04",
+      "description": "Klarna 184-45527621",
+      "guid": "kmpE8pBND6upbZ0knzqJCb6XqnR1ZmCvJgpJq",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\"]"
+    },
+    {
+      "originalDescription": "Circle K",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 11.92,
+      "date": "2023-10-24",
+      "description": "Circle K",
+      "guid": "kmpE8pBND6upbZ0knzqJCb6XqnR1ZmCvJgpL4",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Convenience Stores\"]"
+    },
+    {
+      "originalDescription": "APPLE COMONE APPLE PARK WCUPERTINO",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 12.21,
+      "date": "2023-10-23",
+      "description": "APPLE COMONE APPLE PARK WCUPERTINO",
+      "guid": "kmpE8pBND6upbZ0knzqJCb6XqnR1ZmCvJgpLB",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Computers and Electronics\"]"
+    },
+    {
+      "originalDescription": "RACETRAC2423",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 6.75,
+      "date": "2023-11-13",
+      "description": "RACETRAC2423",
+      "guid": "kmpE8pBND6upbZ0knzqJCb6XqnR1ZmCvJgpV4",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "GATE 1225",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 20.0,
+      "date": "2023-12-22",
+      "description": "GATE 1225",
+      "guid": "Aj0PA07JDruqn7dprY6yF9Ya40vNNYSnMQEr8",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "CITY OF JAX CITY PAY",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 1597.68,
+      "date": "2024-01-04",
+      "description": "CITY OF JAX CITY PAY",
+      "guid": "Aj0PA07JDruqn7dprY6yF9Ya40vNNYSnMQEdn",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Payroll\"]"
+    },
+    {
+      "originalDescription": "CITY OF JAX CITY PAY",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 1411.88,
+      "date": "2023-12-20",
+      "description": "CITY OF JAX CITY PAY",
+      "guid": "aeREkRqAy7trvxMjPNZdFYMx9KkRRMu17bgJD",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Payroll\"]"
+    },
+    {
+      "originalDescription": "Amazon",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 29.01,
+      "date": "2023-12-11",
+      "description": "Amazon",
+      "guid": "ExRyrRZkYnhKNVDArvxqHkDrKpL66DHnQ8Mmj",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Digital Purchase\"]"
+    },
+    {
+      "originalDescription": "Publix",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 22.89,
+      "date": "2023-12-12",
+      "description": "Publix",
+      "guid": "gNaE4aDydZsPNXg39oLJI6Q73zXrrQfK8a5ek",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "dhgate.com DHGATE.COM",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 188.49,
+      "date": "2023-12-11",
+      "description": "dhgate.com DHGATE.COM",
+      "guid": "9Bq51qLPn3crRdgY5QvbFMJjL8QXXJTxg4meZ",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Digital Purchase\"]"
+    },
+    {
+      "originalDescription": "Hardee's",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 25.87,
+      "date": "2023-12-12",
+      "description": "Hardee's",
+      "guid": "bNMQAMBbqZsBwNE6Kxe8CAvzgk0ZZviDJo5E3",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "APPLE.COM/BILL",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 8.93,
+      "date": "2023-12-15",
+      "description": "APPLE.COM/BILL",
+      "guid": "8qPZDP6QOBHqvzmYB75NFbDmO6L11DCvxB3bd",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Digital Purchase\"]"
+    },
+    {
+      "originalDescription": "Publix",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 15.23,
+      "date": "2023-12-12",
+      "description": "Publix",
+      "guid": "7P18L1w9ZqhAv5peqZKOCoNZaBMwwNT50ExVn",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Zelle: Soccer",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 80.0,
+      "date": "2023-10-11",
+      "description": "Zelle: Soccer",
+      "guid": "BrjqvjZk14TBvOwkrPqAC6beLO7n3rF7Jo8mL",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Sporting Goods\"]"
+    },
+    {
+      "originalDescription": "Piercing Pagoda",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 262.3,
+      "date": "2023-12-22",
+      "description": "Piercing Pagoda",
+      "guid": "BrjqvjZk14TBvOwkrPqAC6brDaRjjbf73Q06k",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Personal Care\"]"
+    },
+    {
+      "originalDescription": "APPLE.COM/BILL",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 28.05,
+      "date": "2024-01-08",
+      "description": "APPLE.COM/BILL",
+      "guid": "BrjqvjZk14TBvOwkrPqAC6brDaRjjbf73Q06x",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Digital Purchase\"]"
+    },
+    {
+      "originalDescription": "APPLE COMONE APPLE PARK WCUPERTINO",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 15.54,
+      "date": "2023-12-26",
+      "description": "APPLE COMONE APPLE PARK WCUPERTINO",
+      "guid": "61DJ6DdL9PuM0K5YxbedCo5ODNV005TNwmbMY",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Computers and Electronics\"]"
+    },
+    {
+      "originalDescription": "ZIP.CO* QUADPAY ANYWHE 164-68139492",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 20.36,
+      "date": "2024-01-09",
+      "description": "ZIP.CO* QUADPAY ANYWHE 164-68139492",
+      "guid": "61DJ6DdL9PuM0K5YxbedCo5ODNV005TNwmbM1",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "LONGHORN STK EC 0125021",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 81.28,
+      "date": "2023-12-13",
+      "description": "LONGHORN STK EC 0125021",
+      "guid": "5DLmwL7691umQyZYa6rqHzPw79jDDPH4w1gjv",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "APPLE.COM/BILL",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 11.09,
+      "date": "2023-12-26",
+      "description": "APPLE.COM/BILL",
+      "guid": "DaR3jRXmK8UyxrLKB8boFnqvb0LYYqfRw0EJ6",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Digital Purchase\"]"
+    },
+    {
+      "originalDescription": "New China",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 75.42,
+      "date": "2024-01-08",
+      "description": "New China",
+      "guid": "DaR3jRXmK8UyxrLKB8boFnqvb0LYYqfRw0EJj",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "RECURRING POS DEBIT",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 29.0,
+      "date": "2023-12-27",
+      "description": "RECURRING POS DEBIT",
+      "guid": "jNpEJpqMLwskoZLbj7P5Iv8YAXwgg8tjemr0Y",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "Walmart",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 92.48,
+      "date": "2023-12-21",
+      "description": "Walmart",
+      "guid": "jNpEJpqMLwskoZLbj7P5Iv8YAXwgg8tjemrg5",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Credit One Bank Payment",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 60.0,
+      "date": "2024-01-09",
+      "description": "Credit One Bank Payment",
+      "guid": "dNap0aw3qnsVaRoL38QPSkDByEp11DHQKLvM5",
+      "type": "DEBIT",
+      "category": "[\"Payment\",\"Credit Card\"]"
+    },
+    {
+      "originalDescription": "APPLE.COM/BILL",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 9.99,
+      "date": "2023-12-20",
+      "description": "APPLE.COM/BILL",
+      "guid": "4L6ad65wzDsYyx8oajb7IX1BKNgAA1FnR8BPV",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Digital Purchase\"]"
+    },
+    {
+      "originalDescription": "CITY OF JAX CITY PAY",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 1353.54,
+      "date": "2023-10-11",
+      "description": "CITY OF JAX CITY PAY",
+      "guid": "36w4MwZd9LuonrJYpO89Fa3BkxDK07UA48zXO",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Payroll\"]"
+    },
+    {
+      "originalDescription": "MICROSOFT*ULTIMATE 1 MONTMSBILL.INFO",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 16.99,
+      "date": "2023-12-15",
+      "description": "MICROSOFT*ULTIMATE 1 MONTMSBILL.INFO",
+      "guid": "JoR08R5LwYHjrv36OKLoT5908XjZZ9h7mq8Jw",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Computers and Electronics\",\"Video Games\"]"
+    },
+    {
+      "originalDescription": "SCENTS OF STYLE FRAGRANC",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 208.55,
+      "date": "2023-12-22",
+      "description": "SCENTS OF STYLE FRAGRANC",
+      "guid": "36w4MwZd9LuonrJYpO89Fa37rMozz3cAoQjbV",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Clothing and Accessories\"]"
+    },
+    {
+      "originalDescription": "RACETRAC2335",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 8.59,
+      "date": "2024-01-08",
+      "description": "RACETRAC2335",
+      "guid": "36w4MwZd9LuonrJYpO89Fa37rMozz3cAoQjbD",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "BOURBON ST GRILL",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 10.99,
+      "date": "2023-12-26",
+      "description": "BOURBON ST GRILL",
+      "guid": "1dJjVJ5g9whXyJaYpx5gTwn6OzjbbncgnEJ36",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "Walmart",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 48.99,
+      "date": "2024-01-08",
+      "description": "Walmart",
+      "guid": "1dJjVJ5g9whXyJaYpx5gTwn6OzjbbncgnEJ35",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Zelle: Jae",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 120.0,
+      "date": "2023-12-21",
+      "description": "Zelle: Jae",
+      "guid": "07O09OKgxdHjz14odP6bTOKwkZ7eeKFvAoKZZ",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "APPLE.COM/BILL",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 12.99,
+      "date": "2023-12-28",
+      "description": "APPLE.COM/BILL",
+      "guid": "07O09OKgxdHjz14odP6bTOKwkZ7eeKFvAoKgx",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Digital Purchase\"]"
+    },
+    {
+      "originalDescription": "PIETAOMEGAI 4029357733",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 327.0,
+      "date": "2024-01-08",
+      "description": "PIETAOMEGAI 4029357733",
+      "guid": "LgRr5RkxL8c4n5Kqx6Lehaz1eZo66zcBZa396",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Third Party\",\"PayPal\"]"
+    },
+    {
+      "originalDescription": "ZIP.CO* QUADPAY ANYWHE 164-68139492",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 13.35,
+      "date": "2023-12-26",
+      "description": "ZIP.CO* QUADPAY ANYWHE 164-68139492",
+      "guid": "LgRr5RkxL8c4n5Kqx6Lehaz1eZo66zcBZa39a",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "GATE 1215",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 21.0,
+      "date": "2023-10-13",
+      "description": "GATE 1215",
+      "guid": "LgRr5RkxL8c4n5Kqx6LehazvKgBxY1UBrwd5m",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "Panera Bread",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 46.7,
+      "date": "2023-11-13",
+      "description": "Panera Bread",
+      "guid": "LgRr5RkxL8c4n5Kqx6LehazvKgBxY1UBrwd6X",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "Walmart",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 13.76,
+      "date": "2023-10-25",
+      "description": "Walmart",
+      "guid": "LgRr5RkxL8c4n5Kqx6LehazvKgBxY1UBrwdkX",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Circle K",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 4.3,
+      "date": "2023-12-08",
+      "description": "Circle K",
+      "guid": "LgRr5RkxL8c4n5Kqx6LehazvKgBxY1UBrwdrA",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Convenience Stores\"]"
+    },
+    {
+      "originalDescription": "Zelle: Brown",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 100.0,
+      "date": "2023-12-08",
+      "description": "Zelle: Brown",
+      "guid": "LgRr5RkxL8c4n5Kqx6LehazvObzndzfBrwd37",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "Publix",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 62.19,
+      "date": "2023-12-11",
+      "description": "Publix",
+      "guid": "M7R4mRQxD8Ha5EkJPYwVF1OAMnEwwOHpXObZn",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Publix",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 70.48,
+      "date": "2023-10-27",
+      "description": "Publix",
+      "guid": "M7R4mRQxD8Ha5EkJPYwVF1OmKrpkjAfpE1B4m",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "DAILY STOP EXPRESS6780 RIJACKSONVILLE",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 10.08,
+      "date": "2023-11-22",
+      "description": "DAILY STOP EXPRESS6780 RIJACKSONVILLE",
+      "guid": "M7R4mRQxD8Ha5EkJPYwVF1OmKrpkjAfpE1Bnm",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "Starbucks",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 8.42,
+      "date": "2023-10-17",
+      "description": "Starbucks",
+      "guid": "M7R4mRQxD8Ha5EkJPYwVF1OmKrpkjAfpE1BvK",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Coffee Shop\"]"
+    },
+    {
+      "originalDescription": "Microsoft Corporation EveREDMOND",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 16.99,
+      "date": "2023-10-16",
+      "description": "Microsoft Corporation EveREDMOND",
+      "guid": "mzpE5py9XDSo0Pydw63EF8aXVAMNp6fvkOmaM",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Computers and Electronics\"]"
+    },
+    {
+      "originalDescription": "Costco Gas",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 50.0,
+      "date": "2023-10-26",
+      "description": "Costco Gas",
+      "guid": "mzpE5py9XDSo0Pydw63EF8aXVAMNp6fvkOmob",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "Venmo",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 14.74,
+      "date": "2023-11-15",
+      "description": "Venmo",
+      "guid": "mzpE5py9XDSo0Pydw63EF8aXVAMNp6fvkOmwb",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Third Party\",\"Venmo\"]"
+    },
+    {
+      "originalDescription": "Shores Liquor @ 103rd StrJACKSONVILLE",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 36.95,
+      "date": "2023-10-16",
+      "description": "Shores Liquor @ 103rd StrJACKSONVILLE",
+      "guid": "NNRabR5M18seQ3Ak1d4bUv056DrkqYtLwPpm1",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Food and Beverage Store\"]"
+    },
+    {
+      "originalDescription": "APPLE.COM/BILL",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 8.93,
+      "date": "2023-11-17",
+      "description": "APPLE.COM/BILL",
+      "guid": "NNRabR5M18seQ3Ak1d4bUv056DrkqYtLwPpMP",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Digital Purchase\"]"
+    },
+    {
+      "originalDescription": "Publix",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 2.45,
+      "date": "2023-10-27",
+      "description": "Publix",
+      "guid": "NNRabR5M18seQ3Ak1d4bUv056DrkqYtLwPpNP",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "COPELANDS OF NEW ORLEA",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 58.3,
+      "date": "2023-10-16",
+      "description": "COPELANDS OF NEW ORLEA",
+      "guid": "nzpnopK9ZmS0bDrqALy3hjb98pAQeLCpoyM1P",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "DOLLARTREE4543 SHIRLEY AVJACKSONVILLE",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 26.38,
+      "date": "2023-10-27",
+      "description": "DOLLARTREE4543 SHIRLEY AVJACKSONVILLE",
+      "guid": "nzpnopK9ZmS0bDrqALy3hjb98pAQeLCpoyMOm",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Discount Stores\"]"
+    },
+    {
+      "originalDescription": "Klarna 184-45527621",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 33.6,
+      "date": "2023-11-20",
+      "description": "Klarna 184-45527621",
+      "guid": "nzpnopK9ZmS0bDrqALy3hjb98pAQeLCpoyMPm",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\"]"
+    },
+    {
+      "originalDescription": "ZIP.CO* QUADPAY ANYWHE 164-68139492",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 13.35,
+      "date": "2023-12-11",
+      "description": "ZIP.CO* QUADPAY ANYWHE 164-68139492",
+      "guid": "nzpnopK9ZmS0bDrqALy3hjbL0VzJJbFpBNgRY",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "GATE 1222",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 53.43,
+      "date": "2023-11-22",
+      "description": "GATE 1222",
+      "guid": "ONXxgXaPM8sJ5zvnLwaKiy3vO1gp0YhgYkZBP",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "Credit One Bank Payment",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 40.0,
+      "date": "2023-10-27",
+      "description": "Credit One Bank Payment",
+      "guid": "ONXxgXaPM8sJ5zvnLwaKiy3vO1gp0YhgYkZLP",
+      "type": "DEBIT",
+      "category": "[\"Payment\",\"Credit Card\"]"
+    },
+    {
+      "originalDescription": "Golden Ox Liquors - Oakl1ORANGE PARK",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 12.89,
+      "date": "2023-10-17",
+      "description": "Golden Ox Liquors - Oakl1ORANGE PARK",
+      "guid": "ONXxgXaPM8sJ5zvnLwaKiy3vO1gp0YhgYkZQv",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Food and Beverage Store\"]"
+    },
+    {
+      "originalDescription": "IC* INSTACART*159 HTTPSINSTACARCA",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 70.35,
+      "date": "2023-12-11",
+      "description": "IC* INSTACART*159 HTTPSINSTACARCA",
+      "guid": "ONXxgXaPM8sJ5zvnLwaKiy3YVZe773SgxeqdY",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Zelle: Brown",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 200.0,
+      "date": "2023-11-27",
+      "description": "Zelle: Brown",
+      "guid": "ozpYbpg0oPSNQBv9JDKeCro5g7BkNpfb7xd7D",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "Shores Liquor 103rd St790JACKSONVILLE",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 78.45,
+      "date": "2023-11-24",
+      "description": "Shores Liquor 103rd St790JACKSONVILLE",
+      "guid": "ozpYbpg0oPSNQBv9JDKeCro5g7BkNpfb7xd7M",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Food and Beverage Store\"]"
+    },
+    {
+      "originalDescription": "QUIZLET.COM",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 7.99,
+      "date": "2023-11-06",
+      "description": "QUIZLET.COM",
+      "guid": "ozpYbpg0oPSNQBv9JDKeCro5g7BkNpfb7xdeM",
+      "type": "DEBIT",
+      "category": "[\"Service\"]"
+    },
+    {
+      "originalDescription": "GATE 1225",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 4.3,
+      "date": "2023-10-18",
+      "description": "GATE 1225",
+      "guid": "ozpYbpg0oPSNQBv9JDKeCro5g7BkNpfb7xdRj",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "Harbor Freight Tools",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 12.88,
+      "date": "2023-10-23",
+      "description": "Harbor Freight Tools",
+      "guid": "ozpYbpg0oPSNQBv9JDKeCro5g7BkNpfb7xdYM",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Hardware Store\"]"
+    },
+    {
+      "originalDescription": "APPLE.COM/BILL",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 9.99,
+      "date": "2023-12-13",
+      "description": "APPLE.COM/BILL",
+      "guid": "ozpYbpg0oPSNQBv9JDKeCropaxRPPofb4y6mN",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Digital Purchase\"]"
+    },
+    {
+      "originalDescription": "GATE 1178 Q80",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 40.01,
+      "date": "2023-12-08",
+      "description": "GATE 1178 Q80",
+      "guid": "PNRJ7R5XMms8Xv0RE6azTbXKO5XNkXtA4ka8p",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "WM SUPERCENTER #5818Wal-MJACKSONVILLE",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 44.67,
+      "date": "2023-12-07",
+      "description": "WM SUPERCENTER #5818Wal-MJACKSONVILLE",
+      "guid": "PNRJ7R5XMms8Xv0RE6azTbXKqMARdzCA4ka4R",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Zelle: Brown",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 200.0,
+      "date": "2023-10-12",
+      "description": "Zelle: Brown",
+      "guid": "PNRJ7R5XMms8Xv0RE6azTbXKqMARdzCA4kaLJ",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "APPLE COMONE APPLE PARK WCUPERTINO",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 6.66,
+      "date": "2023-10-25",
+      "description": "APPLE COMONE APPLE PARK WCUPERTINO",
+      "guid": "PNRJ7R5XMms8Xv0RE6azTbXKqMARdzCA4kav4",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Computers and Electronics\"]"
+    },
+    {
+      "originalDescription": "5/3 BK RACE TRA7315 ARGYLJACKSONVILLE",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 23.0,
+      "date": "2023-11-13",
+      "description": "5/3 BK RACE TRA7315 ARGYLJACKSONVILLE",
+      "guid": "PNRJ7R5XMms8Xv0RE6azTbXKqMARdzCA4kaY4",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "Popeyes",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 46.29,
+      "date": "2024-01-08",
+      "description": "Popeyes",
+      "guid": "PNRJ7R5XMms8Xv0RE6azTbXz1YrxxXCAoD8XB",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "Cinnabon",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 7.34,
+      "date": "2023-12-26",
+      "description": "Cinnabon",
+      "guid": "PNRJ7R5XMms8Xv0RE6azTbXz1YrxxXCAoD8Xr",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "APPLE.COM/BILL",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 9.99,
+      "date": "2023-11-20",
+      "description": "APPLE.COM/BILL",
+      "guid": "pzpMgpNaOqSLEaAdD1QzhDzqAbJyMYF4bV7MK",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Digital Purchase\"]"
+    },
+    {
+      "originalDescription": "Waffle House",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 20.11,
+      "date": "2023-10-27",
+      "description": "Waffle House",
+      "guid": "pzpMgpNaOqSLEaAdD1QzhDzqAbJyMYF4bV7PK",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "Amazon",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 53.7,
+      "date": "2023-10-16",
+      "description": "Amazon",
+      "guid": "pzpMgpNaOqSLEaAdD1QzhDzqAbJyMYF4bV7pP",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Digital Purchase\"]"
+    },
+    {
+      "originalDescription": "CVS",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 11.29,
+      "date": "2023-12-11",
+      "description": "CVS",
+      "guid": "pzpMgpNaOqSLEaAdD1QzhDzYK79OOzf43DgEO",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Pharmacies\"]"
+    },
+    {
+      "originalDescription": "TIL*PL CICIS PIZZA 165",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 30.05,
+      "date": "2023-10-27",
+      "description": "TIL*PL CICIS PIZZA 165",
+      "guid": "QNR89RdxMbsZBajbdLmDh0nbP14XDMC46nw3V",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "SP VITALSLEEP HTTPSVITALSLEFL",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 59.45,
+      "date": "2023-10-16",
+      "description": "SP VITALSLEEP HTTPSVITALSLEFL",
+      "guid": "QNR89RdxMbsZBajbdLmDh0nbP14XDMC46nwA6",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Clothing and Accessories\"]"
+    },
+    {
+      "originalDescription": "CITY OF JAX CITY PAY",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 1646.46,
+      "date": "2023-11-21",
+      "description": "CITY OF JAX CITY PAY",
+      "guid": "QNR89RdxMbsZBajbdLmDh0nbP14XDMC46nwBV",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Payroll\"]"
+    },
+    {
+      "originalDescription": "MEGA SMOKE SHOP 2",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 23.64,
+      "date": "2023-12-11",
+      "description": "MEGA SMOKE SHOP 2",
+      "guid": "QNR89RdxMbsZBajbdLmDh0nMzBjQQnf4OMvYp",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Tobacco\"]"
+    },
+    {
+      "originalDescription": "Zelle: Anuzz",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 20.0,
+      "date": "2023-12-07",
+      "description": "Zelle: Anuzz",
+      "guid": "qzpM7pyqZBSLRo1jVPQNhoPnz3JkMRSE3Xx3Y",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "PY *PDQ - JACKSONVILLE JUJACKSONVILLE",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 27.18,
+      "date": "2023-10-12",
+      "description": "PY *PDQ - JACKSONVILLE JUJACKSONVILLE",
+      "guid": "qzpM7pyqZBSLRo1jVPQNhoPnz3JkMRSE3XxRP",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "CITY OF JAX CITY PAY",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 1480.81,
+      "date": "2023-10-25",
+      "description": "CITY OF JAX CITY PAY",
+      "guid": "qzpM7pyqZBSLRo1jVPQNhoPnz3JkMRSE3Xxwy",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Payroll\"]"
+    },
+    {
+      "originalDescription": "Walmart",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 20.57,
+      "date": "2023-11-13",
+      "description": "Walmart",
+      "guid": "qzpM7pyqZBSLRo1jVPQNhoPnz3JkMRSE3Xxyy",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "APPLE COMONE APPLE PARK WCUPERTINO",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 6.66,
+      "date": "2023-12-26",
+      "description": "APPLE COMONE APPLE PARK WCUPERTINO",
+      "guid": "qzpM7pyqZBSLRo1jVPQNhoPRKVBaaPTEDPLe4",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Computers and Electronics\"]"
+    },
+    {
+      "originalDescription": "Shores Liquor at Argyle60JACKSONVILLE",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 45.77,
+      "date": "2024-01-08",
+      "description": "Shores Liquor at Argyle60JACKSONVILLE",
+      "guid": "qzpM7pyqZBSLRo1jVPQNhoPRKVBaaPTEDPLez",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Food and Beverage Store\"]"
+    },
+    {
+      "originalDescription": "RECURRING DEB CARD PUR",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 29.0,
+      "date": "2023-11-21",
+      "description": "RECURRING DEB CARD PUR",
+      "guid": "RNRZVRwOM8s5MdrqKDy0Inm3Z7qQb5FqYzKEx",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "Waffle House",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 34.8,
+      "date": "2023-10-27",
+      "description": "Waffle House",
+      "guid": "RNRZVRwOM8s5MdrqKDy0Inm3Z7qQb5FqYzKJx",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "Zelle: Brown",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 80.0,
+      "date": "2023-10-16",
+      "description": "Zelle: Brown",
+      "guid": "RNRZVRwOM8s5MdrqKDy0Inm3Z7qQb5FqYzKX0",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "Publix",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 26.31,
+      "date": "2023-12-11",
+      "description": "Publix",
+      "guid": "RNRZVRwOM8s5MdrqKDy0Inm54Ev66mfqeo0xX",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "HUGO INSURANCE SOLN. HTTPSWITHHUGOCA",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 11.78,
+      "date": "2023-11-30",
+      "description": "HUGO INSURANCE SOLN. HTTPSWITHHUGOCA",
+      "guid": "rzpM9p0EZ3SNVZrEmqQoC8D170BpMzfw0yK0D",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Insurance\"]"
+    },
+    {
+      "originalDescription": "APPLE.COM/BILL",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 12.99,
+      "date": "2023-11-27",
+      "description": "APPLE.COM/BILL",
+      "guid": "rzpM9p0EZ3SNVZrEmqQoC8D170BpMzfw0yK0w",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Digital Purchase\"]"
+    },
+    {
+      "originalDescription": "APPLE.COM/BILL",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 24.8,
+      "date": "2023-11-10",
+      "description": "APPLE.COM/BILL",
+      "guid": "rzpM9p0EZ3SNVZrEmqQoC8D170BpMzfw0yK4w",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Digital Purchase\"]"
+    },
+    {
+      "originalDescription": "Circle K",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 40.18,
+      "date": "2023-10-20",
+      "description": "Circle K",
+      "guid": "rzpM9p0EZ3SNVZrEmqQoC8D170BpMzfw0yKod",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Convenience Stores\"]"
+    },
+    {
+      "originalDescription": "Shores Liquor @ Lane Ave",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 38.02,
+      "date": "2023-10-23",
+      "description": "Shores Liquor @ Lane Ave",
+      "guid": "rzpM9p0EZ3SNVZrEmqQoC8D170BpMzfw0yKxw",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Food and Beverage Store\"]"
+    },
+    {
+      "originalDescription": "ATT* BILL PAYMENT",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 285.88,
+      "date": "2023-12-20",
+      "description": "ATT* BILL PAYMENT",
+      "guid": "rzpM9p0EZ3SNVZrEmqQoC8DzrPjJJDfwVepqO",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Telecommunication Services\"]"
+    },
+    {
+      "originalDescription": "UEP*GREEN PAPAYA",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 127.7,
+      "date": "2023-12-11",
+      "description": "UEP*GREEN PAPAYA",
+      "guid": "VN8Ew81rbos7XeJdABDyFgE3XAevvEfj4Ym1m",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "APPLE.COM/BILL",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 12.21,
+      "date": "2023-11-24",
+      "description": "APPLE.COM/BILL",
+      "guid": "VN8Ew81rbos7XeJdABDyFgE7M6jY13hjBqzAw",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Digital Purchase\"]"
+    },
+    {
+      "originalDescription": "APPLE.COM/BILL",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 12.99,
+      "date": "2023-10-17",
+      "description": "APPLE.COM/BILL",
+      "guid": "VN8Ew81rbos7XeJdABDyFgE7M6jY13hjBqzPg",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Digital Purchase\"]"
+    },
+    {
+      "originalDescription": "Jacksonville Firemens",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 9.95,
+      "date": "2023-10-30",
+      "description": "Jacksonville Firemens",
+      "guid": "VN8Ew81rbos7XeJdABDyFgE7M6jY13hjBqzZw",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Third Party\",\"PayPal\"]"
+    },
+    {
+      "originalDescription": "ATM REBATE",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 3.0,
+      "date": "2023-11-13",
+      "description": "ATM REBATE",
+      "guid": "vzpMdpYP7ASzBEpkAKQ4cvYd9nmwMet06RY1m",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "GATE 1206",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 4.3,
+      "date": "2023-10-24",
+      "description": "GATE 1206",
+      "guid": "vzpMdpYP7ASzBEpkAKQ4cvYd9nmwMet06RY5m",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "APPLE.COM/BILL",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 8.93,
+      "date": "2023-10-23",
+      "description": "APPLE.COM/BILL",
+      "guid": "vzpMdpYP7ASzBEpkAKQ4cvYd9nmwMet06RY5n",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Digital Purchase\"]"
+    },
+    {
+      "originalDescription": "Publix",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 33.56,
+      "date": "2023-11-27",
+      "description": "Publix",
+      "guid": "vzpMdpYP7ASzBEpkAKQ4cvYd9nmwMet06RY6m",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "THE HAPPY GRILLED CHEESE",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 44.39,
+      "date": "2023-11-30",
+      "description": "THE HAPPY GRILLED CHEESE",
+      "guid": "vzpMdpYP7ASzBEpkAKQ4cvYd9nmwMet06RY6Z",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "RECURRING DEB CARD PUR",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 29.0,
+      "date": "2023-12-29",
+      "description": "RECURRING DEB CARD PUR",
+      "guid": "vzpMdpYP7ASzBEpkAKQ4cvYeRb1BBYt0Vzdok",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "CASH APP*BRYAN BROWN*CASHSAN FRANCISCOCA",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 78.6,
+      "date": "2023-12-22",
+      "description": "CASH APP*BRYAN BROWN*CASHSAN FRANCISCOCA",
+      "guid": "vzpMdpYP7ASzBEpkAKQ4cvYeRb1BBYt0Vzdxo",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "GATE 1225",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 45.38,
+      "date": "2024-01-09",
+      "description": "GATE 1225",
+      "guid": "wzpMwpNgxvSQzOvNKkaPtRNpL0qZZNfvKg8P8",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "Jacksonville Fir Jacksonvil",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 0.39,
+      "date": "2023-12-08",
+      "description": "Jacksonville Fir Jacksonvil",
+      "guid": "wzpMwpNgxvSQzOvNKkaPtRNV74N86Ntvp1e8D",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "Publix",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 115.99,
+      "date": "2023-10-13",
+      "description": "Publix",
+      "guid": "wzpMwpNgxvSQzOvNKkaPtRNVDXojMpFvp1e7R",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Zelle: Soccer",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 40.0,
+      "date": "2023-10-25",
+      "description": "Zelle: Soccer",
+      "guid": "wzpMwpNgxvSQzOvNKkaPtRNVDXojMpFvp1emN",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Sporting Goods\"]"
+    },
+    {
+      "originalDescription": "WM SUPERCENTER #1225Wal-MORANGE PARK",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 105.35,
+      "date": "2023-11-13",
+      "description": "WM SUPERCENTER #1225Wal-MORANGE PARK",
+      "guid": "wzpMwpNgxvSQzOvNKkaPtRNVDXojMpFvp1enN",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "APPLE.COM/BILL",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 28.05,
+      "date": "2023-12-08",
+      "description": "APPLE.COM/BILL",
+      "guid": "wzpMwpNgxvSQzOvNKkaPtRNVDXojMpFvp1ep6",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Digital Purchase\"]"
+    },
+    {
+      "originalDescription": "IIQ*MYSCOREIQ.COM",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 27.99,
+      "date": "2023-11-17",
+      "description": "IIQ*MYSCOREIQ.COM",
+      "guid": "XNaELaqwbQsV8PZMDyarS5DbNXa89xCabpO1V",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\"]"
+    },
+    {
+      "originalDescription": "Taco Bell",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 14.81,
+      "date": "2023-10-27",
+      "description": "Taco Bell",
+      "guid": "XNaELaqwbQsV8PZMDyarS5DbNXa89xCabpOvV",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "Papa John's",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 49.69,
+      "date": "2023-10-16",
+      "description": "Papa John's",
+      "guid": "XNaELaqwbQsV8PZMDyarS5DbNXa89xCabpOYY",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "Circle K",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 7.73,
+      "date": "2023-12-11",
+      "description": "Circle K",
+      "guid": "XNaELaqwbQsV8PZMDyarS5Dx013qqDhady5Ar",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Convenience Stores\"]"
+    },
+    {
+      "originalDescription": "IIQ*MYSCOREIQ.COM",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 27.99,
+      "date": "2023-12-18",
+      "description": "IIQ*MYSCOREIQ.COM",
+      "guid": "xzXM6XNgV0Sd5O1EYAxjsmv0KwALLvFKOy4wD",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\"]"
+    },
+    {
+      "originalDescription": "Publix",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 55.79,
+      "date": "2023-11-09",
+      "description": "Publix",
+      "guid": "xzXM6XNgV0Sd5O1EYAxjsmvY5aMJ80TKnDA0j",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Publix",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 22.78,
+      "date": "2023-10-19",
+      "description": "Publix",
+      "guid": "xzXM6XNgV0Sd5O1EYAxjsmvY5aMJ80TKnDA7q",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Publix",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 19.31,
+      "date": "2023-11-29",
+      "description": "Publix",
+      "guid": "xzXM6XNgV0Sd5O1EYAxjsmvY5aMJ80TKnDAn4",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "APPLE.COM/BILL",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 6.66,
+      "date": "2023-11-27",
+      "description": "APPLE.COM/BILL",
+      "guid": "xzXM6XNgV0Sd5O1EYAxjsmvY5aMJ80TKnDAnj",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Digital Purchase\"]"
+    },
+    {
+      "originalDescription": "Microsoft Corporation EveREDMOND",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 16.99,
+      "date": "2023-11-15",
+      "description": "Microsoft Corporation EveREDMOND",
+      "guid": "YN7ED7B6bZsAvq59MKZPCLqxMpA71ntqPVn80",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Computers and Electronics\"]"
+    },
+    {
+      "originalDescription": "Zelle: Brown",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 120.0,
+      "date": "2023-10-26",
+      "description": "Zelle: Brown",
+      "guid": "YN7ED7B6bZsAvq59MKZPCLqxMpA71ntqPVnA0",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "GATE 1217",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 28.43,
+      "date": "2023-10-16",
+      "description": "GATE 1217",
+      "guid": "YN7ED7B6bZsAvq59MKZPCLqxMpA71ntqPVnLr",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "CASH APP*KESHONDA GREEN",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 170.0,
+      "date": "2023-12-22",
+      "description": "CASH APP*KESHONDA GREEN",
+      "guid": "yzpMLpN0AjSwnd19YvJVIRJ7gAZLLJfgp9n0A",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "QUIZLET.COM",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 7.99,
+      "date": "2024-01-08",
+      "description": "QUIZLET.COM",
+      "guid": "yzpMLpN0AjSwnd19YvJVIRJ7gAZLLJfgp9n0O",
+      "type": "DEBIT",
+      "category": "[\"Service\"]"
+    },
+    {
+      "originalDescription": "CITY OF JAX CITY PAY",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 1666.21,
+      "date": "2023-12-06",
+      "description": "CITY OF JAX CITY PAY",
+      "guid": "yzpMLpN0AjSwnd19YvJVIRJVKaO0M7Fgd6Dd6",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Payroll\"]"
+    },
+    {
+      "originalDescription": "Party City",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 32.25,
+      "date": "2023-10-24",
+      "description": "Party City",
+      "guid": "yzpMLpN0AjSwnd19YvJVIRJVKaO0M7Fgd6DEv",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Gift and Novelty\"]"
+    },
+    {
+      "originalDescription": "CVS",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 10.49,
+      "date": "2023-11-13",
+      "description": "CVS",
+      "guid": "yzpMLpN0AjSwnd19YvJVIRJVKaO0M7Fgd6Djv",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Pharmacies\"]"
+    },
+    {
+      "originalDescription": "CITY OF JAX CITY PAY",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 1388.91,
+      "date": "2023-11-08",
+      "description": "CITY OF JAX CITY PAY",
+      "guid": "ZNaE1adLbps9dgoLbk03U6AjgmKnJMFkOAzBL",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Payroll\"]"
+    },
+    {
+      "originalDescription": "Shell",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 21.01,
+      "date": "2023-10-18",
+      "description": "Shell",
+      "guid": "ZNaE1adLbps9dgoLbk03U6AjgmKnJMFkOAzeZ",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "TIAA STADIUM CLUBS",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 21.55,
+      "date": "2023-10-23",
+      "description": "TIAA STADIUM CLUBS",
+      "guid": "ZNaE1adLbps9dgoLbk03U6AjgmKnJMFkOAzNL",
+      "type": "DEBIT",
+      "category": "[\"Recreation\",\"Gyms and Fitness Centers\"]"
+    },
+    {
+      "originalDescription": "HUGO INSURANCE SOLN. HTTPSWITHHUGOCA",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 89.74,
+      "date": "2023-11-24",
+      "description": "HUGO INSURANCE SOLN. HTTPSWITHHUGOCA",
+      "guid": "ZNaE1adLbps9dgoLbk03U6AjgmKnJMFkOAzOL",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Insurance\"]"
+    },
+    {
+      "originalDescription": "CMSVEND*CV JACKSONVILLE",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 2.25,
+      "date": "2023-11-28",
+      "description": "CMSVEND*CV JACKSONVILLE",
+      "guid": "ZNaE1adLbps9dgoLbk03U6AjgmKnJMFkOAzON",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\"]"
+    },
+    {
+      "originalDescription": "GLS1200 Brookfield BlvUS",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 400.0,
+      "date": "2023-12-13",
+      "description": "GLS1200 Brookfield BlvUS",
+      "guid": "ZNaE1adLbps9dgoLbk03U6AMVBq77AfkbjDY1",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "Chick-fil-A",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 25.79,
+      "date": "2023-10-16",
+      "description": "Chick-fil-A",
+      "guid": "zzdMDdNmZrS6BwbOY087HMP71AOR8zCnyxz7A",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "LONGHORN STK EC 0125021",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 96.11,
+      "date": "2023-10-26",
+      "description": "LONGHORN STK EC 0125021",
+      "guid": "zzdMDdNmZrS6BwbOY087HMP71AOR8zCnyxzpo",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "Publix",
+      "accountGuid": "8qPZDP6QOBHqvzmYB75NFbDL56dY6wUvzBNzZ",
+      "amount": 16.46,
+      "date": "2023-11-15",
+      "description": "Publix",
+      "guid": "zzdMDdNmZrS6BwbOY087HMP71AOR8zCnyxzXo",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    }
+  ],
+  "asOfDate": "2024-01-09"
+}

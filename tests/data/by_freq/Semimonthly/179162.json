@@ -1,0 +1,3267 @@
+{
+  "accounts": [
+    {
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "currentBalance": 571.77,
+      "currentBalanceDate": "2024-02-14"
+    },
+    {
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "currentBalance": 12.86,
+      "currentBalanceDate": "2024-02-14"
+    }
+  ],
+  "transactions": [
+    {
+      "originalDescription": "Online Banking transfer from CHK 6217 Confirmation# XXXXX55784",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 100.0,
+      "date": "2024-01-17",
+      "description": "Online Banking transfer from CHK 6217 Confirmation# XXXXX55784",
+      "guid": "bO15kpRPqVtawv4DR0YvtLE86JvxzvfgN6pro",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Internal Account Transfer\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1126 TST* STATE AND AL DALLAS TX XXXXX3733XXXXXXXXXX0826",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 69.12,
+      "date": "2023-11-27",
+      "description": "CHECKCARD 1126 TST* STATE AND AL DALLAS TX XXXXX3733XXXXXXXXXX0826",
+      "guid": "bO15kpRPqVtawv4DR0YvtLEo0MQZ4XHPYpQ87",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "CARD 01/05 #XXXXX9464 PMNT RCVD CARD",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 750.0,
+      "date": "2024-01-05",
+      "description": "CARD 01/05 #XXXXX9464 PMNT RCVD CARD",
+      "guid": "bO15kpRPqVtawv4DR0YvtLEo0MQZ4XHPYpQEV",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "Brigit 12/16 #XXXXX1569 PMNT RCVD Brigit",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 130.0,
+      "date": "2023-12-18",
+      "description": "Brigit 12/16 #XXXXX1569 PMNT RCVD Brigit",
+      "guid": "bO15kpRPqVtawv4DR0YvtLEo0MQZ4XHPYpQRV",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1221 NXTCLCS.COM XXX-XX46445 CA XXXXX0733XXXXXXXXXX7190",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 1.0,
+      "date": "2023-12-22",
+      "description": "CHECKCARD 1221 NXTCLCS.COM XXX-XX46445 CA XXXXX0733XXXXXXXXXX7190",
+      "guid": "bO15kpRPqVtawv4DR0YvtLEo0MQZ4XHPYpQwL",
+      "type": "DEBIT",
+      "category": "[\"Service\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1121 CITYVET OLD EAST DALL DALLAS TX XXXXX7733XXXXXXXXXX4771",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 27.89,
+      "date": "2023-11-24",
+      "description": "CHECKCARD 1121 CITYVET OLD EAST DALL DALLAS TX XXXXX7733XXXXXXXXXX4771",
+      "guid": "9gK7oXeEnZU8Rj6pX7zjtBYnQ96XZoU6BAMp1",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "GLOBAL GHLLC.COM DES:DepositTrn ID:XXXXXXXXXX32323 INDN:FRED ELLIS CO ID:XXXXX81415 PPD",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 306.51,
+      "date": "2023-12-15",
+      "description": "GLOBAL GHLLC.COM DES:DepositTrn ID:XXXXXXXXXX32323 INDN:FRED ELLIS CO ID:XXXXX81415 PPD",
+      "guid": "9gK7oXeEnZU8Rj6pX7zjtBYnQ96XZoU6BAMnd",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "Brigit 01/03 #XXXXX3787 PMNT RCVD Brigit",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 130.0,
+      "date": "2024-01-03",
+      "description": "Brigit 01/03 #XXXXX3787 PMNT RCVD Brigit",
+      "guid": "9gK7oXeEnZU8Rj6pX7zjtBYnQ96XZoU6BAMed",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "Online Banking transfer from CHK 9111 Confirmation# XXXXX36102",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 200.0,
+      "date": "2023-12-21",
+      "description": "Online Banking transfer from CHK 9111 Confirmation# XXXXX36102",
+      "guid": "9gK7oXeEnZU8Rj6pX7zjtBYnQ96XZoU6BAMDV",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Internal Account Transfer\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1220 FUZZYS TACO SHOP DALLAS TX XXXXX6133XXXXXXXXXX2756",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 12.43,
+      "date": "2023-12-21",
+      "description": "CHECKCARD 1220 FUZZYS TACO SHOP DALLAS TX XXXXX6133XXXXXXXXXX2756",
+      "guid": "AQpwLXY9DOC0nJX5OANJtOJrvxEN51Cwy7p3K",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "MetLife",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 123.8,
+      "date": "2024-01-16",
+      "description": "MetLife",
+      "guid": "9gK7oXeEnZU8Rj6pX7zjtBY0AzJEjJtkVXARb",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Insurance\"]"
+    },
+    {
+      "originalDescription": "Brigit-com DES:MEMBERSHIP ID:213D2FB2CB50468 INDN:Fred Ellis CO ID:XXXXX36030 WEB",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 9.99,
+      "date": "2024-02-14",
+      "description": "Brigit-com DES:MEMBERSHIP ID:213D2FB2CB50468 INDN:Fred Ellis CO ID:XXXXX36030 WEB",
+      "guid": "9gK7oXeEnZU8Rj6pX7zjtBY0AzJEjJtkVXAob",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Third Party\"]"
+    },
+    {
+      "originalDescription": "Online Banking transfer to CHK 9111 Confirmation# XXXXX41047",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 350.0,
+      "date": "2024-01-16",
+      "description": "Online Banking transfer to CHK 9111 Confirmation# XXXXX41047",
+      "guid": "9gK7oXeEnZU8Rj6pX7zjtBY0AzJEjJtkVXA8R",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Internal Account Transfer\"]"
+    },
+    {
+      "originalDescription": "EatZi's",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 12.48,
+      "date": "2023-12-04",
+      "description": "EatZi's",
+      "guid": "AQpwLXY9DOC0nJX5OANJtOJrvxEN51Cwy7paK",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "USPBGC-US AIRWAY DES:PN PMTS/BG ID:3IK0E505D/23335 INDN:ELLIS III CO ID:XXXXX48526 PPD",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 87.3,
+      "date": "2023-12-01",
+      "description": "USPBGC-US AIRWAY DES:PN PMTS/BG ID:3IK0E505D/23335 INDN:ELLIS III CO ID:XXXXX48526 PPD",
+      "guid": "AQpwLXY9DOC0nJX5OANJtOJrvxEN51Cwy7paN",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Payroll\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1229 RICE BOWL EXPRESS DALLAS TX XXXXX7233XXXXXXXXXX3299",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 10.59,
+      "date": "2024-01-02",
+      "description": "CHECKCARD 1229 RICE BOWL EXPRESS DALLAS TX XXXXX7233XXXXXXXXXX3299",
+      "guid": "AQpwLXY9DOC0nJX5OANJtOJrvxEN51Cwy7pgk",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "Walmart",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 43.26,
+      "date": "2024-01-10",
+      "description": "Walmart",
+      "guid": "AQpwLXY9DOC0nJX5OANJtOJrvxEN51Cwy7prK",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Online Banking transfer from CHK 4560 Confirmation# XXXXX59923",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 550.0,
+      "date": "2024-01-31",
+      "description": "Online Banking transfer from CHK 4560 Confirmation# XXXXX59923",
+      "guid": "8mRboe5zO8t6v9wM0rO9TnjAVdDEmDFJp1dzX",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Internal Account Transfer\"]"
+    },
+    {
+      "originalDescription": "Online Banking transfer from CHK 6217 Confirmation# XXXXX85929",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 400.0,
+      "date": "2024-01-23",
+      "description": "Online Banking transfer from CHK 6217 Confirmation# XXXXX85929",
+      "guid": "8mRboe5zO8t6v9wM0rO9TnjAVdDEmDFJp1dVJ",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Internal Account Transfer\"]"
+    },
+    {
+      "originalDescription": "PURCHASE 1128 FLEX FINANCE HTTPSGETFLEX.NY XXXXX3433XXXXXXXXXX8152 RECURRING",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 380.76,
+      "date": "2023-11-29",
+      "description": "PURCHASE 1128 FLEX FINANCE HTTPSGETFLEX.NY XXXXX3433XXXXXXXXXX8152 RECURRING",
+      "guid": "8mRboe5zO8t6v9wM0rO9Tnj8Lyz1xgfYnd6R7",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]"
+    },
+    {
+      "originalDescription": "CVS",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 23.12,
+      "date": "2023-12-26",
+      "description": "CVS",
+      "guid": "8mRboe5zO8t6v9wM0rO9Tnj8Lyz1xgfYnd6QZ",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Pharmacies\"]"
+    },
+    {
+      "originalDescription": "PMNT SENT 0106 Dave Inc XXXXX73283 CA XXXXX4340XXXXXXXXXX1443",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 105.0,
+      "date": "2024-01-08",
+      "description": "PMNT SENT 0106 Dave Inc XXXXX73283 CA XXXXX4340XXXXXXXXXX1443",
+      "guid": "8mRboe5zO8t6v9wM0rO9Tnj8Lyz1xgfYnd6be",
+      "type": "DEBIT",
+      "category": "[\"Payment\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1215 LOAN PMT -ESOLVEM XXX-XX29840 GA XXXXX6733XXXXXXXXXX0754",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 200.0,
+      "date": "2023-12-18",
+      "description": "CHECKCARD 1215 LOAN PMT -ESOLVEM XXX-XX29840 GA XXXXX6733XXXXXXXXXX0754",
+      "guid": "8mRboe5zO8t6v9wM0rO9Tnj8Lyz1xgfYnd68e",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1118 TOTAL WINE & MORE DALLAS TX XXXXX8433XXXXXXXXXX9502",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 18.38,
+      "date": "2023-11-20",
+      "description": "CHECKCARD 1118 TOTAL WINE & MORE DALLAS TX XXXXX8433XXXXXXXXXX9502",
+      "guid": "8mRboe5zO8t6v9wM0rO9Tnj8Lyz1xgfYnd67B",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Food and Beverage Store\"]"
+    },
+    {
+      "originalDescription": "EatZi's",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 39.4,
+      "date": "2024-01-31",
+      "description": "EatZi's",
+      "guid": "AQpwLXY9DOC0nJX5OANJtOJ38DYZaYhbYN79m",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "Brigit-com DES:PROTECTION ID:6EF1E03585D9405 INDN:Fred Ellis CO ID:XXXXX36030 WEB",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 130.99,
+      "date": "2024-02-01",
+      "description": "Brigit-com DES:PROTECTION ID:6EF1E03585D9405 INDN:Fred Ellis CO ID:XXXXX36030 WEB",
+      "guid": "AQpwLXY9DOC0nJX5OANJtOJ38DYZaYhbYN7OO",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]"
+    },
+    {
+      "originalDescription": "Credit One Bank DES:Payment ID:65343131 INDN:FRED ELLIS CO ID:WEB000004 WEB",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 100.0,
+      "date": "2024-01-03",
+      "description": "Credit One Bank DES:Payment ID:65343131 INDN:FRED ELLIS CO ID:WEB000004 WEB",
+      "guid": "7oN5QX4EZJH3vVdw78RVFLyzMEqwxnH8Ly9V3",
+      "type": "DEBIT",
+      "category": "[\"Payment\",\"Credit Card\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1221 YouTube Videos g.co/helppay#CA XXXXX1633XXXXXXXXXX2719",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 4.32,
+      "date": "2023-12-21",
+      "description": "CHECKCARD 1221 YouTube Videos g.co/helppay#CA XXXXX1633XXXXXXXXXX2719",
+      "guid": "7oN5QX4EZJH3vVdw78RVFLyzMEqwxnH8Ly9jq",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Entertainment\"]"
+    },
+    {
+      "originalDescription": "POSSIBLE FINANCE DES:PAYMENT ID:1a04fa1374a842b INDN:Fred Ellis CO ID:XXXXX73909 WEB",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 234.37,
+      "date": "2023-12-15",
+      "description": "POSSIBLE FINANCE DES:PAYMENT ID:1a04fa1374a842b INDN:Fred Ellis CO ID:XXXXX73909 WEB",
+      "guid": "7oN5QX4EZJH3vVdw78RVFLyzMEqwxnH8Ly9g3",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]"
+    },
+    {
+      "originalDescription": "Online Banking transfer from CHK 6217 Confirmation# XXXXX60959",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 50.0,
+      "date": "2023-11-27",
+      "description": "Online Banking transfer from CHK 6217 Confirmation# XXXXX60959",
+      "guid": "7oN5QX4EZJH3vVdw78RVFLyzMEqwxnH8Ly9Bv",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Internal Account Transfer\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1130 CITYVET OLD EAST DALL XXX-XX60090 TX XXXXX7733XXXXXXXXXX5484",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 29.83,
+      "date": "2023-12-04",
+      "description": "CHECKCARD 1130 CITYVET OLD EAST DALL XXX-XX60090 TX XXXXX7733XXXXXXXXXX5484",
+      "guid": "AQpwLXY9DOC0nJX5OANJtOJrvxEN51Cwy7px0",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1206 CITYVET OLD EAST DALL XXX-XX60090 TX XXXXX7733XXXXXXXXXX9298",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 186.0,
+      "date": "2023-12-08",
+      "description": "CHECKCARD 1206 CITYVET OLD EAST DALL XXX-XX60090 TX XXXXX7733XXXXXXXXXX9298",
+      "guid": "AQpwLXY9DOC0nJX5OANJtOJrvxEN51Cwy7pxk",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 0116 POWERFINANCE IFD XXX-XX56686 TX XXXXX6640XXXXXXXXXX6825",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 298.19,
+      "date": "2024-01-17",
+      "description": "CHECKCARD 0116 POWERFINANCE IFD XXX-XX56686 TX XXXXX6640XXXXXXXXXX6825",
+      "guid": "7oN5QX4EZJH3vVdw78RVFLyXe1NQZNfDw3yRP",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "PURCHASE 0116 FLEX FINANCE HTTPSGETFLEX.NY XXXXX3440XXXXXXXXXX0752 RECURRING",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 14.99,
+      "date": "2024-01-16",
+      "description": "PURCHASE 0116 FLEX FINANCE HTTPSGETFLEX.NY XXXXX3440XXXXXXXXXX0752 RECURRING",
+      "guid": "7oN5QX4EZJH3vVdw78RVFLyXe1NQZNfDw3ykA",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 0107 TST* MIAS TEX-MEX Dallas TX XXXXX8640XXXXXXXXXX1026",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 90.66,
+      "date": "2024-01-08",
+      "description": "CHECKCARD 0107 TST* MIAS TEX-MEX Dallas TX XXXXX8640XXXXXXXXXX1026",
+      "guid": "aV18KO0Qy9U4voQL309oIbwEkzDRdyfKM8DJN",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "Online Banking transfer from CHK 9111 Confirmation# XXXXX30650",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 50.0,
+      "date": "2024-02-05",
+      "description": "Online Banking transfer from CHK 9111 Confirmation# XXXXX30650",
+      "guid": "BnQLDXd01MF4v3K7eXd3IXvJzMberbfdg4ALV",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Internal Account Transfer\"]"
+    },
+    {
+      "originalDescription": "Online Banking transfer to CHK 4560 Confirmation# XXXXX55576",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 15.0,
+      "date": "2024-02-05",
+      "description": "Online Banking transfer to CHK 4560 Confirmation# XXXXX55576",
+      "guid": "65z8oX4Q9xHN01nVk8L1H9EX375mO5Cyq03p0",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Internal Account Transfer\"]"
+    },
+    {
+      "originalDescription": "OVERDRAFT PROTECTION TO XXXXX0000XXXXX5786217",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 7.62,
+      "date": "2024-02-06",
+      "description": "OVERDRAFT PROTECTION TO XXXXX0000XXXXX5786217",
+      "guid": "65z8oX4Q9xHN01nVk8L1H9EX375mO5Cyq03jP",
+      "type": "DEBIT",
+      "category": "[\"Bank Fees\",\"Overdraft\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1120 NTTA ONLINE XXXXX86882 TX XXXXX8633XXXXXXXXXX7674",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 10.0,
+      "date": "2023-11-21",
+      "description": "CHECKCARD 1120 NTTA ONLINE XXXXX86882 TX XXXXX8633XXXXXXXXXX7674",
+      "guid": "aV18KO0Qy9U4voQL309oIbwEkzDRdyfKM8Dqy",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Tolls and Fees\"]"
+    },
+    {
+      "originalDescription": "TOTAL WINE & M 11/30 #XXXXX5650 PURCHASE TOTAL WINE & MO",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 18.38,
+      "date": "2023-11-30",
+      "description": "TOTAL WINE & M 11/30 #XXXXX5650 PURCHASE TOTAL WINE & MO",
+      "guid": "aV18KO0Qy9U4voQL309oIbwEkzDRdyfKM8Dwn",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Food and Beverage Store\"]"
+    },
+    {
+      "originalDescription": "Online Banking transfer to CHK 4560 Confirmation# XXXXX66142",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 260.0,
+      "date": "2024-02-02",
+      "description": "Online Banking transfer to CHK 4560 Confirmation# XXXXX66142",
+      "guid": "BnQLDXd01MF4v3K7eXd3IXvJzMberbfdg4AO8",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Internal Account Transfer\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1223 WU * XXXXX56000 CO XXXXX8633XXXXXXXXXX8831 RECURRING",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 27.99,
+      "date": "2023-12-26",
+      "description": "CHECKCARD 1223 WU * XXXXX56000 CO XXXXX8633XXXXXXXXXX8831 RECURRING",
+      "guid": "BnQLDXd01MF4v3K7eXd3IXvOR83jxPHvXADnK",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "OVERDRAFT PROTECTION FROM XXXXXXXXXX9111",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 4.88,
+      "date": "2023-12-12",
+      "description": "OVERDRAFT PROTECTION FROM XXXXXXXXXX9111",
+      "guid": "65z8oX4Q9xHN01nVk8L1H9E6VA80yaiAr3eZR",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "Online Banking transfer from CHK 9111 Confirmation# XXXXX39357",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 160.0,
+      "date": "2023-12-06",
+      "description": "Online Banking transfer from CHK 9111 Confirmation# XXXXX39357",
+      "guid": "65z8oX4Q9xHN01nVk8L1H9E6VA80yaiAr3eZA",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Internal Account Transfer\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 0107 TST* STATE AND ALLEN DALLAS TX XXXXX4640XXXXXXXXXX8239",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 72.71,
+      "date": "2024-01-08",
+      "description": "CHECKCARD 0107 TST* STATE AND ALLEN DALLAS TX XXXXX4640XXXXXXXXXX8239",
+      "guid": "65z8oX4Q9xHN01nVk8L1H9E6VA80yaiAr3eoR",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "Whataburger",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 9.08,
+      "date": "2023-12-04",
+      "description": "Whataburger",
+      "guid": "65z8oX4Q9xHN01nVk8L1H9E6VA80yaiAr3eJz",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1226 MSLHLP.COM XXXXX19320 CA XXXXX2133XXXXXXXXXX2397",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 29.99,
+      "date": "2023-12-27",
+      "description": "CHECKCARD 1226 MSLHLP.COM XXXXX19320 CA XXXXX2133XXXXXXXXXX2397",
+      "guid": "65z8oX4Q9xHN01nVk8L1H9E6VA80yaiAr3eEZ",
+      "type": "DEBIT",
+      "category": "[\"Service\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1216 CHIPS HAMBURGERS DALLAS TX XXXXX4333XXXXXXXXXX7178",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 32.33,
+      "date": "2023-12-18",
+      "description": "CHECKCARD 1216 CHIPS HAMBURGERS DALLAS TX XXXXX4333XXXXXXXXXX7178",
+      "guid": "aV18KO0Qy9U4voQL309oIbwEkzDRdyfKM8DxN",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "Online Banking transfer from CHK 9111 Confirmation# XXXXX72594",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 130.0,
+      "date": "2023-11-16",
+      "description": "Online Banking transfer from CHK 9111 Confirmation# XXXXX72594",
+      "guid": "65z8oX4Q9xHN01nVk8L1H9E4ejOJO5fy5oB0g",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Internal Account Transfer\"]"
+    },
+    {
+      "originalDescription": "Supercuts",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 25.95,
+      "date": "2023-12-11",
+      "description": "Supercuts",
+      "guid": "BnQLDXd01MF4v3K7eXd3IXvOR83jxPHvXADpK",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Personal Care\"]"
+    },
+    {
+      "originalDescription": "Dave Inc 12/02 #XXXXX9115 PMNT RCVD Dave Inc",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 125.0,
+      "date": "2023-12-04",
+      "description": "Dave Inc 12/02 #XXXXX9115 PMNT RCVD Dave Inc",
+      "guid": "BnQLDXd01MF4v3K7eXd3IXvOR83jxPHvXADpy",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "EPISCOPAL CHURCH DES:CONTRIBUTN ID:XX01559IBVAS20 INDN:FRED H ELLIS III CO ID:XXXXX86634 WEB",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 30.0,
+      "date": "2024-01-03",
+      "description": "EPISCOPAL CHURCH DES:CONTRIBUTN ID:XX01559IBVAS20 INDN:FRED H ELLIS III CO ID:XXXXX86634 WEB",
+      "guid": "BnQLDXd01MF4v3K7eXd3IXvOR83jxPHvXADqe",
+      "type": "DEBIT",
+      "category": "[\"Community\",\"Religious\",\"Churches\"]"
+    },
+    {
+      "originalDescription": "Kroger",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 94.4,
+      "date": "2023-12-11",
+      "description": "Kroger",
+      "guid": "BnQLDXd01MF4v3K7eXd3IXvOR83jxPHvXADRe",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "OVERDRAFT PROTECTION TO XXXXX0000XXXXX5786217",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 5.4,
+      "date": "2023-11-28",
+      "description": "OVERDRAFT PROTECTION TO XXXXX0000XXXXX5786217",
+      "guid": "5Z5xoXOg9aU9QDkevX5DH54MjRvDp1FNaqpOp",
+      "type": "DEBIT",
+      "category": "[\"Bank Fees\",\"Overdraft\"]"
+    },
+    {
+      "originalDescription": "BKOFAMERICA ATM 12/16 #XXXXX2051 WITHDRWL LEMMON AND INWOOD",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 40.0,
+      "date": "2023-12-18",
+      "description": "BKOFAMERICA ATM 12/16 #XXXXX2051 WITHDRWL LEMMON AND INWOOD",
+      "guid": "5Z5xoXOg9aU9QDkevX5DH54MjRvDp1FNaqpMr",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "BKOFAMERICA ATM 01/05 #XXXXX6722 WITHDRWL CEDAR SPRINGS & KN",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 60.0,
+      "date": "2024-01-05",
+      "description": "BKOFAMERICA ATM 01/05 #XXXXX6722 WITHDRWL CEDAR SPRINGS & KN",
+      "guid": "5Z5xoXOg9aU9QDkevX5DH54MjRvDp1FNaqpjr",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1115 LOAN PMT -ESOLVEM XXX-XX29840 GA XXXXX6733XXXXXXXXXX1047",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 200.0,
+      "date": "2023-11-17",
+      "description": "CHECKCARD 1115 LOAN PMT -ESOLVEM XXX-XX29840 GA XXXXX6733XXXXXXXXXX1047",
+      "guid": "5Z5xoXOg9aU9QDkevX5DH54MjRvDp1FNaqpEQ",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]"
+    },
+    {
+      "originalDescription": "Online Banking transfer from CHK 6217 Confirmation# XXXXX49363",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 400.0,
+      "date": "2023-12-26",
+      "description": "Online Banking transfer from CHK 6217 Confirmation# XXXXX49363",
+      "guid": "5Z5xoXOg9aU9QDkevX5DH54MjRvDp1FNaqp9A",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Internal Account Transfer\"]"
+    },
+    {
+      "originalDescription": "BankAmeriDeals CASHBACK",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 1.59,
+      "date": "2024-01-23",
+      "description": "BankAmeriDeals CASHBACK",
+      "guid": "5Z5xoXOg9aU9QDkevX5DH54BLkPNwPU6yDqRM",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "Online Banking transfer from CHK 9111 Confirmation# XXXXX94888",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 20.0,
+      "date": "2024-01-18",
+      "description": "Online Banking transfer from CHK 9111 Confirmation# XXXXX94888",
+      "guid": "5Z5xoXOg9aU9QDkevX5DH54BLkPNwPU6yDqAd",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Internal Account Transfer\"]"
+    },
+    {
+      "originalDescription": "Kroger",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 5.28,
+      "date": "2023-12-04",
+      "description": "Kroger",
+      "guid": "BnQLDXd01MF4v3K7eXd3IXvOR83jxPHvXADRQ",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Kroger",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 14.57,
+      "date": "2023-12-27",
+      "description": "Kroger",
+      "guid": "aV18KO0Qy9U4voQL309oIbwEkzDRdyfKM8DY9",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Kroger",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 12.89,
+      "date": "2024-01-25",
+      "description": "Kroger",
+      "guid": "aV18KO0Qy9U4voQL309oIbwmBpMJxMI9Rj857",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 0131 PRIME VIDEO TVOD XXXXX61072 WA XXXXX2040XXXXXXXXXX5068",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 3.24,
+      "date": "2024-02-01",
+      "description": "CHECKCARD 0131 PRIME VIDEO TVOD XXXXX61072 WA XXXXX2040XXXXXXXXXX5068",
+      "guid": "aV18KO0Qy9U4voQL309oIbwmBpMJxMI9Rj8VY",
+      "type": "CREDIT",
+      "category": "[\"Service\",\"Entertainment\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 0131 NTTA ONLINE XXXXX86882 TX XXXXX8640XXXXXXXXXX5560",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 10.0,
+      "date": "2024-02-01",
+      "description": "CHECKCARD 0131 NTTA ONLINE XXXXX86882 TX XXXXX8640XXXXXXXXXX5560",
+      "guid": "48j4OXegzmUNy9KzVpE9H5w8Ex1rB1UJeAXZd",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Tolls and Fees\"]"
+    },
+    {
+      "originalDescription": "BKOFAMERICA ATM 01/27 #XXXXX1252 DEPOSIT CEDAR SPRINGS & KN",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 3.76,
+      "date": "2024-01-29",
+      "description": "BKOFAMERICA ATM 01/27 #XXXXX1252 DEPOSIT CEDAR SPRINGS & KN",
+      "guid": "48j4OXegzmUNy9KzVpE9H5w8Ex1rB1UJeAX7k",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Deposit\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "OVERDRAFT PROTECTION TO XXXXX0000XXXXX5786217",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 122.78,
+      "date": "2024-01-16",
+      "description": "OVERDRAFT PROTECTION TO XXXXX0000XXXXX5786217",
+      "guid": "48j4OXegzmUNy9KzVpE9H5w8Ex1rB1UJeAX7d",
+      "type": "DEBIT",
+      "category": "[\"Bank Fees\",\"Overdraft\"]"
+    },
+    {
+      "originalDescription": "Online Banking transfer to CHK 4560 Confirmation# XXXXX27309",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 50.0,
+      "date": "2023-12-18",
+      "description": "Online Banking transfer to CHK 4560 Confirmation# XXXXX27309",
+      "guid": "48j4OXegzmUNy9KzVpE9H5w3gQOAZDFDpXLxo",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Internal Account Transfer\"]"
+    },
+    {
+      "originalDescription": "Kroger",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 31.87,
+      "date": "2024-01-08",
+      "description": "Kroger",
+      "guid": "48j4OXegzmUNy9KzVpE9H5w3gQOAZDFDpXLPo",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "THE CHURCH OF TH DES:PAYROLL ID:1000157 INDN:ELLIS, FREDH CO ID:XXXXX05101 PPD",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 869.67,
+      "date": "2023-12-29",
+      "description": "THE CHURCH OF TH DES:PAYROLL ID:1000157 INDN:ELLIS, FREDH CO ID:XXXXX05101 PPD",
+      "guid": "48j4OXegzmUNy9KzVpE9H5w3gQOAZDFDpXLNn",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Payroll\"]"
+    },
+    {
+      "originalDescription": "Kroger",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 10.49,
+      "date": "2023-11-30",
+      "description": "Kroger",
+      "guid": "48j4OXegzmUNy9KzVpE9H5w3gQOAZDFDpXLMM",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Dave Inc 11/22 #XXXXX0797 PMNT RCVD Dave Inc",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 100.0,
+      "date": "2023-11-22",
+      "description": "Dave Inc 11/22 #XXXXX0797 PMNT RCVD Dave Inc",
+      "guid": "48j4OXegzmUNy9KzVpE9H5w3gQOAZDFDpXLjJ",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "Online Banking transfer from CHK 6217 Confirmation# XXXXX41924",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 250.0,
+      "date": "2024-01-03",
+      "description": "Online Banking transfer from CHK 6217 Confirmation# XXXXX41924",
+      "guid": "3JxjoXbz9rHdn6y0kXg6tbgxoN0zyJfPk9vZ6",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Internal Account Transfer\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1221 TOTAL WINE & MORE DALLAS TX XXXXX8433XXXXXXXXXX4849",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 114.51,
+      "date": "2023-12-22",
+      "description": "CHECKCARD 1221 TOTAL WINE & MORE DALLAS TX XXXXX8433XXXXXXXXXX4849",
+      "guid": "3JxjoXbz9rHdn6y0kXg6tbgxoN0zyJfPk9vnv",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Food and Beverage Store\"]"
+    },
+    {
+      "originalDescription": "C STORE 12 12/02 #XXXXX1200 PURCHASE 4040 CEDAR SPRING",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 10.05,
+      "date": "2023-12-04",
+      "description": "C STORE 12 12/02 #XXXXX1200 PURCHASE 4040 CEDAR SPRING",
+      "guid": "3JxjoXbz9rHdn6y0kXg6tbgxoN0zyJfPk9vMx",
+      "type": "DEBIT",
+      "category": "[\"Shops\"]"
+    },
+    {
+      "originalDescription": "TOTAL WINE & M 12/09 #XXXXX0776 PURCHASE TOTAL WINE & MO",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 31.25,
+      "date": "2023-12-11",
+      "description": "TOTAL WINE & M 12/09 #XXXXX0776 PURCHASE TOTAL WINE & MO",
+      "guid": "3JxjoXbz9rHdn6y0kXg6tbgxoN0zyJfPk9vM6",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Food and Beverage Store\"]"
+    },
+    {
+      "originalDescription": "Brigit 12/03 #XXXXX6250 PMNT RCVD Brigit",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 130.0,
+      "date": "2023-12-04",
+      "description": "Brigit 12/03 #XXXXX6250 PMNT RCVD Brigit",
+      "guid": "3JxjoXbz9rHdn6y0kXg6tbgxoN0zyJfPk9v5X",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "PURCHASE REFUND 1211 AIRBNB HMMH22HY4 XXXXX47262 CA XXXXX5033XXXXXXXXXX1615",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 40.99,
+      "date": "2023-12-11",
+      "description": "PURCHASE REFUND 1211 AIRBNB HMMH22HY4 XXXXX47262 CA XXXXX5033XXXXXXXXXX1615",
+      "guid": "3JxjoXbz9rHdn6y0kXg6tbgxoN0zyJfPk9v5v",
+      "type": "CREDIT",
+      "category": "[\"Travel\",\"Lodging\",\"Hotels and Motels\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 0110 TAKE 5 #527 DALLAS TX XXXXX8440XXXXXXXXXX8411",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 25.5,
+      "date": "2024-01-11",
+      "description": "CHECKCARD 0110 TAKE 5 #527 DALLAS TX XXXXX8440XXXXXXXXXX8411",
+      "guid": "3JxjoXbz9rHdn6y0kXg6tbgxoN0zyJfPk9v3v",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "Online Banking transfer from CHK 9111 Confirmation# XXXXX66142",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 260.0,
+      "date": "2024-02-02",
+      "description": "Online Banking transfer from CHK 9111 Confirmation# XXXXX66142",
+      "guid": "3JxjoXbz9rHdn6y0kXg6tbgP4p3B73I7VD9xj",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Internal Account Transfer\"]"
+    },
+    {
+      "originalDescription": "Kroger",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 20.0,
+      "date": "2024-02-02",
+      "description": "Kroger",
+      "guid": "3JxjoXbz9rHdn6y0kXg6tbgP4p3B73I7VD9O0",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "TOTAL WINE & M 01/12 #XXXXX2087 PURCHASE TOTAL WINE & MO",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 43.26,
+      "date": "2024-01-12",
+      "description": "TOTAL WINE & M 01/12 #XXXXX2087 PURCHASE TOTAL WINE & MO",
+      "guid": "1aZkoXRx90CzydBZkOrdHB09jLdbmaUYZXVzz",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Food and Beverage Store\"]"
+    },
+    {
+      "originalDescription": "Whole Foods",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 4.32,
+      "date": "2023-12-26",
+      "description": "Whole Foods",
+      "guid": "1aZkoXRx90CzydBZkOrdHB09jLdbmaUYZXVyz",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Online Banking transfer to CHK 4560 Confirmation# XXXXX16677",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 5.0,
+      "date": "2023-12-11",
+      "description": "Online Banking transfer to CHK 4560 Confirmation# XXXXX16677",
+      "guid": "1aZkoXRx90CzydBZkOrdHB09jLdbmaUYZXVvz",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Internal Account Transfer\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1201 SXM*SIRIUSXM.COM/ XXXXX55144 NY XXXXX8633XXXXXXXXXX0595 RECURRING",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 15.5,
+      "date": "2023-12-04",
+      "description": "CHECKCARD 1201 SXM*SIRIUSXM.COM/ XXXXX55144 NY XXXXX8633XXXXXXXXXX0595 RECURRING",
+      "guid": "1aZkoXRx90CzydBZkOrdHB09jLdbmaUYZXVvJ",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Subscription\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1203 TST* ROY GS Dallas TX XXXXX1633XXXXXXXXXX8795",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 60.46,
+      "date": "2023-12-05",
+      "description": "CHECKCARD 1203 TST* ROY GS Dallas TX XXXXX1633XXXXXXXXXX8795",
+      "guid": "1aZkoXRx90CzydBZkOrdHB09jLdbmaUYZXVro",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1209 TST* G TEXAS CATERING Dallas TX XXXXX1633XXXXXXXXXX5196",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 57.6,
+      "date": "2023-12-11",
+      "description": "CHECKCARD 1209 TST* G TEXAS CATERING Dallas TX XXXXX1633XXXXXXXXXX5196",
+      "guid": "1aZkoXRx90CzydBZkOrdHB09jLdbmaUYZXVr9",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Food and Beverage\",\"Catering\"]"
+    },
+    {
+      "originalDescription": "Kroger",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 5.0,
+      "date": "2024-01-04",
+      "description": "Kroger",
+      "guid": "1aZkoXRx90CzydBZkOrdHB09jLdbmaUYZXVB9",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 0201 POWERFINANCE IFD XXX-XX56686 TX XXXXX6640XXXXXXXXXX9837",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 298.19,
+      "date": "2024-02-05",
+      "description": "CHECKCARD 0201 POWERFINANCE IFD XXX-XX56686 TX XXXXX6640XXXXXXXXXX9837",
+      "guid": "1aZkoXRx90CzydBZkOrdHB08pknr6ntj0bX6Y",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "TOTAL WINE & M 02/05 #XXXXX4538 PURCHASE TOTAL WINE & MO",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 40.02,
+      "date": "2024-02-05",
+      "description": "TOTAL WINE & M 02/05 #XXXXX4538 PURCHASE TOTAL WINE & MO",
+      "guid": "1aZkoXRx90CzydBZkOrdHB08pknr6ntj0bX4N",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Food and Beverage Store\"]"
+    },
+    {
+      "originalDescription": "EatZi's",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 26.95,
+      "date": "2024-01-10",
+      "description": "EatZi's",
+      "guid": "04byzXRNxvUZzAqEaXJAt1gv75peoNT9zb7Zz",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1218 SALAD AND GO #140 DALLAS TX XXXXX2033XXXXXXXXXX3805",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 7.35,
+      "date": "2023-12-19",
+      "description": "CHECKCARD 1218 SALAD AND GO #140 DALLAS TX XXXXX2033XXXXXXXXXX3805",
+      "guid": "04byzXRNxvUZzAqEaXJAt1gv75peoNT9zb7Oz",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1207 SAMS CLUB #637",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 28.1,
+      "date": "2023-12-07",
+      "description": "CHECKCARD 1207 SAMS CLUB #637",
+      "guid": "04byzXRNxvUZzAqEaXJAt1gv75peoNT9zb7Br",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Warehouses and Wholesale Stores\"]"
+    },
+    {
+      "originalDescription": "BHMANAGEMENT-178 DES:WEB PMTS ID:ZSFR8F INDN:FredEllis CO ID:XXXXX27989 WEB",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 100.0,
+      "date": "2023-12-01",
+      "description": "BHMANAGEMENT-178 DES:WEB PMTS ID:ZSFR8F INDN:FredEllis CO ID:XXXXX27989 WEB",
+      "guid": "04byzXRNxvUZzAqEaXJAt1gv75peoNT9zb7Bd",
+      "type": "DEBIT",
+      "category": "[\"Payment\",\"Rent\"]"
+    },
+    {
+      "originalDescription": "Online Banking transfer from CHK 9111 Confirmation# XXXXX63905",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 120.0,
+      "date": "2024-01-02",
+      "description": "Online Banking transfer from CHK 9111 Confirmation# XXXXX63905",
+      "guid": "04byzXRNxvUZzAqEaXJAt1gv75peoNT9zb78r",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Internal Account Transfer\"]"
+    },
+    {
+      "originalDescription": "Online Banking transfer to CHK 4560 Confirmation# XXXXX91770",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 75.0,
+      "date": "2023-12-04",
+      "description": "Online Banking transfer to CHK 4560 Confirmation# XXXXX91770",
+      "guid": "04byzXRNxvUZzAqEaXJAt1gv75peoNT9zb71z",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Internal Account Transfer\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1127 NTTA ONLINE XXXXX86882 TX XXXXX8633XXXXXXXXXX4838",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 5.0,
+      "date": "2023-11-28",
+      "description": "CHECKCARD 1127 NTTA ONLINE XXXXX86882 TX XXXXX8633XXXXXXXXXX4838",
+      "guid": "04byzXRNxvUZzAqEaXJAt1gv75peoNT9zb71A",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Tolls and Fees\"]"
+    },
+    {
+      "originalDescription": "THE CHURCH OF TH DES:PAYROLL ID:1000157 INDN:ELLIS, FREDH CO ID:XXXXX05101 PPD",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 1248.68,
+      "date": "2024-01-31",
+      "description": "THE CHURCH OF TH DES:PAYROLL ID:1000157 INDN:ELLIS, FREDH CO ID:XXXXX05101 PPD",
+      "guid": "04byzXRNxvUZzAqEaXJAt1gLa8KQwKTVyebjk",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Payroll\"]"
+    },
+    {
+      "originalDescription": "MARINER FINANCE DES:TRANS PMT ID:54 XXXXX0794721 INDN:ELLIS FRED H CO ID:XXXXX33977 PPD",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 517.34,
+      "date": "2024-02-01",
+      "description": "MARINER FINANCE DES:TRANS PMT ID:54 XXXXX0794721 INDN:ELLIS FRED H CO ID:XXXXX33977 PPD",
+      "guid": "04byzXRNxvUZzAqEaXJAt1gLa8KQwKTVyebDE",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 0118 NTTA ONLINE XXXXX86882 TX XXXXX8640XXXXXXXXXX0351",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 10.0,
+      "date": "2024-01-19",
+      "description": "CHECKCARD 0118 NTTA ONLINE XXXXX86882 TX XXXXX8640XXXXXXXXXX0351",
+      "guid": "bO15kpRPqVtawv4DR0YvtLE86JvxzvfgN6pLM",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Tolls and Fees\"]"
+    },
+    {
+      "originalDescription": "PURCHASE 1116 FLEX FINANCE HTTPSGETFLEX.NY XXXXX3433XXXXXXXXXX0701 RECURRING",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 14.99,
+      "date": "2023-11-16",
+      "description": "PURCHASE 1116 FLEX FINANCE HTTPSGETFLEX.NY XXXXX3433XXXXXXXXXX0701 RECURRING",
+      "guid": "dEA7vOmoqMIJa4Armzn4uY03LABOBDFyr3m0E",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]"
+    },
+    {
+      "originalDescription": "Online Banking transfer from CHK 9111 Confirmation# XXXXX47969",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 200.0,
+      "date": "2024-01-11",
+      "description": "Online Banking transfer from CHK 9111 Confirmation# XXXXX47969",
+      "guid": "dEA7vOmoqMIJa4Armzn4uY0jpx41nwuoRdq3Y",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Internal Account Transfer\"]"
+    },
+    {
+      "originalDescription": "Zelle payment to David Hess Conf# pwu00fhev",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 200.0,
+      "date": "2023-12-12",
+      "description": "Zelle payment to David Hess Conf# pwu00fhev",
+      "guid": "dEA7vOmoqMIJa4Armzn4uY0jpx41nwuoRdq7g",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1212 SAMS CLUB #824",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 28.1,
+      "date": "2023-12-12",
+      "description": "CHECKCARD 1212 SAMS CLUB #824",
+      "guid": "dEA7vOmoqMIJa4Armzn4uY0jpx41nwuoRdqPY",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Warehouses and Wholesale Stores\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1228 MCAFEE *WWW.MCAFE XXXXX23911 TX XXXXX8633XXXXXXXXXX7504 RECURRING",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 162.36,
+      "date": "2023-12-28",
+      "description": "CHECKCARD 1228 MCAFEE *WWW.MCAFE XXXXX23911 TX XXXXX8633XXXXXXXXXX7504 RECURRING",
+      "guid": "dEA7vOmoqMIJa4Armzn4uY0jpx41nwuoRdqXg",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Digital Purchase\"]"
+    },
+    {
+      "originalDescription": "Popeyes",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 12.22,
+      "date": "2024-02-06",
+      "description": "Popeyes",
+      "guid": "dEA7vOmoqMIJa4Armzn4uY0Q6KDMBDhyk0d4w",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "Kroger",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 20.34,
+      "date": "2024-02-07",
+      "description": "Kroger",
+      "guid": "dEA7vOmoqMIJa4Armzn4uY0Q6KDMBDhyk0dNe",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "State Farm",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 37.59,
+      "date": "2024-02-05",
+      "description": "State Farm",
+      "guid": "DwnqPp6DKdU0xNAPR9dNtrZax8qBvqIVMY86r",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Insurance\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 0202 HUNKYS HAMBURGER DALLAS TX XXXXX8040XXXXXXXXXX2261",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 10.28,
+      "date": "2024-02-05",
+      "description": "CHECKCARD 0202 HUNKYS HAMBURGER DALLAS TX XXXXX8040XXXXXXXXXX2261",
+      "guid": "DwnqPp6DKdU0xNAPR9dNtrZax8qBvqIVMY8Ow",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1223 AVANTI DALLAS TX XXXXX8533XXXXXXXXXX6540",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 180.0,
+      "date": "2023-12-26",
+      "description": "CHECKCARD 1223 AVANTI DALLAS TX XXXXX8533XXXXXXXXXX6540",
+      "guid": "DwnqPp6DKdU0xNAPR9dNtrZVLkPYA5fXr8N4J",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "Kroger",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 3.75,
+      "date": "2023-12-11",
+      "description": "Kroger",
+      "guid": "DwnqPp6DKdU0xNAPR9dNtrZVLkPYA5fXr8NaJ",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1202 SAMSCLUB #8248 DALLAS TX XXXXX8233XXXXXXXXXX2519",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 20.15,
+      "date": "2023-12-04",
+      "description": "CHECKCARD 1202 SAMSCLUB #8248 DALLAS TX XXXXX8233XXXXXXXXXX2519",
+      "guid": "DwnqPp6DKdU0xNAPR9dNtrZVLkPYA5fXr8Nam",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Warehouses and Wholesale Stores\"]"
+    },
+    {
+      "originalDescription": "Wingstop",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 18.16,
+      "date": "2023-12-11",
+      "description": "Wingstop",
+      "guid": "DwnqPp6DKdU0xNAPR9dNtrZVLkPYA5fXr8NQK",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "Kroger",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 47.77,
+      "date": "2023-12-05",
+      "description": "Kroger",
+      "guid": "DwnqPp6DKdU0xNAPR9dNtrZVLkPYA5fXr8NQV",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "State Farm",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 25.41,
+      "date": "2024-01-04",
+      "description": "State Farm",
+      "guid": "DwnqPp6DKdU0xNAPR9dNtrZVLkPYA5fXr8NvK",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Insurance\"]"
+    },
+    {
+      "originalDescription": "OVERDRAFT PROTECTION TO XXXXX0000XXXXX5786217",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 1.6,
+      "date": "2023-11-21",
+      "description": "OVERDRAFT PROTECTION TO XXXXX0000XXXXX5786217",
+      "guid": "E613qpLQYwIpNOQ5RnwOsQR1LzZ6VmTdDgA1o",
+      "type": "DEBIT",
+      "category": "[\"Bank Fees\",\"Overdraft\"]"
+    },
+    {
+      "originalDescription": "Brigit-com DES:MEMBERSHIP ID:16E13D0B56894AC INDN:Fred Ellis CO ID:XXXXX36030 WEB",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 9.99,
+      "date": "2023-12-13",
+      "description": "Brigit-com DES:MEMBERSHIP ID:16E13D0B56894AC INDN:Fred Ellis CO ID:XXXXX36030 WEB",
+      "guid": "E613qpLQYwIpNOQ5RnwOsQR1LzZ6VmTdDgA4J",
+      "type": "DEBIT",
+      "category": "[\"Service\"]"
+    },
+    {
+      "originalDescription": "Kroger",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 7.79,
+      "date": "2024-01-02",
+      "description": "Kroger",
+      "guid": "E613qpLQYwIpNOQ5RnwOsQR1LzZ6VmTdDgAmJ",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "TXU ENERGY DES:TXU_ACH ID:XXXXX5755044 INDN:FRED H ELLIS III CO ID:XXXXX20329 PPD PMT INFO:XXXXX7028XXXXXXXXXXXXXXXXXXXXXXXXX147863 55",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 123.98,
+      "date": "2023-12-18",
+      "description": "TXU ENERGY DES:TXU_ACH ID:XXXXX5755044 INDN:FRED H ELLIS III CO ID:XXXXX20329 PPD PMT INFO:XXXXX7028XXXXXXXXXXXXXXXXXXXXXXXXX147863 55",
+      "guid": "E613qpLQYwIpNOQ5RnwOsQR1LzZ6VmTdDgAq1",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Utilities\",\"Electric\"]"
+    },
+    {
+      "originalDescription": "7-Eleven",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 4.74,
+      "date": "2024-02-14",
+      "description": "7-Eleven",
+      "guid": "E613qpLQYwIpNOQ5RnwOsQR7oxD9rDTJr6gND",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Convenience Stores\"]"
+    },
+    {
+      "originalDescription": "EatZi's",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 34.71,
+      "date": "2024-01-16",
+      "description": "EatZi's",
+      "guid": "E613qpLQYwIpNOQ5RnwOsQR7oxD9rDTJr6gvD",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "Brigit 01/16 #XXXXX8748 PMNT RCVD Brigit",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 130.0,
+      "date": "2024-01-16",
+      "description": "Brigit 01/16 #XXXXX8748 PMNT RCVD Brigit",
+      "guid": "eRgV0O7oBEU8Dr3qpV9rtBEQwnxPKxtkMxw5q",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "Credit One Bank DES:Payment ID:65343131 INDN:FRED ELLIS CO ID:WEB000004 WEB",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 100.0,
+      "date": "2024-02-07",
+      "description": "Credit One Bank DES:Payment ID:65343131 INDN:FRED ELLIS CO ID:WEB000004 WEB",
+      "guid": "eRgV0O7oBEU8Dr3qpV9rtBEQwnxPKxtkMxwNq",
+      "type": "DEBIT",
+      "category": "[\"Payment\",\"Credit Card\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1215 NNTCSALESAUDIT",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 88.69,
+      "date": "2023-12-15",
+      "description": "CHECKCARD 1215 NNTCSALESAUDIT",
+      "guid": "eRgV0O7oBEU8Dr3qpV9rtBErV6DO3bU4KwD9V",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "Kroger",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 147.41,
+      "date": "2024-01-12",
+      "description": "Kroger",
+      "guid": "eRgV0O7oBEU8Dr3qpV9rtBErV6DO3bU4KwDJV",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "PRU DES:ANNTY PYMT ID:0C4A8C1Z4W0ABAA INDN:ELLIS, FRED CO ID:XXXXX11670 PPD",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 752.87,
+      "date": "2024-01-02",
+      "description": "PRU DES:ANNTY PYMT ID:0C4A8C1Z4W0ABAA INDN:ELLIS, FRED CO ID:XXXXX11670 PPD",
+      "guid": "eRgV0O7oBEU8Dr3qpV9rtBErV6DO3bU4KwDm5",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Payroll\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1115 RUFFIT OAK LAWN XXX-XX65638 TX XXXXX7733XXXXXXXXXX0911",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 78.2,
+      "date": "2023-11-17",
+      "description": "CHECKCARD 1115 RUFFIT OAK LAWN XXX-XX65638 TX XXXXX7733XXXXXXXXXX0911",
+      "guid": "eRgV0O7oBEU8Dr3qpV9rtBErV6DO3bU4KwDQ8",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Home Improvement\",\"Landscaping and Gardeners\"]"
+    },
+    {
+      "originalDescription": "Whataburger",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 3.99,
+      "date": "2023-12-13",
+      "description": "Whataburger",
+      "guid": "eRgV0O7oBEU8Dr3qpV9rtBErV6DO3bU4KwDR5",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "BKOFAMERICA ATM 01/17 #XXXXX9022 DEPOSIT PRESTON BELTLINE",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 100.0,
+      "date": "2024-01-17",
+      "description": "BKOFAMERICA ATM 01/17 #XXXXX9022 DEPOSIT PRESTON BELTLINE",
+      "guid": "gngRrO7KdwF5NKdR7QZKCmaLp8Qx7QS3BXg44",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Deposit\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "Online Banking transfer to CHK 4560 Confirmation# XXXXX94888",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 20.0,
+      "date": "2024-01-18",
+      "description": "Online Banking transfer to CHK 4560 Confirmation# XXXXX94888",
+      "guid": "gngRrO7KdwF5NKdR7QZKCmaLp8Qx7QS3BXgOp",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Internal Account Transfer\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 0102 POWERFINANCE IFD XXX-XX56686 TX XXXXX6640XXXXXXXXXX5398",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 298.19,
+      "date": "2024-01-04",
+      "description": "CHECKCARD 0102 POWERFINANCE IFD XXX-XX56686 TX XXXXX6640XXXXXXXXXX5398",
+      "guid": "gngRrO7KdwF5NKdR7QZKCmaRXKyroNi6VgpeZ",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "Kroger",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 9.64,
+      "date": "2023-12-21",
+      "description": "Kroger",
+      "guid": "gngRrO7KdwF5NKdR7QZKCmaRXKyroNi6VgpL9",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "MetLife",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 123.8,
+      "date": "2023-12-15",
+      "description": "MetLife",
+      "guid": "gngRrO7KdwF5NKdR7QZKCmaRXKyroNi6VgpNZ",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Insurance\"]"
+    },
+    {
+      "originalDescription": "Online Banking transfer from CHK 6217 Confirmation# XXXXX51183",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 5.0,
+      "date": "2023-11-27",
+      "description": "Online Banking transfer from CHK 6217 Confirmation# XXXXX51183",
+      "guid": "gngRrO7KdwF5NKdR7QZKCmaRXKyroNi6Vgpxg",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Internal Account Transfer\"]"
+    },
+    {
+      "originalDescription": "Kroger",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 33.19,
+      "date": "2024-02-01",
+      "description": "Kroger",
+      "guid": "j6vexOnaLDIYovqDnQ6vUJKPRe85Y8U1AZLbX",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Kroger",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 15.34,
+      "date": "2024-01-30",
+      "description": "Kroger",
+      "guid": "j6vexOnaLDIYovqDnQ6vUJKPRe85Y8U1AZLwV",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 0112 MARIO'S MEXICAN AND DALLAS TX XXXXX1440XXXXXXXXXX0094",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 75.31,
+      "date": "2024-01-16",
+      "description": "CHECKCARD 0112 MARIO'S MEXICAN AND DALLAS TX XXXXX1440XXXXXXXXXX0094",
+      "guid": "j6vexOnaLDIYovqDnQ6vUJKPRe85Y8U1AZLwX",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1217 ENCHILADAS #2 DALLAS TX XXXXX4333XXXXXXXXXX6978",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 74.68,
+      "date": "2023-12-19",
+      "description": "CHECKCARD 1217 ENCHILADAS #2 DALLAS TX XXXXX4333XXXXXXXXXX6978",
+      "guid": "j6vexOnaLDIYovqDnQ6vUJKQw0jg4nIvoLz56",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "Online Banking transfer to CHK 6217 Confirmation# XXXXX64787",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 10.0,
+      "date": "2023-12-01",
+      "description": "Online Banking transfer to CHK 6217 Confirmation# XXXXX64787",
+      "guid": "j6vexOnaLDIYovqDnQ6vUJKQw0jg4nIvoLz8O",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Internal Account Transfer\"]"
+    },
+    {
+      "originalDescription": "Social Security Administration",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 2487.6,
+      "date": "2024-01-10",
+      "description": "Social Security Administration",
+      "guid": "j6vexOnaLDIYovqDnQ6vUJKQw0jg4nIvoLzg6",
+      "type": "CREDIT",
+      "category": "[\"Community\",\"Government Departments and Agencies\"]"
+    },
+    {
+      "originalDescription": "Online Banking transfer from CHK 6217 Confirmation# XXXXX17280",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 200.0,
+      "date": "2023-12-07",
+      "description": "Online Banking transfer from CHK 6217 Confirmation# XXXXX17280",
+      "guid": "j6vexOnaLDIYovqDnQ6vUJKQw0jg4nIvoLzke",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Internal Account Transfer\"]"
+    },
+    {
+      "originalDescription": "Online Banking transfer from CHK 6217 Confirmation# XXXXX51127",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 253.0,
+      "date": "2024-01-02",
+      "description": "Online Banking transfer from CHK 6217 Confirmation# XXXXX51127",
+      "guid": "j6vexOnaLDIYovqDnQ6vUJKQw0jg4nIvoLzOe",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Internal Account Transfer\"]"
+    },
+    {
+      "originalDescription": "Target",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 32.02,
+      "date": "2023-12-04",
+      "description": "Target",
+      "guid": "j6vexOnaLDIYovqDnQ6vUJKQw0jg4nIvoLzq6",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Kroger",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 92.11,
+      "date": "2023-11-27",
+      "description": "Kroger",
+      "guid": "j6vexOnaLDIYovqDnQ6vUJKQw0jg4nIvoLzqv",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "PRU DES:ANNTY PYMT ID:0C4A8C1Z4W0ABAA INDN:ELLIS, FRED CO ID:XXXXX11670 PPD",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 752.87,
+      "date": "2024-02-01",
+      "description": "PRU DES:ANNTY PYMT ID:0C4A8C1Z4W0ABAA INDN:ELLIS, FRED CO ID:XXXXX11670 PPD",
+      "guid": "JqbakpBZwPudrNyVRmPNtYMan39109hX69Y5B",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Payroll\"]"
+    },
+    {
+      "originalDescription": "PURCHASE 0124 FLEX FINANCE HTTPSGETFLEX.NY XXXXX3440XXXXXXXXXX6974 RECURRING",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 375.24,
+      "date": "2024-01-24",
+      "description": "PURCHASE 0124 FLEX FINANCE HTTPSGETFLEX.NY XXXXX3440XXXXXXXXXX6974 RECURRING",
+      "guid": "JqbakpBZwPudrNyVRmPNtYMan39109hX69Yv7",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]"
+    },
+    {
+      "originalDescription": "Kroger",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 17.31,
+      "date": "2023-11-29",
+      "description": "Kroger",
+      "guid": "JqbakpBZwPudrNyVRmPNtYMdj4yZveu0RYLBP",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 0106 Brigit XXXXX80091 NY XXXXX4340XXXXXXXXXX2367",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 130.99,
+      "date": "2024-01-08",
+      "description": "CHECKCARD 0106 Brigit XXXXX80091 NY XXXXX4340XXXXXXXXXX2367",
+      "guid": "JqbakpBZwPudrNyVRmPNtYMdj4yZveu0RYLJn",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "PURCHASE 1224 FLEX FINANCE HTTPSGETFLEX.NY XXXXX3433XXXXXXXXXX8243 RECURRING",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 382.15,
+      "date": "2023-12-26",
+      "description": "PURCHASE 1224 FLEX FINANCE HTTPSGETFLEX.NY XXXXX3433XXXXXXXXXX8243 RECURRING",
+      "guid": "JqbakpBZwPudrNyVRmPNtYMdj4yZveu0RYLoQ",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1216 DIRECTV*STREAM XXXXX15000 TX XXXXX8633XXXXXXXXXX0224 RECURRING",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 120.14,
+      "date": "2023-12-18",
+      "description": "CHECKCARD 1216 DIRECTV*STREAM XXXXX15000 TX XXXXX8633XXXXXXXXXX0224 RECURRING",
+      "guid": "JqbakpBZwPudrNyVRmPNtYMdj4yZveu0RYLPn",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Cable\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1118 TST* ROY GS Dallas TX XXXXX8633XXXXXXXXXX6191",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 60.46,
+      "date": "2023-11-20",
+      "description": "CHECKCARD 1118 TST* ROY GS Dallas TX XXXXX8633XXXXXXXXXX6191",
+      "guid": "JqbakpBZwPudrNyVRmPNtYMdj4yZveu0RYLzk",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "BKOFAMERICA ATM 12/22 #XXXXX5161 DEPOSIT PRESTON BELTLINE",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 361.75,
+      "date": "2023-12-22",
+      "description": "BKOFAMERICA ATM 12/22 #XXXXX5161 DEPOSIT PRESTON BELTLINE",
+      "guid": "KBOJAY3K6qFXA967N8n9IaEDj9JVveUybpV4R",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Deposit\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "CREDITNINJA DES:XXXXX65201 ID:PLM11044152 INDN:Fred Ellis CO ID:XXXXX14097 PPD",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 502.23,
+      "date": "2024-01-10",
+      "description": "CREDITNINJA DES:XXXXX65201 ID:PLM11044152 INDN:Fred Ellis CO ID:XXXXX14097 PPD",
+      "guid": "KBOJAY3K6qFXA967N8n9IaEDj9JVveUybpVaR",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]"
+    },
+    {
+      "originalDescription": "POSSIBLE FINANCE DES:PAYMENT ID:c26bab3cece74c3 INDN:Fred Ellis CO ID:XXXXX73909 WEB",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 234.37,
+      "date": "2023-12-01",
+      "description": "POSSIBLE FINANCE DES:PAYMENT ID:c26bab3cece74c3 INDN:Fred Ellis CO ID:XXXXX73909 WEB",
+      "guid": "KBOJAY3K6qFXA967N8n9IaEDj9JVveUybpVje",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1205 TOTAL WINE & MORE DALLAS TX XXXXX8433XXXXXXXXXX6038",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 18.38,
+      "date": "2023-12-06",
+      "description": "CHECKCARD 1205 TOTAL WINE & MORE DALLAS TX XXXXX8433XXXXXXXXXX6038",
+      "guid": "KBOJAY3K6qFXA967N8n9IaEDj9JVveUybpVjR",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Food and Beverage Store\"]"
+    },
+    {
+      "originalDescription": "PURCHASE 1202 FLEX FINANCE HTTPSGETFLEX.NY XXXXX3433XXXXXXXXXX2760 RECURRING",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 764.32,
+      "date": "2023-12-04",
+      "description": "PURCHASE 1202 FLEX FINANCE HTTPSGETFLEX.NY XXXXX3433XXXXXXXXXX2760 RECURRING",
+      "guid": "KBOJAY3K6qFXA967N8n9IaEDj9JVveUybpVK5",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]"
+    },
+    {
+      "originalDescription": "Online Banking transfer from CHK 6217 Confirmation# XXXXX70315",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 130.0,
+      "date": "2023-12-11",
+      "description": "Online Banking transfer from CHK 6217 Confirmation# XXXXX70315",
+      "guid": "KBOJAY3K6qFXA967N8n9IaEDj9JVveUybpVK6",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Internal Account Transfer\"]"
+    },
+    {
+      "originalDescription": "Kroger",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 96.86,
+      "date": "2024-01-02",
+      "description": "Kroger",
+      "guid": "KBOJAY3K6qFXA967N8n9IaEDj9JVveUybpVY6",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Kroger",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 16.72,
+      "date": "2024-01-31",
+      "description": "Kroger",
+      "guid": "KBOJAY3K6qFXA967N8n9IaEYwq86K8S1ndpXx",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Whataburger",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 4.32,
+      "date": "2024-02-02",
+      "description": "Whataburger",
+      "guid": "KBOJAY3K6qFXA967N8n9IaEYwq86K8S1ndpzA",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1130 NTTA AUTOCHARGE XXXXX86882 TX XXXXX8633XXXXXXXXXX1442",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 40.0,
+      "date": "2023-12-01",
+      "description": "CHECKCARD 1130 NTTA AUTOCHARGE XXXXX86882 TX XXXXX8633XXXXXXXXXX1442",
+      "guid": "kLvzJOMoD1f7bNj1MVLNt5OnAMZeEVFbYqPm4",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Tolls and Fees\"]"
+    },
+    {
+      "originalDescription": "Zelle payment from DAVID HESS Conf# our2d1o83",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 200.0,
+      "date": "2023-12-05",
+      "description": "Zelle payment from DAVID HESS Conf# our2d1o83",
+      "guid": "kLvzJOMoD1f7bNj1MVLNt5OnAMZeEVFbYqPmq",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "Online Banking transfer to CHK 4560 Confirmation# XXXXX36102",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 200.0,
+      "date": "2023-12-21",
+      "description": "Online Banking transfer to CHK 4560 Confirmation# XXXXX36102",
+      "guid": "kLvzJOMoD1f7bNj1MVLNt5OnAMZeEVFbYqPNq",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Internal Account Transfer\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1230 SAMS CLUB #8248 TX XXXXX0033XXXXXXXXXX0115",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 60.45,
+      "date": "2024-01-02",
+      "description": "CHECKCARD 1230 SAMS CLUB #8248 TX XXXXX0033XXXXXXXXXX0115",
+      "guid": "kLvzJOMoD1f7bNj1MVLNt5OnAMZeEVFbYqPwr",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Warehouses and Wholesale Stores\"]"
+    },
+    {
+      "originalDescription": "Kroger",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 26.59,
+      "date": "2023-12-04",
+      "description": "Kroger",
+      "guid": "kLvzJOMoD1f7bNj1MVLNt5OnAMZeEVFbYqPZ1",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Fineday Funds DB DES:ONLINE PMT ID:XXXXX9153132FIV INDN:FRED ELLIS CO ID:PD12392884 WEB",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 804.27,
+      "date": "2024-01-10",
+      "description": "Fineday Funds DB DES:ONLINE PMT ID:XXXXX9153132FIV INDN:FRED ELLIS CO ID:PD12392884 WEB",
+      "guid": "kLvzJOMoD1f7bNj1MVLNt5OnAMZeEVFbYqPzq",
+      "type": "DEBIT",
+      "category": "[\"Payment\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1208 YouTube Videos g.co/helppay#CA XXXXX1633XXXXXXXXXX0561",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 4.32,
+      "date": "2023-12-08",
+      "description": "CHECKCARD 1208 YouTube Videos g.co/helppay#CA XXXXX1633XXXXXXXXXX0561",
+      "guid": "kLvzJOMoD1f7bNj1MVLNt5OnAMZeEVFbYqPZr",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Entertainment\"]"
+    },
+    {
+      "originalDescription": "TOTAL WINE & M 01/31 #XXXXX7394 PURCHASE TOTAL WINE & MO",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 38.94,
+      "date": "2024-01-31",
+      "description": "TOTAL WINE & M 01/31 #XXXXX7394 PURCHASE TOTAL WINE & MO",
+      "guid": "kLvzJOMoD1f7bNj1MVLNt5OQoz6Xm6U369qjL",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Food and Beverage Store\"]"
+    },
+    {
+      "originalDescription": "Power Finance 02/03 #XXXXX7724 PMNT RCVD Power Finance Tex",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 161.73,
+      "date": "2024-02-02",
+      "description": "Power Finance 02/03 #XXXXX7724 PMNT RCVD Power Finance Tex",
+      "guid": "kLvzJOMoD1f7bNj1MVLNt5OQoz6Xm6U369qKj",
+      "type": "CREDIT",
+      "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]"
+    },
+    {
+      "originalDescription": "State Farm",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 25.41,
+      "date": "2023-12-05",
+      "description": "State Farm",
+      "guid": "L30ZvNynLBIgn0dVX8B0tbygonY6QwfJQpLjB",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Insurance\"]"
+    },
+    {
+      "originalDescription": "7-Eleven",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 9.34,
+      "date": "2023-12-11",
+      "description": "7-Eleven",
+      "guid": "L30ZvNynLBIgn0dVX8B0tbygonY6QwfJQpLjO",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Convenience Stores\"]"
+    },
+    {
+      "originalDescription": "PURCHASE 0106 DD *STORESALSPIZZAREST WWW.DOORDASH.CA XXXXX3440XXXXXXXXXX0571",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 34.88,
+      "date": "2024-01-08",
+      "description": "PURCHASE 0106 DD *STORESALSPIZZAREST WWW.DOORDASH.CA XXXXX3440XXXXXXXXXX0571",
+      "guid": "L30ZvNynLBIgn0dVX8B0tbygonY6QwfJQpLKO",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Food and Beverage\"]"
+    },
+    {
+      "originalDescription": "CREDITNINJA SERV DES:ADVANCE ID:PLM10792231 INDN:Fred Ellis CO ID:XXXXX75992 PPD",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 1000.0,
+      "date": "2023-12-12",
+      "description": "CREDITNINJA SERV DES:ADVANCE ID:PLM10792231 INDN:Fred Ellis CO ID:XXXXX75992 PPD",
+      "guid": "L30ZvNynLBIgn0dVX8B0tbygonY6QwfJQpLMA",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1202 SAMS CLUB #8248 XXXXX00320 TX XXXXX8433XXXXXXXXXX3627",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 55.18,
+      "date": "2023-12-04",
+      "description": "CHECKCARD 1202 SAMS CLUB #8248 XXXXX00320 TX XXXXX8433XXXXXXXXXX3627",
+      "guid": "L30ZvNynLBIgn0dVX8B0tbygonY6QwfJQpLMX",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Warehouses and Wholesale Stores\"]"
+    },
+    {
+      "originalDescription": "EatZi's",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 9.49,
+      "date": "2023-12-26",
+      "description": "EatZi's",
+      "guid": "L30ZvNynLBIgn0dVX8B0tbygonY6QwfJQpLyA",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "Kroger",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 98.26,
+      "date": "2024-02-05",
+      "description": "Kroger",
+      "guid": "L30ZvNynLBIgn0dVX8B0tbyNAkzv1zImNopR0",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Online Banking transfer from CHK 6217 Confirmation# XXXXX34884",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 100.0,
+      "date": "2024-02-06",
+      "description": "Online Banking transfer from CHK 6217 Confirmation# XXXXX34884",
+      "guid": "L30ZvNynLBIgn0dVX8B0tbyNAkzv1zImNopxq",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Internal Account Transfer\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 0111 SAMS CLUB #637",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 49.63,
+      "date": "2024-01-11",
+      "description": "CHECKCARD 0111 SAMS CLUB #637",
+      "guid": "m1aLZN7mXqUV0bAqNM1bHvZARwpQ4PC8PV0DX",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Warehouses and Wholesale Stores\"]"
+    },
+    {
+      "originalDescription": "EatZi's",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 12.98,
+      "date": "2023-12-14",
+      "description": "EatZi's",
+      "guid": "m1aLZN7mXqUV0bAqNM1bHvZARwpQ4PC8PV0EX",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1228 MSLHLP.COM XXXXX19320 CA XXXXX2133XXXXXXXXXX6555",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 29.99,
+      "date": "2023-12-29",
+      "description": "CHECKCARD 1228 MSLHLP.COM XXXXX19320 CA XXXXX2133XXXXXXXXXX6555",
+      "guid": "m1aLZN7mXqUV0bAqNM1bHvZARwpQ4PC8PV0gR",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "OFFICE MA 2415 12/12 #XXXXX7917 PURCHASE OFFICE MA 2415 N",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 28.88,
+      "date": "2023-12-12",
+      "description": "OFFICE MA 2415 12/12 #XXXXX7917 PURCHASE OFFICE MA 2415 N",
+      "guid": "m1aLZN7mXqUV0bAqNM1bHvZARwpQ4PC8PV0KR",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Office Supplies\"]"
+    },
+    {
+      "originalDescription": "State Farm",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 328.49,
+      "date": "2023-11-16",
+      "description": "State Farm",
+      "guid": "m1aLZN7mXqUV0bAqNM1bHvZkLm6g6aU3ODwrE",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Insurance\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 0209 RICE BOWL EXPRESS DALLAS TX XXXXX2840XXXXXXXXXX6605",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 10.59,
+      "date": "2024-02-12",
+      "description": "CHECKCARD 0209 RICE BOWL EXPRESS DALLAS TX XXXXX2840XXXXXXXXXX6605",
+      "guid": "m1aLZN7mXqUV0bAqNM1bHvZYDoaX6aF3RrVeO",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "Kroger",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 11.76,
+      "date": "2024-02-06",
+      "description": "Kroger",
+      "guid": "m1aLZN7mXqUV0bAqNM1bHvZYDoaX6aF3RrVZL",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 0115 DIRECTV*STREAM XXXXX15000 TX XXXXX8640XXXXXXXXXX7179 RECURRING",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 120.14,
+      "date": "2024-01-16",
+      "description": "CHECKCARD 0115 DIRECTV*STREAM XXXXX15000 TX XXXXX8640XXXXXXXXXX7179 RECURRING",
+      "guid": "Myro0pKjD3Uq5x974e3xtZ3aBVOmAOF5Dd8qo",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Cable\"]"
+    },
+    {
+      "originalDescription": "Fineday Funds DB DES:ONLINE PMT ID:XXXXX31531179PM INDN:FRED ELLIS CO ID:PD12392884 WEB",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 804.27,
+      "date": "2024-02-14",
+      "description": "Fineday Funds DB DES:ONLINE PMT ID:XXXXX31531179PM INDN:FRED ELLIS CO ID:PD12392884 WEB",
+      "guid": "Myro0pKjD3Uq5x974e3xtZ3aBVOmAOF5Dd8wo",
+      "type": "DEBIT",
+      "category": "[\"Payment\"]"
+    },
+    {
+      "originalDescription": "PMNT SENT 1213 Dave Inc XXXXX73283 CA XXXXX4333XXXXXXXXXX4754",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 131.25,
+      "date": "2023-12-14",
+      "description": "PMNT SENT 1213 Dave Inc XXXXX73283 CA XXXXX4333XXXXXXXXXX4754",
+      "guid": "Myro0pKjD3Uq5x974e3xtZ3rE7jw0DI0Y8N6p",
+      "type": "DEBIT",
+      "category": "[\"Payment\"]"
+    },
+    {
+      "originalDescription": "OVERDRAFT PROTECTION TO XXXXX0000XXXXX5786217",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 2.2,
+      "date": "2023-12-19",
+      "description": "OVERDRAFT PROTECTION TO XXXXX0000XXXXX5786217",
+      "guid": "Myro0pKjD3Uq5x974e3xtZ3rE7jw0DI0Y8Ngg",
+      "type": "DEBIT",
+      "category": "[\"Bank Fees\",\"Overdraft\"]"
+    },
+    {
+      "originalDescription": "Kroger",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 28.8,
+      "date": "2023-11-21",
+      "description": "Kroger",
+      "guid": "Myro0pKjD3Uq5x974e3xtZ3rE7jw0DI0Y8Nma",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 0101 SXM*SIRIUSXM.COM/ XXXXX55144 NY XXXXX8640XXXXXXXXXX4549 RECURRING",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 15.5,
+      "date": "2024-01-02",
+      "description": "CHECKCARD 0101 SXM*SIRIUSXM.COM/ XXXXX55144 NY XXXXX8640XXXXXXXXXX4549 RECURRING",
+      "guid": "Myro0pKjD3Uq5x974e3xtZ3rE7jw0DI0Y8NZp",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Subscription\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1212 SAMSCLUB #8248 DALLAS TX XXXXX8233XXXXXXXXXX7374",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 25.0,
+      "date": "2023-12-13",
+      "description": "CHECKCARD 1212 SAMSCLUB #8248 DALLAS TX XXXXX8233XXXXXXXXXX7374",
+      "guid": "NKrgjpkZ1yHYQ75RENy7UnpDAjqez7fykZX48",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Warehouses and Wholesale Stores\"]"
+    },
+    {
+      "originalDescription": "USPBGC-US AIRWAY DES:PN PMTS/BG ID:3IK0E505D/24001 INDN:ELLIS III CO ID:XXXXX48526 PPD",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 87.3,
+      "date": "2024-01-02",
+      "description": "USPBGC-US AIRWAY DES:PN PMTS/BG ID:3IK0E505D/24001 INDN:ELLIS III CO ID:XXXXX48526 PPD",
+      "guid": "NKrgjpkZ1yHYQ75RENy7UnpDAjqez7fykZXe8",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Payroll\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1116 SAMSCLUB #8248 DALLAS TX XXXXX0133XXXXXXXXXX6521",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 32.58,
+      "date": "2023-11-17",
+      "description": "CHECKCARD 1116 SAMSCLUB #8248 DALLAS TX XXXXX0133XXXXXXXXXX6521",
+      "guid": "NKrgjpkZ1yHYQ75RENy7UnpDAjqez7fykZXvm",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Warehouses and Wholesale Stores\"]"
+    },
+    {
+      "originalDescription": "Online Banking transfer from CHK 9111 Confirmation# XXXXX27309",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 50.0,
+      "date": "2023-12-18",
+      "description": "Online Banking transfer from CHK 9111 Confirmation# XXXXX27309",
+      "guid": "NKrgjpkZ1yHYQ75RENy7UnpDAjqez7fykZXzX",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Internal Account Transfer\"]"
+    },
+    {
+      "originalDescription": "Dave Inc 01/16 #XXXXX2857 PMNT RCVD Dave Inc",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 75.0,
+      "date": "2024-01-16",
+      "description": "Dave Inc 01/16 #XXXXX2857 PMNT RCVD Dave Inc",
+      "guid": "NKrgjpkZ1yHYQ75RENy7UnpdMo05Y0Fx5YZ0w",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "EatZi's",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 15.97,
+      "date": "2024-02-09",
+      "description": "EatZi's",
+      "guid": "NKrgjpkZ1yHYQ75RENy7UnpdMo05Y0Fx5YZ8w",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "POSSIBLE FINANCE DES:PAYMENT ID:fe1c9f80a0204b8 INDN:Fred Ellis CO ID:XXXXX73909 WEB",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 234.37,
+      "date": "2023-11-16",
+      "description": "POSSIBLE FINANCE DES:PAYMENT ID:fe1c9f80a0204b8 INDN:Fred Ellis CO ID:XXXXX73909 WEB",
+      "guid": "nPR1dN7qZBUObw6djQPwUEoo3obm0Lf0ynOmw",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]"
+    },
+    {
+      "originalDescription": "Fineday Funds DB DES:ONLINE PMT ID:XXXXX2153148CM7 INDN:FRED ELLIS CO ID:PD12392884 WEB",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 804.27,
+      "date": "2023-12-13",
+      "description": "Fineday Funds DB DES:ONLINE PMT ID:XXXXX2153148CM7 INDN:FRED ELLIS CO ID:PD12392884 WEB",
+      "guid": "nPR1dN7qZBUObw6djQPwUEopzDeJn6Fj9rxK7",
+      "type": "DEBIT",
+      "category": "[\"Payment\"]"
+    },
+    {
+      "originalDescription": "Kroger",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 95.44,
+      "date": "2023-11-20",
+      "description": "Kroger",
+      "guid": "nPR1dN7qZBUObw6djQPwUEopzDeJn6Fj9rxLo",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1230 TOTAL WINE & MORE DALLAS TX XXXXX8433XXXXXXXXXX2336",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 21.59,
+      "date": "2024-01-02",
+      "description": "CHECKCARD 1230 TOTAL WINE & MORE DALLAS TX XXXXX8433XXXXXXXXXX2336",
+      "guid": "nPR1dN7qZBUObw6djQPwUEopzDeJn6Fj9rxR7",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Food and Beverage Store\"]"
+    },
+    {
+      "originalDescription": "PURCHASE 1216 FLEX FINANCE HTTPSGETFLEX.NY XXXXX3433XXXXXXXXXX0482 RECURRING",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 14.99,
+      "date": "2023-12-18",
+      "description": "PURCHASE 1216 FLEX FINANCE HTTPSGETFLEX.NY XXXXX3433XXXXXXXXXX0482 RECURRING",
+      "guid": "nPR1dN7qZBUObw6djQPwUEopzDeJn6Fj9rxXK",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]"
+    },
+    {
+      "originalDescription": "PURCHASE 0112 ATT*BILL PAYMENT XXXXX10500 TX XXXXX3640XXXXXXXXXX2267",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 250.0,
+      "date": "2024-01-16",
+      "description": "PURCHASE 0112 ATT*BILL PAYMENT XXXXX10500 TX XXXXX3640XXXXXXXXXX2267",
+      "guid": "nPR1dN7qZBUObw6djQPwUEoygOb9LbU05QrJk",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Telecommunication Services\"]"
+    },
+    {
+      "originalDescription": "BKOFAMERICA ATM 02/13 #XXXXX1371 DEPOSIT PRESTON BELTLINE",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 248.9,
+      "date": "2024-02-13",
+      "description": "BKOFAMERICA ATM 02/13 #XXXXX1371 DEPOSIT PRESTON BELTLINE",
+      "guid": "nPR1dN7qZBUObw6djQPwUEoygOb9LbU05QrVk",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Deposit\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "Online Banking transfer to CHK 4560 Confirmation# XXXXX63905",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 120.0,
+      "date": "2024-01-02",
+      "description": "Online Banking transfer to CHK 4560 Confirmation# XXXXX63905",
+      "guid": "Ok59rpA7MKSd5Y4oX9RYtMP1eX07r5spRwAdp",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Internal Account Transfer\"]"
+    },
+    {
+      "originalDescription": "TOTAL WINE & M 11/22 #XXXXX3863 PURCHASE TOTAL WINE & MO",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 65.4,
+      "date": "2023-11-22",
+      "description": "TOTAL WINE & M 11/22 #XXXXX3863 PURCHASE TOTAL WINE & MO",
+      "guid": "Ok59rpA7MKSd5Y4oX9RYtMP1eX07r5spRwAJE",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Food and Beverage Store\"]"
+    },
+    {
+      "originalDescription": "PURCHASE 1213 ATT*BILL PAYMENT XXXXX10500 TX XXXXX3633XXXXXXXXXX2326",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 60.86,
+      "date": "2023-12-14",
+      "description": "PURCHASE 1213 ATT*BILL PAYMENT XXXXX10500 TX XXXXX3633XXXXXXXXXX2326",
+      "guid": "Ok59rpA7MKSd5Y4oX9RYtMP1eX07r5spRwAjp",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Telecommunication Services\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1217 UNITED XXXXX22732 TX XXXXX8633XXXXXXXXXX6146",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 12.72,
+      "date": "2023-12-19",
+      "description": "CHECKCARD 1217 UNITED XXXXX22732 TX XXXXX8633XXXXXXXXXX6146",
+      "guid": "Ok59rpA7MKSd5Y4oX9RYtMP1eX07r5spRwAPa",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Airlines and Aviation Services\"]"
+    },
+    {
+      "originalDescription": "CREDITNINJA DES:XXXXX65201 ID:PLM11351272 INDN:Fred Ellis CO ID:XXXXX14097 PPD",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 502.23,
+      "date": "2024-02-14",
+      "description": "CREDITNINJA DES:XXXXX65201 ID:PLM11351272 INDN:Fred Ellis CO ID:XXXXX14097 PPD",
+      "guid": "Ok59rpA7MKSd5Y4oX9RYtMPNwx3vY3TVXow9r",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]"
+    },
+    {
+      "originalDescription": "GLOBAL GHLLC.COM DES:DepositTrn ID:XXXXXXXXXX05841 INDN:FRED ELLIS CO ID:XXXXX81415 PPD",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 306.51,
+      "date": "2024-01-16",
+      "description": "GLOBAL GHLLC.COM DES:DepositTrn ID:XXXXXXXXXX05841 INDN:FRED ELLIS CO ID:XXXXX81415 PPD",
+      "guid": "Ok59rpA7MKSd5Y4oX9RYtMPNwx3vY3TVXowDr",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1115 POWERFINANCE IFD XXX-XX56686 TX XXXXX6633XXXXXXXXXX1278",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 298.19,
+      "date": "2023-11-17",
+      "description": "CHECKCARD 1115 POWERFINANCE IFD XXX-XX56686 TX XXXXX6633XXXXXXXXXX1278",
+      "guid": "omBqwNXao3taQZOwxrmZtXd7R8NPKjHrN8z1M",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "Online Banking transfer from CHK 6217 Confirmation# XXXXX27137",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 400.0,
+      "date": "2023-11-28",
+      "description": "Online Banking transfer from CHK 6217 Confirmation# XXXXX27137",
+      "guid": "omBqwNXao3taQZOwxrmZtXd7R8NPKjHrN8z3x",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Internal Account Transfer\"]"
+    },
+    {
+      "originalDescription": "Dave Inc 12/17 #XXXXX0954 PMNT RCVD Dave Inc",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 100.0,
+      "date": "2023-12-18",
+      "description": "Dave Inc 12/17 #XXXXX0954 PMNT RCVD Dave Inc",
+      "guid": "omBqwNXao3taQZOwxrmZtXd7R8NPKjHrN8zgD",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 0104 NTTA ONLINE XXXXX86882 TX XXXXX8640XXXXXXXXXX0221",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 10.0,
+      "date": "2024-01-05",
+      "description": "CHECKCARD 0104 NTTA ONLINE XXXXX86882 TX XXXXX8640XXXXXXXXXX0221",
+      "guid": "omBqwNXao3taQZOwxrmZtXd7R8NPKjHrN8zmD",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Tolls and Fees\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1221 SAMS CLUB #8248 TX XXXXX0033XXXXXXXXXX7837",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 84.14,
+      "date": "2023-12-22",
+      "description": "CHECKCARD 1221 SAMS CLUB #8248 TX XXXXX0033XXXXXXXXXX7837",
+      "guid": "omBqwNXao3taQZOwxrmZtXd7R8NPKjHrN8zZL",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Warehouses and Wholesale Stores\"]"
+    },
+    {
+      "originalDescription": "Kroger",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 9.47,
+      "date": "2024-01-19",
+      "description": "Kroger",
+      "guid": "omBqwNXao3taQZOwxrmZtXdOQYo5pofopJ8M1",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "State Farm",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 328.49,
+      "date": "2024-01-17",
+      "description": "State Farm",
+      "guid": "omBqwNXao3taQZOwxrmZtXdOQYo5pofopJ8QO",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Insurance\"]"
+    },
+    {
+      "originalDescription": "Brigit 02/03 #XXXXX0306 PMNT RCVD Brigit",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 130.0,
+      "date": "2024-02-05",
+      "description": "Brigit 02/03 #XXXXX0306 PMNT RCVD Brigit",
+      "guid": "PAdO4pvqMkSwXY97mNkYU5P68oXKzXU1gwZbA",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "PURCHASE 0203 FLEX FINANCE HTTPSGETFLEX.NY XXXXX3440XXXXXXXXXX4330 RECURRING",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 755.77,
+      "date": "2024-02-05",
+      "description": "PURCHASE 0203 FLEX FINANCE HTTPSGETFLEX.NY XXXXX3440XXXXXXXXXX4330 RECURRING",
+      "guid": "PAdO4pvqMkSwXY97mNkYU5P68oXKzXU1gwZKN",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 0111 SAMSCLUB #6376 DALLAS TX XXXXX8240XXXXXXXXXX7712",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 20.05,
+      "date": "2024-01-12",
+      "description": "CHECKCARD 0111 SAMSCLUB #6376 DALLAS TX XXXXX8240XXXXXXXXXX7712",
+      "guid": "PAdO4pvqMkSwXY97mNkYU5PMrNdxQ7FO6Zy0R",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Warehouses and Wholesale Stores\"]"
+    },
+    {
+      "originalDescription": "Online Banking transfer from CHK 6217 Confirmation# XXXXX30542",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 100.0,
+      "date": "2023-12-05",
+      "description": "Online Banking transfer from CHK 6217 Confirmation# XXXXX30542",
+      "guid": "PAdO4pvqMkSwXY97mNkYU5PMrNdxQ7FO6Zy57",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Internal Account Transfer\"]"
+    },
+    {
+      "originalDescription": "7-Eleven",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 10.01,
+      "date": "2023-12-11",
+      "description": "7-Eleven",
+      "guid": "PAdO4pvqMkSwXY97mNkYU5PMrNdxQ7FO6Zy58",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Convenience Stores\"]"
+    },
+    {
+      "originalDescription": "TOTAL WINE & M 01/04 #XXXXX7933 PURCHASE TOTAL WINE & MO",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 36.75,
+      "date": "2024-01-04",
+      "description": "TOTAL WINE & M 01/04 #XXXXX7933 PURCHASE TOTAL WINE & MO",
+      "guid": "PAdO4pvqMkSwXY97mNkYU5PMrNdxQ7FO6ZyQ8",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Food and Beverage Store\"]"
+    },
+    {
+      "originalDescription": "Kroger",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 88.22,
+      "date": "2023-12-26",
+      "description": "Kroger",
+      "guid": "PAdO4pvqMkSwXY97mNkYU5PMrNdxQ7FO6ZyRR",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "PMNT SENT 1201 Dave Inc XXXXX73283 CA XXXXX4333XXXXXXXXXX1510",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 105.0,
+      "date": "2023-12-04",
+      "description": "PMNT SENT 1201 Dave Inc XXXXX73283 CA XXXXX4333XXXXXXXXXX1510",
+      "guid": "PAdO4pvqMkSwXY97mNkYU5PMrNdxQ7FO6Zyx4",
+      "type": "DEBIT",
+      "category": "[\"Payment\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1209 7-11 STORE 35419 DALLAS TX XXXXX8633XXXXXXXXXX7332",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 10.0,
+      "date": "2023-12-11",
+      "description": "CHECKCARD 1209 7-11 STORE 35419 DALLAS TX XXXXX8633XXXXXXXXXX7332",
+      "guid": "PAdO4pvqMkSwXY97mNkYU5PMrNdxQ7FO6ZyxR",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1230 SAMSCLUB #8248 DALLAS TX XXXXX8233XXXXXXXXXX0067",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 25.0,
+      "date": "2024-01-02",
+      "description": "CHECKCARD 1230 SAMSCLUB #8248 DALLAS TX XXXXX8233XXXXXXXXXX0067",
+      "guid": "pB036b7XOyFPEZJ5n7BZu8Pb9rMOgafA8vdED",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Warehouses and Wholesale Stores\"]"
+    },
+    {
+      "originalDescription": "Uber Eats",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 42.91,
+      "date": "2023-12-18",
+      "description": "Uber Eats",
+      "guid": "pB036b7XOyFPEZJ5n7BZu8Pb9rMOgafA8vdL0",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "EatZi's",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 23.78,
+      "date": "2023-12-13",
+      "description": "EatZi's",
+      "guid": "pB036b7XOyFPEZJ5n7BZu8Pb9rMOgafA8vdRD",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "TXU ENERGY DES:TXU_ACH ID:XXXXX5755044 INDN:FRED H ELLIS III CO ID:XXXXX20329 PPD PMT INFO:XXXXX7028XXXXXXXXXXXXXXXXXXXXXXXXX742398 16",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 122.46,
+      "date": "2023-11-17",
+      "description": "TXU ENERGY DES:TXU_ACH ID:XXXXX5755044 INDN:FRED H ELLIS III CO ID:XXXXX20329 PPD PMT INFO:XXXXX7028XXXXXXXXXXXXXXXXXXXXXXXXX742398 16",
+      "guid": "pB036b7XOyFPEZJ5n7BZu8Pb9rMOgafA8vdzM",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Utilities\",\"Electric\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 0210 NTTA ONLINE XXXXX86882 TX XXXXX8640XXXXXXXXXX1374",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 10.0,
+      "date": "2024-02-12",
+      "description": "CHECKCARD 0210 NTTA ONLINE XXXXX86882 TX XXXXX8640XXXXXXXXXX1374",
+      "guid": "pB036b7XOyFPEZJ5n7BZu8PeRVzqYzIZNevm5",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Tolls and Fees\"]"
+    },
+    {
+      "originalDescription": "PURCHASE 0112 ATT*BILL PAYMENT XXXXX10500 TX XXXXX3640XXXXXXXXXX6501",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 60.86,
+      "date": "2024-01-16",
+      "description": "PURCHASE 0112 ATT*BILL PAYMENT XXXXX10500 TX XXXXX3640XXXXXXXXXX6501",
+      "guid": "pB036b7XOyFPEZJ5n7BZu8PeRVzqYzIZNevn5",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Telecommunication Services\"]"
+    },
+    {
+      "originalDescription": "Online Banking transfer to CHK 4560 Confirmation# XXXXX72594",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 130.0,
+      "date": "2023-11-16",
+      "description": "Online Banking transfer to CHK 4560 Confirmation# XXXXX72594",
+      "guid": "pB036b7XOyFPEZJ5n7BZu8PPNPz4KYHZV1P0g",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Internal Account Transfer\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1209 MARIO'S MEXICAN AND DALLAS TX XXXXX1433XXXXXXXXXX0024",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 50.21,
+      "date": "2023-12-11",
+      "description": "CHECKCARD 1209 MARIO'S MEXICAN AND DALLAS TX XXXXX1433XXXXXXXXXX0024",
+      "guid": "q3jKLbE9ZmIwRD85kr3DUpw3BbMamNH1Mbj53",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "Online Banking transfer to CHK 6217 Confirmation# XXXXX23200",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 15.0,
+      "date": "2023-12-04",
+      "description": "Online Banking transfer to CHK 6217 Confirmation# XXXXX23200",
+      "guid": "q3jKLbE9ZmIwRD85kr3DUpw3BbMamNH1Mbj5n",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Internal Account Transfer\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1223 WU * XXXXX56000 CO XXXXX8633XXXXXXXXXX7095 RECURRING",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 27.99,
+      "date": "2023-12-26",
+      "description": "CHECKCARD 1223 WU * XXXXX56000 CO XXXXX8633XXXXXXXXXX7095 RECURRING",
+      "guid": "q3jKLbE9ZmIwRD85kr3DUpw3BbMamNH1Mbj9Y",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "Kroger",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 76.25,
+      "date": "2024-01-11",
+      "description": "Kroger",
+      "guid": "q3jKLbE9ZmIwRD85kr3DUpw3BbMamNH1MbjmY",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1201 POWERFINANCE IFD XXX-XX56686 TX XXXXX6633XXXXXXXXXX6342",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 298.19,
+      "date": "2023-12-04",
+      "description": "CHECKCARD 1201 POWERFINANCE IFD XXX-XX56686 TX XXXXX6633XXXXXXXXXX6342",
+      "guid": "q3jKLbE9ZmIwRD85kr3DUpw3BbMamNH1MbjYy",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "PURCHASE 0103 FLEX FINANCE HTTPSGETFLEX.NY XXXXX3440XXXXXXXXXX1980 RECURRING",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 750.46,
+      "date": "2024-01-04",
+      "description": "PURCHASE 0103 FLEX FINANCE HTTPSGETFLEX.NY XXXXX3440XXXXXXXXXX1980 RECURRING",
+      "guid": "q3jKLbE9ZmIwRD85kr3DUpw3BbMamNH1MbjZ3",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]"
+    },
+    {
+      "originalDescription": "Transfer Simple Fast Loans",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 500.0,
+      "date": "2024-02-05",
+      "description": "Transfer Simple Fast Loans",
+      "guid": "q3jKLbE9ZmIwRD85kr3DUpw8r1PnRPfBqNbAB",
+      "type": "CREDIT",
+      "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]"
+    },
+    {
+      "originalDescription": "Online Banking transfer from CHK 9111 Confirmation# XXXXX55576",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 15.0,
+      "date": "2024-02-05",
+      "description": "Online Banking transfer from CHK 9111 Confirmation# XXXXX55576",
+      "guid": "q3jKLbE9ZmIwRD85kr3DUpw8r1PnRPfBqNbk6",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Internal Account Transfer\"]"
+    },
+    {
+      "originalDescription": "Online Banking transfer to CHK 6217 Confirmation# XXXXX09363",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 5.0,
+      "date": "2023-11-20",
+      "description": "Online Banking transfer to CHK 6217 Confirmation# XXXXX09363",
+      "guid": "QvwEap0rMAt6BY37VEAYTYv1jdDQyru9rNK0v",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Internal Account Transfer\"]"
+    },
+    {
+      "originalDescription": "Online Banking transfer to CHK 6217 Confirmation# XXXXX04756",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 30.0,
+      "date": "2023-12-18",
+      "description": "Online Banking transfer to CHK 6217 Confirmation# XXXXX04756",
+      "guid": "QvwEap0rMAt6BY37VEAYTYv1jdDQyru9rNKoY",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Internal Account Transfer\"]"
+    },
+    {
+      "originalDescription": "MARINER FINANCE DES:TRANS PMT ID:54 XXXXX0794721 INDN:ELLIS FRED H CO ID:XXXXX33977 PPD",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 543.21,
+      "date": "2023-12-13",
+      "description": "MARINER FINANCE DES:TRANS PMT ID:54 XXXXX0794721 INDN:ELLIS FRED H CO ID:XXXXX33977 PPD",
+      "guid": "QvwEap0rMAt6BY37VEAYTYv1jdDQyru9rNKVb",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1230 MARIO S MEXICAN A DALLAS TX XXXXX9933XXXXXXXXXX0012",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 47.53,
+      "date": "2024-01-02",
+      "description": "CHECKCARD 1230 MARIO S MEXICAN A DALLAS TX XXXXX9933XXXXXXXXXX0012",
+      "guid": "QvwEap0rMAt6BY37VEAYTYv1jdDQyru9rNKYb",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 0113 TST* LA VENTANA - DALLAS TX XXXXX3740XXXXXXXXXX0738",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 12.88,
+      "date": "2024-01-16",
+      "description": "CHECKCARD 0113 TST* LA VENTANA - DALLAS TX XXXXX3740XXXXXXXXXX0738",
+      "guid": "QvwEap0rMAt6BY37VEAYTYv9NOnbMnhzgyNeq",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 0213 Dave Membership F XXXXX73283 CA XXXXX4340XXXXXXXXXX0732",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 1.0,
+      "date": "2024-02-13",
+      "description": "CHECKCARD 0213 Dave Membership F XXXXX73283 CA XXXXX4340XXXXXXXXXX0732",
+      "guid": "QvwEap0rMAt6BY37VEAYTYv9NOnbMnhzgyNPq",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]"
+    },
+    {
+      "originalDescription": "Online Banking transfer from CHK 6217 Confirmation# XXXXX48545",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 250.0,
+      "date": "2023-11-21",
+      "description": "Online Banking transfer from CHK 6217 Confirmation# XXXXX48545",
+      "guid": "R06QxXd3MvULMYjE9NvYtMa7vdb6Y9s93OkAj",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Internal Account Transfer\"]"
+    },
+    {
+      "originalDescription": "Brigit-com DES:PROTECTION ID:DE3FF9D2333E488 INDN:Fred Ellis CO ID:XXXXX36030 WEB",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 130.99,
+      "date": "2023-12-13",
+      "description": "Brigit-com DES:PROTECTION ID:DE3FF9D2333E488 INDN:Fred Ellis CO ID:XXXXX36030 WEB",
+      "guid": "R06QxXd3MvULMYjE9NvYtMa7vdb6Y9s93OkaK",
+      "type": "DEBIT",
+      "category": "[\"Service\"]"
+    },
+    {
+      "originalDescription": "State Farm",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 328.49,
+      "date": "2023-12-18",
+      "description": "State Farm",
+      "guid": "R06QxXd3MvULMYjE9NvYtMa7vdb6Y9s93Okrv",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Insurance\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1231 NTTA ONLINE XXXXX86882 TX XXXXX8633XXXXXXXXXX9056",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 10.0,
+      "date": "2024-01-02",
+      "description": "CHECKCARD 1231 NTTA ONLINE XXXXX86882 TX XXXXX8633XXXXXXXXXX9056",
+      "guid": "R06QxXd3MvULMYjE9NvYtMa7vdb6Y9s93OkxK",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Tolls and Fees\"]"
+    },
+    {
+      "originalDescription": "Brigit-com DES:PROTECTION ID:E41079A24D404F8 INDN:Fred Ellis CO ID:XXXXX36030 WEB",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 130.99,
+      "date": "2024-02-14",
+      "description": "Brigit-com DES:PROTECTION ID:E41079A24D404F8 INDN:Fred Ellis CO ID:XXXXX36030 WEB",
+      "guid": "VaydmpDPb4CqXEL4KNpEtN0Bb4E73EUX6ORKR",
+      "type": "DEBIT",
+      "category": "[\"Service\"]"
+    },
+    {
+      "originalDescription": "Social Security Administration",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 2487.6,
+      "date": "2024-02-14",
+      "description": "Social Security Administration",
+      "guid": "R06QxXd3MvULMYjE9NvYtMaDrem35mT4bVOg7",
+      "type": "CREDIT",
+      "category": "[\"Community\",\"Government Departments and Agencies\"]"
+    },
+    {
+      "originalDescription": "Kroger",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 27.71,
+      "date": "2024-02-13",
+      "description": "Kroger",
+      "guid": "Y89PLeqAbJUyvEm7wJVECm6gEJqxnqSwNe0dm",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Online Banking transfer from CHK 6217 Confirmation# XXXXX07549",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 100.0,
+      "date": "2024-02-13",
+      "description": "Online Banking transfer from CHK 6217 Confirmation# XXXXX07549",
+      "guid": "z4v9kbBgZxUpBArED4gAsBpd0xP7zPtdaAgJm",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Internal Account Transfer\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 0209 SAMS CLUB #824",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 47.06,
+      "date": "2024-02-09",
+      "description": "CHECKCARD 0209 SAMS CLUB #824",
+      "guid": "XJBD6pPkbxH38E1OdNQEFPByRdDbxDU0MroK5",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Warehouses and Wholesale Stores\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 0206 NTTA ONLINE XXXXX86882 TX XXXXX8640XXXXXXXXXX7257",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 10.0,
+      "date": "2024-02-07",
+      "description": "CHECKCARD 0206 NTTA ONLINE XXXXX86882 TX XXXXX8640XXXXXXXXXX7257",
+      "guid": "Y89PLeqAbJUyvEm7wJVECm6gEJqxnqSwNe0EA",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Tolls and Fees\"]"
+    },
+    {
+      "originalDescription": "Kroger",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 67.01,
+      "date": "2024-02-06",
+      "description": "Kroger",
+      "guid": "w0oZ3b15xrUmzDrZwV0Df4mQE1NVpNCyOda3a",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "MARINER FINANCE DES:TRANS PMT ID:54 XXXXX0794721 INDN:ELLIS FRED H CO ID:XXXXX33977 PPD",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 258.67,
+      "date": "2024-02-06",
+      "description": "MARINER FINANCE DES:TRANS PMT ID:54 XXXXX0794721 INDN:ELLIS FRED H CO ID:XXXXX33977 PPD",
+      "guid": "z4v9kbBgZxUpBArED4gAsBpd0xP7zPtdaAg57",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]"
+    },
+    {
+      "originalDescription": "Online Banking transfer to CHK 4560 Confirmation# XXXXX30650",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 50.0,
+      "date": "2024-02-05",
+      "description": "Online Banking transfer to CHK 4560 Confirmation# XXXXX30650",
+      "guid": "w0oZ3b15xrUmzDrZwV0Df4mQE1NVpNCyOdaDZ",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Internal Account Transfer\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 0201 SXM*SIRIUSXM.COM/ XXXXX55144 NY XXXXX8640XXXXXXXXXX0596 RECURRING",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 15.5,
+      "date": "2024-02-02",
+      "description": "CHECKCARD 0201 SXM*SIRIUSXM.COM/ XXXXX55144 NY XXXXX8640XXXXXXXXXX0596 RECURRING",
+      "guid": "yr3gKbqVAaUEnXpKLzrXtXEvP6JV7Jf3rX4Ja",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Subscription\"]"
+    },
+    {
+      "originalDescription": "BHMANAGEMENT-178 DES:WEB PMTS ID:J41NNF INDN:FredEllis CO ID:XXXXX27989 WEB",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 105.68,
+      "date": "2024-02-01",
+      "description": "BHMANAGEMENT-178 DES:WEB PMTS ID:J41NNF INDN:FredEllis CO ID:XXXXX27989 WEB",
+      "guid": "yr3gKbqVAaUEnXpKLzrXtXEvP6JV7Jf3rX4Md",
+      "type": "DEBIT",
+      "category": "[\"Payment\",\"Rent\"]"
+    },
+    {
+      "originalDescription": "POSSIBLE FINANCE DES:PAYMENT ID:a8953e45ad7544b INDN:Fred Ellis CO ID:XXXXX73909 WEB",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 234.37,
+      "date": "2024-02-01",
+      "description": "POSSIBLE FINANCE DES:PAYMENT ID:a8953e45ad7544b INDN:Fred Ellis CO ID:XXXXX73909 WEB",
+      "guid": "vvmJBbDZ7jt5BeradVveCJ5XojYdeYUkXMQvD",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]"
+    },
+    {
+      "originalDescription": "Supercuts",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 25.95,
+      "date": "2024-02-01",
+      "description": "Supercuts",
+      "guid": "ryxADbdBZkUxV18DkYy1H3xQZ6D1zDUaYZvnY",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Personal Care\"]"
+    },
+    {
+      "originalDescription": "USPBGC-US AIRWAY DES:PN PMTS/BG ID:3IK0E505D/24032 INDN:ELLIS III CO ID:XXXXX48526 PPD",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 87.3,
+      "date": "2024-02-01",
+      "description": "USPBGC-US AIRWAY DES:PN PMTS/BG ID:3IK0E505D/24032 INDN:ELLIS III CO ID:XXXXX48526 PPD",
+      "guid": "xjJoybPZV4HN5Q7y6rpQHoN7qDvY0vIJYRegp",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Payroll\"]"
+    },
+    {
+      "originalDescription": "Online Banking transfer to CHK 9111 Confirmation# XXXXX59923",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 550.0,
+      "date": "2024-01-31",
+      "description": "Online Banking transfer to CHK 9111 Confirmation# XXXXX59923",
+      "guid": "vvmJBbDZ7jt5BeradVveCJ5XojYdeYUkXMQ8A",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Internal Account Transfer\"]"
+    },
+    {
+      "originalDescription": "Online Banking transfer from CHK 6217 Confirmation# XXXXX87425",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 30.0,
+      "date": "2024-01-30",
+      "description": "Online Banking transfer from CHK 6217 Confirmation# XXXXX87425",
+      "guid": "ryxADbdBZkUxV18DkYy1H3xQZ6D1zDUaYZvgZ",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Internal Account Transfer\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 0128 PRIME VIDEO *R24T XXXXX61072 WA XXXXX2040XXXXXXXXXX3212",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 3.24,
+      "date": "2024-01-29",
+      "description": "CHECKCARD 0128 PRIME VIDEO *R24T XXXXX61072 WA XXXXX2040XXXXXXXXXX3212",
+      "guid": "ZZeBDOmrb8UKdEqazVpEt8yxabAjMAIVX40EY",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Entertainment\"]"
+    },
+    {
+      "originalDescription": "Kroger",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 16.78,
+      "date": "2024-01-24",
+      "description": "Kroger",
+      "guid": "xjJoybPZV4HN5Q7y6rpQHoN7qDvY0vIJYReQm",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 0118 TXU*BILL PAYMENT TX XXXXX1640XXXXXXXXXX4550",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 137.46,
+      "date": "2024-01-19",
+      "description": "CHECKCARD 0118 TXU*BILL PAYMENT TX XXXXX1640XXXXXXXXXX4550",
+      "guid": "ZZeBDOmrb8UKdEqazVpEt8yxabAjMAIVX40Lz",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Utilities\",\"Electric\"]"
+    },
+    {
+      "originalDescription": "Kroger",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 8.28,
+      "date": "2024-01-16",
+      "description": "Kroger",
+      "guid": "VaydmpDPb4CqXEL4KNpEtN0Bb4E73EUX6OR5D",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "POSSIBLE FINANCE DES:PAYMENT ID:fe60b92409cb482 INDN:Fred Ellis CO ID:XXXXX73909 WEB",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 234.37,
+      "date": "2024-01-16",
+      "description": "POSSIBLE FINANCE DES:PAYMENT ID:fe60b92409cb482 INDN:Fred Ellis CO ID:XXXXX73909 WEB",
+      "guid": "VaydmpDPb4CqXEL4KNpEtN0Bb4E73EUX6OR8R",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]"
+    },
+    {
+      "originalDescription": "Quest Diagnostics",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 65.11,
+      "date": "2024-01-16",
+      "description": "Quest Diagnostics",
+      "guid": "ryxADbdBZkUxV18DkYy1H3xQZ6D1zDUaYZvgY",
+      "type": "DEBIT",
+      "category": "[\"Healthcare\",\"Healthcare Services\",\"Medical Supplies and Labs\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 0113 Dave Membership F XXXXX73283 CA XXXXX4340XXXXXXXXXX7324",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 1.0,
+      "date": "2024-01-16",
+      "description": "CHECKCARD 0113 Dave Membership F XXXXX73283 CA XXXXX4340XXXXXXXXXX7324",
+      "guid": "R06QxXd3MvULMYjE9NvYtMaDrem35mT4bVO57",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]"
+    },
+    {
+      "originalDescription": "Online Banking transfer from CHK 4560 Confirmation# XXXXX41047",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 350.0,
+      "date": "2024-01-16",
+      "description": "Online Banking transfer from CHK 4560 Confirmation# XXXXX41047",
+      "guid": "Y89PLeqAbJUyvEm7wJVECm6gEJqxnqSwNe0gA",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Internal Account Transfer\"]"
+    },
+    {
+      "originalDescription": "Kroger",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 67.18,
+      "date": "2023-11-22",
+      "description": "Kroger",
+      "guid": "VaydmpDPb4CqXEL4KNpEtN06ey1vLOCnxRp7x",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1127 CITYVET OLD EAS DALLAS TX XXXXX7933XXXXXXXXXX1362",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 40.47,
+      "date": "2023-11-29",
+      "description": "CHECKCARD 1127 CITYVET OLD EAS DALLAS TX XXXXX7933XXXXXXXXXX1362",
+      "guid": "ZZeBDOmrb8UKdEqazVpEt8ymq3J7rEf8d0Z3n",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "THE CHURCH OF TH DES:PAYROLL ID:1000157 INDN:ELLIS, FREDH CO ID:XXXXX05101 PPD",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 1028.32,
+      "date": "2023-11-30",
+      "description": "THE CHURCH OF TH DES:PAYROLL ID:1000157 INDN:ELLIS, FREDH CO ID:XXXXX05101 PPD",
+      "guid": "xjJoybPZV4HN5Q7y6rpQHoNaAe8LydUm8e6kw",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Payroll\"]"
+    },
+    {
+      "originalDescription": "Kroger",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 28.45,
+      "date": "2023-12-01",
+      "description": "Kroger",
+      "guid": "ryxADbdBZkUxV18DkYy1H3x0jbMJYAtrMv9dj",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Online Banking transfer from CHK 9111 Confirmation# XXXXX91770",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 75.0,
+      "date": "2023-12-04",
+      "description": "Online Banking transfer from CHK 9111 Confirmation# XXXXX91770",
+      "guid": "vvmJBbDZ7jt5BeradVveCJ5n18MBkyIpbQyPX",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Internal Account Transfer\"]"
+    },
+    {
+      "originalDescription": "Online Banking transfer to CHK 6217 Confirmation# XXXXX71722",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 16.0,
+      "date": "2023-12-04",
+      "description": "Online Banking transfer to CHK 6217 Confirmation# XXXXX71722",
+      "guid": "yr3gKbqVAaUEnXpKLzrXtXEaZrMLBwHR84zPJ",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Internal Account Transfer\"]"
+    },
+    {
+      "originalDescription": "Kroger",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 56.01,
+      "date": "2023-12-07",
+      "description": "Kroger",
+      "guid": "vvmJBbDZ7jt5BeradVveCJ5n18MBkyIpbQyPM",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Online Banking transfer from CHK 9111 Confirmation# XXXXX16677",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 5.0,
+      "date": "2023-12-11",
+      "description": "Online Banking transfer from CHK 9111 Confirmation# XXXXX16677",
+      "guid": "yr3gKbqVAaUEnXpKLzrXtXEaZrMLBwHR84zPw",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Internal Account Transfer\"]"
+    },
+    {
+      "originalDescription": "Online Banking transfer from CHK 6217 Confirmation# XXXXX65278",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 100.0,
+      "date": "2023-12-12",
+      "description": "Online Banking transfer from CHK 6217 Confirmation# XXXXX65278",
+      "guid": "w0oZ3b15xrUmzDrZwV0Df4mXq8MZkOIRbaEJb",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Internal Account Transfer\"]"
+    },
+    {
+      "originalDescription": "THE CHURCH OF TH DES:PAYROLL ID:1000157 INDN:ELLIS, FREDH CO ID:XXXXX05101 PPD",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 962.02,
+      "date": "2023-12-15",
+      "description": "THE CHURCH OF TH DES:PAYROLL ID:1000157 INDN:ELLIS, FREDH CO ID:XXXXX05101 PPD",
+      "guid": "z4v9kbBgZxUpBArED4gAsBpA3V84y6UMQgmkg",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Payroll\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1215 YouTube Videos g.co/helppay#CA XXXXX1633XXXXXXXXXX4591",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 4.32,
+      "date": "2023-12-15",
+      "description": "CHECKCARD 1215 YouTube Videos g.co/helppay#CA XXXXX1633XXXXXXXXXX4591",
+      "guid": "Y89PLeqAbJUyvEm7wJVECm6pkP1oXYizb0a7B",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Entertainment\"]"
+    },
+    {
+      "originalDescription": "PURCHASE 1215 FLEX FINANCE HTTPSGETFLEX.NY XXXXX3433XXXXXXXXXX5006 RECURRING",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 382.16,
+      "date": "2023-12-18",
+      "description": "PURCHASE 1215 FLEX FINANCE HTTPSGETFLEX.NY XXXXX3433XXXXXXXXXX5006 RECURRING",
+      "guid": "XJBD6pPkbxH38E1OdNQEFPBX3r9qpwFznoVjJ",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]"
+    },
+    {
+      "originalDescription": "Kroger",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 34.18,
+      "date": "2023-12-19",
+      "description": "Kroger",
+      "guid": "VaydmpDPb4CqXEL4KNpEtN06ey1vLOCnxRpwE",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "EatZi's",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 26.97,
+      "date": "2023-12-26",
+      "description": "EatZi's",
+      "guid": "ZZeBDOmrb8UKdEqazVpEt8ymq3J7rEf8d0ZJj",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "Kroger",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 12.83,
+      "date": "2023-12-26",
+      "description": "Kroger",
+      "guid": "xjJoybPZV4HN5Q7y6rpQHoNaAe8LydUm8e6rA",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "EatZi's",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 15.22,
+      "date": "2023-12-29",
+      "description": "EatZi's",
+      "guid": "ryxADbdBZkUxV18DkYy1H3x0jbMJYAtrMv9Er",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "OVERDRAFT PROTECTION TO XXXXX0000XXXXX4449111",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 253.55,
+      "date": "2024-01-02",
+      "description": "OVERDRAFT PROTECTION TO XXXXX0000XXXXX4449111",
+      "guid": "vvmJBbDZ7jt5BeradVveCJ5n18MBkyIpbQyNM",
+      "type": "DEBIT",
+      "category": "[\"Bank Fees\",\"Overdraft\"]"
+    },
+    {
+      "originalDescription": "BHMANAGEMENT-178 DES:WEB PMTS ID:RBGNGF INDN:FredEllis CO ID:XXXXX27989 WEB",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 100.27,
+      "date": "2024-01-02",
+      "description": "BHMANAGEMENT-178 DES:WEB PMTS ID:RBGNGF INDN:FredEllis CO ID:XXXXX27989 WEB",
+      "guid": "yr3gKbqVAaUEnXpKLzrXtXEaZrMLBwHR84z1w",
+      "type": "DEBIT",
+      "category": "[\"Payment\",\"Rent\"]"
+    },
+    {
+      "originalDescription": "Kroger",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 10.09,
+      "date": "2024-01-08",
+      "description": "Kroger",
+      "guid": "w0oZ3b15xrUmzDrZwV0Df4mXq8MZkOIRbaE6b",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Kroger",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 16.31,
+      "date": "2024-01-11",
+      "description": "Kroger",
+      "guid": "z4v9kbBgZxUpBArED4gAsBpA3V84y6UMQgmZg",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "THE CHURCH OF TH DES:PAYROLL ID:1000157 INDN:ELLIS, FREDH CO ID:XXXXX05101 PPD",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 869.67,
+      "date": "2024-01-12",
+      "description": "THE CHURCH OF TH DES:PAYROLL ID:1000157 INDN:ELLIS, FREDH CO ID:XXXXX05101 PPD",
+      "guid": "Y89PLeqAbJUyvEm7wJVECm6pkP1oXYizb0axB",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Payroll\"]"
+    },
+    {
+      "originalDescription": "EatZi's",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 16.23,
+      "date": "2023-11-20",
+      "description": "EatZi's",
+      "guid": "xjJoybPZV4HN5Q7y6rpQHoNaAe8LydUm8e61j",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "Supercuts",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 25.95,
+      "date": "2023-11-27",
+      "description": "Supercuts",
+      "guid": "ryxADbdBZkUxV18DkYy1H3x0jbMJYAtrMv9Ow",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Personal Care\"]"
+    },
+    {
+      "originalDescription": "PRU DES:ANNTY PYMT ID:0C4A8C1Z4W0ABAA INDN:ELLIS, FRED CO ID:XXXXX11670 PPD",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 730.94,
+      "date": "2023-12-01",
+      "description": "PRU DES:ANNTY PYMT ID:0C4A8C1Z4W0ABAA INDN:ELLIS, FRED CO ID:XXXXX11670 PPD",
+      "guid": "vvmJBbDZ7jt5BeradVveCJ5n18MBkyIpbQyLm",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Payroll\"]"
+    },
+    {
+      "originalDescription": "Brigit-com DES:PROTECTION ID:C699E28FF90A47A INDN:Fred Ellis CO ID:XXXXX36030 WEB",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 130.99,
+      "date": "2023-12-01",
+      "description": "Brigit-com DES:PROTECTION ID:C699E28FF90A47A INDN:Fred Ellis CO ID:XXXXX36030 WEB",
+      "guid": "yr3gKbqVAaUEnXpKLzrXtXEaZrMLBwHR84zVv",
+      "type": "DEBIT",
+      "category": "[\"Service\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1203 SAMS CLUB #824",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 17.24,
+      "date": "2023-12-04",
+      "description": "CHECKCARD 1203 SAMS CLUB #824",
+      "guid": "vvmJBbDZ7jt5BeradVveCJ5n18MBkyIpbQyLZ",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Warehouses and Wholesale Stores\"]"
+    },
+    {
+      "originalDescription": "Online Banking transfer to CHK 4560 Confirmation# XXXXX39357",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 160.0,
+      "date": "2023-12-06",
+      "description": "Online Banking transfer to CHK 4560 Confirmation# XXXXX39357",
+      "guid": "yr3gKbqVAaUEnXpKLzrXtXEaZrMLBwHR84zV6",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Internal Account Transfer\"]"
+    },
+    {
+      "originalDescription": "OVERDRAFT PROTECTION TO XXXXX0000XXXXX5174560",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 4.88,
+      "date": "2023-12-12",
+      "description": "OVERDRAFT PROTECTION TO XXXXX0000XXXXX5174560",
+      "guid": "w0oZ3b15xrUmzDrZwV0Df4mXq8MZkOIRbaE46",
+      "type": "DEBIT",
+      "category": "[\"Bank Fees\",\"Overdraft\"]"
+    },
+    {
+      "originalDescription": "Kroger",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 36.04,
+      "date": "2023-12-12",
+      "description": "Kroger",
+      "guid": "z4v9kbBgZxUpBArED4gAsBpA3V84y6UMQgmj3",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Social Security Administration",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 2414.7,
+      "date": "2023-12-13",
+      "description": "Social Security Administration",
+      "guid": "Y89PLeqAbJUyvEm7wJVECm6pkP1oXYizb0aoj",
+      "type": "CREDIT",
+      "category": "[\"Community\",\"Government Departments and Agencies\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1213 Dave Membership F XXXXX73283 CA XXXXX4333XXXXXXXXXX3187",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 1.0,
+      "date": "2023-12-13",
+      "description": "CHECKCARD 1213 Dave Membership F XXXXX73283 CA XXXXX4333XXXXXXXXXX3187",
+      "guid": "XJBD6pPkbxH38E1OdNQEFPBX3r9qpwFznoV9X",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]"
+    },
+    {
+      "originalDescription": "PURCHASE 1214 Microsoft*Microso XXXXX27676 WA XXXXX0233XXXXXXXXXX2078 RECURRING",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 75.76,
+      "date": "2023-12-14",
+      "description": "PURCHASE 1214 Microsoft*Microso XXXXX27676 WA XXXXX0233XXXXXXXXXX2078 RECURRING",
+      "guid": "VaydmpDPb4CqXEL4KNpEtN06ey1vLOCnxRpv4",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Computers and Electronics\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1215 POWERFINANCE IFD XXX-XX56686 TX XXXXX6633XXXXXXXXXX5826",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 298.19,
+      "date": "2023-12-18",
+      "description": "CHECKCARD 1215 POWERFINANCE IFD XXX-XX56686 TX XXXXX6633XXXXXXXXXX5826",
+      "guid": "ZZeBDOmrb8UKdEqazVpEt8ymq3J7rEf8d0ZoN",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "Kroger",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 112.9,
+      "date": "2023-12-18",
+      "description": "Kroger",
+      "guid": "xjJoybPZV4HN5Q7y6rpQHoNaAe8LydUm8e6q4",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Kroger",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 8.64,
+      "date": "2023-12-18",
+      "description": "Kroger",
+      "guid": "ryxADbdBZkUxV18DkYy1H3x0jbMJYAtrMv9ND",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "FIDELITY INVESTM DES:FIDELITY ID:57163 XXXXX9568 INDN:FREDDIE HOLMES ELLIS CO ID:XXXXX97921 PPD",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 348.83,
+      "date": "2023-12-21",
+      "description": "FIDELITY INVESTM DES:FIDELITY ID:57163 XXXXX9568 INDN:FREDDIE HOLMES ELLIS CO ID:XXXXX97921 PPD",
+      "guid": "vvmJBbDZ7jt5BeradVveCJ5n18MBkyIpbQyKZ",
+      "type": "CREDIT",
+      "category": "[\"Service\",\"Financial\",\"Financial Planning and Investments\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1221 LUCKYS CAFE 719 DALLAS TX XXXXX8633XXXXXXXXXX6950",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 24.91,
+      "date": "2023-12-22",
+      "description": "CHECKCARD 1221 LUCKYS CAFE 719 DALLAS TX XXXXX8633XXXXXXXXXX6950",
+      "guid": "yr3gKbqVAaUEnXpKLzrXtXEaZrMLBwHR84zq6",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1227 NTTA ONLINE XXXXX86882 TX XXXXX8633XXXXXXXXXX9995",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 10.0,
+      "date": "2023-12-28",
+      "description": "CHECKCARD 1227 NTTA ONLINE XXXXX86882 TX XXXXX8633XXXXXXXXXX9995",
+      "guid": "w0oZ3b15xrUmzDrZwV0Df4mXq8MZkOIRbaEk6",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Tolls and Fees\"]"
+    },
+    {
+      "originalDescription": "Brigit-com DES:PROTECTION ID:DE1E96119A66485 INDN:Fred Ellis CO ID:XXXXX36030 WEB",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 130.99,
+      "date": "2023-12-29",
+      "description": "Brigit-com DES:PROTECTION ID:DE1E96119A66485 INDN:Fred Ellis CO ID:XXXXX36030 WEB",
+      "guid": "z4v9kbBgZxUpBArED4gAsBpA3V84y6UMQgm03",
+      "type": "DEBIT",
+      "category": "[\"Service\"]"
+    },
+    {
+      "originalDescription": "OVERDRAFT PROTECTION FROM XXXXXXXXXX4560",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 253.55,
+      "date": "2024-01-02",
+      "description": "OVERDRAFT PROTECTION FROM XXXXXXXXXX4560",
+      "guid": "Y89PLeqAbJUyvEm7wJVECm6pkP1oXYizb0akj",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "POSSIBLE FINANCE DES:PAYMENT ID:6a322bXXXXX7427 INDN:Fred Ellis CO ID:XXXXX73909 WEB",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 234.39,
+      "date": "2024-01-02",
+      "description": "POSSIBLE FINANCE DES:PAYMENT ID:6a322bXXXXX7427 INDN:Fred Ellis CO ID:XXXXX73909 WEB",
+      "guid": "VaydmpDPb4CqXEL4KNpEtN06ey1vLOCnxRp14",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]"
+    },
+    {
+      "originalDescription": "BKOFAMERICA ATM 12/30 #XXXXX5594 WITHDRWL CEDAR SPRINGS & KN",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 20.0,
+      "date": "2024-01-02",
+      "description": "BKOFAMERICA ATM 12/30 #XXXXX5594 WITHDRWL CEDAR SPRINGS & KN",
+      "guid": "XJBD6pPkbxH38E1OdNQEFPBX3r9qpwFznoVAX",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "Supercuts",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 25.95,
+      "date": "2024-01-08",
+      "description": "Supercuts",
+      "guid": "ZZeBDOmrb8UKdEqazVpEt8ymq3J7rEf8d0ZYN",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Personal Care\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 0106 TOTAL WINE & MORE DALLAS TX XXXXX8440XXXXXXXXXX8672",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 63.82,
+      "date": "2024-01-08",
+      "description": "CHECKCARD 0106 TOTAL WINE & MORE DALLAS TX XXXXX8440XXXXXXXXXX8672",
+      "guid": "xjJoybPZV4HN5Q7y6rpQHoNaAe8LydUm8e6w4",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Food and Beverage Store\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 0108 NTTA ONLINE XXXXX86882 TX XXXXX8640XXXXXXXXXX1365",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 20.0,
+      "date": "2024-01-09",
+      "description": "CHECKCARD 0108 NTTA ONLINE XXXXX86882 TX XXXXX8640XXXXXXXXXX1365",
+      "guid": "ryxADbdBZkUxV18DkYy1H3x0jbMJYAtrMv9qD",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Tolls and Fees\"]"
+    },
+    {
+      "originalDescription": "Amazon",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 24.01,
+      "date": "2024-01-10",
+      "description": "Amazon",
+      "guid": "vvmJBbDZ7jt5BeradVveCJ5n18MBkyIpbQyxZ",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Digital Purchase\"]"
+    },
+    {
+      "originalDescription": "Brigit-com DES:MEMBERSHIP ID:A2FC35BA68E1477 INDN:Fred Ellis CO ID:XXXXX36030 WEB",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 9.99,
+      "date": "2024-01-10",
+      "description": "Brigit-com DES:MEMBERSHIP ID:A2FC35BA68E1477 INDN:Fred Ellis CO ID:XXXXX36030 WEB",
+      "guid": "yr3gKbqVAaUEnXpKLzrXtXEaZrMLBwHR84ze6",
+      "type": "DEBIT",
+      "category": "[\"Service\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1116 TST* ELM FORK TAP Hickory CreekTX XXXXX8633XXXXXXXXXX7696",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 26.92,
+      "date": "2023-11-17",
+      "description": "CHECKCARD 1116 TST* ELM FORK TAP Hickory CreekTX XXXXX8633XXXXXXXXXX7696",
+      "guid": "ZZeBDOmrb8UKdEqazVpEt8ymq3J7rEf8d0ZyL",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "Kroger",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 20.99,
+      "date": "2023-11-17",
+      "description": "Kroger",
+      "guid": "XJBD6pPkbxH38E1OdNQEFPBX3r9qpwFznoVqv",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1116 DIRECTV*STREAM XXXXX15000 TX XXXXX8633XXXXXXXXXX4166 RECURRING",
+      "accountGuid": "kLvzJOMoD1f7bNj1MVLNt5O1wdzDZmsDEyedQ",
+      "amount": 120.14,
+      "date": "2023-11-16",
+      "description": "CHECKCARD 1116 DIRECTV*STREAM XXXXX15000 TX XXXXX8633XXXXXXXXXX4166 RECURRING",
+      "guid": "XJBD6pPkbxH38E1OdNQEFPBBKBDM0xC0pwvBb",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Cable\"]"
+    },
+    {
+      "originalDescription": "PURCHASE 1115 FLEX FINANCE HTTPSGETFLEX.NY XXXXX3433XXXXXXXXXX0082 RECURRING",
+      "accountGuid": "KBOJAY3K6qFXA967N8n9IaEoO3qyJKuvNqo5p",
+      "amount": 380.77,
+      "date": "2023-11-16",
+      "description": "PURCHASE 1115 FLEX FINANCE HTTPSGETFLEX.NY XXXXX3433XXXXXXXXXX0082 RECURRING",
+      "guid": "w0oZ3b15xrUmzDrZwV0Df4mPw6pApNty16ndP",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]"
+    }
+  ],
+  "asOfDate": "2024-02-14"
+}

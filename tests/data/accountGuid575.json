@@ -1,0 +1,2633 @@
+{
+    "asOfDate":"2021-09-23",
+    "accounts":[
+        {
+            "accountGuid":575,
+            "accountType": "CHECKING",
+            "currentBalance":-259.7,
+            "currentBalanceDate":"2021-10-01"
+        }
+    ],
+    "transactions":[
+        {
+            "originalDescription":"ATLASACH ACHCollect PPD ID: 1113758ACH",
+            "accountGuid":575,
+            "category":"[\"Transfer\",\"Debit\"]",
+            "amount":119.0,
+            "date":"2021-09-23",
+            "description":"ATLASACH ACHCollect PPD ID: 1113758ACH",
+            "guid":18620,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"AUSTIN BEERWORKS AUSTIN TX 09/21",
+            "accountGuid":575,
+            "category":"[\"Shops\",\"Food and Beverage Store\"]",
+            "amount":18.19,
+            "date":"2021-09-23",
+            "description":"AUSTIN BEERWORKS AUSTIN TX 09/21",
+            "guid":18621,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"Allstate",
+            "accountGuid":575,
+            "category":"[\"Service\",\"Insurance\"]",
+            "amount":8.65,
+            "date":"2021-09-23",
+            "description":"Allstate",
+            "guid":18622,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"Allstate",
+            "accountGuid":575,
+            "category":"[\"Bank Fees\",\"Insufficient Funds\"]",
+            "amount":34.0,
+            "date":"2021-09-23",
+            "description":"Allstate",
+            "guid":18623,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"GROCERY OUTLET NEWMAN CA 09/23",
+            "accountGuid":575,
+            "category":"[\"Shops\",\"Supermarkets and Groceries\"]",
+            "amount":3.24,
+            "date":"2021-09-23",
+            "description":"GROCERY OUTLET NEWMAN CA 09/23",
+            "guid":18624,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"GrubHub",
+            "accountGuid":575,
+            "category":"[\"Service\",\"Food and Beverage\"]",
+            "amount":26.25,
+            "date":"2021-09-23",
+            "description":"GrubHub",
+            "guid":18625,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"GrubHub",
+            "accountGuid":575,
+            "category":"[\"Bank Fees\",\"Insufficient Funds\"]",
+            "amount":34.0,
+            "date":"2021-09-23",
+            "description":"GrubHub",
+            "guid":18626,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"INSUFFICIENT FUNDS FEE FOR A $188.34 RECURRING CARD PURCHASE - DETAILS: 0923SPECTRUM MO 0############4961 01",
+            "accountGuid":575,
+            "category":"[\"Bank Fees\",\"Insufficient Funds\"]",
+            "amount":34.0,
+            "date":"2021-09-23",
+            "description":"INSUFFICIENT FUNDS FEE FOR A $188.34 RECURRING CARD PURCHASE - DETAILS: 0923SPECTRUM MO 0############4961 01",
+            "guid":18627,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"PROGRESSIVELEASE PMTS PPD ID: 1460858540",
+            "accountGuid":575,
+            "category":"[\"Service\",\"Financial\",\"Loans and Mortgages\"]",
+            "amount":27.26,
+            "date":"2021-09-23",
+            "description":"PROGRESSIVELEASE PMTS PPD ID: 1460858540",
+            "guid":18628,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"SPECTRUM MO 09/23",
+            "accountGuid":575,
+            "category":"[\"Service\",\"Cable\"]",
+            "amount":188.34,
+            "date":"2021-09-23",
+            "description":"SPECTRUM MO 09/23",
+            "guid":18629,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"SPECTRUM MO 09/23",
+            "accountGuid":575,
+            "category":"[\"Service\",\"Cable\"]",
+            "amount":188.34,
+            "date":"2021-09-23",
+            "description":"SPECTRUM MO 09/23",
+            "guid":18630,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"Spotify",
+            "accountGuid":575,
+            "category":"[\"Service\",\"Subscription\"]",
+            "amount":10.81,
+            "date":"2021-09-23",
+            "description":"Spotify",
+            "guid":18631,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"TST* EMERALD TAVERN G TX 09/23",
+            "accountGuid":575,
+            "category":"[\"Food and Drink\",\"Restaurants\"]",
+            "amount":12.82,
+            "date":"2021-09-23",
+            "description":"TST* EMERALD TAVERN G TX 09/23",
+            "guid":18632,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"Venmo",
+            "accountGuid":575,
+            "category":"[\"Transfer\",\"Third Party\",\"Venmo\"]",
+            "amount":3.0,
+            "date":"2021-09-23",
+            "description":"Venmo",
+            "guid":18633,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"Venmo",
+            "accountGuid":575,
+            "category":"[\"Transfer\",\"Third Party\",\"Venmo\"]",
+            "amount":17.77,
+            "date":"2021-09-23",
+            "description":"Venmo",
+            "guid":18634,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"eBay O*19-07639-35990 San Jose CA 09/23",
+            "accountGuid":575,
+            "category":"[\"Shops\",\"Digital Purchase\"]",
+            "amount":27.6,
+            "date":"2021-09-23",
+            "description":"eBay O*19-07639-35990 San Jose CA 09/23",
+            "guid":18635,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"INSUFFICIENT FUNDS FEE FOR A $21.64 CARD PURCHASE - DETAILS: 0922Riot* AN1MSPY3RV6K CA 0############4961 01",
+            "accountGuid":575,
+            "category":"[\"Bank Fees\",\"Insufficient Funds\"]",
+            "amount":34.0,
+            "date":"2021-09-22",
+            "description":"INSUFFICIENT FUNDS FEE FOR A $21.64 CARD PURCHASE - DETAILS: 0922Riot* AN1MSPY3RV6K CA 0############4961 01",
+            "guid":18636,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"OTT* CRITERIONCHANNE HTTPSWWW.CRIT NY 09/22",
+            "accountGuid":575,
+            "category":"[\"Service\"]",
+            "amount":11.9,
+            "date":"2021-09-22",
+            "description":"OTT* CRITERIONCHANNE HTTPSWWW.CRIT NY 09/22",
+            "guid":18637,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"Riot* AN1MSPY3RV6K CA 09/22",
+            "accountGuid":575,
+            "category":"[\"Food and Drink\",\"Bar\"]",
+            "amount":21.64,
+            "date":"2021-09-22",
+            "description":"Riot* AN1MSPY3RV6K CA 09/22",
+            "guid":18638,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"Amazon Prime",
+            "accountGuid":575,
+            "category":"[\"Shops\",\"Digital Purchase\"]",
+            "amount":6.48,
+            "date":"2021-09-21",
+            "description":"Amazon Prime",
+            "guid":18639,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"DOORDASH CHURCHSCH CA 09/21",
+            "accountGuid":575,
+            "category":"[\"Service\",\"Food and Beverage\"]",
+            "amount":18.3,
+            "date":"2021-09-21",
+            "description":"DOORDASH CHURCHSCH CA 09/21",
+            "guid":18640,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"H-E-B #218 AUSTIN TX 885417 09/21",
+            "accountGuid":575,
+            "category":"[\"Shops\",\"Supermarkets and Groceries\"]",
+            "amount":17.79,
+            "date":"2021-09-21",
+            "description":"H-E-B #218 AUSTIN TX 885417 09/21",
+            "guid":18641,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"INSUFFICIENT FUNDS FEE FOR A $18.30 CARD PURCHASE - DETAILS: 0921PP*DOORDASH CHURCHSCH CA0############4961 00",
+            "accountGuid":575,
+            "category":"[\"Bank Fees\",\"Insufficient Funds\"]",
+            "amount":34.0,
+            "date":"2021-09-21",
+            "description":"INSUFFICIENT FUNDS FEE FOR A $18.30 CARD PURCHASE - DETAILS: 0921PP*DOORDASH CHURCHSCH CA0############4961 00",
+            "guid":18642,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"INSUFFICIENT FUNDS FEE FOR A $7.99 CARD PURCHASE - DETAILS: 0921PLAYSTATION NETWORK CA 0############4961 00",
+            "accountGuid":575,
+            "category":"[\"Bank Fees\",\"Insufficient Funds\"]",
+            "amount":34.0,
+            "date":"2021-09-21",
+            "description":"INSUFFICIENT FUNDS FEE FOR A $7.99 CARD PURCHASE - DETAILS: 0921PLAYSTATION NETWORK CA 0############4961 00",
+            "guid":18643,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"PLAYSTATION NETWORK CA 09/21",
+            "accountGuid":575,
+            "category":"[\"Shops\",\"Computers and Electronics\",\"Video Games\"]",
+            "amount":7.99,
+            "date":"2021-09-21",
+            "description":"PLAYSTATION NETWORK CA 09/21",
+            "guid":18644,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"TST* JACK ALLEN'S KITCH AUSTIN TX 09/21",
+            "accountGuid":575,
+            "category":"[\"Food and Drink\",\"Restaurants\"]",
+            "amount":117.91,
+            "date":"2021-09-21",
+            "description":"TST* JACK ALLEN'S KITCH AUSTIN TX 09/21",
+            "guid":18645,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"Uber Eats",
+            "accountGuid":575,
+            "category":"[\"Service\",\"Food and Beverage\"]",
+            "amount":4.82,
+            "date":"2021-09-21",
+            "description":"Uber Eats",
+            "guid":18646,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"Uber Eats",
+            "accountGuid":575,
+            "category":"[\"Service\",\"Food and Beverage\"]",
+            "amount":26.78,
+            "date":"2021-09-21",
+            "description":"Uber Eats",
+            "guid":18647,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"Uber Eats",
+            "accountGuid":575,
+            "category":"[\"Bank Fees\",\"Insufficient Funds\"]",
+            "amount":34.0,
+            "date":"2021-09-21",
+            "description":"Uber Eats",
+            "guid":18648,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"Barnes & Noble",
+            "accountGuid":575,
+            "category":"[\"Shops\",\"Bookstores\"]",
+            "amount":32.09,
+            "date":"2021-09-20",
+            "description":"Barnes & Noble",
+            "guid":18649,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"CAFE JAVA NORTHRIDGE AUSTIN TX 09/18",
+            "accountGuid":575,
+            "category":"[\"Food and Drink\",\"Restaurants\",\"Coffee Shop\"]",
+            "amount":13.26,
+            "date":"2021-09-20",
+            "description":"CAFE JAVA NORTHRIDGE AUSTIN TX 09/18",
+            "guid":18650,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"DOORDASH BURGERKIN CA 09/18",
+            "accountGuid":575,
+            "category":"[\"Service\",\"Food and Beverage\"]",
+            "amount":17.33,
+            "date":"2021-09-20",
+            "description":"DOORDASH BURGERKIN CA 09/18",
+            "guid":18651,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"Disney PLUS Burbank CA 09/20",
+            "accountGuid":575,
+            "category":"[\"Service\",\"Subscription\"]",
+            "amount":6.48,
+            "date":"2021-09-20",
+            "description":"Disney PLUS Burbank CA 09/20",
+            "guid":18652,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"Domino's",
+            "accountGuid":575,
+            "category":"[\"Food and Drink\",\"Restaurants\"]",
+            "amount":16.82,
+            "date":"2021-09-20",
+            "description":"Domino's",
+            "guid":18653,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"EPIC GAMES NC 09/18",
+            "accountGuid":575,
+            "category":"[\"Shops\",\"Digital Purchase\"]",
+            "amount":4.86,
+            "date":"2021-09-20",
+            "description":"EPIC GAMES NC 09/18",
+            "guid":18654,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"FWB AUSTIN COMMONS AUSTIN TX 09/17",
+            "accountGuid":575,
+            "category":"[\"Transfer\",\"Debit\"]",
+            "amount":13.96,
+            "date":"2021-09-20",
+            "description":"FWB AUSTIN COMMONS AUSTIN TX 09/17",
+            "guid":18655,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"INSUFFICIENT FUNDS FEE FOR A $17.33 CARD PURCHASE - DETAILS: 0918PP*DOORDASH BURGERKIN CA0############4961 00",
+            "accountGuid":575,
+            "category":"[\"Bank Fees\",\"Insufficient Funds\"]",
+            "amount":34.0,
+            "date":"2021-09-20",
+            "description":"INSUFFICIENT FUNDS FEE FOR A $17.33 CARD PURCHASE - DETAILS: 0918PP*DOORDASH BURGERKIN CA0############4961 00",
+            "guid":18656,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"INSUFFICIENT FUNDS FEE FOR A $28.75 CARD PURCHASE - DETAILS: 0918SEZZLE ODR 8AHG P4 MN 0############4961 00",
+            "accountGuid":575,
+            "category":"[\"Bank Fees\",\"Insufficient Funds\"]",
+            "amount":34.0,
+            "date":"2021-09-20",
+            "description":"INSUFFICIENT FUNDS FEE FOR A $28.75 CARD PURCHASE - DETAILS: 0918SEZZLE ODR 8AHG P4 MN 0############4961 00",
+            "guid":18657,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"LUXAND INC LUXAND.COM VA 09/18",
+            "accountGuid":575,
+            "category":"[\"Service\"]",
+            "amount":2.99,
+            "date":"2021-09-20",
+            "description":"LUXAND INC LUXAND.COM VA 09/18",
+            "guid":18658,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"Microsoft WA 09/19",
+            "accountGuid":575,
+            "category":"[\"Shops\",\"Computers and Electronics\"]",
+            "amount":7.99,
+            "date":"2021-09-20",
+            "description":"Microsoft WA 09/19",
+            "guid":18659,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"PYPL PAYIN4 CA 09/19",
+            "accountGuid":575,
+            "category":"[\"Transfer\",\"Third Party\",\"PayPal\"]",
+            "amount":8.42,
+            "date":"2021-09-20",
+            "description":"PYPL PAYIN4 CA 09/19",
+            "guid":18660,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"Prime Video*2G9YD1PI2 WA 09/19",
+            "accountGuid":575,
+            "category":"[\"Service\",\"Entertainment\"]",
+            "amount":4.32,
+            "date":"2021-09-20",
+            "description":"Prime Video*2G9YD1PI2 WA 09/19",
+            "guid":18661,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"SEZZLE ODR 8AHG P4 MN 09/18",
+            "accountGuid":575,
+            "category":"[\"Service\",\"Financial\"]",
+            "amount":28.75,
+            "date":"2021-09-20",
+            "description":"SEZZLE ODR 8AHG P4 MN 09/18",
+            "guid":18662,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"STEAM GAMES WA 09/19",
+            "accountGuid":575,
+            "category":"[\"Shops\",\"Digital Purchase\"]",
+            "amount":5.4,
+            "date":"2021-09-20",
+            "description":"STEAM GAMES WA 09/19",
+            "guid":18663,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"STEAM GAMES WA 09/19",
+            "accountGuid":575,
+            "category":"[\"Shops\",\"Digital Purchase\"]",
+            "amount":10.83,
+            "date":"2021-09-20",
+            "description":"STEAM GAMES WA 09/19",
+            "guid":18664,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"STEAM GAMES WA 09/19",
+            "accountGuid":575,
+            "category":"[\"Shops\",\"Digital Purchase\"]",
+            "amount":21.65,
+            "date":"2021-09-20",
+            "description":"STEAM GAMES WA 09/19",
+            "guid":18665,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"TRUEACCORD - MCM CA 09/17",
+            "accountGuid":575,
+            "category":"[\"Service\",\"Computers\",\"Software Development\"]",
+            "amount":65.0,
+            "date":"2021-09-20",
+            "description":"TRUEACCORD - MCM CA 09/17",
+            "guid":18666,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"Texaco",
+            "accountGuid":575,
+            "category":"[\"Travel\",\"Gas Stations\"]",
+            "amount":16.07,
+            "date":"2021-09-20",
+            "description":"Texaco",
+            "guid":18667,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"Texaco",
+            "accountGuid":575,
+            "category":"[\"Travel\",\"Gas Stations\"]",
+            "amount":21.66,
+            "date":"2021-09-20",
+            "description":"Texaco",
+            "guid":18668,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"Uber Eats",
+            "accountGuid":575,
+            "category":"[\"Service\",\"Food and Beverage\"]",
+            "amount":3.0,
+            "date":"2021-09-20",
+            "description":"Uber Eats",
+            "guid":18669,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"Uber Eats",
+            "accountGuid":575,
+            "category":"[\"Service\",\"Food and Beverage\"]",
+            "amount":13.08,
+            "date":"2021-09-20",
+            "description":"Uber Eats",
+            "guid":18670,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"Uber Eats",
+            "accountGuid":575,
+            "category":"[\"Bank Fees\",\"Insufficient Funds\"]",
+            "amount":34.0,
+            "date":"2021-09-20",
+            "description":"Uber Eats",
+            "guid":18671,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"Venmo",
+            "accountGuid":575,
+            "category":"[\"Transfer\",\"Third Party\",\"Venmo\"]",
+            "amount":59.1,
+            "date":"2021-09-20",
+            "description":"Venmo",
+            "guid":18672,
+            "type":"CREDIT"
+        },
+        {
+            "originalDescription":"Venmo",
+            "accountGuid":575,
+            "category":"[\"Transfer\",\"Third Party\",\"Venmo\"]",
+            "amount":25.61,
+            "date":"2021-09-20",
+            "description":"Venmo",
+            "guid":18673,
+            "type":"CREDIT"
+        },
+        {
+            "originalDescription":"XSOLLA *ROBLOX XSOLLA.COM CA 09/19",
+            "accountGuid":575,
+            "category":"[\"Shops\",\"Computers and Electronics\",\"Video Games\"]",
+            "amount":9.99,
+            "date":"2021-09-20",
+            "description":"XSOLLA *ROBLOX XSOLLA.COM CA 09/19",
+            "guid":18674,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"Amazon.com*2G0976221 Amzn.com/bill WA 09/17",
+            "accountGuid":575,
+            "category":"[\"Shops\",\"Digital Purchase\"]",
+            "amount":23.21,
+            "date":"2021-09-17",
+            "description":"Amazon.com*2G0976221 Amzn.com/bill WA 09/17",
+            "guid":18675,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"CARLS JR 1108446 SANGER CA 09/15",
+            "accountGuid":575,
+            "category":"[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]",
+            "amount":6.86,
+            "date":"2021-09-17",
+            "description":"CARLS JR 1108446 SANGER CA 09/15",
+            "guid":18676,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"INSUFFICIENT FUNDS FEE FOR A $7.99 CARD PURCHASE - DETAILS: 0917PLAYSTATION NETWORK CA 0############4961 00",
+            "accountGuid":575,
+            "category":"[\"Bank Fees\",\"Insufficient Funds\"]",
+            "amount":34.0,
+            "date":"2021-09-17",
+            "description":"INSUFFICIENT FUNDS FEE FOR A $7.99 CARD PURCHASE - DETAILS: 0917PLAYSTATION NETWORK CA 0############4961 00",
+            "guid":18677,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"Nissan Auto Loan 0010242911291 WEB ID: 9782464003",
+            "accountGuid":575,
+            "category":"[\"Service\",\"Financial\",\"Loans and Mortgages\"]",
+            "amount":457.84,
+            "date":"2021-09-17",
+            "description":"Nissan Auto Loan 0010242911291 WEB ID: 9782464003",
+            "guid":18678,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"PLAYSTATION NETWORK CA 09/17",
+            "accountGuid":575,
+            "category":"[\"Shops\",\"Computers and Electronics\",\"Video Games\"]",
+            "amount":7.99,
+            "date":"2021-09-17",
+            "description":"PLAYSTATION NETWORK CA 09/17",
+            "guid":18679,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"PYPL PAYIN4 CA 09/16",
+            "accountGuid":575,
+            "category":"[\"Transfer\",\"Third Party\",\"PayPal\"]",
+            "amount":25.0,
+            "date":"2021-09-17",
+            "description":"PYPL PAYIN4 CA 09/16",
+            "guid":18680,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"ADVFINANCIAL TN 09/14",
+            "accountGuid":575,
+            "category":"[\"Service\"]",
+            "amount":93.89,
+            "date":"2021-09-16",
+            "description":"ADVFINANCIAL TN 09/14",
+            "guid":18681,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"Amazon Prime",
+            "accountGuid":575,
+            "category":"[\"Shops\",\"Digital Purchase\"]",
+            "amount":14.06,
+            "date":"2021-09-16",
+            "description":"Amazon Prime",
+            "guid":18682,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"Amazon Prime",
+            "accountGuid":575,
+            "category":"[\"Bank Fees\",\"Insufficient Funds\"]",
+            "amount":34.0,
+            "date":"2021-09-16",
+            "description":"Amazon Prime",
+            "guid":18683,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"FLEX 204676 cktlrcjwb5h6807 WEB ID: 8800010715",
+            "accountGuid":575,
+            "category":"[\"Recreation\",\"Gyms and Fitness Centers\"]",
+            "amount":19.99,
+            "date":"2021-09-16",
+            "description":"FLEX 204676 cktlrcjwb5h6807 WEB ID: 8800010715",
+            "guid":18684,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"FLOWER CHILD AUSTIN DOM AUSTIN TX 09/16",
+            "accountGuid":575,
+            "category":"[\"Food and Drink\",\"Restaurants\"]",
+            "amount":21.57,
+            "date":"2021-09-16",
+            "description":"FLOWER CHILD AUSTIN DOM AUSTIN TX 09/16",
+            "guid":18685,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"Flex flex WEB ID: 9088665156",
+            "accountGuid":575,
+            "category":"[\"Recreation\",\"Arts and Entertainment\"]",
+            "amount":540.16,
+            "date":"2021-09-16",
+            "description":"Flex flex WEB ID: 9088665156",
+            "guid":18686,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"INSUFFICIENT FUNDS FEE FOR A $93.89 CARD PURCHASE - DETAILS: 0914ADVFINANCIAL TN 0############4961 00",
+            "accountGuid":575,
+            "category":"[\"Bank Fees\",\"Insufficient Funds\"]",
+            "amount":34.0,
+            "date":"2021-09-16",
+            "description":"INSUFFICIENT FUNDS FEE FOR A $93.89 CARD PURCHASE - DETAILS: 0914ADVFINANCIAL TN 0############4961 00",
+            "guid":18687,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"PROGRESSIVELEASE PMTS PPD ID: 1460858540",
+            "accountGuid":575,
+            "category":"[\"Service\",\"Financial\",\"Loans and Mortgages\"]",
+            "amount":27.26,
+            "date":"2021-09-16",
+            "description":"PROGRESSIVELEASE PMTS PPD ID: 1460858540",
+            "guid":18688,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"PYPL PAYIN4 CA 09/15",
+            "accountGuid":575,
+            "category":"[\"Transfer\",\"Third Party\",\"PayPal\"]",
+            "amount":10.12,
+            "date":"2021-09-16",
+            "description":"PYPL PAYIN4 CA 09/15",
+            "guid":18689,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"Taco Bell",
+            "accountGuid":575,
+            "category":"[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]",
+            "amount":8.79,
+            "date":"2021-09-16",
+            "description":"Taco Bell",
+            "guid":18690,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"Venmo",
+            "accountGuid":575,
+            "category":"[\"Transfer\",\"Third Party\",\"Venmo\"]",
+            "amount":3.0,
+            "date":"2021-09-16",
+            "description":"Venmo",
+            "guid":18691,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"Venmo",
+            "accountGuid":575,
+            "category":"[\"Transfer\",\"Third Party\",\"Venmo\"]",
+            "amount":15.97,
+            "date":"2021-09-16",
+            "description":"Venmo",
+            "guid":18692,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"Walmart",
+            "accountGuid":575,
+            "category":"[\"Shops\",\"Supermarkets and Groceries\"]",
+            "amount":14.02,
+            "date":"2021-09-16",
+            "description":"Walmart",
+            "guid":18693,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"7-Eleven",
+            "accountGuid":575,
+            "category":"[\"Shops\",\"Convenience Stores\"]",
+            "amount":5.07,
+            "date":"2021-09-15",
+            "description":"7-Eleven",
+            "guid":18694,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"H-E-B #218 AUSTIN TX 541241 09/15",
+            "accountGuid":575,
+            "category":"[\"Shops\",\"Supermarkets and Groceries\"]",
+            "amount":33.76,
+            "date":"2021-09-15",
+            "description":"H-E-B #218 AUSTIN TX 541241 09/15",
+            "guid":18695,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"Prime Video*2G2DH7OV2 WA 09/15",
+            "accountGuid":575,
+            "category":"[\"Service\",\"Entertainment\"]",
+            "amount":9.73,
+            "date":"2021-09-15",
+            "description":"Prime Video*2G2DH7OV2 WA 09/15",
+            "guid":18696,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"SIE*PLAYSTATIONNETWOR CA 09/14",
+            "accountGuid":575,
+            "category":"[\"Shops\",\"Computers and Electronics\",\"Video Games\"]",
+            "amount":10.81,
+            "date":"2021-09-15",
+            "description":"SIE*PLAYSTATIONNETWOR CA 09/14",
+            "guid":18697,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"STARZ ENTER CO 09/15",
+            "accountGuid":575,
+            "category":"[\"Service\",\"Cable\"]",
+            "amount":9.73,
+            "date":"2021-09-15",
+            "description":"STARZ ENTER CO 09/15",
+            "guid":18698,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"Amazon",
+            "accountGuid":575,
+            "category":"[\"Shops\",\"Digital Purchase\"]",
+            "amount":19.99,
+            "date":"2021-09-14",
+            "description":"Amazon",
+            "guid":18699,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"DIGITAL NEWSPAPER SUBS NY 09/11",
+            "accountGuid":575,
+            "category":"[\"Service\",\"Subscription\"]",
+            "amount":10.99,
+            "date":"2021-09-14",
+            "description":"DIGITAL NEWSPAPER SUBS NY 09/11",
+            "guid":18700,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"NINTENDO *AMERICAU WA 09/14",
+            "accountGuid":575,
+            "category":"[\"Service\",\"Entertainment\"]",
+            "amount":8.65,
+            "date":"2021-09-14",
+            "description":"NINTENDO *AMERICAU WA 09/14",
+            "guid":18701,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"PLAYSTATION NETWORK CA 09/14",
+            "accountGuid":575,
+            "category":"[\"Shops\",\"Computers and Electronics\",\"Video Games\"]",
+            "amount":7.99,
+            "date":"2021-09-14",
+            "description":"PLAYSTATION NETWORK CA 09/14",
+            "guid":18702,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"COMENITY PAY II WEB PYMT P21254009890580 WEB ID: 1651180275",
+            "accountGuid":575,
+            "category":"[\"Payment\",\"Credit Card\"]",
+            "amount":29.0,
+            "date":"2021-09-14",
+            "description":"COMENITY PAY II WEB PYMT P21254009890580 WEB ID: 1651180275",
+            "guid":18703,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"TWIN LIQUORS 23 AUSTIN TX 741835 09/14",
+            "accountGuid":575,
+            "category":"[\"Shops\",\"Food and Beverage Store\"]",
+            "amount":33.54,
+            "date":"2021-09-14",
+            "description":"TWIN LIQUORS 23 AUSTIN TX 741835 09/14",
+            "guid":18704,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"Venmo",
+            "accountGuid":575,
+            "category":"[\"Transfer\",\"Third Party\",\"Venmo\"]",
+            "amount":5.89,
+            "date":"2021-09-14",
+            "description":"Venmo",
+            "guid":18705,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"Venmo",
+            "accountGuid":575,
+            "category":"[\"Transfer\",\"Third Party\",\"Venmo\"]",
+            "amount":31.45,
+            "date":"2021-09-14",
+            "description":"Venmo",
+            "guid":18706,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"COSMIC COFFEE & BEER GA AUSTIN TX 09/09",
+            "accountGuid":575,
+            "category":"[\"Food and Drink\",\"Restaurants\",\"Coffee Shop\"]",
+            "amount":52.25,
+            "date":"2021-09-13",
+            "description":"COSMIC COFFEE & BEER GA AUSTIN TX 09/09",
+            "guid":18707,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"CVS",
+            "accountGuid":575,
+            "category":"[\"Shops\",\"Pharmacies\"]",
+            "amount":15.03,
+            "date":"2021-09-13",
+            "description":"CVS",
+            "guid":18708,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"DISCORD* NITROMONTHL HTTPSDISCORD. CA 09/10",
+            "accountGuid":575,
+            "category":"[\"Service\"]",
+            "amount":9.99,
+            "date":"2021-09-13",
+            "description":"DISCORD* NITROMONTHL HTTPSDISCORD. CA 09/10",
+            "guid":18709,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"DisneyPLUS CA 09/10",
+            "accountGuid":575,
+            "category":"[\"Service\",\"Subscription\"]",
+            "amount":8.63,
+            "date":"2021-09-13",
+            "description":"DisneyPLUS CA 09/10",
+            "guid":18710,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"Dollar General",
+            "accountGuid":575,
+            "category":"[\"Shops\",\"Discount Stores\"]",
+            "amount":9.2,
+            "date":"2021-09-13",
+            "description":"Dollar General",
+            "guid":18711,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"FUNIMATION PRODUCTIO HTTPSWWW.FUNI TX 09/10",
+            "accountGuid":575,
+            "category":"[\"Shops\",\"Digital Purchase\"]",
+            "amount":8.65,
+            "date":"2021-09-13",
+            "description":"FUNIMATION PRODUCTIO HTTPSWWW.FUNI TX 09/10",
+            "guid":18712,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"H-E-B #218 AUSTIN TX 241958 09/13",
+            "accountGuid":575,
+            "category":"[\"Shops\",\"Supermarkets and Groceries\"]",
+            "amount":30.3,
+            "date":"2021-09-13",
+            "description":"H-E-B #218 AUSTIN TX 241958 09/13",
+            "guid":18713,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"HEART AND VASCULAR SPEC MCALLEN TX 09/10",
+            "accountGuid":575,
+            "category":"[\"Healthcare\",\"Healthcare Services\"]",
+            "amount":30.0,
+            "date":"2021-09-13",
+            "description":"HEART AND VASCULAR SPEC MCALLEN TX 09/10",
+            "guid":18714,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"KLARNA *PAYMENTS NY 09/11",
+            "accountGuid":575,
+            "category":"[\"Service\",\"Financial\"]",
+            "amount":33.83,
+            "date":"2021-09-13",
+            "description":"KLARNA *PAYMENTS NY 09/11",
+            "guid":18715,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"LITTLE CAESARS 726 DONNA TX 09/12",
+            "accountGuid":575,
+            "category":"[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]",
+            "amount":10.83,
+            "date":"2021-09-13",
+            "description":"LITTLE CAESARS 726 DONNA TX 09/12",
+            "guid":18716,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"PLAYSTATION NETWORK CA 09/13",
+            "accountGuid":575,
+            "category":"[\"Shops\",\"Computers and Electronics\",\"Video Games\"]",
+            "amount":7.99,
+            "date":"2021-09-13",
+            "description":"PLAYSTATION NETWORK CA 09/13",
+            "guid":18717,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"PYPL PAYIN4 CA 09/10",
+            "accountGuid":575,
+            "category":"[\"Transfer\",\"Third Party\",\"PayPal\"]",
+            "amount":7.63,
+            "date":"2021-09-13",
+            "description":"PYPL PAYIN4 CA 09/10",
+            "guid":18718,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"STARS RESTAURANT DONNA DONNA TX 09/09",
+            "accountGuid":575,
+            "category":"[\"Food and Drink\",\"Restaurants\"]",
+            "amount":6.7,
+            "date":"2021-09-13",
+            "description":"STARS RESTAURANT DONNA DONNA TX 09/09",
+            "guid":18719,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"Sunoco",
+            "accountGuid":575,
+            "category":"[\"Travel\",\"Gas Stations\"]",
+            "amount":5.0,
+            "date":"2021-09-13",
+            "description":"Sunoco",
+            "guid":18720,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"TARGET 00024091 AUSTIN TX 09/10",
+            "accountGuid":575,
+            "category":"[\"Shops\",\"Supermarkets and Groceries\"]",
+            "amount":64.86,
+            "date":"2021-09-13",
+            "description":"TARGET 00024091 AUSTIN TX 09/10",
+            "guid":18721,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"TST* ARLO S AT CHEER UP AUSTIN TX 09/12",
+            "accountGuid":575,
+            "category":"[\"Food and Drink\",\"Restaurants\"]",
+            "amount":24.0,
+            "date":"2021-09-13",
+            "description":"TST* ARLO S AT CHEER UP AUSTIN TX 09/12",
+            "guid":18722,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"TST* WHITESTONE BREWERY CEDAR PARK TX 09/12",
+            "accountGuid":575,
+            "category":"[\"Food and Drink\",\"Restaurants\"]",
+            "amount":1.8,
+            "date":"2021-09-13",
+            "description":"TST* WHITESTONE BREWERY CEDAR PARK TX 09/12",
+            "guid":18723,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"Uber Eats",
+            "accountGuid":575,
+            "category":"[\"Service\",\"Food and Beverage\"]",
+            "amount":3.0,
+            "date":"2021-09-13",
+            "description":"Uber Eats",
+            "guid":18724,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"Uber Eats",
+            "accountGuid":575,
+            "category":"[\"Service\",\"Food and Beverage\"]",
+            "amount":16.93,
+            "date":"2021-09-13",
+            "description":"Uber Eats",
+            "guid":18725,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"VZWRLSS*BILL PAY VE FL 09/12",
+            "accountGuid":575,
+            "category":"[\"Service\",\"Telecommunication Services\"]",
+            "amount":99.12,
+            "date":"2021-09-13",
+            "description":"VZWRLSS*BILL PAY VE FL 09/12",
+            "guid":18726,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"Venmo",
+            "accountGuid":575,
+            "category":"[\"Transfer\",\"Third Party\",\"Venmo\"]",
+            "amount":3.04,
+            "date":"2021-09-13",
+            "description":"Venmo",
+            "guid":18727,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"Venmo",
+            "accountGuid":575,
+            "category":"[\"Transfer\",\"Third Party\",\"Venmo\"]",
+            "amount":7.82,
+            "date":"2021-09-13",
+            "description":"Venmo",
+            "guid":18728,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"Venmo",
+            "accountGuid":575,
+            "category":"[\"Transfer\",\"Third Party\",\"Venmo\"]",
+            "amount":20.3,
+            "date":"2021-09-13",
+            "description":"Venmo",
+            "guid":18729,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"Venmo",
+            "accountGuid":575,
+            "category":"[\"Transfer\",\"Third Party\",\"Venmo\"]",
+            "amount":21.51,
+            "date":"2021-09-13",
+            "description":"Venmo",
+            "guid":18730,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"Venmo",
+            "accountGuid":575,
+            "category":"[\"Transfer\",\"Third Party\",\"Venmo\"]",
+            "amount":41.22,
+            "date":"2021-09-13",
+            "description":"Venmo",
+            "guid":18731,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"WWW.SPLENDIES.COM WWW.SPLENDIES CA 09/11",
+            "accountGuid":575,
+            "category":"[\"Service\"]",
+            "amount":16.3,
+            "date":"2021-09-13",
+            "description":"WWW.SPLENDIES.COM WWW.SPLENDIES CA 09/11",
+            "guid":18732,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"Walmart",
+            "accountGuid":575,
+            "category":"[\"Shops\",\"Supermarkets and Groceries\"]",
+            "amount":48.52,
+            "date":"2021-09-13",
+            "description":"Walmart",
+            "guid":18733,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"ZIP.CO* QUADPAY ANYW HTTPSWWW.ZIP. NY 09/11",
+            "accountGuid":575,
+            "category":"[\"Travel\",\"Gas Stations\"]",
+            "amount":37.53,
+            "date":"2021-09-13",
+            "description":"ZIP.CO* QUADPAY ANYW HTTPSWWW.ZIP. NY 09/11",
+            "guid":18734,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"Branch Messenger Branch Mes I2NO4JWYB WEB ID: 945440567",
+            "accountGuid":575,
+            "category":"[\"Service\"]",
+            "amount":153.0,
+            "date":"2021-09-10",
+            "description":"Branch Messenger Branch Mes I2NO4JWYB WEB ID: 945440567",
+            "guid":18735,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"Brigit.com PROTECTION PPD ID: 1823136030",
+            "accountGuid":575,
+            "category":"[\"Transfer\",\"Credit\"]",
+            "amount":150.0,
+            "date":"2021-09-10",
+            "description":"Brigit.com PROTECTION PPD ID: 1823136030",
+            "guid":18736,
+            "type":"CREDIT"
+        },
+        {
+            "originalDescription":"Central West Tex PR PAYMENT PPD ID: 9000005002",
+            "accountGuid":575,
+            "category":"[\"Transfer\",\"Payroll\"]",
+            "amount":1778.32,
+            "date":"2021-09-10",
+            "description":"Central West Tex PR PAYMENT PPD ID: 9000005002",
+            "guid":18737,
+            "type":"CREDIT"
+        },
+        {
+            "originalDescription":"Circle K",
+            "accountGuid":575,
+            "category":"[\"Shops\",\"Convenience Stores\"]",
+            "amount":16.99,
+            "date":"2021-09-10",
+            "description":"Circle K",
+            "guid":18738,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"Earnin PAYMENT PPD ID: 1296727000",
+            "accountGuid":575,
+            "category":"[\"Service\",\"Financial\"]",
+            "amount":100.0,
+            "date":"2021-09-10",
+            "description":"Earnin PAYMENT PPD ID: 1296727000",
+            "guid":18739,
+            "type":"CREDIT"
+        },
+        {
+            "originalDescription":"KIKOFF LENDING, LLC KIKOFF.COM CA 09/10",
+            "accountGuid":575,
+            "category":"[\"Service\",\"Financial\",\"Loans and Mortgages\"]",
+            "amount":2.0,
+            "date":"2021-09-10",
+            "description":"KIKOFF LENDING, LLC KIKOFF.COM CA 09/10",
+            "guid":18740,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"Microsoft WA 09/10",
+            "accountGuid":575,
+            "category":"[\"Shops\",\"Computers and Electronics\"]",
+            "amount":8.99,
+            "date":"2021-09-10",
+            "description":"Microsoft WA 09/10",
+            "guid":18741,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"Riot* AN1DCFSKAXW1 CA 09/10",
+            "accountGuid":575,
+            "category":"[\"Food and Drink\",\"Bar\"]",
+            "amount":54.11,
+            "date":"2021-09-10",
+            "description":"Riot* AN1DCFSKAXW1 CA 09/10",
+            "guid":18742,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"SP * MATT ZOLLER SEI HTTPSMATTZOLL OH 09/10",
+            "accountGuid":575,
+            "category":"[\"Shops\"]",
+            "amount":31.13,
+            "date":"2021-09-10",
+            "description":"SP * MATT ZOLLER SEI HTTPSMATTZOLL OH 09/10",
+            "guid":18743,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"Sunoco",
+            "accountGuid":575,
+            "category":"[\"Travel\",\"Gas Stations\"]",
+            "amount":10.01,
+            "date":"2021-09-10",
+            "description":"Sunoco",
+            "guid":18744,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"Truebill Truebill P ST-S2Z1G6M5W2S4 CCD ID: 1800948598",
+            "accountGuid":575,
+            "category":"[\"Service\",\"Financial\",\"Banking and Finance\"]",
+            "amount":5.0,
+            "date":"2021-09-10",
+            "description":"Truebill Truebill P ST-S2Z1G6M5W2S4 CCD ID: 1800948598",
+            "guid":18745,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"Venmo",
+            "accountGuid":575,
+            "category":"[\"Transfer\",\"Third Party\",\"Venmo\"]",
+            "amount":4.43,
+            "date":"2021-09-10",
+            "description":"Venmo",
+            "guid":18746,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"Venmo",
+            "accountGuid":575,
+            "category":"[\"Transfer\",\"Third Party\",\"Venmo\"]",
+            "amount":23.19,
+            "date":"2021-09-10",
+            "description":"Venmo",
+            "guid":18747,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"CVS",
+            "accountGuid":575,
+            "category":"[\"Shops\",\"Pharmacies\"]",
+            "amount":10.0,
+            "date":"2021-09-09",
+            "description":"CVS",
+            "guid":18748,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"GenesisFS Card 8669469545 000001355535331 WEB ID: 4522190781",
+            "accountGuid":575,
+            "category":"[\"Transfer\",\"Debit\"]",
+            "amount":25.0,
+            "date":"2021-09-09",
+            "description":"GenesisFS Card 8669469545 000001355535331 WEB ID: 4522190781",
+            "guid":18749,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"H-E-B #485 WESLACO TX 09/09",
+            "accountGuid":575,
+            "category":"[\"Shops\",\"Supermarkets and Groceries\"]",
+            "amount":8.87,
+            "date":"2021-09-09",
+            "description":"H-E-B #485 WESLACO TX 09/09",
+            "guid":18750,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"INTEREST PAYMENT",
+            "accountGuid":575,
+            "category":"[\"Interest\",\"Interest Earned\"]",
+            "amount":0.02,
+            "date":"2021-09-09",
+            "description":"INTEREST PAYMENT",
+            "guid":18751,
+            "type":"CREDIT"
+        },
+        {
+            "originalDescription":"LARK & OWL BOOKSELLERS GEORGETOWN TX 09/08",
+            "accountGuid":575,
+            "category":"[\"Shops\",\"Bookstores\"]",
+            "amount":37.83,
+            "date":"2021-09-09",
+            "description":"LARK & OWL BOOKSELLERS GEORGETOWN TX 09/08",
+            "guid":18752,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"MONTHLY SERVICE FEE",
+            "accountGuid":575,
+            "category":"[\"Bank Fees\"]",
+            "amount":25.0,
+            "date":"2021-09-09",
+            "description":"MONTHLY SERVICE FEE",
+            "guid":18753,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"Old Navy",
+            "accountGuid":575,
+            "category":"[\"Shops\",\"Clothing and Accessories\"]",
+            "amount":29.0,
+            "date":"2021-09-09",
+            "description":"Old Navy",
+            "guid":18754,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"PROGRESSIVELEASE PMTS PPD ID: 1460858540",
+            "accountGuid":575,
+            "category":"[\"Service\",\"Financial\",\"Loans and Mortgages\"]",
+            "amount":27.26,
+            "date":"2021-09-09",
+            "description":"PROGRESSIVELEASE PMTS PPD ID: 1460858540",
+            "guid":18755,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"REMOTE ONLINE DEPOSIT # 1",
+            "accountGuid":575,
+            "category":"[\"Transfer\",\"Deposit\"]",
+            "amount":110.0,
+            "date":"2021-09-09",
+            "description":"REMOTE ONLINE DEPOSIT # 1",
+            "guid":18756,
+            "type":"CREDIT"
+        },
+        {
+            "originalDescription":"Riot* AN10M0JNY7ER CA 09/09",
+            "accountGuid":575,
+            "category":"[\"Food and Drink\",\"Bar\"]",
+            "amount":54.11,
+            "date":"2021-09-09",
+            "description":"Riot* AN10M0JNY7ER CA 09/09",
+            "guid":18757,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"TST* RED HORN COFFEE HO CEDAR PARK TX 09/09",
+            "accountGuid":575,
+            "category":"[\"Food and Drink\",\"Restaurants\",\"Coffee Shop\"]",
+            "amount":41.07,
+            "date":"2021-09-09",
+            "description":"TST* RED HORN COFFEE HO CEDAR PARK TX 09/09",
+            "guid":18758,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"ATM WITHDRAWAL 004419 09/08901 N RAU",
+            "accountGuid":575,
+            "category":"[\"Transfer\",\"Withdrawal\",\"ATM\"]",
+            "amount":100.0,
+            "date":"2021-09-08",
+            "description":"ATM WITHDRAWAL 004419 09/08901 N RAU",
+            "guid":18759,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"ATM WITHDRAWAL 004421 09/08901 N RAU",
+            "accountGuid":575,
+            "category":"[\"Transfer\",\"Withdrawal\",\"ATM\"]",
+            "amount":20.0,
+            "date":"2021-09-08",
+            "description":"ATM WITHDRAWAL 004421 09/08901 N RAU",
+            "guid":18760,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"Albert Genius Walnut CA 09/08",
+            "accountGuid":575,
+            "category":"[\"Service\"]",
+            "amount":7.0,
+            "date":"2021-09-08",
+            "description":"Albert Genius Walnut CA 09/08",
+            "guid":18761,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"Albert Instant VISA DIRECT CA 132327 09/08",
+            "accountGuid":575,
+            "category":"[\"Transfer\",\"Credit\"]",
+            "amount":100.0,
+            "date":"2021-09-08",
+            "description":"Albert Instant VISA DIRECT CA 132327 09/08",
+            "guid":18762,
+            "type":"CREDIT"
+        },
+        {
+            "originalDescription":"Brigit.com PROTECTION PPD ID: 1823136030",
+            "accountGuid":575,
+            "category":"[\"Service\"]",
+            "amount":150.0,
+            "date":"2021-09-08",
+            "description":"Brigit.com PROTECTION PPD ID: 1823136030",
+            "guid":18763,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"Dave Inc Los Angeles CA 09/08",
+            "accountGuid":575,
+            "category":"[\"Service\",\"Financial\",\"Loans and Mortgages\"]",
+            "amount":52.49,
+            "date":"2021-09-08",
+            "description":"Dave Inc Los Angeles CA 09/08",
+            "guid":18764,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"Earnin-Activehours VISA DIRECT CA 204057 09/08",
+            "accountGuid":575,
+            "category":"[\"Service\",\"Financial\",\"Loans and Mortgages\"]",
+            "amount":100.0,
+            "date":"2021-09-08",
+            "description":"Earnin-Activehours VISA DIRECT CA 204057 09/08",
+            "guid":18765,
+            "type":"CREDIT"
+        },
+        {
+            "originalDescription":"GenesisFS Card 8669469545 000001354866302 WEB ID: 4522190781",
+            "accountGuid":575,
+            "category":"[\"Transfer\",\"Debit\"]",
+            "amount":100.13,
+            "date":"2021-09-08",
+            "description":"GenesisFS Card 8669469545 000001354866302 WEB ID: 4522190781",
+            "guid":18766,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"H-E-B #218 AUSTIN TX 895282 09/08",
+            "accountGuid":575,
+            "category":"[\"Shops\",\"Supermarkets and Groceries\"]",
+            "amount":29.57,
+            "date":"2021-09-08",
+            "description":"H-E-B #218 AUSTIN TX 895282 09/08",
+            "guid":18767,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"Mission Lane Vis Mission La ST-X0T1D7O9Q2T6 WEB ID: 1800948598",
+            "accountGuid":575,
+            "category":"[\"Food and Drink\",\"Restaurants\"]",
+            "amount":25.0,
+            "date":"2021-09-08",
+            "description":"Mission Lane Vis Mission La ST-X0T1D7O9Q2T6 WEB ID: 1800948598",
+            "guid":18768,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"NINTENDO *AMERICAU WA 09/08",
+            "accountGuid":575,
+            "category":"[\"Service\",\"Entertainment\"]",
+            "amount":34.63,
+            "date":"2021-09-08",
+            "description":"NINTENDO *AMERICAU WA 09/08",
+            "guid":18769,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"Online Transfer from CHK ...6891 transaction#: 12548877992",
+            "accountGuid":575,
+            "category":"[\"Transfer\",\"Internal Account Transfer\"]",
+            "amount":100.0,
+            "date":"2021-09-08",
+            "description":"Online Transfer from CHK ...6891 transaction#: 12548877992",
+            "guid":18770,
+            "type":"CREDIT"
+        },
+        {
+            "originalDescription":"Online Transfer from CHK ...6891 transaction#: 12549153617",
+            "accountGuid":575,
+            "category":"[\"Transfer\",\"Internal Account Transfer\"]",
+            "amount":100.0,
+            "date":"2021-09-08",
+            "description":"Online Transfer from CHK ...6891 transaction#: 12549153617",
+            "guid":18771,
+            "type":"CREDIT"
+        },
+        {
+            "originalDescription":"Online Transfer to CHK ...4878 transaction#: 12548877992 09/08",
+            "accountGuid":575,
+            "category":"[\"Transfer\",\"Internal Account Transfer\"]",
+            "amount":100.0,
+            "date":"2021-09-08",
+            "description":"Online Transfer to CHK ...4878 transaction#: 12548877992 09/08",
+            "guid":18772,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"Online Transfer to CHK ...4878 transaction#: 12549153617 09/08",
+            "accountGuid":575,
+            "category":"[\"Transfer\",\"Internal Account Transfer\"]",
+            "amount":100.0,
+            "date":"2021-09-08",
+            "description":"Online Transfer to CHK ...4878 transaction#: 12549153617 09/08",
+            "guid":18773,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"POSSIBLE FINANCE PAYMENT 15ff9b5a2501454 WEB ID: 1823273909",
+            "accountGuid":575,
+            "category":"[\"Service\",\"Financial\",\"Loans and Mortgages\"]",
+            "amount":94.47,
+            "date":"2021-09-08",
+            "description":"POSSIBLE FINANCE PAYMENT 15ff9b5a2501454 WEB ID: 1823273909",
+            "guid":18774,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"Social Security Administration",
+            "accountGuid":575,
+            "category":"[\"Community\",\"Government Departments and Agencies\"]",
+            "amount":892.0,
+            "date":"2021-09-08",
+            "description":"Social Security Administration",
+            "guid":18775,
+            "type":"CREDIT"
+        },
+        {
+            "originalDescription":"TWIN LIQUORS 23 AUSTIN TX 175331 09/08",
+            "accountGuid":575,
+            "category":"[\"Shops\",\"Food and Beverage Store\"]",
+            "amount":18.39,
+            "date":"2021-09-08",
+            "description":"TWIN LIQUORS 23 AUSTIN TX 175331 09/08",
+            "guid":18776,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"US FOOD MART SANGER CA 09/08",
+            "accountGuid":575,
+            "category":"[\"Shops\",\"Food and Beverage Store\"]",
+            "amount":20.0,
+            "date":"2021-09-08",
+            "description":"US FOOD MART SANGER CA 09/08",
+            "guid":18777,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"Uber Eats",
+            "accountGuid":575,
+            "category":"[\"Service\",\"Food and Beverage\"]",
+            "amount":4.0,
+            "date":"2021-09-08",
+            "description":"Uber Eats",
+            "guid":18778,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"Uber Eats",
+            "accountGuid":575,
+            "category":"[\"Service\",\"Food and Beverage\"]",
+            "amount":15.24,
+            "date":"2021-09-08",
+            "description":"Uber Eats",
+            "guid":18779,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"ZOX CA 09/07",
+            "accountGuid":575,
+            "category":"[\"Transfer\",\"Third Party\",\"PayPal\"]",
+            "amount":30.32,
+            "date":"2021-09-08",
+            "description":"ZOX CA 09/07",
+            "guid":18780,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"APPLE.COM/BILL CA 09/03",
+            "accountGuid":575,
+            "category":"[\"Shops\",\"Digital Purchase\"]",
+            "amount":0.99,
+            "date":"2021-09-07",
+            "description":"APPLE.COM/BILL CA 09/03",
+            "guid":18781,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"Chipotle Mexican Grill",
+            "accountGuid":575,
+            "category":"[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]",
+            "amount":1.46,
+            "date":"2021-09-07",
+            "description":"Chipotle Mexican Grill",
+            "guid":18782,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"DOORDASH LINSGRAND CA 09/07",
+            "accountGuid":575,
+            "category":"[\"Service\",\"Food and Beverage\"]",
+            "amount":18.07,
+            "date":"2021-09-07",
+            "description":"DOORDASH LINSGRAND CA 09/07",
+            "guid":18783,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"EVERBYTE GAME SUPPORT.GOOGL CA 09/04",
+            "accountGuid":575,
+            "category":"[\"Shops\",\"Digital Purchase\"]",
+            "amount":1.07,
+            "date":"2021-09-07",
+            "description":"EVERBYTE GAME SUPPORT.GOOGL CA 09/04",
+            "guid":18784,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"EVERBYTE GAME SUPPORT.GOOGL CA 09/04",
+            "accountGuid":575,
+            "category":"[\"Shops\",\"Digital Purchase\"]",
+            "amount":1.07,
+            "date":"2021-09-07",
+            "description":"EVERBYTE GAME SUPPORT.GOOGL CA 09/04",
+            "guid":18785,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"GrubHub",
+            "accountGuid":575,
+            "category":"[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]",
+            "amount":14.91,
+            "date":"2021-09-07",
+            "description":"GrubHub",
+            "guid":18786,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"GrubHub",
+            "accountGuid":575,
+            "category":"[\"Bank Fees\",\"Insufficient Funds\"]",
+            "amount":34.0,
+            "date":"2021-09-07",
+            "description":"GrubHub",
+            "guid":18787,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"INSUFFICIENT FUNDS FEE FOR A $10.81 CARD PURCHASE - DETAILS: 0904PLAYSTATION NETWORK CA 0############4961 00",
+            "accountGuid":575,
+            "category":"[\"Bank Fees\",\"Insufficient Funds\"]",
+            "amount":34.0,
+            "date":"2021-09-07",
+            "description":"INSUFFICIENT FUNDS FEE FOR A $10.81 CARD PURCHASE - DETAILS: 0904PLAYSTATION NETWORK CA 0############4961 00",
+            "guid":18788,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"INSUFFICIENT FUNDS FEE FOR A $21.64 CARD PURCHASE - DETAILS: 0904NINTENDO *AMERICAU WA0############4961 01",
+            "accountGuid":575,
+            "category":"[\"Bank Fees\",\"Insufficient Funds\"]",
+            "amount":34.0,
+            "date":"2021-09-07",
+            "description":"INSUFFICIENT FUNDS FEE FOR A $21.64 CARD PURCHASE - DETAILS: 0904NINTENDO *AMERICAU WA0############4961 01",
+            "guid":18789,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"Microsoft WA 09/07",
+            "accountGuid":575,
+            "category":"[\"Shops\",\"Computers and Electronics\"]",
+            "amount":16.23,
+            "date":"2021-09-07",
+            "description":"Microsoft WA 09/07",
+            "guid":18790,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"NINTENDO *AMERICAU WA 09/04",
+            "accountGuid":575,
+            "category":"[\"Service\",\"Entertainment\"]",
+            "amount":21.64,
+            "date":"2021-09-07",
+            "description":"NINTENDO *AMERICAU WA 09/04",
+            "guid":18791,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"PLAYSTATION NETWORK CA 09/04",
+            "accountGuid":575,
+            "category":"[\"Shops\",\"Computers and Electronics\",\"Video Games\"]",
+            "amount":10.81,
+            "date":"2021-09-07",
+            "description":"PLAYSTATION NETWORK CA 09/04",
+            "guid":18792,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"PLAYSTATION NETWORK CA 09/06",
+            "accountGuid":575,
+            "category":"[\"Shops\",\"Computers and Electronics\",\"Video Games\"]",
+            "amount":3.24,
+            "date":"2021-09-07",
+            "description":"PLAYSTATION NETWORK CA 09/06",
+            "guid":18793,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"PYPL PAYIN4 CA 09/04",
+            "accountGuid":575,
+            "category":"[\"Transfer\",\"Third Party\",\"PayPal\"]",
+            "amount":8.42,
+            "date":"2021-09-07",
+            "description":"PYPL PAYIN4 CA 09/04",
+            "guid":18794,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"REMOTE ONLINE DEPOSIT # 1",
+            "accountGuid":575,
+            "category":"[\"Transfer\",\"Deposit\"]",
+            "amount":100.0,
+            "date":"2021-09-07",
+            "description":"REMOTE ONLINE DEPOSIT # 1",
+            "guid":18795,
+            "type":"CREDIT"
+        },
+        {
+            "originalDescription":"Riot* AN1VSB0DRMMX CA 09/07",
+            "accountGuid":575,
+            "category":"[\"Food and Drink\",\"Bar\"]",
+            "amount":10.81,
+            "date":"2021-09-07",
+            "description":"Riot* AN1VSB0DRMMX CA 09/07",
+            "guid":18796,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"Riot* AN1WSSQUQDXP CA 09/07",
+            "accountGuid":575,
+            "category":"[\"Food and Drink\",\"Bar\"]",
+            "amount":21.64,
+            "date":"2021-09-07",
+            "description":"Riot* AN1WSSQUQDXP CA 09/07",
+            "guid":18797,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"SP+AFF* SHOPMASKC AFFIRM.COM CA 09/06",
+            "accountGuid":575,
+            "category":"[\"Service\",\"Financial\",\"Loans and Mortgages\"]",
+            "amount":13.5,
+            "date":"2021-09-07",
+            "description":"SP+AFF* SHOPMASKC AFFIRM.COM CA 09/06",
+            "guid":18798,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"VBS LittleLake 8446009737 PPD ID: 18035709",
+            "accountGuid":575,
+            "category":"[\"Service\",\"Financial\",\"Loans and Mortgages\"]",
+            "amount":500.0,
+            "date":"2021-09-07",
+            "description":"VBS LittleLake 8446009737 PPD ID: 18035709",
+            "guid":18799,
+            "type":"CREDIT"
+        },
+        {
+            "originalDescription":"Xsolla *Roblox h.xsolla.com CA 09/06",
+            "accountGuid":575,
+            "category":"[\"Shops\",\"Computers and Electronics\",\"Video Games\"]",
+            "amount":4.99,
+            "date":"2021-09-07",
+            "description":"Xsolla *Roblox h.xsolla.com CA 09/06",
+            "guid":18800,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"ACADEMY SOUTH MINI ST CA 09/04",
+            "accountGuid":575,
+            "category":"[\"Shops\",\"Sporting Goods\"]",
+            "amount":106.95,
+            "date":"2021-09-07",
+            "description":"ACADEMY SOUTH MINI ST CA 09/04",
+            "guid":18801,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"Amazon Prime",
+            "accountGuid":575,
+            "category":"[\"Shops\",\"Digital Purchase\"]",
+            "amount":14.06,
+            "date":"2021-09-07",
+            "description":"Amazon Prime",
+            "guid":18802,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"CVS",
+            "accountGuid":575,
+            "category":"[\"Shops\",\"Pharmacies\"]",
+            "amount":16.15,
+            "date":"2021-09-07",
+            "description":"CVS",
+            "guid":18803,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"Comcast",
+            "accountGuid":575,
+            "category":"[\"Service\",\"Cable\"]",
+            "amount":266.19,
+            "date":"2021-09-07",
+            "description":"Comcast",
+            "guid":18804,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"ESPN Plus NY 09/03",
+            "accountGuid":575,
+            "category":"[\"Transfer\",\"Debit\"]",
+            "amount":7.55,
+            "date":"2021-09-07",
+            "description":"ESPN Plus NY 09/03",
+            "guid":18805,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"MOONTOWER SALOON AUSTIN TX 09/05",
+            "accountGuid":575,
+            "category":"[\"Food and Drink\",\"Bar\"]",
+            "amount":30.5,
+            "date":"2021-09-07",
+            "description":"MOONTOWER SALOON AUSTIN TX 09/05",
+            "guid":18806,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"Uber",
+            "accountGuid":575,
+            "category":"[\"Travel\",\"Taxi\"]",
+            "amount":9.99,
+            "date":"2021-09-07",
+            "description":"Uber",
+            "guid":18807,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"Venmo",
+            "accountGuid":575,
+            "category":"[\"Transfer\",\"Third Party\",\"Venmo\"]",
+            "amount":3.0,
+            "date":"2021-09-07",
+            "description":"Venmo",
+            "guid":18808,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"Venmo",
+            "accountGuid":575,
+            "category":"[\"Transfer\",\"Third Party\",\"Venmo\"]",
+            "amount":3.0,
+            "date":"2021-09-07",
+            "description":"Venmo",
+            "guid":18809,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"Venmo",
+            "accountGuid":575,
+            "category":"[\"Transfer\",\"Third Party\",\"Venmo\"]",
+            "amount":3.69,
+            "date":"2021-09-07",
+            "description":"Venmo",
+            "guid":18810,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"Venmo",
+            "accountGuid":575,
+            "category":"[\"Transfer\",\"Third Party\",\"Venmo\"]",
+            "amount":3.69,
+            "date":"2021-09-07",
+            "description":"Venmo",
+            "guid":18811,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"Venmo",
+            "accountGuid":575,
+            "category":"[\"Transfer\",\"Third Party\",\"Venmo\"]",
+            "amount":3.81,
+            "date":"2021-09-07",
+            "description":"Venmo",
+            "guid":18812,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"Venmo",
+            "accountGuid":575,
+            "category":"[\"Transfer\",\"Third Party\",\"Venmo\"]",
+            "amount":4.66,
+            "date":"2021-09-07",
+            "description":"Venmo",
+            "guid":18813,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"Venmo",
+            "accountGuid":575,
+            "category":"[\"Transfer\",\"Third Party\",\"Venmo\"]",
+            "amount":15.02,
+            "date":"2021-09-07",
+            "description":"Venmo",
+            "guid":18814,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"Venmo",
+            "accountGuid":575,
+            "category":"[\"Transfer\",\"Third Party\",\"Venmo\"]",
+            "amount":15.48,
+            "date":"2021-09-07",
+            "description":"Venmo",
+            "guid":18815,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"Venmo",
+            "accountGuid":575,
+            "category":"[\"Transfer\",\"Third Party\",\"Venmo\"]",
+            "amount":19.22,
+            "date":"2021-09-07",
+            "description":"Venmo",
+            "guid":18816,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"Venmo",
+            "accountGuid":575,
+            "category":"[\"Transfer\",\"Third Party\",\"Venmo\"]",
+            "amount":19.24,
+            "date":"2021-09-07",
+            "description":"Venmo",
+            "guid":18817,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"Venmo",
+            "accountGuid":575,
+            "category":"[\"Transfer\",\"Third Party\",\"Venmo\"]",
+            "amount":19.86,
+            "date":"2021-09-07",
+            "description":"Venmo",
+            "guid":18818,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"Venmo",
+            "accountGuid":575,
+            "category":"[\"Transfer\",\"Third Party\",\"Venmo\"]",
+            "amount":35.0,
+            "date":"2021-09-07",
+            "description":"Venmo",
+            "guid":18819,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"Walgreens",
+            "accountGuid":575,
+            "category":"[\"Shops\",\"Pharmacies\"]",
+            "amount":48.82,
+            "date":"2021-09-07",
+            "description":"Walgreens",
+            "guid":18820,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"Zelle payment to Eric S 12531607058",
+            "accountGuid":575,
+            "category":"[\"Transfer\",\"Debit\"]",
+            "amount":30.0,
+            "date":"2021-09-07",
+            "description":"Zelle payment to Eric S 12531607058",
+            "guid":18821,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"Brigit.com PROTECTION PPD ID: 1823136030",
+            "accountGuid":575,
+            "category":"[\"Transfer\",\"Credit\"]",
+            "amount":150.0,
+            "date":"2021-09-03",
+            "description":"Brigit.com PROTECTION PPD ID: 1823136030",
+            "guid":18822,
+            "type":"CREDIT"
+        },
+        {
+            "originalDescription":"DONNA FOOD MART DONNA TX 09/02",
+            "accountGuid":575,
+            "category":"[\"Shops\",\"Supermarkets and Groceries\"]",
+            "amount":4.3,
+            "date":"2021-09-03",
+            "description":"DONNA FOOD MART DONNA TX 09/02",
+            "guid":18823,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"DOORDASH RAISINGCA CA 09/03",
+            "accountGuid":575,
+            "category":"[\"Service\",\"Food and Beverage\"]",
+            "amount":18.52,
+            "date":"2021-09-03",
+            "description":"DOORDASH RAISINGCA CA 09/03",
+            "guid":18824,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"Microsoft*Ultimate 1 M msbill.info WA 09/03",
+            "accountGuid":575,
+            "category":"[\"Shops\",\"Computers and Electronics\"]",
+            "amount":14.99,
+            "date":"2021-09-03",
+            "description":"Microsoft*Ultimate 1 M msbill.info WA 09/03",
+            "guid":18825,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"PYPL PAYIN4 CA 09/02",
+            "accountGuid":575,
+            "category":"[\"Transfer\",\"Third Party\",\"PayPal\"]",
+            "amount":25.0,
+            "date":"2021-09-03",
+            "description":"PYPL PAYIN4 CA 09/02",
+            "guid":18826,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"Etsy.com - Onlyrocknro NY 09/02",
+            "accountGuid":575,
+            "category":"[\"Shops\",\"Digital Purchase\"]",
+            "amount":29.17,
+            "date":"2021-09-03",
+            "description":"Etsy.com - Onlyrocknro NY 09/02",
+            "guid":18827,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"INSUFFICIENT FUNDS FEE FOR A $18.52 CARD PURCHASE - DETAILS: 0903PP*DOORDASH RAISINGCA CA0############4961 00",
+            "accountGuid":575,
+            "category":"[\"Bank Fees\",\"Insufficient Funds\"]",
+            "amount":34.0,
+            "date":"2021-09-03",
+            "description":"INSUFFICIENT FUNDS FEE FOR A $18.52 CARD PURCHASE - DETAILS: 0903PP*DOORDASH RAISINGCA CA0############4961 00",
+            "guid":18828,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"INSUFFICIENT FUNDS FEE FOR A $28.75 RECURRING CARD PURCHASE - DETAILS: 0903SEZZLE ODR 8AHG P3 HTTPSSEZZLE.C MN 0############4961 01",
+            "accountGuid":575,
+            "category":"[\"Bank Fees\",\"Insufficient Funds\"]",
+            "amount":34.0,
+            "date":"2021-09-03",
+            "description":"INSUFFICIENT FUNDS FEE FOR A $28.75 RECURRING CARD PURCHASE - DETAILS: 0903SEZZLE ODR 8AHG P3 HTTPSSEZZLE.C MN 0############4961 01",
+            "guid":18829,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"SEZZLE ODR 8AHG P3 HTTPSSEZZLE.C MN 09/03",
+            "accountGuid":575,
+            "category":"[\"Service\",\"Financial\"]",
+            "amount":28.75,
+            "date":"2021-09-03",
+            "description":"SEZZLE ODR 8AHG P3 HTTPSSEZZLE.C MN 09/03",
+            "guid":18830,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"Sunoco",
+            "accountGuid":575,
+            "category":"[\"Travel\",\"Gas Stations\"]",
+            "amount":5.01,
+            "date":"2021-09-03",
+            "description":"Sunoco",
+            "guid":18831,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"Cricket Wireless",
+            "accountGuid":575,
+            "category":"[\"Service\",\"Telecommunication Services\"]",
+            "amount":144.73,
+            "date":"2021-09-02",
+            "description":"Cricket Wireless",
+            "guid":18832,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"DENTAL EMERGENCY CAR EDINBURG TX 09/01",
+            "accountGuid":575,
+            "category":"[\"Healthcare\",\"Healthcare Services\",\"Dentists\"]",
+            "amount":10.0,
+            "date":"2021-09-02",
+            "description":"DENTAL EMERGENCY CAR EDINBURG TX 09/01",
+            "guid":18833,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"EVERBYTE GAME SUPPORT.GOOGL CA 09/01",
+            "accountGuid":575,
+            "category":"[\"Shops\",\"Digital Purchase\"]",
+            "amount":1.07,
+            "date":"2021-09-02",
+            "description":"EVERBYTE GAME SUPPORT.GOOGL CA 09/01",
+            "guid":18834,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"EVERBYTE GAME SUPPORT.GOOGL CA 09/01",
+            "accountGuid":575,
+            "category":"[\"Shops\",\"Digital Purchase\"]",
+            "amount":1.07,
+            "date":"2021-09-02",
+            "description":"EVERBYTE GAME SUPPORT.GOOGL CA 09/01",
+            "guid":18835,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"EVERBYTE GAME SUPPORT.GOOGL CA 09/01",
+            "accountGuid":575,
+            "category":"[\"Shops\",\"Digital Purchase\"]",
+            "amount":1.07,
+            "date":"2021-09-02",
+            "description":"EVERBYTE GAME SUPPORT.GOOGL CA 09/01",
+            "guid":18836,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"INSUFFICIENT FUNDS FEE FOR A $277.59 CARD PURCHASE - DETAILS: 0831POWER FINANCE IFD TX 0############4961 01",
+            "accountGuid":575,
+            "category":"[\"Bank Fees\",\"Insufficient Funds\"]",
+            "amount":34.0,
+            "date":"2021-09-02",
+            "description":"INSUFFICIENT FUNDS FEE FOR A $277.59 CARD PURCHASE - DETAILS: 0831POWER FINANCE IFD TX 0############4961 01",
+            "guid":18837,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"INSUFFICIENT FUNDS FEE FOR A $30.00 CARD PURCHASE - DETAILS: 0901ADVANCED VEIN CARE CLI EDINBURG TX 0############3185 05",
+            "accountGuid":575,
+            "category":"[\"Bank Fees\",\"Insufficient Funds\"]",
+            "amount":34.0,
+            "date":"2021-09-02",
+            "description":"INSUFFICIENT FUNDS FEE FOR A $30.00 CARD PURCHASE - DETAILS: 0901ADVANCED VEIN CARE CLI EDINBURG TX 0############3185 05",
+            "guid":18838,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"MSI RENTERS INSURANCE TX 09/01",
+            "accountGuid":575,
+            "category":"[\"Service\",\"Insurance\"]",
+            "amount":20.17,
+            "date":"2021-09-02",
+            "description":"MSI RENTERS INSURANCE TX 09/01",
+            "guid":18839,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"MSI RENTERS TX 09/01",
+            "accountGuid":575,
+            "category":"[\"Community\",\"Education\"]",
+            "amount":17.92,
+            "date":"2021-09-02",
+            "description":"MSI RENTERS TX 09/01",
+            "guid":18840,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"PLAYSTATION NETWORK CA 09/02",
+            "accountGuid":575,
+            "category":"[\"Shops\",\"Computers and Electronics\",\"Video Games\"]",
+            "amount":16.23,
+            "date":"2021-09-02",
+            "description":"PLAYSTATION NETWORK CA 09/02",
+            "guid":18841,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"POWER FINANCE IFD TX 08/31",
+            "accountGuid":575,
+            "category":"[\"Service\",\"Financial\",\"Loans and Mortgages\"]",
+            "amount":277.59,
+            "date":"2021-09-02",
+            "description":"POWER FINANCE IFD TX 08/31",
+            "guid":18842,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"PROG COUNTY MUT INS PREM PPD ID: 9409348153",
+            "accountGuid":575,
+            "category":"[\"Service\",\"Insurance\"]",
+            "amount":109.73,
+            "date":"2021-09-02",
+            "description":"PROG COUNTY MUT INS PREM PPD ID: 9409348153",
+            "guid":18843,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"PROGRESSIVELEASE PMTS PPD ID: 1460858540",
+            "accountGuid":575,
+            "category":"[\"Service\",\"Financial\",\"Loans and Mortgages\"]",
+            "amount":27.26,
+            "date":"2021-09-02",
+            "description":"PROGRESSIVELEASE PMTS PPD ID: 1460858540",
+            "guid":18844,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"PYPL PAYIN4 CA 09/01",
+            "accountGuid":575,
+            "category":"[\"Transfer\",\"Third Party\",\"PayPal\"]",
+            "amount":26.25,
+            "date":"2021-09-02",
+            "description":"PYPL PAYIN4 CA 09/01",
+            "guid":18845,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"Playstation",
+            "accountGuid":575,
+            "category":"[\"Shops\",\"Computers and Electronics\",\"Video Games\"]",
+            "amount":7.99,
+            "date":"2021-09-02",
+            "description":"Playstation",
+            "guid":18846,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"Reversal: FARMERS INS EFT PYMT",
+            "accountGuid":575,
+            "category":"[\"Service\",\"Insurance\"]",
+            "amount":205.0,
+            "date":"2021-09-02",
+            "description":"Reversal: FARMERS INS EFT PYMT",
+            "guid":18847,
+            "type":"CREDIT"
+        },
+        {
+            "originalDescription":"Reversal: INSUFFICIENT FUNDS FEE FOR A $123.23",
+            "accountGuid":575,
+            "category":"[\"Bank Fees\",\"Insufficient Funds\"]",
+            "amount":34.0,
+            "date":"2021-09-02",
+            "description":"Reversal: INSUFFICIENT FUNDS FEE FOR A $123.23",
+            "guid":18848,
+            "type":"CREDIT"
+        },
+        {
+            "originalDescription":"Venmo",
+            "accountGuid":575,
+            "category":"[\"Transfer\",\"Third Party\",\"Venmo\"]",
+            "amount":3.0,
+            "date":"2021-09-02",
+            "description":"Venmo",
+            "guid":18849,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"Venmo",
+            "accountGuid":575,
+            "category":"[\"Transfer\",\"Third Party\",\"Venmo\"]",
+            "amount":16.08,
+            "date":"2021-09-02",
+            "description":"Venmo",
+            "guid":18850,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"7-Eleven",
+            "accountGuid":575,
+            "category":"[\"Shops\",\"Convenience Stores\"]",
+            "amount":5.17,
+            "date":"2021-09-01",
+            "description":"7-Eleven",
+            "guid":18851,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"ADVANCED VEIN CARE CLI EDINBURG TX 09/01",
+            "accountGuid":575,
+            "category":"[\"Healthcare\",\"Healthcare Services\"]",
+            "amount":30.0,
+            "date":"2021-09-02",
+            "description":"ADVANCED VEIN CARE CLI EDINBURG TX 09/01",
+            "guid":18852,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"AF247.com VISA DIRECT TN 649883 09/02",
+            "accountGuid":575,
+            "category":"[\"Transfer\",\"Credit\"]",
+            "amount":350.0,
+            "date":"2021-09-02",
+            "description":"AF247.com VISA DIRECT TN 649883 09/02",
+            "guid":18853,
+            "type":"CREDIT"
+        },
+        {
+            "originalDescription":"AMBIT AMBIT 11400206 WEB ID: 203544597",
+            "accountGuid":575,
+            "category":"[\"Service\",\"Utilities\"]",
+            "amount":412.67,
+            "date":"2021-09-02",
+            "description":"AMBIT AMBIT 11400206 WEB ID: 203544597",
+            "guid":18854,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"AmazonStores AUSTIN WA 09/01",
+            "accountGuid":575,
+            "category":"[\"Food and Drink\",\"Restaurants\"]",
+            "amount":21.96,
+            "date":"2021-09-02",
+            "description":"AmazonStores AUSTIN WA 09/01",
+            "guid":18855,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"Cricket Wireless",
+            "accountGuid":575,
+            "category":"[\"Bank Fees\",\"Insufficient Funds\"]",
+            "amount":34.0,
+            "date":"2021-09-02",
+            "description":"Cricket Wireless",
+            "guid":18856,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"ACADEMY AVE LES SCHWAB SANGER CA 08/31",
+            "accountGuid":575,
+            "category":"[\"Shops\",\"Food and Beverage Store\"]",
+            "amount":75.0,
+            "date":"2021-09-01",
+            "description":"ACADEMY AVE LES SCHWAB SANGER CA 08/31",
+            "guid":18857,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"DIRECT CASH, LLC NY 08/31",
+            "accountGuid":575,
+            "category":"[\"Transfer\",\"Debit\"]",
+            "amount":281.68,
+            "date":"2021-09-01",
+            "description":"DIRECT CASH, LLC NY 08/31",
+            "guid":18858,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"FARMERS INS EFT PYMT PPD ID: 1952575893",
+            "accountGuid":575,
+            "category":"[\"Service\",\"Insurance\"]",
+            "amount":205.0,
+            "date":"2021-09-01",
+            "description":"FARMERS INS EFT PYMT PPD ID: 1952575893",
+            "guid":18859,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"Flex flex WEB ID: 9088665156",
+            "accountGuid":575,
+            "category":"[\"Recreation\",\"Arts and Entertainment\"]",
+            "amount":540.16,
+            "date":"2021-09-01",
+            "description":"Flex flex WEB ID: 9088665156",
+            "guid":18860,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"GREAT CHINA TX 08/31",
+            "accountGuid":575,
+            "category":"[\"Food and Drink\",\"Restaurants\"]",
+            "amount":21.92,
+            "date":"2021-09-01",
+            "description":"GREAT CHINA TX 08/31",
+            "guid":18861,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"H-E-B #009 DONNA TX 540804 09/01",
+            "accountGuid":575,
+            "category":"[\"Shops\",\"Supermarkets and Groceries\"]",
+            "amount":10.64,
+            "date":"2021-09-01",
+            "description":"H-E-B #009 DONNA TX 540804 09/01",
+            "guid":18862,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"H-E-B #269 AUSTIN TX 199704 09/01",
+            "accountGuid":575,
+            "category":"[\"Shops\",\"Supermarkets and Groceries\"]",
+            "amount":60.79,
+            "date":"2021-09-01",
+            "description":"H-E-B #269 AUSTIN TX 199704 09/01",
+            "guid":18863,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"INSUFFICIENT FUNDS FEE FOR A $123.23 RECURRING CARD PURCHASE - DETAILS: 0901VZWRLSS*BILL PAY VE FL 0############4961 00",
+            "accountGuid":575,
+            "category":"[\"Bank Fees\",\"Insufficient Funds\"]",
+            "amount":34.0,
+            "date":"2021-09-01",
+            "description":"INSUFFICIENT FUNDS FEE FOR A $123.23 RECURRING CARD PURCHASE - DETAILS: 0901VZWRLSS*BILL PAY VE FL 0############4961 00",
+            "guid":18864,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"IRS USATAXPYMT PPD ID: 3387702000",
+            "accountGuid":575,
+            "category":"[\"Tax\",\"Payment\"]",
+            "amount":288.0,
+            "date":"2021-09-01",
+            "description":"IRS USATAXPYMT PPD ID: 3387702000",
+            "guid":18865,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"REGIONAL NC 08/31",
+            "accountGuid":575,
+            "category":"[\"Healthcare\",\"Healthcare Services\"]",
+            "amount":132.18,
+            "date":"2021-09-01",
+            "description":"REGIONAL NC 08/31",
+            "guid":18866,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"SPIRE RECOVERY SOLUTIO NY 08/31",
+            "accountGuid":575,
+            "category":"[\"Service\",\"Utilities\",\"Gas\"]",
+            "amount":50.0,
+            "date":"2021-09-01",
+            "description":"SPIRE RECOVERY SOLUTIO NY 08/31",
+            "guid":18867,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"Subway 7012 Weslaco TX 08/31",
+            "accountGuid":575,
+            "category":"[\"Food and Drink\",\"Restaurants\"]",
+            "amount":5.4,
+            "date":"2021-09-01",
+            "description":"Subway 7012 Weslaco TX 08/31",
+            "guid":18868,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"Subway 7012 Weslaco TX 08/31",
+            "accountGuid":575,
+            "category":"[\"Food and Drink\",\"Restaurants\"]",
+            "amount":39.51,
+            "date":"2021-09-01",
+            "description":"Subway 7012 Weslaco TX 08/31",
+            "guid":18869,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"TRUEACCORD CORP CA 08/30",
+            "accountGuid":575,
+            "category":"[\"Service\",\"Computers\",\"Software Development\"]",
+            "amount":47.0,
+            "date":"2021-09-01",
+            "description":"TRUEACCORD CORP CA 08/30",
+            "guid":18870,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"TST* SHU SHU S ASIAN CU AUSTIN TX 09/01",
+            "accountGuid":575,
+            "category":"[\"Food and Drink\",\"Restaurants\"]",
+            "amount":13.94,
+            "date":"2021-09-01",
+            "description":"TST* SHU SHU S ASIAN CU AUSTIN TX 09/01",
+            "guid":18871,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"VZWRLSS*BILL PAY VE FL 09/01",
+            "accountGuid":575,
+            "category":"[\"Service\",\"Telecommunication Services\"]",
+            "amount":123.23,
+            "date":"2021-09-01",
+            "description":"VZWRLSS*BILL PAY VE FL 09/01",
+            "guid":18872,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"Venmo",
+            "accountGuid":575,
+            "category":"[\"Transfer\",\"Third Party\",\"Venmo\"]",
+            "amount":3.74,
+            "date":"2021-09-01",
+            "description":"Venmo",
+            "guid":18873,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"Venmo",
+            "accountGuid":575,
+            "category":"[\"Transfer\",\"Third Party\",\"Venmo\"]",
+            "amount":20.79,
+            "date":"2021-09-01",
+            "description":"Venmo",
+            "guid":18874,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"WINCO FOODS # 69 1004 Fresno CA 09/01 Purchase $6.32 Cash Back $40.00",
+            "accountGuid":575,
+            "category":"[\"Shops\",\"Supermarkets and Groceries\"]",
+            "amount":46.32,
+            "date":"2021-09-01",
+            "description":"WINCO FOODS # 69 1004 Fresno CA 09/01 Purchase $6.32 Cash Back $40.00",
+            "guid":18875,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"WINCO FOODS # 69 1004 Fresno CA 631710 09/01",
+            "accountGuid":575,
+            "category":"[\"Shops\",\"Supermarkets and Groceries\"]",
+            "amount":15.0,
+            "date":"2021-09-01",
+            "description":"WINCO FOODS # 69 1004 Fresno CA 631710 09/01",
+            "guid":18876,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"Zelle payment to Eric S 12505236917",
+            "accountGuid":575,
+            "category":"[\"Transfer\",\"Debit\"]",
+            "amount":40.0,
+            "date":"2021-09-01",
+            "description":"Zelle payment to Eric S 12505236917",
+            "guid":18877,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"Amazon",
+            "accountGuid":575,
+            "category":"[\"Shops\",\"Digital Purchase\"]",
+            "amount":33.03,
+            "date":"2021-09-01",
+            "description":"Amazon",
+            "guid":18878,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"Chipotle Mexican Grill",
+            "accountGuid":575,
+            "category":"[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]",
+            "amount":10.31,
+            "date":"2021-09-01",
+            "description":"Chipotle Mexican Grill",
+            "guid":18879,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"INSUFFICIENT FUNDS FEE FOR A $21.92 CARD PURCHASE - DETAILS: 0831GREAT CHINA TX 0############4961 01",
+            "accountGuid":575,
+            "category":"[\"Bank Fees\",\"Insufficient Funds\"]",
+            "amount":34.0,
+            "date":"2021-09-01",
+            "description":"INSUFFICIENT FUNDS FEE FOR A $21.92 CARD PURCHASE - DETAILS: 0831GREAT CHINA TX 0############4961 01",
+            "guid":18880,
+            "type":"DEBIT"
+        },
+        {
+            "originalDescription":"INSUFFICIENT FUNDS FEE FOR A $288.00 ITEM - DETAILS: IRS USATAXPYMT PPD ID: 3387702000",
+            "accountGuid":575,
+            "category":"[\"Bank Fees\",\"Insufficient Funds\"]",
+            "amount":34.0,
+            "date":"2021-09-01",
+            "description":"INSUFFICIENT FUNDS FEE FOR A $288.00 ITEM - DETAILS: IRS USATAXPYMT PPD ID: 3387702000",
+            "guid":18881,
+            "type":"DEBIT"
+        }
+    ]
+}

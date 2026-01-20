@@ -1,0 +1,3042 @@
+{
+  "accounts": [
+    {
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "currentBalance": 31.83,
+      "currentBalanceDate": "2024-01-23"
+    }
+  ],
+  "transactions": [
+    {
+      "originalDescription": "MDC*TRI COUNTY EC TEXA CARD: 7725",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 450.0,
+      "date": "2023-11-20",
+      "description": "MDC*TRI COUNTY EC TEXA CARD: 7725",
+      "guid": "Da9zxenQoQHypz8RJXQQCVqLLYVLbrtzXm8aK",
+      "type": "DEBIT",
+      "category": "[\"Service\"]"
+    },
+    {
+      "originalDescription": "TRACTOR-SUPPLY-CO #036 WEATHERFORD TX CARD: 7725",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 43.79,
+      "date": "2023-11-06",
+      "description": "TRACTOR-SUPPLY-CO #036 WEATHERFORD TX CARD: 7725",
+      "guid": "Da9zxenQoQHypz8RJXQQCVqLLYVLbrtzXm8kK",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Hardware Store\"]"
+    },
+    {
+      "originalDescription": "Subway 37565 WEATHERFORD CARD: 7725",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 9.31,
+      "date": "2023-12-18",
+      "description": "Subway 37565 WEATHERFORD CARD: 7725",
+      "guid": "Da9zxenQoQHypz8RJXQQCVqLLYVLbrtzXm8xn",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "NEXTLINK INTERNE PURCHASE xxxxxxxx5465",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 73.15,
+      "date": "2023-12-18",
+      "description": "NEXTLINK INTERNE PURCHASE xxxxxxxx5465",
+      "guid": "dN8dLKAg5gFVZb8mpE77ijDpp1jpyYF8o5dMk",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "BOOST FINANCE PAYMENT PLM332266BFEBD3",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 67.09,
+      "date": "2023-11-20",
+      "description": "BOOST FINANCE PAYMENT PLM332266BFEBD3",
+      "guid": "dN8dLKAg5gFVZb8mpE77ijDpp1jpyYF8o5dnY",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]"
+    },
+    {
+      "originalDescription": "TIGER MART #51 WEATHERFORD TX CARD: 7725",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 5.07,
+      "date": "2023-12-08",
+      "description": "TIGER MART #51 WEATHERFORD TX CARD: 7725",
+      "guid": "dN8dLKAg5gFVZb8mpE77ijDpp1jpyYF8o5dXk",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Convenience Stores\"]"
+    },
+    {
+      "originalDescription": "CVS",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 17.84,
+      "date": "2023-12-29",
+      "description": "CVS",
+      "guid": "BrgzxeQNpNtBjgPeME00CXzNDjM1YkUd8dBrV",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Pharmacies\"]"
+    },
+    {
+      "originalDescription": "OPORTUN/PROGRESS ACH 5761474",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 46.0,
+      "date": "2023-11-06",
+      "description": "OPORTUN/PROGRESS ACH 5761474",
+      "guid": "dN8dLKAg5gFVZb8mpE77ijDpp1jpyYF8o5dZY",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "WM SUPERCENTER #963 WEATHERFORD TX CARD: 7725",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 73.47,
+      "date": "2024-01-02",
+      "description": "WM SUPERCENTER #963 WEATHERFORD TX CARD: 7725",
+      "guid": "dN8dLKAg5gFVZb8mpE77iY6oy1KOzgiy8yYxe",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "COUNTRY DOOR INC CARD: 7725",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 35.0,
+      "date": "2024-01-19",
+      "description": "COUNTRY DOOR INC CARD: 7725",
+      "guid": "dN8dLKAg5gFVZb8mpE77iY6oy1KOzgiy8yYzV",
+      "type": "DEBIT",
+      "category": "[\"Service\"]"
+    },
+    {
+      "originalDescription": "EWF_WL 8332176717 EWFxxxxxxxx6717",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 500.0,
+      "date": "2024-01-16",
+      "description": "EWF_WL 8332176717 EWFxxxxxxxx6717",
+      "guid": "BrgzxeQNpNtBjgPeME00CXzNDjM1YkUd8dBmV",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "Walmart",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 91.26,
+      "date": "2024-01-02",
+      "description": "Walmart",
+      "guid": "eNZwDkgKzKF1NmZpoReeCBw0kOnzygUkLkB8v",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "BOOST FINANCE PAYMENT PLMxxxxxxx899A6",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 67.09,
+      "date": "2024-01-19",
+      "description": "BOOST FINANCE PAYMENT PLMxxxxxxx899A6",
+      "guid": "eNZwDkgKzKF1NmZpoReeCBw0kOnzygUkLkBya",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]"
+    },
+    {
+      "originalDescription": "Walmart",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 102.93,
+      "date": "2024-01-17",
+      "description": "Walmart",
+      "guid": "BrgzxeQNpNtBjgPeME00CXzNDjM1YkUd8dBm6",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Dollar Tree",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 17.59,
+      "date": "2023-12-18",
+      "description": "Dollar Tree",
+      "guid": "BrgzxeQNpNtBjgPeME00CObRRjORDXS8vVAPp",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Discount Stores\"]"
+    },
+    {
+      "originalDescription": "Walmart",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 159.42,
+      "date": "2023-11-07",
+      "description": "Walmart",
+      "guid": "eNZwDkgKzKF1NmZpoReeCrxVVOrVkBCL4Zw6V",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Walmart",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 149.37,
+      "date": "2023-12-20",
+      "description": "Walmart",
+      "guid": "eNZwDkgKzKF1NmZpoReeCrxVVOrVkBCL4ZwAN",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Walmart",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 38.14,
+      "date": "2023-11-20",
+      "description": "Walmart",
+      "guid": "BrgzxeQNpNtBjgPeME00CObRRjORDXS8vVApe",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "Jora ILP DB ONLINE PMT xxxxxxxxx1041DB",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 78.0,
+      "date": "2023-12-05",
+      "description": "Jora ILP DB ONLINE PMT xxxxxxxxx1041DB",
+      "guid": "BrgzxeQNpNtBjgPeME00CObRRjORDXS8vVAnp",
+      "type": "DEBIT",
+      "category": "[\"Payment\"]"
+    },
+    {
+      "originalDescription": "Home Depot",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 45.1,
+      "date": "2023-11-06",
+      "description": "Home Depot",
+      "guid": "BrgzxeQNpNtBjgPeME00CObRRjORDXS8vVAKe",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Hardware Store\"]"
+    },
+    {
+      "originalDescription": "FROM JAMES PEARCE",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 80.0,
+      "date": "2023-12-11",
+      "description": "FROM JAMES PEARCE",
+      "guid": "eNZwDkgKzKF1NmZpoReeCrxVVOrVkBCL4ZwmN",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "HOBBYLOBBY WEATHERFORD TX CARD: 7725",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 42.22,
+      "date": "2023-12-01",
+      "description": "HOBBYLOBBY WEATHERFORD TX CARD: 7725",
+      "guid": "bNxzw31KgKFBgXxR5zVVCov00Zo0gLIxPZpRX",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Arts and Crafts\"]"
+    },
+    {
+      "originalDescription": "Walmart",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 85.73,
+      "date": "2023-11-24",
+      "description": "Walmart",
+      "guid": "bNxzw31KgKFBgXxR5zVVCov00Zo0gLIxPZpRL",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "McDonald's",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 4.52,
+      "date": "2023-11-21",
+      "description": "McDonald's",
+      "guid": "eNZwDkgKzKF1NmZpoReeCrxVVOrVkBCL4ZwvV",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "RiverValleyL 8339874837 7527248",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 200.0,
+      "date": "2023-10-31",
+      "description": "RiverValleyL 8339874837 7527248",
+      "guid": "bNxzw31KgKFBgXxR5zVVCov00Zo0gLIxPZpML",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "Walmart",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 5.07,
+      "date": "2023-12-14",
+      "description": "Walmart",
+      "guid": "bNxzw31KgKFBgXxR5zVVCov00Zo0gLIxPZpEX",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "Walmart",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 37.52,
+      "date": "2023-11-13",
+      "description": "Walmart",
+      "guid": "bNxzw31KgKFBgXxR5zVVCov00Zo0gLIxPZp4L",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "WM SUPERCENTER #963 WEATHERFORD CARD: 7725",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 37.31,
+      "date": "2023-12-26",
+      "description": "WM SUPERCENTER #963 WEATHERFORD CARD: 7725",
+      "guid": "bNxzw31KgKFBgXxR5zVVCL69gZJnrPfgxgnXo",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Walmart",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 87.53,
+      "date": "2023-11-28",
+      "description": "Walmart",
+      "guid": "ExVzde1JoJFK7jvR8411F1DLL61LKQcZdXg4n",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Lowe's",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 11.95,
+      "date": "2023-11-08",
+      "description": "Lowe's",
+      "guid": "ExVzde1JoJFK7jvR8411F1DLL61LKQcZdXg91",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Hardware Store\"]"
+    },
+    {
+      "originalDescription": "Walmart",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 135.79,
+      "date": "2023-10-25",
+      "description": "Walmart",
+      "guid": "ExVzde1JoJFK7jvR8411F1DLL61LKQcZdXgA1",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Check 30613",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 129.74,
+      "date": "2024-01-05",
+      "description": "Check 30613",
+      "guid": "bNxzw31KgKFBgXxR5zVVCL69gZJnrPfgxgnko",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\",\"Check\"]"
+    },
+    {
+      "originalDescription": "Check 113",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 350.0,
+      "date": "2024-01-22",
+      "description": "Check 113",
+      "guid": "bNxzw31KgKFBgXxR5zVVCL69gZJnrPfgxgnBy",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\",\"Check\"]"
+    },
+    {
+      "originalDescription": "Burlington",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 44.3,
+      "date": "2023-11-22",
+      "description": "Burlington",
+      "guid": "ExVzde1JoJFK7jvR8411F1DLL61LKQcZdXgK1",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Department Stores\"]"
+    },
+    {
+      "originalDescription": "WM SUPERCENTER #963 WEATHERFORD TX CARD: 7725",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 56.51,
+      "date": "2023-12-11",
+      "description": "WM SUPERCENTER #963 WEATHERFORD TX CARD: 7725",
+      "guid": "ExVzde1JoJFK7jvR8411F1DLL61LKQcZdXgmn",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Albertsons",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 13.31,
+      "date": "2023-12-18",
+      "description": "Albertsons",
+      "guid": "Ajbz8epmVmFq1wYO4DggtrYvvNrv4OCZwP7r7",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "IRON FAITH CHURCH WWW.IRONFAITH CARD: 7725",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 280.0,
+      "date": "2023-11-06",
+      "description": "IRON FAITH CHURCH WWW.IRONFAITH CARD: 7725",
+      "guid": "Ajbz8epmVmFq1wYO4DggtrYvvNrv4OCZwP7Lk",
+      "type": "DEBIT",
+      "category": "[\"Community\",\"Religious\",\"Churches\"]"
+    },
+    {
+      "originalDescription": "Whataburger",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 8.32,
+      "date": "2023-12-21",
+      "description": "Whataburger",
+      "guid": "ExVzde1JoJFK7jvR8411F1DLL61LKQcZdXgyn",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "Target",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 32.72,
+      "date": "2023-11-20",
+      "description": "Target",
+      "guid": "Ajbz8epmVmFq1wYO4DggtrYvvNrv4OCZwP7ak",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "ANCO INSURANCE M PAYROLL xxxxx A0700JPM1",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 626.97,
+      "date": "2023-12-05",
+      "description": "ANCO INSURANCE M PAYROLL xxxxx A0700JPM1",
+      "guid": "Ajbz8epmVmFq1wYO4DggtrYvvNrv4OCZwP737",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Payroll\"]"
+    },
+    {
+      "originalDescription": "H-E-B #752 HUDSON OAKS TX CARD: 7725",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 30.79,
+      "date": "2024-01-22",
+      "description": "H-E-B #752 HUDSON OAKS TX CARD: 7725",
+      "guid": "ExVzde1JoJFK7jvR8411FQoEK6xda8tJZJxjp",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "WM SUPERCENTER #963 WEATHERFORD CARD: 7725",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 18.11,
+      "date": "2024-01-04",
+      "description": "WM SUPERCENTER #963 WEATHERFORD CARD: 7725",
+      "guid": "ExVzde1JoJFK7jvR8411FQoEK6xda8tJZJxOP",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Walmart",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 101.86,
+      "date": "2023-12-28",
+      "description": "Walmart",
+      "guid": "Ajbz8epmVmFq1wYO4DggtO8j4NDgBoIbZbVzm",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "RiverValleyL 8339874837 7527253",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 57.87,
+      "date": "2024-01-22",
+      "description": "RiverValleyL 8339874837 7527253",
+      "guid": "gNoLPvgAMAFPMzo7A4eesmpJ3r80dkC3M3Jdd",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "CASH FACTORY2TXD PAYMENT PLM2169223",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 109.47,
+      "date": "2024-01-05",
+      "description": "CASH FACTORY2TXD PAYMENT PLM2169223",
+      "guid": "gNoLPvgAMAFPMzo7A4eesmpJ3r80dkC3M3Jr4",
+      "type": "DEBIT",
+      "category": "[\"Payment\"]"
+    },
+    {
+      "originalDescription": "Whataburger",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 6.47,
+      "date": "2023-12-26",
+      "description": "Whataburger",
+      "guid": "gNoLPvgAMAFPMzo7A4eesmpJ3r80dkC3M3Jy4",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "Teller Cash Check 112",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 100.0,
+      "date": "2024-01-16",
+      "description": "Teller Cash Check 112",
+      "guid": "Ajbz8epmVmFq1wYO4DggtO8j4NDgBoIbZbVmp",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\",\"Check\"]"
+    },
+    {
+      "originalDescription": "TO drew pearce",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 30.0,
+      "date": "2023-10-30",
+      "description": "TO drew pearce",
+      "guid": "gNoLPvgAMAFPMzo7A4eesRQXXrRX3mHM6Yg09",
+      "type": "DEBIT",
+      "category": "[\"Shops\"]"
+    },
+    {
+      "originalDescription": "Harbor Freight Tools",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 69.49,
+      "date": "2024-01-11",
+      "description": "Harbor Freight Tools",
+      "guid": "Ajbz8epmVmFq1wYO4DggtO8j4NDgBoIbZbVmm",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Hardware Store\"]"
+    },
+    {
+      "originalDescription": "Walmart",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 27.45,
+      "date": "2023-12-14",
+      "description": "Walmart",
+      "guid": "gNoLPvgAMAFPMzo7A4eesRQXXrRX3mHM6Ygev",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "Lowe's",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 34.45,
+      "date": "2023-12-04",
+      "description": "Lowe's",
+      "guid": "aeazdB1b5bcrpEN35kmmHEMkkREk9bcyKN8xA",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Hardware Store\"]"
+    },
+    {
+      "originalDescription": "EECU CARD: 7725",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 552.39,
+      "date": "2023-11-03",
+      "description": "EECU CARD: 7725",
+      "guid": "aeazdB1b5bcrpEN35kmmHEMkkREk9bcyKN8Q9",
+      "type": "DEBIT",
+      "category": "[\"Service\"]"
+    },
+    {
+      "originalDescription": "Big Lots",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 14.15,
+      "date": "2023-11-24",
+      "description": "Big Lots",
+      "guid": "gNoLPvgAMAFPMzo7A4eesRQXXrRX3mHM6YgN9",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Furniture and Home Decor\"]"
+    },
+    {
+      "originalDescription": "H-E-B #752 HUDSON OAKS TX CARD: 7725",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 72.92,
+      "date": "2023-12-01",
+      "description": "H-E-B #752 HUDSON OAKS TX CARD: 7725",
+      "guid": "gNoLPvgAMAFPMzo7A4eesRQXXrRX3mHM6YgNv",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "FIESTA MART #69 FORT WORTH TX CARD: 7725",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 26.95,
+      "date": "2023-12-15",
+      "description": "FIESTA MART #69 FORT WORTH TX CARD: 7725",
+      "guid": "aeazdB1b5bcrpEN35kmmHEMkkREk9bcyKN8JA",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "CORE INSURANCE G DIRECT DEP xxxxxxxx3761AEC",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 2205.82,
+      "date": "2023-12-28",
+      "description": "CORE INSURANCE G DIRECT DEP xxxxxxxx3761AEC",
+      "guid": "aeazdB1b5bcrpEN35kmmHbB49RpaLgt9y96m7",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Payroll\"]"
+    },
+    {
+      "originalDescription": "Walmart",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 32.84,
+      "date": "2024-01-16",
+      "description": "Walmart",
+      "guid": "aeazdB1b5bcrpEN35kmmHbB49RpaLgt9y960M",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "Dollar Tree",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 24.36,
+      "date": "2024-01-08",
+      "description": "Dollar Tree",
+      "guid": "aeazdB1b5bcrpEN35kmmHbB49RpaLgt9y9607",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Discount Stores\"]"
+    },
+    {
+      "originalDescription": "Home Depot",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 34.9,
+      "date": "2023-11-13",
+      "description": "Home Depot",
+      "guid": "gNoLPvgAMAFPMzo7A4eesRQXXrRX3mHM6YgQ9",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Hardware Store\"]"
+    },
+    {
+      "originalDescription": "CVS",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 17.84,
+      "date": "2024-01-16",
+      "description": "CVS",
+      "guid": "jN7P3rvd5dFk8a7nAJ99UJR1AgemyBF1Q1xEL",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Pharmacies\"]"
+    },
+    {
+      "originalDescription": "H-E-B #752 HUDSON OAKS TX CARD: 7725",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 10.57,
+      "date": "2024-01-09",
+      "description": "H-E-B #752 HUDSON OAKS TX CARD: 7725",
+      "guid": "jN7P3rvd5dFk8a7nAJ99UJR1AgemyBF1Q1xEV",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Harbor Freight Tools",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 30.29,
+      "date": "2023-12-28",
+      "description": "Harbor Freight Tools",
+      "guid": "jN7P3rvd5dFk8a7nAJ99UJR1AgemyBF1Q1xJV",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Hardware Store\"]"
+    },
+    {
+      "originalDescription": "IRON FAITH CHURCH WWW.IRONFAITH CARD: 7725",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 102.5,
+      "date": "2023-12-04",
+      "description": "IRON FAITH CHURCH WWW.IRONFAITH CARD: 7725",
+      "guid": "jN7P3rvd5dFk8a7nAJ99UQ8wwgQwAJiQvaL5o",
+      "type": "DEBIT",
+      "category": "[\"Community\",\"Religious\",\"Churches\"]"
+    },
+    {
+      "originalDescription": "Taco Bell",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 7.99,
+      "date": "2023-12-18",
+      "description": "Taco Bell",
+      "guid": "jN7P3rvd5dFk8a7nAJ99UQ8wwgQwAJiQvaLgo",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "BOOST FINANCE PAYMENT PLMxxxxx6D8BE46",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 67.09,
+      "date": "2023-11-03",
+      "description": "BOOST FINANCE PAYMENT PLMxxxxx6D8BE46",
+      "guid": "jN7P3rvd5dFk8a7nAJ99UQ8wwgQwAJiQvaLpe",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]"
+    },
+    {
+      "originalDescription": "NEXTLINK INTERNE PURCHASE xxxxxxxx5465",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 73.15,
+      "date": "2023-11-16",
+      "description": "NEXTLINK INTERNE PURCHASE xxxxxxxx5465",
+      "guid": "jN7P3rvd5dFk8a7nAJ99UQ8wwgQwAJiQvaLqe",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "Jimmy Johns",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 7.88,
+      "date": "2024-01-02",
+      "description": "Jimmy Johns",
+      "guid": "Da9zxenQoQHypz8RJXQQCrxgbY8p4XFVzV59r",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "Walmart",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 15.04,
+      "date": "2023-10-27",
+      "description": "Walmart",
+      "guid": "9B4pxVK9O9HrLBQXyoNNHnJQQXnQLBHP6ZAOV",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "Walmart",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 3.49,
+      "date": "2023-11-02",
+      "description": "Walmart",
+      "guid": "JoQz1ebOXOijneKRZJ77ud9jjZdj8YHA0NY1Q",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Taco Bell",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 9.0,
+      "date": "2023-12-01",
+      "description": "Taco Bell",
+      "guid": "9B4pxVK9O9HrLBQXyoNNHnJQQXnQLBHP6ZAnX",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "Walmart",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 112.5,
+      "date": "2023-11-13",
+      "description": "Walmart",
+      "guid": "9B4pxVK9O9HrLBQXyoNNHnJQQXnQLBHP6ZANV",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "CORE INSURANCE G DIRECT DEP xxxxxxxx8151AEC",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 2872.67,
+      "date": "2023-12-14",
+      "description": "CORE INSURANCE G DIRECT DEP xxxxxxxx8151AEC",
+      "guid": "9B4pxVK9O9HrLBQXyoNNHnJQQXnQLBHP6ZAeX",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Payroll\"]"
+    },
+    {
+      "originalDescription": "TIGER MART #51 WEATHERFORD TX CARD: 7725",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 5.07,
+      "date": "2023-12-15",
+      "description": "TIGER MART #51 WEATHERFORD TX CARD: 7725",
+      "guid": "JoQz1ebOXOijneKRZJ77ud9jjZdj8YHA0NYJ8",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Convenience Stores\"]"
+    },
+    {
+      "originalDescription": "Dollar Tree",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 17.38,
+      "date": "2023-12-22",
+      "description": "Dollar Tree",
+      "guid": "9B4pxVK9O9HrLBQXyoNNHnJQQXnQLBHP6ZA0X",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Discount Stores\"]"
+    },
+    {
+      "originalDescription": "NINE TORCHES CRE 7156614378 12829008",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 86.09,
+      "date": "2024-01-05",
+      "description": "NINE TORCHES CRE 7156614378 12829008",
+      "guid": "9B4pxVK9O9HrLBQXyoNNHBAOLXzpvwUkPk1vR",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "GEICO",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 145.0,
+      "date": "2024-01-22",
+      "description": "GEICO",
+      "guid": "9B4pxVK9O9HrLBQXyoNNHBAOLXzpvwUkPk153",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Insurance\"]"
+    },
+    {
+      "originalDescription": "Jimmy Johns",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 7.88,
+      "date": "2023-12-26",
+      "description": "Jimmy Johns",
+      "guid": "9B4pxVK9O9HrLBQXyoNNHBAOLXzpvwUkPk13R",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "Big Lots",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 43.0,
+      "date": "2023-12-04",
+      "description": "Big Lots",
+      "guid": "JoQz1ebOXOijneKRZJ77ud9jjZdj8YHA0NYP8",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Furniture and Home Decor\"]"
+    },
+    {
+      "originalDescription": "Check 891",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 104.03,
+      "date": "2023-11-27",
+      "description": "Check 891",
+      "guid": "JoQz1ebOXOijneKRZJ77ud9jjZdj8YHA0NYPQ",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\",\"Check\"]"
+    },
+    {
+      "originalDescription": "Walmart",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 25.29,
+      "date": "2023-12-26",
+      "description": "Walmart",
+      "guid": "8qrpx9R1V1SqgJ703VootnVQO1dv7wHJmJDPJ",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "WM SUPERCENTER #3431 HUDSON OAKS TX CARD: 7725",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 69.75,
+      "date": "2024-01-08",
+      "description": "WM SUPERCENTER #3431 HUDSON OAKS TX CARD: 7725",
+      "guid": "8qrpx9R1V1SqgJ703VootnVQO1dv7wHJmJDoJ",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Debit Card Credit",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 21.62,
+      "date": "2023-11-15",
+      "description": "Debit Card Credit",
+      "guid": "JoQz1ebOXOijneKRZJ77ud9jjZdj8YHA0NYzQ",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "Dollar Tree",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 54.13,
+      "date": "2024-01-16",
+      "description": "Dollar Tree",
+      "guid": "8qrpx9R1V1SqgJ703VootnVQO1dv7wHJmJDoE",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Discount Stores\"]"
+    },
+    {
+      "originalDescription": "Debit Card Credit",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 29.2,
+      "date": "2023-12-27",
+      "description": "Debit Card Credit",
+      "guid": "JoQz1ebOXOijneKRZJ77uYnk8Z3xBLiXAXye7",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "Walmart",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 80.39,
+      "date": "2024-01-08",
+      "description": "Walmart",
+      "guid": "JoQz1ebOXOijneKRZJ77uYnk8Z3xBLiXAXyK7",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Walmart",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 117.79,
+      "date": "2024-01-16",
+      "description": "Walmart",
+      "guid": "JoQz1ebOXOijneKRZJ77uYnk8Z3xBLiXAXyKD",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Taco Bell",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 7.23,
+      "date": "2023-12-29",
+      "description": "Taco Bell",
+      "guid": "KbnzPeO9o9UrYbjND3EEHawNMVq301I1L196x",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "MARSH & MCLENNAN DIR DEP 1311571",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 1689.67,
+      "date": "2024-01-17",
+      "description": "MARSH & MCLENNAN DIR DEP 1311571",
+      "guid": "KbnzPeO9o9UrYbjND3EEHawNMVq301I1L19Oj",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Payroll\"]"
+    },
+    {
+      "originalDescription": "Dollar Tree",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 26.96,
+      "date": "2024-01-11",
+      "description": "Dollar Tree",
+      "guid": "KbnzPeO9o9UrYbjND3EEHawNMVq301I1L19Ox",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Discount Stores\"]"
+    },
+    {
+      "originalDescription": "WM SUPERCENTER #963 WEATHERFORD TX CARD: 7725",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 84.38,
+      "date": "2023-12-05",
+      "description": "WM SUPERCENTER #963 WEATHERFORD TX CARD: 7725",
+      "guid": "KbnzPeO9o9UrYbjND3EEHD8jjVDjMaHLyqp4k",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "WM SUPERCENTER #963 WEATHERFORD CARD: 7725",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 26.89,
+      "date": "2023-11-01",
+      "description": "WM SUPERCENTER #963 WEATHERFORD CARD: 7725",
+      "guid": "8qrpx9R1V1SqgJ703Voot8DLL18LOnCmYqdwZ",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "H-E-B #752 HUDSON OAKS TX CARD: 7725",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 99.97,
+      "date": "2023-12-18",
+      "description": "H-E-B #752 HUDSON OAKS TX CARD: 7725",
+      "guid": "KbnzPeO9o9UrYbjND3EEHD8jjVDjMaHLyqpak",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "TO drew pearce",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 40.0,
+      "date": "2023-12-14",
+      "description": "TO drew pearce",
+      "guid": "8qrpx9R1V1SqgJ703Voot8DLL18LOnCmYqdb0",
+      "type": "DEBIT",
+      "category": "[\"Shops\"]"
+    },
+    {
+      "originalDescription": "Walmart",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 9.33,
+      "date": "2023-11-27",
+      "description": "Walmart",
+      "guid": "8qrpx9R1V1SqgJ703Voot8DLL18LOnCmYqd8Z",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Walmart",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 117.11,
+      "date": "2023-11-20",
+      "description": "Walmart",
+      "guid": "KbnzPeO9o9UrYbjND3EEHD8jjVDjMaHLyqpj6",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Goodwill",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 10.0,
+      "date": "2023-12-04",
+      "description": "Goodwill",
+      "guid": "8qrpx9R1V1SqgJ703Voot8DLL18LOnCmYqd80",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Vintage and Thrift\"]"
+    },
+    {
+      "originalDescription": "Check 109",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 350.0,
+      "date": "2023-11-14",
+      "description": "Check 109",
+      "guid": "8qrpx9R1V1SqgJ703Voot8DLL18LOnCmYqd7Z",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\",\"Check\"]"
+    },
+    {
+      "originalDescription": "Big Lots",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 49.53,
+      "date": "2023-11-06",
+      "description": "Big Lots",
+      "guid": "KbnzPeO9o9UrYbjND3EEHD8jjVDjMaHLyqpP6",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Furniture and Home Decor\"]"
+    },
+    {
+      "originalDescription": "ALDI 75082 WEATHERFORD TX CARD: 7725",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 20.25,
+      "date": "2024-01-18",
+      "description": "ALDI 75082 WEATHERFORD TX CARD: 7725",
+      "guid": "Da9zxenQoQHypz8RJXQQCrxgbY8p4XFVzV5jA",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "NEXTLINK INTERNE PURCHASE xxxxxxxx5465",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 73.15,
+      "date": "2024-01-16",
+      "description": "NEXTLINK INTERNE PURCHASE xxxxxxxx5465",
+      "guid": "km9qy4vwXwcpwrzMD8YYI5oa3ezdLBu3p35k8",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "WM SUPERCENTER #963 WEATHERFORD TX CARD: 7725",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 266.58,
+      "date": "2024-01-11",
+      "description": "WM SUPERCENTER #963 WEATHERFORD TX CARD: 7725",
+      "guid": "km9qy4vwXwcpwrzMD8YYI5oa3ezdLBu3p35kL",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Dollar Tree",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 29.46,
+      "date": "2023-12-28",
+      "description": "Dollar Tree",
+      "guid": "km9qy4vwXwcpwrzMD8YYI5oa3ezdLBu3p35nL",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Discount Stores\"]"
+    },
+    {
+      "originalDescription": "Walmart",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 133.3,
+      "date": "2023-11-06",
+      "description": "Walmart",
+      "guid": "km9qy4vwXwcpwrzMD8YYIn6AAenA35Hpbyq8r",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "WM SUPERCENTER #963 WEATHERFORD CARD: 7725",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 5.97,
+      "date": "2023-11-20",
+      "description": "WM SUPERCENTER #963 WEATHERFORD CARD: 7725",
+      "guid": "km9qy4vwXwcpwrzMD8YYIn6AAenA35Hpbyqmr",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "EECU CARD: 7725",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 552.39,
+      "date": "2023-12-05",
+      "description": "EECU CARD: 7725",
+      "guid": "km9qy4vwXwcpwrzMD8YYIn6AAenA35HpbyqN7",
+      "type": "DEBIT",
+      "category": "[\"Service\"]"
+    },
+    {
+      "originalDescription": "Big Lots",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 55.0,
+      "date": "2023-12-18",
+      "description": "Big Lots",
+      "guid": "km9qy4vwXwcpwrzMD8YYIn6AAenA35Hpbyqz7",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Furniture and Home Decor\"]"
+    },
+    {
+      "originalDescription": "Walmart",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 73.86,
+      "date": "2024-01-18",
+      "description": "Walmart",
+      "guid": "Lgpzqe0momc4NZ6XmjYYcbA8e6kmRLtmdmqkN",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "BETTER HEALTH MARKET CARD: 7725",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 27.89,
+      "date": "2024-01-02",
+      "description": "BETTER HEALTH MARKET CARD: 7725",
+      "guid": "Lgpzqe0momc4NZ6XmjYYcbA8e6kmRLtmdmqnq",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "TIGER MART #51 WEATHERFORD TX CARD: 7725",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 9.93,
+      "date": "2023-12-18",
+      "description": "TIGER MART #51 WEATHERFORD TX CARD: 7725",
+      "guid": "Lgpzqe0momc4NZ6XmjYYcgzoo6goebHdJVpbj",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Convenience Stores\"]"
+    },
+    {
+      "originalDescription": "Walmart",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 314.92,
+      "date": "2023-12-14",
+      "description": "Walmart",
+      "guid": "7Pjex7NgVgUAnzZ7MX11CzNMMwzMaLH486yVO",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "TIGER MART #51 WEATHERFORD TX CARD: 7725",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 8.52,
+      "date": "2023-11-20",
+      "description": "TIGER MART #51 WEATHERFORD TX CARD: 7725",
+      "guid": "Lgpzqe0momc4NZ6XmjYYcgzoo6goebHdJVpMO",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Convenience Stores\"]"
+    },
+    {
+      "originalDescription": "Dollar Tree",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 17.28,
+      "date": "2023-11-13",
+      "description": "Dollar Tree",
+      "guid": "7Pjex7NgVgUAnzZ7MX11CzNMMwzMaLH486yKq",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Discount Stores\"]"
+    },
+    {
+      "originalDescription": "CVS",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 23.68,
+      "date": "2023-11-24",
+      "description": "CVS",
+      "guid": "7Pjex7NgVgUAnzZ7MX11CzNMMwzMaLH486ygq",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Pharmacies\"]"
+    },
+    {
+      "originalDescription": "Kroger",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 37.94,
+      "date": "2023-12-01",
+      "description": "Kroger",
+      "guid": "7Pjex7NgVgUAnzZ7MX11CzNMMwzMaLH486ygO",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "WM SUPERCENTER #963 WEATHERFORD CARD: 7725",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 5.97,
+      "date": "2023-10-30",
+      "description": "WM SUPERCENTER #963 WEATHERFORD CARD: 7725",
+      "guid": "7Pjex7NgVgUAnzZ7MX11CzNMMwzMaLH486ydq",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Lowe's",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 7.97,
+      "date": "2023-12-22",
+      "description": "Lowe's",
+      "guid": "7Pjex7NgVgUAnzZ7MX11CzNMMwzMaLH486y1O",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Hardware Store\"]"
+    },
+    {
+      "originalDescription": "COUNTRY DOOR INC CARD: 7725",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 35.0,
+      "date": "2023-12-06",
+      "description": "COUNTRY DOOR INC CARD: 7725",
+      "guid": "Lgpzqe0momc4NZ6XmjYYcgzoo6goebHdJVpyj",
+      "type": "DEBIT",
+      "category": "[\"Service\"]"
+    },
+    {
+      "originalDescription": "WM SUPERCENTER #963 WEATHERFORD CARD: 7725",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 48.64,
+      "date": "2023-11-06",
+      "description": "WM SUPERCENTER #963 WEATHERFORD CARD: 7725",
+      "guid": "Lgpzqe0momc4NZ6XmjYYcgzoo6goebHdJVpzO",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Rug Doctor",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 43.27,
+      "date": "2023-12-26",
+      "description": "Rug Doctor",
+      "guid": "7Pjex7NgVgUAnzZ7MX11CLe3aw1Vm5fD4DeoA",
+      "type": "DEBIT",
+      "category": "[\"Payment\",\"Rent\"]"
+    },
+    {
+      "originalDescription": "BRIDGE LENDING S 8665720720 xxxxx4OB8D22KUJ",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 96.0,
+      "date": "2024-01-05",
+      "description": "BRIDGE LENDING S 8665720720 xxxxx4OB8D22KUJ",
+      "guid": "7Pjex7NgVgUAnzZ7MX11CLe3aw1Vm5fD4DebA",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]"
+    },
+    {
+      "originalDescription": "TO drew pearce",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 100.0,
+      "date": "2024-01-22",
+      "description": "TO drew pearce",
+      "guid": "7Pjex7NgVgUAnzZ7MX11CLe3aw1Vm5fD4De7b",
+      "type": "DEBIT",
+      "category": "[\"Shops\"]"
+    },
+    {
+      "originalDescription": "CORE INSURANCE G DIRECT DEP xxxxxxxx1920AEC",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 1960.6,
+      "date": "2023-11-29",
+      "description": "CORE INSURANCE G DIRECT DEP xxxxxxxx1920AEC",
+      "guid": "M7XzBerAEAcapZY4rROOfrOEEwrEMZCB0z860",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Payroll\"]"
+    },
+    {
+      "originalDescription": "Walmart",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 195.43,
+      "date": "2023-11-22",
+      "description": "Walmart",
+      "guid": "M7XzBerAEAcapZY4rROOfrOEEwrEMZCB0z8Ag",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "FigLoans Texas SUGAR LAND CARD: 7725",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 170.2,
+      "date": "2024-01-19",
+      "description": "FigLoans Texas SUGAR LAND CARD: 7725",
+      "guid": "610pegzBVBcM9ZbkqwDDf93MD07JqxSyVy8QL",
+      "type": "CREDIT",
+      "category": "[\"Recreation\",\"Arts and Entertainment\"]"
+    },
+    {
+      "originalDescription": "Kroger",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 9.17,
+      "date": "2024-01-02",
+      "description": "Kroger",
+      "guid": "610pegzBVBcM9ZbkqwDDf93MD07JqxSyVy84P",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "ROSS STORES #880 WEATHERFORD TX CARD: 7725",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 34.6,
+      "date": "2023-12-22",
+      "description": "ROSS STORES #880 WEATHERFORD TX CARD: 7725",
+      "guid": "M7XzBerAEAcapZY4rROOfrOEEwrEMZCB0z8j0",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Clothing and Accessories\"]"
+    },
+    {
+      "originalDescription": "WM SUPERCENTER #963 WEATHERFORD CARD: 7725",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 33.64,
+      "date": "2023-11-09",
+      "description": "WM SUPERCENTER #963 WEATHERFORD CARD: 7725",
+      "guid": "M7XzBerAEAcapZY4rROOfrOEEwrEMZCB0z8Jg",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "WM SUPERCENTER #3431 HUDSON OAKS TX CARD: 7725",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 182.25,
+      "date": "2023-11-20",
+      "description": "WM SUPERCENTER #3431 HUDSON OAKS TX CARD: 7725",
+      "guid": "610pegzBVBcM9ZbkqwDDf65VV06VD9HVAO3JR",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Walmart",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 99.2,
+      "date": "2023-12-18",
+      "description": "Walmart",
+      "guid": "610pegzBVBcM9ZbkqwDDf65VV06VD9HVAO3go",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Walmart",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 36.29,
+      "date": "2023-12-07",
+      "description": "Walmart",
+      "guid": "610pegzBVBcM9ZbkqwDDf65VV06VD9HVAO3Eo",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "SKINNYS HAMBURGERS WEATHERFORD CARD: 7725",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 24.0,
+      "date": "2023-10-26",
+      "description": "SKINNYS HAMBURGERS WEATHERFORD CARD: 7725",
+      "guid": "M7XzBerAEAcapZY4rROOfrOEEwrEMZCB0z8Ng",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "Target",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 51.62,
+      "date": "2023-11-06",
+      "description": "Target",
+      "guid": "610pegzBVBcM9ZbkqwDDf65VV06VD9HVAO37R",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "TO drew pearce",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 30.0,
+      "date": "2023-12-11",
+      "description": "TO drew pearce",
+      "guid": "M7XzBerAEAcapZY4rROOfrOEEwrEMZCB0z8Z0",
+      "type": "DEBIT",
+      "category": "[\"Shops\"]"
+    },
+    {
+      "originalDescription": "Walmart",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 72.84,
+      "date": "2024-01-22",
+      "description": "Walmart",
+      "guid": "M7XzBerAEAcapZY4rROOfZBPMwVN8XC5B5o4d",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "WM SUPERCENTER #3431 HUDSON OAKS TX CARD: 7725",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 13.94,
+      "date": "2024-01-05",
+      "description": "WM SUPERCENTER #3431 HUDSON OAKS TX CARD: 7725",
+      "guid": "M7XzBerAEAcapZY4rROOfZBPMwVN8XC5B5ovD",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "FIG LOANS TEXAS 8328020344 2085473",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 72.5,
+      "date": "2023-11-20",
+      "description": "FIG LOANS TEXAS 8328020344 2085473",
+      "guid": "mzO3kxagdgHo9B6NR5eefAaRRQAR3vim87V5X",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]"
+    },
+    {
+      "originalDescription": "SUNFLOWER SHOPPE #2 FORT WORTH TX CARD: 7725",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 21.44,
+      "date": "2023-12-08",
+      "description": "SUNFLOWER SHOPPE #2 FORT WORTH TX CARD: 7725",
+      "guid": "mzO3kxagdgHo9B6NR5eefAaRRQAR3vim87Vgy",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "WM SUPERCENTER #963 WEATHERFORD TX CARD: 7725",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 114.38,
+      "date": "2023-10-31",
+      "description": "WM SUPERCENTER #963 WEATHERFORD TX CARD: 7725",
+      "guid": "5Dvpnb5EzEHmJw6vPxbbIMPjjDMj75HbNYqZA",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "ATM Withdrawal",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 25.0,
+      "date": "2023-12-04",
+      "description": "ATM Withdrawal",
+      "guid": "5Dvpnb5EzEHmJw6vPxbbIMPjjDMj75HbNYqMe",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "Home Depot",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 20.68,
+      "date": "2023-11-24",
+      "description": "Home Depot",
+      "guid": "5Dvpnb5EzEHmJw6vPxbbIMPjjDMj75HbNYqMA",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Hardware Store\"]"
+    },
+    {
+      "originalDescription": "Harbor Freight Tools",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 38.71,
+      "date": "2023-12-14",
+      "description": "Harbor Freight Tools",
+      "guid": "5Dvpnb5EzEHmJw6vPxbbIMPjjDMj75HbNYqje",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Hardware Store\"]"
+    },
+    {
+      "originalDescription": "Jora ILP DB ONLINE PMT xxxxxxxxxx515U3",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 78.0,
+      "date": "2023-11-06",
+      "description": "Jora ILP DB ONLINE PMT xxxxxxxxxx515U3",
+      "guid": "mzO3kxagdgHo9B6NR5eefAaRRQAR3vim87VpX",
+      "type": "DEBIT",
+      "category": "[\"Payment\"]"
+    },
+    {
+      "originalDescription": "Walmart",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 234.19,
+      "date": "2023-11-14",
+      "description": "Walmart",
+      "guid": "5Dvpnb5EzEHmJw6vPxbbIMPjjDMj75HbNYqEA",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "FROM JAMES PEARCE",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 200.0,
+      "date": "2024-01-08",
+      "description": "FROM JAMES PEARCE",
+      "guid": "5Dvpnb5EzEHmJw6vPxbbI5Lr7DkExXu6b6vrd",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "Goodwill",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 17.1,
+      "date": "2023-12-19",
+      "description": "Goodwill",
+      "guid": "mzO3kxagdgHo9B6NR5eefAaRRQAR3vim87Vzy",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Vintage and Thrift\"]"
+    },
+    {
+      "originalDescription": "ATM Withdrawal",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 24.0,
+      "date": "2024-01-02",
+      "description": "ATM Withdrawal",
+      "guid": "mzO3kxagdgHo9B6NR5eefvDB3QogJnH3m3bLO",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "OPC*CONN APPLIANCESINC CARD: 7725",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 57.43,
+      "date": "2024-01-19",
+      "description": "OPC*CONN APPLIANCESINC CARD: 7725",
+      "guid": "mzO3kxagdgHo9B6NR5eefvDB3QogJnH3m3boZ",
+      "type": "DEBIT",
+      "category": "[\"Service\"]"
+    },
+    {
+      "originalDescription": "Walgreens",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 16.54,
+      "date": "2023-12-26",
+      "description": "Walgreens",
+      "guid": "5Dvpnb5EzEHmJw6vPxbbI5Lr7DkExXu6b6v3d",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Pharmacies\"]"
+    },
+    {
+      "originalDescription": "Harbor Freight Tools",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 61.68,
+      "date": "2023-11-07",
+      "description": "Harbor Freight Tools",
+      "guid": "NNdz3YrQoQFepzdEM8PPUD0AAeDALnHpyEZAX",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Hardware Store\"]"
+    },
+    {
+      "originalDescription": "ATT* BILL PAYMENT CARD: 7725",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 89.67,
+      "date": "2023-11-21",
+      "description": "ATT* BILL PAYMENT CARD: 7725",
+      "guid": "NNdz3YrQoQFepzdEM8PPUD0AAeDALnHpyEZBX",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Telecommunication Services\"]"
+    },
+    {
+      "originalDescription": "SKINNYS HAMBURGERS WEATHERFORD CARD: 7725",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 10.55,
+      "date": "2023-12-28",
+      "description": "SKINNYS HAMBURGERS WEATHERFORD CARD: 7725",
+      "guid": "4LApnojEVEtYwdjV1DRRU5EjKAxevVuJ1J3vk",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "Sonic",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 8.31,
+      "date": "2023-12-11",
+      "description": "Sonic",
+      "guid": "NNdz3YrQoQFepzdEM8PPUD0AAeDALnHpyEZed",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "Walmart",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 79.06,
+      "date": "2024-01-08",
+      "description": "Walmart",
+      "guid": "4LApnojEVEtYwdjV1DRRU5EjKAxevVuJ1J3ak",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Walmart",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 11.78,
+      "date": "2024-01-16",
+      "description": "Walmart",
+      "guid": "4LApnojEVEtYwdjV1DRRU5EjKAxevVuJ1J3a3",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "MASSAGE XPRESS WEATHERFORD CARD: 7725",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 67.0,
+      "date": "2023-12-04",
+      "description": "MASSAGE XPRESS WEATHERFORD CARD: 7725",
+      "guid": "4LApnojEVEtYwdjV1DRRU31ggA3gK5H1DgXx4",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Personal Care\"]"
+    },
+    {
+      "originalDescription": "Dollar Tree",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 25.3,
+      "date": "2023-12-20",
+      "description": "Dollar Tree",
+      "guid": "NNdz3YrQoQFepzdEM8PPUD0AAeDALnHpyEZqd",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Discount Stores\"]"
+    },
+    {
+      "originalDescription": "Walmart",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 247.08,
+      "date": "2023-11-03",
+      "description": "Walmart",
+      "guid": "4LApnojEVEtYwdjV1DRRU31ggA3gK5H1DgXVn",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Walmart",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 137.71,
+      "date": "2023-12-15",
+      "description": "Walmart",
+      "guid": "4LApnojEVEtYwdjV1DRRU31ggA3gK5H1DgXP4",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Dollar Tree",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 29.67,
+      "date": "2024-01-02",
+      "description": "Dollar Tree",
+      "guid": "NNdz3YrQoQFepzdEM8PPUnM3LeoZx4Hxpxj14",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Discount Stores\"]"
+    },
+    {
+      "originalDescription": "BRIDGE LENDING S 8665720720 xxxxxxDEUF5513T",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 91.5,
+      "date": "2024-01-19",
+      "description": "BRIDGE LENDING S 8665720720 xxxxxxDEUF5513T",
+      "guid": "NNdz3YrQoQFepzdEM8PPUnM3LeoZx4HxpxjNb",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]"
+    },
+    {
+      "originalDescription": "Jora ILP DB ONLINE PMT xxxxxxxx3222OIW",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 78.0,
+      "date": "2024-01-02",
+      "description": "Jora ILP DB ONLINE PMT xxxxxxxx3222OIW",
+      "guid": "nzMyAJRDwDH019LjKEeeuEgB0JOR4vF0M0zbL",
+      "type": "DEBIT",
+      "category": "[\"Payment\"]"
+    },
+    {
+      "originalDescription": "ATM Image Deposit",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 100.0,
+      "date": "2024-01-22",
+      "description": "ATM Image Deposit",
+      "guid": "nzMyAJRDwDH019LjKEeeuEgB0JOR4vF0M0zOp",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Deposit\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "McDonald's",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 1.83,
+      "date": "2023-11-16",
+      "description": "McDonald's",
+      "guid": "4LApnojEVEtYwdjV1DRRU31ggA3gK5H1DgXjn",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "NINE TORCHES CRE 7156614378 12535913",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 86.09,
+      "date": "2023-12-20",
+      "description": "NINE TORCHES CRE 7156614378 12535913",
+      "guid": "nzMyAJRDwDH019LjKEeeupbzzJpz0ECMjwrdq",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "Taco Bell",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 4.85,
+      "date": "2023-11-08",
+      "description": "Taco Bell",
+      "guid": "nzMyAJRDwDH019LjKEeeupbzzJpz0ECMjwrEK",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "GINNYS INC CARD: 7725",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 50.0,
+      "date": "2023-11-22",
+      "description": "GINNYS INC CARD: 7725",
+      "guid": "nzMyAJRDwDH019LjKEeeupbzzJpz0ECMjwrmK",
+      "type": "DEBIT",
+      "category": "[\"Service\"]"
+    },
+    {
+      "originalDescription": "TIGER MART #51 WEATHERFORD TX CARD: 7725",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 7.11,
+      "date": "2023-12-11",
+      "description": "TIGER MART #51 WEATHERFORD TX CARD: 7725",
+      "guid": "nzMyAJRDwDH019LjKEeeupbzzJpz0ECMjwrRq",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Convenience Stores\"]"
+    },
+    {
+      "originalDescription": "ATT* BILL PAYMENT CARD: 7725",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 89.67,
+      "date": "2023-12-06",
+      "description": "ATT* BILL PAYMENT CARD: 7725",
+      "guid": "Da9zxenQoQHypz8RJXQQCVqLLYVLbrtzXm84n",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Telecommunication Services\"]"
+    },
+    {
+      "originalDescription": "WM SUPERCENTER #963 WEATHERFORD CARD: 7725",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 44.42,
+      "date": "2023-12-22",
+      "description": "WM SUPERCENTER #963 WEATHERFORD CARD: 7725",
+      "guid": "ONwzye50o0FJpOwXBDQQF13ee71eVMcZpmw6x",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Dollar Tree",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 41.64,
+      "date": "2023-11-22",
+      "description": "Dollar Tree",
+      "guid": "ONwzye50o0FJpOwXBDQQF13ee71eVMcZpmw7a",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Discount Stores\"]"
+    },
+    {
+      "originalDescription": "WEATHERFORD WEATHERFORD TX CARD: 7725",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 8.19,
+      "date": "2023-10-26",
+      "description": "WEATHERFORD WEATHERFORD TX CARD: 7725",
+      "guid": "ONwzye50o0FJpOwXBDQQF13ee71eVMcZpmwAa",
+      "type": "DEBIT",
+      "category": "[\"Recreation\"]"
+    },
+    {
+      "originalDescription": "Goodwill",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 7.0,
+      "date": "2023-12-12",
+      "description": "Goodwill",
+      "guid": "ONwzye50o0FJpOwXBDQQF13ee71eVMcZpmwdx",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Vintage and Thrift\"]"
+    },
+    {
+      "originalDescription": "Walmart",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 196.71,
+      "date": "2023-11-30",
+      "description": "Walmart",
+      "guid": "ONwzye50o0FJpOwXBDQQF13ee71eVMcZpmwjx",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "BOOST FINANCE PAYMENT PLMxxxxxx1A435C",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 67.09,
+      "date": "2023-12-05",
+      "description": "BOOST FINANCE PAYMENT PLMxxxxxx1A435C",
+      "guid": "36kpn5xOVOIox5OkEw44fx3oozxorbCzPE9nN",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]"
+    },
+    {
+      "originalDescription": "Home Depot",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 50.0,
+      "date": "2023-11-06",
+      "description": "Home Depot",
+      "guid": "36kpn5xOVOIox5OkEw44fx3oozxorbCzPE9N6",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Hardware Store\"]"
+    },
+    {
+      "originalDescription": "Walmart",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 129.66,
+      "date": "2023-11-20",
+      "description": "Walmart",
+      "guid": "36kpn5xOVOIox5OkEw44fx3oozxorbCzPE956",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "FROM JAMES PEARCE",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 200.0,
+      "date": "2023-11-10",
+      "description": "FROM JAMES PEARCE",
+      "guid": "ONwzye50o0FJpOwXBDQQF13ee71eVMcZpmwna",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "WM SUPERCENTER #963 WEATHERFORD TX CARD: 7725",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 219.99,
+      "date": "2023-12-18",
+      "description": "WM SUPERCENTER #963 WEATHERFORD TX CARD: 7725",
+      "guid": "36kpn5xOVOIox5OkEw44fx3oozxorbCzPE93N",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "FIG LOANS TEXAS 8328020344 2133814",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 72.5,
+      "date": "2024-01-12",
+      "description": "FIG LOANS TEXAS 8328020344 2133814",
+      "guid": "36kpn5xOVOIox5OkEw44fb4Zrzp5YVt7z71Xj",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]"
+    },
+    {
+      "originalDescription": "Dollar Tree",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 23.94,
+      "date": "2024-01-17",
+      "description": "Dollar Tree",
+      "guid": "36kpn5xOVOIox5OkEw44fb4Zrzp5YVt7z71X3",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Discount Stores\"]"
+    },
+    {
+      "originalDescription": "MDC*TRI COUNTY EC TEXA CARD: 7725",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 302.06,
+      "date": "2023-12-29",
+      "description": "MDC*TRI COUNTY EC TEXA CARD: 7725",
+      "guid": "36kpn5xOVOIox5OkEw44fb4Zrzp5YVt7z71Rj",
+      "type": "DEBIT",
+      "category": "[\"Service\"]"
+    },
+    {
+      "originalDescription": "QT 949 WEATHERFORD CARD: 7725",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 4.49,
+      "date": "2024-01-22",
+      "description": "QT 949 WEATHERFORD CARD: 7725",
+      "guid": "ONwzye50o0FJpOwXBDQQFMw4V7xbEaCVZVyLM",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "RiverValleyL 8339874837 7527252",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 57.87,
+      "date": "2024-01-05",
+      "description": "RiverValleyL 8339874837 7527252",
+      "guid": "ONwzye50o0FJpOwXBDQQFMw4V7xbEaCVZVyQ3",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "NINE TORCHES 7156614378 11978758",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 300.0,
+      "date": "2023-11-14",
+      "description": "NINE TORCHES 7156614378 11978758",
+      "guid": "ozEKr8B161HNonDxkM77C7oRRP7RaXudrV81L",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "WM SUPERCENTER #963 WEATHERFORD TX CARD: 7725",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 56.7,
+      "date": "2023-11-24",
+      "description": "WM SUPERCENTER #963 WEATHERFORD TX CARD: 7725",
+      "guid": "ozEKr8B161HNonDxkM77C7oRRP7RaXudrV8gL",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "WM SUPERCENTER #963 WEATHERFORD TX CARD: 7725",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 112.08,
+      "date": "2023-12-04",
+      "description": "WM SUPERCENTER #963 WEATHERFORD TX CARD: 7725",
+      "guid": "ozEKr8B161HNonDxkM77C7oRRP7RaXudrV8gR",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Dollar Tree",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 60.81,
+      "date": "2023-12-14",
+      "description": "Dollar Tree",
+      "guid": "ozEKr8B161HNonDxkM77C7oRRP7RaXudrV8mR",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Discount Stores\"]"
+    },
+    {
+      "originalDescription": "Walmart",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 110.98,
+      "date": "2023-12-29",
+      "description": "Walmart",
+      "guid": "1dypn8ZzEzUXAbxk6R00SBpRObkvDyUjojPeN",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "TRACTOR-SUPPLY-CO #036 WEATHERFORD TX CARD: 7725",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 39.49,
+      "date": "2023-10-31",
+      "description": "TRACTOR-SUPPLY-CO #036 WEATHERFORD TX CARD: 7725",
+      "guid": "ozEKr8B161HNonDxkM77C7oRRP7RaXudrV8vL",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Hardware Store\"]"
+    },
+    {
+      "originalDescription": "EECU CARD: 7725",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 552.39,
+      "date": "2024-01-18",
+      "description": "EECU CARD: 7725",
+      "guid": "1dypn8ZzEzUXAbxk6R00SBpRObkvDyUjojP5B",
+      "type": "DEBIT",
+      "category": "[\"Service\"]"
+    },
+    {
+      "originalDescription": "Target",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 31.51,
+      "date": "2023-12-18",
+      "description": "Target",
+      "guid": "1dypn8ZzEzUXAbxk6R00S9njjb9jOBSoY9Xz3",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "CASH FACTORY2TXD PAYMENT PLM2143842",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 109.47,
+      "date": "2023-12-05",
+      "description": "CASH FACTORY2TXD PAYMENT PLM2143842",
+      "guid": "1dypn8ZzEzUXAbxk6R00S9njjb9jOBSoY9Xy3",
+      "type": "DEBIT",
+      "category": "[\"Payment\"]"
+    },
+    {
+      "originalDescription": "Lowe's",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 26.55,
+      "date": "2023-11-20",
+      "description": "Lowe's",
+      "guid": "1dypn8ZzEzUXAbxk6R00S9njjb9jOBSoY9Xv9",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Hardware Store\"]"
+    },
+    {
+      "originalDescription": "Walmart",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 129.35,
+      "date": "2023-11-06",
+      "description": "Walmart",
+      "guid": "1dypn8ZzEzUXAbxk6R00S9njjb9jOBSoY9Xk9",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "GEICO",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 139.3,
+      "date": "2023-12-18",
+      "description": "GEICO",
+      "guid": "073pnJbEeEcjN9PawDvvuvK77ev7k1Cx9RbZp",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Insurance\"]"
+    },
+    {
+      "originalDescription": "H-E-B GAS/CARWASH #752 HUDSON OAKS CARD: 7725",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 20.13,
+      "date": "2023-12-26",
+      "description": "H-E-B GAS/CARWASH #752 HUDSON OAKS CARD: 7725",
+      "guid": "ozEKr8B161HNonDxkM77CXQ4aPY0ELUodowDO",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "ATM Image Deposit",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 100.0,
+      "date": "2024-01-08",
+      "description": "ATM Image Deposit",
+      "guid": "ozEKr8B161HNonDxkM77CXQ4aPY0ELUodowRO",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Deposit\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "BRIDGE LENDING S 8665720720 2311027JWH3NCCJ",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 90.0,
+      "date": "2023-11-03",
+      "description": "BRIDGE LENDING S 8665720720 2311027JWH3NCCJ",
+      "guid": "073pnJbEeEcjN9PawDvvuvK77ev7k1Cx9RbYr",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]"
+    },
+    {
+      "originalDescription": "WEATHERFORD WEATHERFORD TX CARD: 7725",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 5.93,
+      "date": "2023-12-04",
+      "description": "WEATHERFORD WEATHERFORD TX CARD: 7725",
+      "guid": "073pnJbEeEcjN9PawDvvuvK77ev7k1Cx9RbOp",
+      "type": "DEBIT",
+      "category": "[\"Recreation\"]"
+    },
+    {
+      "originalDescription": "H-E-B GAS/CARWASH #752 HUDSON OAKS CARD: 7725",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 31.09,
+      "date": "2023-12-29",
+      "description": "H-E-B GAS/CARWASH #752 HUDSON OAKS CARD: 7725",
+      "guid": "PN6zKedZoZF8Oo6mMgKKc58J1xoZpau1a19BN",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "EMPIRE OF BURLESON CARD: 7725",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 120.0,
+      "date": "2024-01-18",
+      "description": "EMPIRE OF BURLESON CARD: 7725",
+      "guid": "PN6zKedZoZF8Oo6mMgKKc58J1xoZpau1a19L5",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "ANCO INSURANCE M PAYROLL xxxxx A0700JPM1",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 2693.18,
+      "date": "2023-11-20",
+      "description": "ANCO INSURANCE M PAYROLL xxxxx A0700JPM1",
+      "guid": "073pnJbEeEcjN9PawDvvuvK77ev7k1Cx9Rb1r",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Payroll\"]"
+    },
+    {
+      "originalDescription": "Walmart",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 76.63,
+      "date": "2023-12-18",
+      "description": "Walmart",
+      "guid": "PN6zKedZoZF8Oo6mMgKKcMXrrxMr15HaOEZ00",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "ALDI 75082 WEATHERFORD TX CARD: 7725",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 31.54,
+      "date": "2023-12-28",
+      "description": "ALDI 75082 WEATHERFORD TX CARD: 7725",
+      "guid": "073pnJbEeEcjN9PawDvvu1amke8xRATVxVpmk",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Big Lots",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 19.68,
+      "date": "2024-01-16",
+      "description": "Big Lots",
+      "guid": "073pnJbEeEcjN9PawDvvu1amke8xRATVxVp6N",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Furniture and Home Decor\"]"
+    },
+    {
+      "originalDescription": "WM SUPERCENTER #3431 HUDSON OAKS CARD: 7725",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 6.67,
+      "date": "2024-01-09",
+      "description": "WM SUPERCENTER #3431 HUDSON OAKS CARD: 7725",
+      "guid": "073pnJbEeEcjN9PawDvvu1amke8xRATVxVp6k",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "BRIDGE LENDING S 8665720720 231204M4JRMNWB8",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 105.0,
+      "date": "2023-12-05",
+      "description": "BRIDGE LENDING S 8665720720 231204M4JRMNWB8",
+      "guid": "PN6zKedZoZF8Oo6mMgKKcMXrrxMr15HaOEZR0",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]"
+    },
+    {
+      "originalDescription": "Lowe's",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 15.93,
+      "date": "2023-11-20",
+      "description": "Lowe's",
+      "guid": "PN6zKedZoZF8Oo6mMgKKcMXrrxMr15HaOEZx8",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Hardware Store\"]"
+    },
+    {
+      "originalDescription": "Jimmy Johns",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 10.37,
+      "date": "2023-11-06",
+      "description": "Jimmy Johns",
+      "guid": "PN6zKedZoZF8Oo6mMgKKcMXrrxMr15HaOEZz8",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "Teller Cash Check 110",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 100.0,
+      "date": "2024-01-02",
+      "description": "Teller Cash Check 110",
+      "guid": "pzRkxZ0dLdHLYX1njweef8R3KOVm0xfZ7ZY9B",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\",\"Check\"]"
+    },
+    {
+      "originalDescription": "Check 111",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 300.0,
+      "date": "2024-01-19",
+      "description": "Check 111",
+      "guid": "pzRkxZ0dLdHLYX1njweef8R3KOVm0xfZ7ZYPZ",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\",\"Check\"]"
+    },
+    {
+      "originalDescription": "Check 9000",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 86.09,
+      "date": "2023-11-21",
+      "description": "Check 9000",
+      "guid": "pzRkxZ0dLdHLYX1njweefbz99Ob9K8U7A5v00",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\",\"Check\"]"
+    },
+    {
+      "originalDescription": "BOOST FINANCE PAYMENT PLMxxxxxxEB0084",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 67.09,
+      "date": "2023-12-20",
+      "description": "BOOST FINANCE PAYMENT PLMxxxxxxEB0084",
+      "guid": "pzRkxZ0dLdHLYX1njweefbz99Ob9K8U7A5vBa",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]"
+    },
+    {
+      "originalDescription": "Home Depot",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 8.05,
+      "date": "2023-12-11",
+      "description": "Home Depot",
+      "guid": "pzRkxZ0dLdHLYX1njweefbz99Ob9K8U7A5vEa",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Hardware Store\"]"
+    },
+    {
+      "originalDescription": "CASH FACTORY2TXC ADVANCE PLM2122059",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 400.0,
+      "date": "2023-11-08",
+      "description": "CASH FACTORY2TXC ADVANCE PLM2122059",
+      "guid": "pzRkxZ0dLdHLYX1njweefbz99Ob9K8U7A5vK0",
+      "type": "CREDIT",
+      "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]"
+    },
+    {
+      "originalDescription": "Walmart",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 103.08,
+      "date": "2023-11-08",
+      "description": "Walmart",
+      "guid": "QNLzkewQoQFZ8zLV1pJJf1njjQ1jzYcw9aN7Y",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "FRONTIER WASTE SOLUTIO CARD: 7725",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 52.06,
+      "date": "2023-11-22",
+      "description": "FRONTIER WASTE SOLUTIO CARD: 7725",
+      "guid": "QNLzkewQoQFZ8zLV1pJJf1njjQ1jzYcw9aNQY",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Utilities\",\"Sanitary and Waste Management\"]"
+    },
+    {
+      "originalDescription": "WM SUPERCENTER #3431 HUDSON OAKS CARD: 7725",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 16.69,
+      "date": "2023-12-11",
+      "description": "WM SUPERCENTER #3431 HUDSON OAKS CARD: 7725",
+      "guid": "QNLzkewQoQFZ8zLV1pJJf1njjQ1jzYcw9aNYw",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "BRIDGE LENDING S 8665720720 231219QEBOK52ON",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 100.5,
+      "date": "2023-12-20",
+      "description": "BRIDGE LENDING S 8665720720 231219QEBOK52ON",
+      "guid": "QNLzkewQoQFZ8zLV1pJJf1njjQ1jzYcw9aNZw",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]"
+    },
+    {
+      "originalDescription": "NINE TORCHES CRE 7156614378 13138891",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 137.98,
+      "date": "2024-01-22",
+      "description": "NINE TORCHES CRE 7156614378 13138891",
+      "guid": "QNLzkewQoQFZ8zLV1pJJfYNJzQOwomizwz839",
+      "type": "CREDIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "GOLD-N-PAWN WEATHERFORD CARD: 7725",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 12.0,
+      "date": "2024-01-03",
+      "description": "GOLD-N-PAWN WEATHERFORD CARD: 7725",
+      "guid": "QNLzkewQoQFZ8zLV1pJJfYNJzQOwomizwz8po",
+      "type": "DEBIT",
+      "category": "[\"Recreation\"]"
+    },
+    {
+      "originalDescription": "NINE TORCHES CRE 7156614378 12299589",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 86.09,
+      "date": "2023-12-05",
+      "description": "NINE TORCHES CRE 7156614378 12299589",
+      "guid": "qzQAr5jwDwHLOaPkX677f3PBBa3BKpHx1gb99",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "Walmart",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 50.97,
+      "date": "2023-11-06",
+      "description": "Walmart",
+      "guid": "qzQAr5jwDwHLOaPkX677f3PBBa3BKpHx1gbK3",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "IRON FAITH CHURCH WWW.IRONFAITH CARD: 7725",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 102.5,
+      "date": "2023-12-18",
+      "description": "IRON FAITH CHURCH WWW.IRONFAITH CARD: 7725",
+      "guid": "qzQAr5jwDwHLOaPkX677f3PBBa3BKpHx1gbm9",
+      "type": "DEBIT",
+      "category": "[\"Community\",\"Religious\",\"Churches\"]"
+    },
+    {
+      "originalDescription": "GEICO",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 139.3,
+      "date": "2023-11-20",
+      "description": "GEICO",
+      "guid": "qzQAr5jwDwHLOaPkX677f3PBBa3BKpHx1gbY3",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Insurance\"]"
+    },
+    {
+      "originalDescription": "H-E-B #752 HUDSON OAKS TX CARD: 7725",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 41.39,
+      "date": "2023-12-29",
+      "description": "H-E-B #752 HUDSON OAKS TX CARD: 7725",
+      "guid": "qzQAr5jwDwHLOaPkX677fprDKa1ZjxFBxBd76",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "FRONTIER WASTE SOLUTIO CARD: 7725",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 55.57,
+      "date": "2024-01-18",
+      "description": "FRONTIER WASTE SOLUTIO CARD: 7725",
+      "guid": "qzQAr5jwDwHLOaPkX677fprDKa1ZjxFBxBdRO",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Utilities\",\"Sanitary and Waste Management\"]"
+    },
+    {
+      "originalDescription": "EMPIRE OF BURLESON CARD: 7725",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 18.18,
+      "date": "2023-11-22",
+      "description": "EMPIRE OF BURLESON CARD: 7725",
+      "guid": "RNDzAe64o4F5XRD97o33H7mvv67v4MuK9jO6v",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "Dollar Tree",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 10.41,
+      "date": "2023-11-28",
+      "description": "Dollar Tree",
+      "guid": "RNDzAe64o4F5XRD97o33H7mvv67v4MuK9jOa4",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Discount Stores\"]"
+    },
+    {
+      "originalDescription": "Dollar Tree",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 34.67,
+      "date": "2023-11-08",
+      "description": "Dollar Tree",
+      "guid": "RNDzAe64o4F5XRD97o33H7mvv67v4MuK9jOLv",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Discount Stores\"]"
+    },
+    {
+      "originalDescription": "CASH FACTORY2TXD PAYMENT PLM2155877",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 109.47,
+      "date": "2023-12-20",
+      "description": "CASH FACTORY2TXD PAYMENT PLM2155877",
+      "guid": "RNDzAe64o4F5XRD97o33H7mvv67v4MuK9jOv4",
+      "type": "DEBIT",
+      "category": "[\"Payment\"]"
+    },
+    {
+      "originalDescription": "TRACTOR-SUPPLY-CO #036 WEATHERFORD TX CARD: 7725",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 7.03,
+      "date": "2023-12-11",
+      "description": "TRACTOR-SUPPLY-CO #036 WEATHERFORD TX CARD: 7725",
+      "guid": "RNDzAe64o4F5XRD97o33H7mvv67v4MuK9jOx4",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Hardware Store\"]"
+    },
+    {
+      "originalDescription": "EECU QC TX CARD: 7725",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 50.0,
+      "date": "2024-01-22",
+      "description": "EECU QC TX CARD: 7725",
+      "guid": "RNDzAe64o4F5XRD97o33HMr146eOxkC4K4wJe",
+      "type": "DEBIT",
+      "category": "[\"Service\"]"
+    },
+    {
+      "originalDescription": "Dollar Tree",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 16.24,
+      "date": "2024-01-04",
+      "description": "Dollar Tree",
+      "guid": "RNDzAe64o4F5XRD97o33HMr146eOxkC4K4wMQ",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Discount Stores\"]"
+    },
+    {
+      "originalDescription": "OPC*CONN APPLIANCESINC CARD: 7725",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 300.33,
+      "date": "2023-12-04",
+      "description": "OPC*CONN APPLIANCESINC CARD: 7725",
+      "guid": "rznvrox717HN0eqkALBBC0DjjJ0jr3UKrkvNR",
+      "type": "DEBIT",
+      "category": "[\"Service\"]"
+    },
+    {
+      "originalDescription": "WM SUPERCENTER #963 WEATHERFORD CARD: 7725",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 16.11,
+      "date": "2023-11-16",
+      "description": "WM SUPERCENTER #963 WEATHERFORD CARD: 7725",
+      "guid": "rznvrox717HN0eqkALBBC0DjjJ0jr3UKrkvOr",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "TO drew pearce",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 100.0,
+      "date": "2023-11-03",
+      "description": "TO drew pearce",
+      "guid": "rznvrox717HN0eqkALBBC0DjjJ0jr3UKrkvQr",
+      "type": "DEBIT",
+      "category": "[\"Shops\"]"
+    },
+    {
+      "originalDescription": "Walmart",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 50.75,
+      "date": "2024-01-16",
+      "description": "Walmart",
+      "guid": "rznvrox717HN0eqkALBBC3ZVrJ6KndcaKaXoP",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "TIGER MART #51 WEATHERFORD TX CARD: 7725",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 5.07,
+      "date": "2024-01-09",
+      "description": "TIGER MART #51 WEATHERFORD TX CARD: 7725",
+      "guid": "rznvrox717HN0eqkALBBC3ZVrJ6KndcaKaXoZ",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Convenience Stores\"]"
+    },
+    {
+      "originalDescription": "Walmart",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 194.95,
+      "date": "2023-12-28",
+      "description": "Walmart",
+      "guid": "rznvrox717HN0eqkALBBC3ZVrJ6KndcaKaXzZ",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "CVS",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 15.79,
+      "date": "2023-11-13",
+      "description": "CVS",
+      "guid": "VNBzXeyA5AF7ZOBK6wrrf6Eeev6eXNHznoR0E",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Pharmacies\"]"
+    },
+    {
+      "originalDescription": "Service Charge/Fee",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 6.0,
+      "date": "2023-12-12",
+      "description": "Service Charge/Fee",
+      "guid": "VNBzXeyA5AF7ZOBK6wrrf6Eeev6eXNHznoR1r",
+      "type": "DEBIT",
+      "category": "[\"Bank Fees\"]"
+    },
+    {
+      "originalDescription": "Walmart",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 5.86,
+      "date": "2023-12-22",
+      "description": "Walmart",
+      "guid": "VNBzXeyA5AF7ZOBK6wrrf6Eeev6eXNHznoR9r",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Lowe's",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 32.1,
+      "date": "2023-11-22",
+      "description": "Lowe's",
+      "guid": "VNBzXeyA5AF7ZOBK6wrrf6Eeev6eXNHznoRvE",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Hardware Store\"]"
+    },
+    {
+      "originalDescription": "TO drew pearce",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 40.0,
+      "date": "2023-11-30",
+      "description": "TO drew pearce",
+      "guid": "VNBzXeyA5AF7ZOBK6wrrf6Eeev6eXNHznoRvr",
+      "type": "DEBIT",
+      "category": "[\"Shops\"]"
+    },
+    {
+      "originalDescription": "WM SUPERCENTER #963 WEATHERFORD TX CARD: 7725",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 69.62,
+      "date": "2023-10-27",
+      "description": "WM SUPERCENTER #963 WEATHERFORD TX CARD: 7725",
+      "guid": "VNBzXeyA5AF7ZOBK6wrrf6Eeev6eXNHznoRyE",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "ATM Image Deposit",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 100.0,
+      "date": "2023-12-26",
+      "description": "ATM Image Deposit",
+      "guid": "VNBzXeyA5AF7ZOBK6wrrfNbkXv4RVDCXzXVbD",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Deposit\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "BOOST FINANCE PAYMENT PLM339853EA5B9E",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 67.09,
+      "date": "2024-01-05",
+      "description": "BOOST FINANCE PAYMENT PLM339853EA5B9E",
+      "guid": "VNBzXeyA5AF7ZOBK6wrrfNbkXv4RVDCXzXVPD",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]"
+    },
+    {
+      "originalDescription": "Walmart",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 50.65,
+      "date": "2024-01-22",
+      "description": "Walmart",
+      "guid": "VNBzXeyA5AF7ZOBK6wrrfNbkXv4RVDCXzXVZd",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "WM SUPERCENTER #963 WEATHERFORD CARD: 7725",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 5.97,
+      "date": "2023-12-28",
+      "description": "WM SUPERCENTER #963 WEATHERFORD CARD: 7725",
+      "guid": "vzw4g9mo3oHzynKd8qPPCJoVRBj0KLFkYkZAA",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "CORE INSURANCE G DIRECT DEP xxxxxxxx4695AEC",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 1158.2,
+      "date": "2024-01-11",
+      "description": "CORE INSURANCE G DIRECT DEP xxxxxxxx4695AEC",
+      "guid": "vzw4g9mo3oHzynKd8qPPCJoVRBj0KLFkYkZwA",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Payroll\"]"
+    },
+    {
+      "originalDescription": "ATT* BILL PAYMENT CARD: 7725",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 89.67,
+      "date": "2024-01-16",
+      "description": "ATT* BILL PAYMENT CARD: 7725",
+      "guid": "vzw4g9mo3oHzynKd8qPPCJoVRBj0KLFkYkZwR",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Telecommunication Services\"]"
+    },
+    {
+      "originalDescription": "McDonald's",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 5.61,
+      "date": "2023-11-06",
+      "description": "McDonald's",
+      "guid": "vzw4g9mo3oHzynKd8qPPCnY11Bn1RJHYprQaM",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "Walmart",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 61.88,
+      "date": "2023-12-04",
+      "description": "Walmart",
+      "guid": "vzw4g9mo3oHzynKd8qPPCnY11Bn1RJHYprQKE",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "COUNTRY DOOR INC CARD: 7725",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 35.0,
+      "date": "2023-11-20",
+      "description": "COUNTRY DOOR INC CARD: 7725",
+      "guid": "vzw4g9mo3oHzynKd8qPPCnY11Bn1RJHYprQLM",
+      "type": "DEBIT",
+      "category": "[\"Service\"]"
+    },
+    {
+      "originalDescription": "Jimmy Johns",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 7.88,
+      "date": "2023-12-18",
+      "description": "Jimmy Johns",
+      "guid": "vzw4g9mo3oHzynKd8qPPCnY11Bn1RJHYprQxE",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "Big Lots",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 68.14,
+      "date": "2024-01-02",
+      "description": "Big Lots",
+      "guid": "wz6aRVojyjHQR1kwpBqqI4EKLZ1AaJIyeyQja",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Furniture and Home Decor\"]"
+    },
+    {
+      "originalDescription": "GINNYS INC CARD: 7725",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 35.0,
+      "date": "2024-01-19",
+      "description": "GINNYS INC CARD: 7725",
+      "guid": "wz6aRVojyjHQR1kwpBqqI4EKLZ1AaJIyeyQmX",
+      "type": "DEBIT",
+      "category": "[\"Service\"]"
+    },
+    {
+      "originalDescription": "FROM JAMES PEARCE",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 300.0,
+      "date": "2023-12-08",
+      "description": "FROM JAMES PEARCE",
+      "guid": "wz6aRVojyjHQR1kwpBqqIXNqqZXqL4HeR5a0w",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "RiverValleyL 8339874837 7527249",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 57.87,
+      "date": "2023-11-20",
+      "description": "RiverValleyL 8339874837 7527249",
+      "guid": "wz6aRVojyjHQR1kwpBqqIXNqqZXqL4HeR5a4b",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "OPC*CONN APPLIANCESINC CARD: 7725",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 300.33,
+      "date": "2023-11-06",
+      "description": "OPC*CONN APPLIANCESINC CARD: 7725",
+      "guid": "wz6aRVojyjHQR1kwpBqqIXNqqZXqL4HeR5aAb",
+      "type": "DEBIT",
+      "category": "[\"Service\"]"
+    },
+    {
+      "originalDescription": "TO drew pearce",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 100.0,
+      "date": "2023-12-18",
+      "description": "TO drew pearce",
+      "guid": "wz6aRVojyjHQR1kwpBqqIXNqqZXqL4HeR5aPw",
+      "type": "DEBIT",
+      "category": "[\"Shops\"]"
+    },
+    {
+      "originalDescription": "TO drew pearce",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 60.0,
+      "date": "2024-01-02",
+      "description": "TO drew pearce",
+      "guid": "XNyzXeBM5MFVzYydXLbbiPR60qdo4VI0O0E3A",
+      "type": "DEBIT",
+      "category": "[\"Shops\"]"
+    },
+    {
+      "originalDescription": "CASH FACTORY2TXD PAYMENT PLM2180137",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 109.47,
+      "date": "2024-01-19",
+      "description": "CASH FACTORY2TXD PAYMENT PLM2180137",
+      "guid": "XNyzXeBM5MFVzYydXLbbiPR60qdo4VI0O0EvO",
+      "type": "DEBIT",
+      "category": "[\"Payment\"]"
+    },
+    {
+      "originalDescription": "Walmart",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 78.54,
+      "date": "2023-12-11",
+      "description": "Walmart",
+      "guid": "XNyzXeBM5MFVzYydXLbbiXD33qX30PHOzZoAy",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "OPORTUN/PROGRESS ACH 5761474",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 21.53,
+      "date": "2023-11-21",
+      "description": "OPORTUN/PROGRESS ACH 5761474",
+      "guid": "XNyzXeBM5MFVzYydXLbbiXD33qX30PHOzZoBJ",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "RiverValleyL 8339874837 7527251",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 57.87,
+      "date": "2023-12-20",
+      "description": "RiverValleyL 8339874837 7527251",
+      "guid": "XNyzXeBM5MFVzYydXLbbiXD33qX30PHOzZoey",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "TO drew pearce",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 30.0,
+      "date": "2023-11-07",
+      "description": "TO drew pearce",
+      "guid": "XNyzXeBM5MFVzYydXLbbiXD33qX30PHOzZoJJ",
+      "type": "DEBIT",
+      "category": "[\"Shops\"]"
+    },
+    {
+      "originalDescription": "ATM Withdrawal",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 23.0,
+      "date": "2023-11-15",
+      "description": "ATM Withdrawal",
+      "guid": "xzLxrYJ9K9HdwzA603VVFavAALaAKouAmPe1A",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "ANCO INSURANCE M PAYROLL xxxxx A0700JPM1",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 2845.58,
+      "date": "2023-11-03",
+      "description": "ANCO INSURANCE M PAYROLL xxxxx A0700JPM1",
+      "guid": "xzLxrYJ9K9HdwzA603VVFavAALaAKouAmPeEA",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Payroll\"]"
+    },
+    {
+      "originalDescription": "SIMPLE FAST LOAN 8665211445 xxxxxxx458e342e",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 200.0,
+      "date": "2023-11-28",
+      "description": "SIMPLE FAST LOAN 8665211445 xxxxxxx458e342e",
+      "guid": "xzLxrYJ9K9HdwzA603VVFavAALaAKouAmPeqA",
+      "type": "CREDIT",
+      "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]"
+    },
+    {
+      "originalDescription": "WM SUPERCENTER #963 WEATHERFORD TX CARD: 7725",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 78.46,
+      "date": "2023-12-04",
+      "description": "WM SUPERCENTER #963 WEATHERFORD TX CARD: 7725",
+      "guid": "xzLxrYJ9K9HdwzA603VVFavAALaAKouAmPeqP",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "SUNFLOWER SHOPPE #2 FORT WORTH TX CARD: 7725",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 76.07,
+      "date": "2023-12-15",
+      "description": "SUNFLOWER SHOPPE #2 FORT WORTH TX CARD: 7725",
+      "guid": "xzLxrYJ9K9HdwzA603VVFavAALaAKouAmPewP",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "FRONTIER WASTE SOLUTIO CARD: 7725",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 55.57,
+      "date": "2024-01-08",
+      "description": "FRONTIER WASTE SOLUTIO CARD: 7725",
+      "guid": "xzLxrYJ9K9HdwzA603VVFoqOKLDkZbCJAJd7m",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Utilities\",\"Sanitary and Waste Management\"]"
+    },
+    {
+      "originalDescription": "NNT HARBOR FREIGHT 000 WEATHERFORD TX CARD: 7725",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 45.66,
+      "date": "2024-01-16",
+      "description": "NNT HARBOR FREIGHT 000 WEATHERFORD TX CARD: 7725",
+      "guid": "xzLxrYJ9K9HdwzA603VVFoqOKLDkZbCJAJd7X",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Hardware Store\"]"
+    },
+    {
+      "originalDescription": "Walmart",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 28.35,
+      "date": "2023-12-27",
+      "description": "Walmart",
+      "guid": "xzLxrYJ9K9HdwzA603VVFoqOKLDkZbCJAJd9m",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "WEATHERFORD WEATHERFORD TX CARD: 7725",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 5.93,
+      "date": "2024-01-19",
+      "description": "WEATHERFORD WEATHERFORD TX CARD: 7725",
+      "guid": "YNKzXd9rQrFAQnKwpDxxCmE9woJRjZCwnwvAY",
+      "type": "DEBIT",
+      "category": "[\"Recreation\"]"
+    },
+    {
+      "originalDescription": "Walmart",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 75.05,
+      "date": "2024-01-02",
+      "description": "Walmart",
+      "guid": "YNKzXd9rQrFAQnKwpDxxCmE9woJRjZCwnwvKm",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "CASH FACTORY2TXD PAYMENT PLM2131913",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 109.47,
+      "date": "2023-11-20",
+      "description": "CASH FACTORY2TXD PAYMENT PLM2131913",
+      "guid": "YNKzXd9rQrFAQnKwpDxxCpqkkopkwmCnzZ06B",
+      "type": "DEBIT",
+      "category": "[\"Payment\"]"
+    },
+    {
+      "originalDescription": "Walmart",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 138.46,
+      "date": "2023-12-08",
+      "description": "Walmart",
+      "guid": "YNKzXd9rQrFAQnKwpDxxCpqkkopkwmCnzZ0kg",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Aim Mail Center #115 WEATHERFORD TX CARD: 7725",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 26.4,
+      "date": "2023-11-07",
+      "description": "Aim Mail Center #115 WEATHERFORD TX CARD: 7725",
+      "guid": "YNKzXd9rQrFAQnKwpDxxCpqkkopkwmCnzZ0mB",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "Harbor Freight Tools",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 74.61,
+      "date": "2023-12-20",
+      "description": "Harbor Freight Tools",
+      "guid": "YNKzXd9rQrFAQnKwpDxxCpqkkopkwmCnzZ0Rg",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Hardware Store\"]"
+    },
+    {
+      "originalDescription": "Jimmy Johns",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 7.88,
+      "date": "2023-11-06",
+      "description": "Jimmy Johns",
+      "guid": "yzDJ4Y37k7HwqevLPyoofaJZZLaZgXuDRb45w",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "TRACTOR-SUPPLY-CO #036 WEATHERFORD TX CARD: 7725",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 37.32,
+      "date": "2023-12-18",
+      "description": "TRACTOR-SUPPLY-CO #036 WEATHERFORD TX CARD: 7725",
+      "guid": "yzDJ4Y37k7HwqevLPyoofaJZZLaZgXuDRb4ez",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Hardware Store\"]"
+    },
+    {
+      "originalDescription": "RiverValleyL 8339874837 7527250",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 57.87,
+      "date": "2023-12-05",
+      "description": "RiverValleyL 8339874837 7527250",
+      "guid": "yzDJ4Y37k7HwqevLPyoofaJZZLaZgXuDRb4qz",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "H-E-B #752 HUDSON OAKS TX CARD: 7725",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 82.5,
+      "date": "2023-11-20",
+      "description": "H-E-B #752 HUDSON OAKS TX CARD: 7725",
+      "guid": "yzDJ4Y37k7HwqevLPyoofaJZZLaZgXuDRb4Vw",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Chick-fil-A",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 8.23,
+      "date": "2023-12-29",
+      "description": "Chick-fil-A",
+      "guid": "yzDJ4Y37k7HwqevLPyoofXPpgL64mkU3D3Qvd",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "Service Charge/Fee",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 2.0,
+      "date": "2024-01-11",
+      "description": "Service Charge/Fee",
+      "guid": "yzDJ4Y37k7HwqevLPyoofXPpgL64mkU3D3Qwd",
+      "type": "DEBIT",
+      "category": "[\"Bank Fees\"]"
+    },
+    {
+      "originalDescription": "Harbor Freight Tools",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 46.91,
+      "date": "2024-01-17",
+      "description": "Harbor Freight Tools",
+      "guid": "yzDJ4Y37k7HwqevLPyoofXPpgL64mkU3D3Qwq",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Hardware Store\"]"
+    },
+    {
+      "originalDescription": "Taco Bell",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 8.42,
+      "date": "2024-01-08",
+      "description": "Taco Bell",
+      "guid": "ZNkzXwev5vF9ZXkzm1BBt8avV7bPN0fVzVmez",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "H-E-B #752 HUDSON OAKS TX CARD: 7725",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 29.9,
+      "date": "2023-12-26",
+      "description": "H-E-B #752 HUDSON OAKS TX CARD: 7725",
+      "guid": "ZNkzXwev5vF9ZXkzm1BBt8avV7bPN0fVzVmMz",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Dollar Tree",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 15.83,
+      "date": "2023-10-31",
+      "description": "Dollar Tree",
+      "guid": "ZNkzXwev5vF9ZXkzm1BBtmAqq7mqV8iz850nj",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Discount Stores\"]"
+    },
+    {
+      "originalDescription": "BROOKSHIRES FUEL 119 WEATHERFORD CARD: 7725",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 42.58,
+      "date": "2023-12-04",
+      "description": "BROOKSHIRES FUEL 119 WEATHERFORD CARD: 7725",
+      "guid": "ZNkzXwev5vF9ZXkzm1BBtmAqq7mqV8iz850oB",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "ATM Withdrawal",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 43.0,
+      "date": "2023-11-27",
+      "description": "ATM Withdrawal",
+      "guid": "ZNkzXwev5vF9ZXkzm1BBtmAqq7mqV8iz850oj",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "Walmart",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 87.66,
+      "date": "2023-12-14",
+      "description": "Walmart",
+      "guid": "ZNkzXwev5vF9ZXkzm1BBtmAqq7mqV8iz850YB",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "WM SUPERCENTER #963 WEATHERFORD CARD: 7725",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 33.28,
+      "date": "2023-11-14",
+      "description": "WM SUPERCENTER #963 WEATHERFORD CARD: 7725",
+      "guid": "ZNkzXwev5vF9ZXkzm1BBtmAqq7mqV8iz850yj",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Walmart",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 5.97,
+      "date": "2023-12-08",
+      "description": "Walmart",
+      "guid": "zz18aYvoAoH6Vn0DPKyycAP334A3nBizMPg0Y",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "GOLD-N-PAWN WEATHERFORD CARD: 7725",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 24.0,
+      "date": "2023-11-07",
+      "description": "GOLD-N-PAWN WEATHERFORD CARD: 7725",
+      "guid": "zz18aYvoAoH6Vn0DPKyycAP334A3nBizMPgEg",
+      "type": "DEBIT",
+      "category": "[\"Recreation\"]"
+    },
+    {
+      "originalDescription": "Debit Card Credit",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 23.8,
+      "date": "2023-12-20",
+      "description": "Debit Card Credit",
+      "guid": "zz18aYvoAoH6Vn0DPKyycAP334A3nBizMPgVY",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "BRIDGE LENDING S 8665720720 xxxxxxOGAU87J89",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 90.0,
+      "date": "2023-11-20",
+      "description": "BRIDGE LENDING S 8665720720 xxxxxxOGAU87J89",
+      "guid": "zz18aYvoAoH6Vn0DPKyycAP334A3nBizMPgwg",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]"
+    },
+    {
+      "originalDescription": "Taco Bell",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 4.42,
+      "date": "2024-01-02",
+      "description": "Taco Bell",
+      "guid": "zz18aYvoAoH6Vn0DPKyycB0vn4xLokUdzde6m",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "WM SUPERCENTER #963 WEATHERFORD TX CARD: 7725",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 107.7,
+      "date": "2024-01-19",
+      "description": "WM SUPERCENTER #963 WEATHERFORD TX CARD: 7725",
+      "guid": "zz18aYvoAoH6Vn0DPKyycB0vn4xLokUdzdepJ",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "WM SUPERCENTER #963 WEATHERFORD CARD: 7725",
+      "accountGuid": "bNxzw31KgKFBgXxR5zVVCL6qD3XwozUon5ynv",
+      "amount": 16.83,
+      "date": "2024-01-23",
+      "description": "WM SUPERCENTER #963 WEATHERFORD CARD: 7725",
+      "guid": "ExVzde1JoJFK7jvR8411Fk5vJaLrEqunyQ5je",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    }
+  ],
+  "asOfDate": "2024-01-23"
+}

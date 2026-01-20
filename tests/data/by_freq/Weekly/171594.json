@@ -1,0 +1,4687 @@
+{
+  "accounts": [
+    {
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "currentBalance": -2.7,
+      "currentBalanceDate": "2024-01-25"
+    },
+    {
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "currentBalance": 478.81,
+      "currentBalanceDate": "2024-01-25"
+    }
+  ],
+  "transactions": [
+    {
+      "originalDescription": "MONEY MESSIAH II DES:XXXXX78150 ID:XXXXX5142516QT6 INDN:CARMELO K CELESTIN CO ID:XXXXX42040 PPD",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 500.0,
+      "date": "2024-01-25",
+      "description": "MONEY MESSIAH II DES:XXXXX78150 ID:XXXXX5142516QT6 INDN:CARMELO K CELESTIN CO ID:XXXXX42040 PPD",
+      "guid": "6pByEYmmyvIyKKpdk5XNH9DVeOeYdrhNvaaoV",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Payroll\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1026 MR. SUBMARINE XXX-XX42911 IL XXXXX9533XXXXXXXXXX1464",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 19.25,
+      "date": "2023-10-30",
+      "description": "CHECKCARD 1026 MR. SUBMARINE XXX-XX42911 IL XXXXX9533XXXXXXXXXX1464",
+      "guid": "azbmP3jjmgI7xxzd3MOZFPbj51zrMRUKrBLDQ",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "CITGO",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 6.33,
+      "date": "2023-11-08",
+      "description": "CITGO",
+      "guid": "azbmP3jjmgI7xxzd3MOZFPbj51zrMRUKrBLqb",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1121 BERWYN MART",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 51.05,
+      "date": "2023-11-21",
+      "description": "CHECKCARD 1121 BERWYN MART",
+      "guid": "azbmP3jjmgI7xxzd3MOZFPbj51zrMRUKrBLxb",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 0105 SAFEGUARD 170107 LYONS IL XXXXX0540XXXXXXXXXX5861",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 92.0,
+      "date": "2024-01-08",
+      "description": "CHECKCARD 0105 SAFEGUARD 170107 LYONS IL XXXXX0540XXXXXXXXXX5861",
+      "guid": "azbmP3jjmgI7xxzd3MOZFPbqeaL70RIKob0re",
+      "type": "DEBIT",
+      "category": "[\"Payment\"]"
+    },
+    {
+      "originalDescription": "BKOFAMERICA ATM 12/24 #XXXXX4995 WITHDRWL BERWYN",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 20.0,
+      "date": "2023-12-26",
+      "description": "BKOFAMERICA ATM 12/24 #XXXXX4995 WITHDRWL BERWYN",
+      "guid": "azbmP3jjmgI7xxzd3MOZFPbqeaL70RIKobmwo",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "Walmart",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 37.07,
+      "date": "2024-01-16",
+      "description": "Walmart",
+      "guid": "azbmP3jjmgI7xxzd3MOZFPbqeaL70RIKobmYe",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "CONT FINANCE DES:PAY BY PHO ID:XXXXXXXXXX93324 INDN:Celestin Carmelo CO ID:XXXXX30448 TEL",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 75.0,
+      "date": "2023-11-28",
+      "description": "CONT FINANCE DES:PAY BY PHO ID:XXXXXXXXXX93324 INDN:Celestin Carmelo CO ID:XXXXX30448 TEL",
+      "guid": "AzmNv6EENoIP77jyOdv6u7O6mLxyYNiwXDR3D",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1123 LUCKY DOG BERWYN BERWYN IL XXXXX6133XXXXXXXXXX2081",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 9.75,
+      "date": "2023-11-27",
+      "description": "CHECKCARD 1123 LUCKY DOG BERWYN BERWYN IL XXXXX6133XXXXXXXXXX2081",
+      "guid": "AzmNv6EENoIP77jyOdv6u7O6mLxyYNiwXDR3w",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "Online Banking transfer from CHK 5977 Confirmation# XXXXX13517",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 150.0,
+      "date": "2023-11-10",
+      "description": "Online Banking transfer from CHK 5977 Confirmation# XXXXX13517",
+      "guid": "AzmNv6EENoIP77jyOdv6u7O6mLxyYNiwXDRaw",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Internal Account Transfer\"]"
+    },
+    {
+      "originalDescription": "Starbucks",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 15.0,
+      "date": "2023-10-30",
+      "description": "Starbucks",
+      "guid": "7egKDYbbK0f455LO7pQKTjLp7n0XbYt8pX7wV",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Coffee Shop\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1031 BSAW-MINNEAPOL",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 50.0,
+      "date": "2023-10-31",
+      "description": "CHECKCARD 1031 BSAW-MINNEAPOL",
+      "guid": "AzmNv6EENoIP77jyOdv6u7O6mLxyYNiwXDRLw",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1118 COMED PAYMENT IL XXXXX1533XXXXXXXXXX9847",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 30.23,
+      "date": "2023-11-20",
+      "description": "CHECKCARD 1118 COMED PAYMENT IL XXXXX1533XXXXXXXXXX9847",
+      "guid": "7egKDYbbK0f455LO7pQKTjLKbDEONwH8pX7KZ",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Utilities\"]"
+    },
+    {
+      "originalDescription": "ExxonMobil",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 50.49,
+      "date": "2023-10-30",
+      "description": "ExxonMobil",
+      "guid": "AzmNv6EENoIP77jyOdv6u7O6mLxyYNiwXDRpx",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1105 MORAINE VALLEY FPAC IL XXXXX2333XXXXXXXXXX2148",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 8.0,
+      "date": "2023-11-06",
+      "description": "CHECKCARD 1105 MORAINE VALLEY FPAC IL XXXXX2333XXXXXXXXXX2148",
+      "guid": "7egKDYbbK0f455LO7pQKTjLKbDEONwH8pX7dZ",
+      "type": "DEBIT",
+      "category": "[\"Service\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 0112 JEWEL OSCO 4500 CHICAGO IL XXXXX5240XXXXXXXXXX6216",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 27.52,
+      "date": "2024-01-16",
+      "description": "CHECKCARD 0112 JEWEL OSCO 4500 CHICAGO IL XXXXX5240XXXXXXXXXX6216",
+      "guid": "7egKDYbbK0f455LO7pQKTjLAJVmYpwF8vEoZK",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "PMNT SENT 0110 CASH APP*CHRIS XXX-XX91940 CA XXXXX3840XXXXXXXXXX8052",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 10.0,
+      "date": "2024-01-11",
+      "description": "PMNT SENT 0110 CASH APP*CHRIS XXX-XX91940 CA XXXXX3840XXXXXXXXXX8052",
+      "guid": "AzmNv6EENoIP77jyOdv6u7OebgBnQNuwKQmXe",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "CONCORA CREDIT DES:PAYMENT ID:XXXXXXXXXX19892 INDN:CELESTIN CARMELO CO ID:XXXXX36529 WEB",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 91.0,
+      "date": "2024-01-08",
+      "description": "CONCORA CREDIT DES:PAYMENT ID:XXXXXXXXXX19892 INDN:CELESTIN CARMELO CO ID:XXXXX36529 WEB",
+      "guid": "AzmNv6EENoIP77jyOdv6u7OebgBnQNuwKQmXj",
+      "type": "DEBIT",
+      "category": "[\"Payment\",\"Credit Card\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1223 TONYS FRESH MRKT BERWYN IL XXXXX8433XXXXXXXXXX0000",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 50.34,
+      "date": "2023-12-26",
+      "description": "CHECKCARD 1223 TONYS FRESH MRKT BERWYN IL XXXXX8433XXXXXXXXXX0000",
+      "guid": "AzmNv6EENoIP77jyOdv6u7OebgBnQNuwKQz8a",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 0119 KWIK-TRIP BLK RIVER FLSWI",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 11.19,
+      "date": "2024-01-19",
+      "description": "CHECKCARD 0119 KWIK-TRIP BLK RIVER FLSWI",
+      "guid": "AzmNv6EENoIP77jyOdv6u7OebgBnQNuwKQzgj",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "Zelle payment to SMP Conf# e89lvflzm",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 20.0,
+      "date": "2024-01-03",
+      "description": "Zelle payment to SMP Conf# e89lvflzm",
+      "guid": "AzmNv6EENoIP77jyOdv6u7OebgBnQNuwKQzxj",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1231 RAINSTORM - BROOKFIELD BROOKFIELD IL XXXXX9740XXXXXXXXXX1572",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 8.0,
+      "date": "2024-01-02",
+      "description": "CHECKCARD 1231 RAINSTORM - BROOKFIELD BROOKFIELD IL XXXXX9740XXXXXXXXXX1572",
+      "guid": "7egKDYbbK0f455LO7pQKTjLAJVmYpwF8vEojK",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "Zelle payment to BreAnna Celestin Conf# bgxj7223s",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 20.0,
+      "date": "2023-12-01",
+      "description": "Zelle payment to BreAnna Celestin Conf# bgxj7223s",
+      "guid": "AzmNv6EENoIP77jyOdv6u7OQ1eeMdphwXDR5K",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "CVS",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 0.72,
+      "date": "2023-11-27",
+      "description": "CVS",
+      "guid": "AzmNv6EENoIP77jyOdv6u7OQ1eeMdphwXDR5N",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Pharmacies\"]"
+    },
+    {
+      "originalDescription": "7-Eleven",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 35.08,
+      "date": "2023-12-22",
+      "description": "7-Eleven",
+      "guid": "AzmNv6EENoIP77jyOdv6u7OQ1eeMdphwXDRJK",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Convenience Stores\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 0123 MED*ATI PHYSICAL THERAP BOLINGBROOK IL XXXXX1640XXXXXXXXXX4984",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 20.0,
+      "date": "2024-01-24",
+      "description": "CHECKCARD 0123 MED*ATI PHYSICAL THERAP BOLINGBROOK IL XXXXX1640XXXXXXXXXX4984",
+      "guid": "7egKDYbbK0f455LO7pQKTjLAJVmYpwF8vEbwY",
+      "type": "DEBIT",
+      "category": "[\"Healthcare\",\"Healthcare Services\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1104 TONY'S BREAKFAST BROOKFIELD IL MDJXXXXX2033XXXXX1100",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 14.37,
+      "date": "2023-11-06",
+      "description": "CHECKCARD 1104 TONY'S BREAKFAST BROOKFIELD IL MDJXXXXX2033XXXXX1100",
+      "guid": "AzmNv6EENoIP77jyOdv6u7OQR1k3mnHwXDR0Z",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "Acorns Invest DES:Transfer ID:HZ12XC1 INDN:Carmelo Celestin CO ID:XXXXX42693 WEB",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 15.0,
+      "date": "2024-01-16",
+      "description": "Acorns Invest DES:Transfer ID:HZ12XC1 INDN:Carmelo Celestin CO ID:XXXXX42693 WEB",
+      "guid": "6pByEYmmyvIyKKpdk5XeUZ9RzJqrj0UAPmnd5",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Third Party\",\"Acorns\"]"
+    },
+    {
+      "originalDescription": "Menards",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 8.95,
+      "date": "2024-01-08",
+      "description": "Menards",
+      "guid": "6pByEYmmyvIyKKpdk5XeUZ9RzJqrj0UAPm4Z4",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Hardware Store\"]"
+    },
+    {
+      "originalDescription": "Dunkin' Donuts",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 9.62,
+      "date": "2024-01-22",
+      "description": "Dunkin' Donuts",
+      "guid": "6pByEYmmyvIyKKpdk5XeUZ9RzJqrj0UAPm4o4",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Coffee Shop\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1108 LAUNDRY WORLD CO. BERWYN IL MDJXXXXX3633XXXXX1090",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 12.25,
+      "date": "2023-11-10",
+      "description": "CHECKCARD 1108 LAUNDRY WORLD CO. BERWYN IL MDJXXXXX3633XXXXX1090",
+      "guid": "6pByEYmmyvIyKKpdk5XeUZ9jQabXnrUAdRQLQ",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Personal Care\"]"
+    },
+    {
+      "originalDescription": "Zelle payment to SMP Conf# g7fyc0lzz",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 60.0,
+      "date": "2023-11-06",
+      "description": "Zelle payment to SMP Conf# g7fyc0lzz",
+      "guid": "bzK84yXX87InNNq8REkeFNL5dbM3vZtPK3B4K",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "MNRD-HODGKINS 11/18 #XXXXX2543 PURCHASE MNRD-HODGKINS 610",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 56.73,
+      "date": "2023-11-20",
+      "description": "MNRD-HODGKINS 11/18 #XXXXX2543 PURCHASE MNRD-HODGKINS 610",
+      "guid": "bzK84yXX87InNNq8REkeFNL5dbM3vZtPK3BRK",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Hardware Store\"]"
+    },
+    {
+      "originalDescription": "MNRD-STPL MDWY 10/28 #XXXXX6828 PURCHASE 2005 W UNIVERSITY ST PAUL",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 10.0,
+      "date": "2023-10-30",
+      "description": "MNRD-STPL MDWY 10/28 #XXXXX6828 PURCHASE 2005 W UNIVERSITY ST PAUL",
+      "guid": "bzK84yXX87InNNq8REkeFNLKpXw8dqHPK3BN8",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Hardware Store\"]"
+    },
+    {
+      "originalDescription": "McDonald's",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 10.31,
+      "date": "2023-12-08",
+      "description": "McDonald's",
+      "guid": "6pByEYmmyvIyKKpdk5XeUZ9jaRRLYKHAdRQKZ",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "Starbucks",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 15.0,
+      "date": "2023-12-18",
+      "description": "Starbucks",
+      "guid": "bzK84yXX87InNNq8REkeFNLKXVV7B1UPK3BLV",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Coffee Shop\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1119 NICOR GAS BILL XXXXX31846 GA XXXXX8633XXXXXXXXXX5084",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 25.86,
+      "date": "2023-11-20",
+      "description": "CHECKCARD 1119 NICOR GAS BILL XXXXX31846 GA XXXXX8633XXXXXXXXXX5084",
+      "guid": "bzK84yXX87InNNq8REkeFNLKXVV7B1UPK3Bvv",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Utilities\",\"Gas\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 0113 BUDDY BEAR CAR WA BROADVIEW IL XXXXX2940XXXXXXXXXX7818",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 5.0,
+      "date": "2024-01-16",
+      "description": "CHECKCARD 0113 BUDDY BEAR CAR WA BROADVIEW IL XXXXX2940XXXXXXXXXX7818",
+      "guid": "bzK84yXX87InNNq8REkeFNLVanrqKZHP0oXaE",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Automotive\",\"Car Wash and Detail\"]"
+    },
+    {
+      "originalDescription": "Customer Withdrawal Image",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 1300.0,
+      "date": "2024-01-02",
+      "description": "Customer Withdrawal Image",
+      "guid": "bzK84yXX87InNNq8REkeFNLVanrqKZHP0oXwE",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\"]"
+    },
+    {
+      "originalDescription": "Subscription DES:Acorns ID:DNXNT5 INDN:Carmelo Celestin CO ID:XXXXX42694 WEB",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 3.0,
+      "date": "2023-11-13",
+      "description": "Subscription DES:Acorns ID:DNXNT5 INDN:Carmelo Celestin CO ID:XXXXX42694 WEB",
+      "guid": "6pByEYmmyvIyKKpdk5XeUZ9envAd50CAdRQJb",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Third Party\",\"Acorns\"]"
+    },
+    {
+      "originalDescription": "Acorns DES:Transfer ID:XXXXX474107 INDN:Carmelo Celestin CO ID:XXXXX00001 WEB",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 20.0,
+      "date": "2023-11-27",
+      "description": "Acorns DES:Transfer ID:XXXXX474107 INDN:Carmelo Celestin CO ID:XXXXX00001 WEB",
+      "guid": "6pByEYmmyvIyKKpdk5XeUZ9envAd50CAdRQEb",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Third Party\",\"Acorns\"]"
+    },
+    {
+      "originalDescription": "ASPIRE MC PMT DES:ePay ID:ASPIRE MC PMT INDN:Carmelo Celestin CO ID:RXXXXX6689 WEB",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 30.0,
+      "date": "2023-10-31",
+      "description": "ASPIRE MC PMT DES:ePay ID:ASPIRE MC PMT INDN:Carmelo Celestin CO ID:RXXXXX6689 WEB",
+      "guid": "6pByEYmmyvIyKKpdk5XeUZ9envAd50CAdRQ7b",
+      "type": "DEBIT",
+      "category": "[\"Recreation\",\"Arts and Entertainment\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1030 BROADVIEW MINU",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 20.01,
+      "date": "2023-10-31",
+      "description": "CHECKCARD 1030 BROADVIEW MINU",
+      "guid": "6pByEYmmyvIyKKpdk5XeUZ9envAd50CAdRQ79",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 0113 LAUNDRY WORLD CO. BERWYN IL XXXXX3640XXXXXXXXXX2010",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 4.5,
+      "date": "2024-01-16",
+      "description": "CHECKCARD 0113 LAUNDRY WORLD CO. BERWYN IL XXXXX3640XXXXXXXXXX2010",
+      "guid": "5pE3jY883AInyyMqvZ4rFO5noExZ0DUNJ13mO",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Personal Care\"]"
+    },
+    {
+      "originalDescription": "Acorns Invest DES:Transfer ID:FHCVMC1 INDN:Carmelo Celestin CO ID:XXXXX42693 WEB",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 15.0,
+      "date": "2024-01-02",
+      "description": "Acorns Invest DES:Transfer ID:FHCVMC1 INDN:Carmelo Celestin CO ID:XXXXX42693 WEB",
+      "guid": "5pE3jY883AInyyMqvZ4rFO5noExZ0DUNJ139O",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Third Party\",\"Acorns\"]"
+    },
+    {
+      "originalDescription": "PMNT SENT 1026 CASH APP*CHRIS XXX-XX91940 CA XXXXX3832XXXXXXXXXX8059",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 4.0,
+      "date": "2023-10-27",
+      "description": "PMNT SENT 1026 CASH APP*CHRIS XXX-XX91940 CA XXXXX3832XXXXXXXXXX8059",
+      "guid": "5pE3jY883AInyyMqvZ4rFO5AyQRqPDuN58epJ",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "Walmart",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 60.63,
+      "date": "2023-11-20",
+      "description": "Walmart",
+      "guid": "5pE3jY883AInyyMqvZ4rFO5AyQRqPDuN58eMK",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1105 55TH AND LAGRA",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 45.08,
+      "date": "2023-11-06",
+      "description": "CHECKCARD 1105 55TH AND LAGRA",
+      "guid": "5pE3jY883AInyyMqvZ4rFO5AyQRqPDuN58eEK",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1121 JEWEL OSCO 1403 STICKNEY IL XXXXX5233XXXXXXXXXX4441",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 10.77,
+      "date": "2023-11-22",
+      "description": "CHECKCARD 1121 JEWEL OSCO 1403 STICKNEY IL XXXXX5233XXXXXXXXXX4441",
+      "guid": "8p1kyYNNkjIAzzEN0mZ5tpn4gkkYZaIYjgNrB",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Zelle payment to Carmelo Celestin Conf# bscsit4wy",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 20.0,
+      "date": "2023-12-15",
+      "description": "Zelle payment to Carmelo Celestin Conf# bscsit4wy",
+      "guid": "7egKDYbbK0f455LO7pQKTjLpnAARrdF8pX7R3",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1028 TST* Pimento Jama Minneapolis MN MDJXXXXX8633XXXXX2944",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 25.64,
+      "date": "2023-10-30",
+      "description": "CHECKCARD 1028 TST* Pimento Jama Minneapolis MN MDJXXXXX8633XXXXX2944",
+      "guid": "5pE3jY883AInyyMqvZ4rFO50e16ByZIN58ey9",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "Wendy's",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 7.28,
+      "date": "2023-11-21",
+      "description": "Wendy's",
+      "guid": "5pE3jY883AInyyMqvZ4rFO501nnmVaSN58ezQ",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "Amazon",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 8.79,
+      "date": "2023-12-04",
+      "description": "Amazon",
+      "guid": "BzNV6m88VbIROOVAewQqcKX9PBBVmLUvwEy5K",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Digital Purchase\"]"
+    },
+    {
+      "originalDescription": "Mission Lane Vis DES:Mission La ID:ST-Q9P6I0U5Y1D2 INDN:CARMELO CELESTIN CO ID:XXXXX48598 WEB",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 100.0,
+      "date": "2023-11-27",
+      "description": "Mission Lane Vis DES:Mission La ID:ST-Q9P6I0U5Y1D2 INDN:CARMELO CELESTIN CO ID:XXXXX48598 WEB",
+      "guid": "BzNV6m88VbIROOVAewQqcKX9PBBVmLUvwEy5y",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1217 LAUNDRY WORLD CO. BERWYN IL XXXXX3633XXXXXXXXXX9809",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 20.0,
+      "date": "2023-12-18",
+      "description": "CHECKCARD 1217 LAUNDRY WORLD CO. BERWYN IL XXXXX3633XXXXXXXXXX9809",
+      "guid": "8p1kyYNNkjIAzzEN0mZ5tpn4gkkYZaIYjgNze",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Personal Care\"]"
+    },
+    {
+      "originalDescription": "Popeyes",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 32.65,
+      "date": "2023-12-18",
+      "description": "Popeyes",
+      "guid": "5pE3jY883AInyyMqvZ4rFO501nnmVaSN58eRr",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "PROSPER MARKETPL DES:PRSPER PYT ID:99965938 INDN:Celestin Carmelo CO ID:XXXXX36566 PPD",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 75.0,
+      "date": "2023-10-31",
+      "description": "PROSPER MARKETPL DES:PRSPER PYT ID:99965938 INDN:Celestin Carmelo CO ID:XXXXX36566 PPD",
+      "guid": "8p1kyYNNkjIAzzEN0mZ5tpn4rgqAoNHYjgN9p",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "Burlington",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 50.13,
+      "date": "2023-11-20",
+      "description": "Burlington",
+      "guid": "7egKDYbbK0f455LO7pQKTjLpnAARrdF8pX7rw",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Department Stores\"]"
+    },
+    {
+      "originalDescription": "Wendy's",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 8.54,
+      "date": "2023-11-06",
+      "description": "Wendy's",
+      "guid": "BzNV6m88VbIROOVAewQqcKX9yPZJE7CvwEyk9",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "MNRD-HODGKINS 01/14 #XXXXX7125 PURCHASE MNRD-HODGKINS 610",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 12.17,
+      "date": "2024-01-16",
+      "description": "MNRD-HODGKINS 01/14 #XXXXX7125 PURCHASE MNRD-HODGKINS 610",
+      "guid": "BzNV6m88VbIROOVAewQqcKXB01Y79jiv1QmwE",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Hardware Store\"]"
+    },
+    {
+      "originalDescription": "ALLY CC DES:MOBILE PYM ID:XXXXXXXXXX21357 INDN:CARMELO CELESTIN CO ID:XXXXX02835 WEB",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 50.0,
+      "date": "2024-01-08",
+      "description": "ALLY CC DES:MOBILE PYM ID:XXXXXXXXXX21357 INDN:CARMELO CELESTIN CO ID:XXXXX02835 WEB",
+      "guid": "BzNV6m88VbIROOVAewQqcKXB01Y79jiv1Qmwv",
+      "type": "DEBIT",
+      "category": "[\"Payment\"]"
+    },
+    {
+      "originalDescription": "Amazon Prime",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 14.99,
+      "date": "2023-12-26",
+      "description": "Amazon Prime",
+      "guid": "BzNV6m88VbIROOVAewQqcKXB01Y79jiv1QrMR",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Subscription\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 0119 MR. SUBMARINE BERWYN IL XXXXX9840XXXXXXXXXX1068",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 24.34,
+      "date": "2024-01-22",
+      "description": "CHECKCARD 0119 MR. SUBMARINE BERWYN IL XXXXX9840XXXXXXXXXX1068",
+      "guid": "BzNV6m88VbIROOVAewQqcKXB01Y79jiv1Qrqv",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "Taco Bell",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 5.5,
+      "date": "2024-01-05",
+      "description": "Taco Bell",
+      "guid": "BzNV6m88VbIROOVAewQqcKXB01Y79jiv1QrRv",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "TONYS FRE 7111 10/30 #XXXXX3893 PURCHASE TONYS FRE 7111 CE",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 28.16,
+      "date": "2023-10-30",
+      "description": "TONYS FRE 7111 10/30 #XXXXX3893 PURCHASE TONYS FRE 7111 CE",
+      "guid": "BzNV6m88VbIROOVAewQqcKXoE58AbjfvwEyK5",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "ALLY CC DES:MOBILE PYM ID:XXXXXXXXXX18205 INDN:CARMELO CELESTIN CO ID:XXXXX02835 WEB",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 91.0,
+      "date": "2023-10-31",
+      "description": "ALLY CC DES:MOBILE PYM ID:XXXXXXXXXX18205 INDN:CARMELO CELESTIN CO ID:XXXXX02835 WEB",
+      "guid": "BzNV6m88VbIROOVAewQqcKXoE58AbjfvwEyKz",
+      "type": "DEBIT",
+      "category": "[\"Payment\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1125 18025 TORRENCE",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 50.0,
+      "date": "2023-11-27",
+      "description": "CHECKCARD 1125 18025 TORRENCE",
+      "guid": "BzNV6m88VbIROOVAewQqcKXoE58AbjfvwEynz",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Bar\"]"
+    },
+    {
+      "originalDescription": "BKOFAMERICA BC 11/10 #XXXXX2945 WITHDRWL 6400 Cermak Rd",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 10.0,
+      "date": "2023-11-10",
+      "description": "BKOFAMERICA BC 11/10 #XXXXX2945 WITHDRWL 6400 Cermak Rd",
+      "guid": "BzNV6m88VbIROOVAewQqcKXoE58AbjfvwEypz",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\"]"
+    },
+    {
+      "originalDescription": "Family Dollar",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 54.04,
+      "date": "2023-10-27",
+      "description": "Family Dollar",
+      "guid": "8p1kyYNNkjIAzzEN0mZ5tpn5o3yKD1fYjgN6a",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Discount Stores\"]"
+    },
+    {
+      "originalDescription": "Zelle payment from CARMELO K CELESTIN Conf# 99a85dv2u",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 10.0,
+      "date": "2024-01-18",
+      "description": "Zelle payment from CARMELO K CELESTIN Conf# 99a85dv2u",
+      "guid": "ddg9BkVV9zIORRkPmoeQINY7ZOzbA1HoBLAgZ",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 0121 TONYS FRESH MRKT BERWYN IL XXXXX8440XXXXXXXXXX5167",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 7.41,
+      "date": "2024-01-22",
+      "description": "CHECKCARD 0121 TONYS FRESH MRKT BERWYN IL XXXXX8440XXXXXXXXXX5167",
+      "guid": "ddg9BkVV9zIORRkPmoeQINY7ZOzbA1HoBLx3z",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 0106 JEWEL OSCO 2265 LA GRANGE PARIL XXXXX5240XXXXXXXXXX3005",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 28.46,
+      "date": "2024-01-08",
+      "description": "CHECKCARD 0106 JEWEL OSCO 2265 LA GRANGE PARIL XXXXX5240XXXXXXXXXX3005",
+      "guid": "ddg9BkVV9zIORRkPmoeQINY7ZOzbA1HoBLxPz",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Wendy's",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 8.54,
+      "date": "2023-11-03",
+      "description": "Wendy's",
+      "guid": "4pEB0YQQBkIJxxM7V86bsM5YyDL8a4fDd9yQZ",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "Zelle payment to SMP Conf# fna2cfv4j",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 30.0,
+      "date": "2023-11-10",
+      "description": "Zelle payment to SMP Conf# fna2cfv4j",
+      "guid": "ddg9BkVV9zIORRkPmoeQINYAqwaQdbHogOzjJ",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "Acorns DES:Transfer ID:XXXXX633957 INDN:Carmelo Celestin CO ID:XXXXX00001 WEB",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 20.0,
+      "date": "2023-11-06",
+      "description": "Acorns DES:Transfer ID:XXXXX633957 INDN:Carmelo Celestin CO ID:XXXXX00001 WEB",
+      "guid": "8p1kyYNNkjIAzzEN0mZ5tpn5o3yKD1fYjgN7z",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Third Party\",\"Acorns\"]"
+    },
+    {
+      "originalDescription": "Walmart",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 11.39,
+      "date": "2023-11-28",
+      "description": "Walmart",
+      "guid": "ddg9BkVV9zIORRkPmoeQINYLdPxVD1togOz7a",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Acorns DES:Transfer ID:XXXXX641058 INDN:Carmelo Celestin CO ID:XXXXX00001 WEB",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 20.0,
+      "date": "2023-11-20",
+      "description": "Acorns DES:Transfer ID:XXXXX641058 INDN:Carmelo Celestin CO ID:XXXXX00001 WEB",
+      "guid": "8p1kyYNNkjIAzzEN0mZ5tpn5o3yKD1fYjgN8z",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Third Party\",\"Acorns\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 0113 LUCKY DOG BROADVI BROADVIEW IL XXXXX8840XXXXXXXXXX0175",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 25.41,
+      "date": "2024-01-16",
+      "description": "CHECKCARD 0113 LUCKY DOG BROADVI BROADVIEW IL XXXXX8840XXXXXXXXXX0175",
+      "guid": "8p1kyYNNkjIAzzEN0mZ5tpnk9v7N41CYMBPkQ",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1217 JEWEL OSCO 2265 LA GRANGE PARIL XXXXX5233XXXXXXXXXX8362",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 12.4,
+      "date": "2023-12-19",
+      "description": "CHECKCARD 1217 JEWEL OSCO 2265 LA GRANGE PARIL XXXXX5233XXXXXXXXXX8362",
+      "guid": "4pEB0YQQBkIJxxM7V86bsM5YDkkmqpTDd9yro",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "UNITED PARCEL DES:PAYROLL ID:0122967 P55001 INDN:CELESTIN, CARMELO CO ID:XXXXX07381 PPD",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 697.01,
+      "date": "2024-01-05",
+      "description": "UNITED PARCEL DES:PAYROLL ID:0122967 P55001 INDN:CELESTIN, CARMELO CO ID:XXXXX07381 PPD",
+      "guid": "8p1kyYNNkjIAzzEN0mZ5tpnk9v7N41CYMBPQQ",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Payroll\"]"
+    },
+    {
+      "originalDescription": "UNITED PARCEL DES:PAYROLL ID:0122967 P55978 INDN:CELESTIN, CARMELO CO ID:XXXXX07381 PPD",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 630.35,
+      "date": "2023-11-15",
+      "description": "UNITED PARCEL DES:PAYROLL ID:0122967 P55978 INDN:CELESTIN, CARMELO CO ID:XXXXX07381 PPD",
+      "guid": "ddg9BkVV9zIORRkPmoeQINYLdPxVD1togOzna",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Payroll\"]"
+    },
+    {
+      "originalDescription": "PMNT SENT 1031 CASH APP*CHRIS XXX-XX91940 CA XXXXX3833XXXXXXXXXX1073",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 20.0,
+      "date": "2023-11-01",
+      "description": "PMNT SENT 1031 CASH APP*CHRIS XXX-XX91940 CA XXXXX3833XXXXXXXXXX1073",
+      "guid": "ddg9BkVV9zIORRkPmoeQINYLdPxVD1togOzZa",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "McDonald's",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 18.24,
+      "date": "2023-10-31",
+      "description": "McDonald's",
+      "guid": "ddg9BkVV9zIORRkPmoeQINYLdPxVD1togOzZy",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1229 BLUE DREAM SMOKE CHICAGO IL XXXXX8033XXXXXXXXXX1774",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 22.05,
+      "date": "2024-01-02",
+      "description": "CHECKCARD 1229 BLUE DREAM SMOKE CHICAGO IL XXXXX8033XXXXXXXXXX1774",
+      "guid": "DzQYE1NNY7IarrmoRLvbFQrdDp4RNYiXP09Q3",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Tobacco\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 0105 TONYS FRESH MRKT COUNTRYSIDE IL XXXXX8440XXXXXXXXXX8666",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 42.12,
+      "date": "2024-01-08",
+      "description": "CHECKCARD 0105 TONYS FRESH MRKT COUNTRYSIDE IL XXXXX8440XXXXXXXXXX8666",
+      "guid": "DzQYE1NNY7IarrmoRLvbFQrdDp4RNYiXP09Qo",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Menards",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 12.07,
+      "date": "2024-01-22",
+      "description": "Menards",
+      "guid": "DzQYE1NNY7IarrmoRLvbFQrdDp4RNYiXP09vo",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Hardware Store\"]"
+    },
+    {
+      "originalDescription": "Walmart",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 18.31,
+      "date": "2024-01-16",
+      "description": "Walmart",
+      "guid": "DzQYE1NNY7IarrmoRLvbFQrdDp4RNYiXP0eA8",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "BARCLAYCARD US DES:CREDITCARD ID:XXXXX40029 INDN:CARMELO CELESTIN CO ID:XXXXX07970 WEB",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 30.0,
+      "date": "2024-01-08",
+      "description": "BARCLAYCARD US DES:CREDITCARD ID:XXXXX40029 INDN:CARMELO CELESTIN CO ID:XXXXX07970 WEB",
+      "guid": "DzQYE1NNY7IarrmoRLvbFQrdDp4RNYiXP0eAo",
+      "type": "DEBIT",
+      "category": "[\"Payment\",\"Credit Card\"]"
+    },
+    {
+      "originalDescription": "Zelle payment to BreAnna Celestin Conf# jpc28nle7",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 20.0,
+      "date": "2023-11-29",
+      "description": "Zelle payment to BreAnna Celestin Conf# jpc28nle7",
+      "guid": "4pEB0YQQBkIJxxM7V86bsM5YDkkmqpTDd9y6o",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "Wendy's",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 7.28,
+      "date": "2023-11-24",
+      "description": "Wendy's",
+      "guid": "4pEB0YQQBkIJxxM7V86bsM5YDkkmqpTDd9y6J",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "Walmart",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 4.73,
+      "date": "2024-01-16",
+      "description": "Walmart",
+      "guid": "4pEB0YQQBkIJxxM7V86bsM5kdev4YAIDw8vN6",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "UNITED PARCEL DES:PAYROLL ID:0122967 P55045 INDN:CELESTIN, CARMELO CO ID:XXXXX07381 PPD",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 250.0,
+      "date": "2023-11-10",
+      "description": "UNITED PARCEL DES:PAYROLL ID:0122967 P55045 INDN:CELESTIN, CARMELO CO ID:XXXXX07381 PPD",
+      "guid": "DzQYE1NNY7IarrmoRLvbFQrN159a3RSXAbj39",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Payroll\"]"
+    },
+    {
+      "originalDescription": "Taco Bell",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 5.5,
+      "date": "2023-12-26",
+      "description": "Taco Bell",
+      "guid": "4pEB0YQQBkIJxxM7V86bsM5kdev4YAIDw8vMX",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "Zelle payment to Braylen Celestin Conf# chw7j4sn0",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 10.0,
+      "date": "2023-12-06",
+      "description": "Zelle payment to Braylen Celestin Conf# chw7j4sn0",
+      "guid": "DzQYE1NNY7IarrmoRLvbFQrN5ddzjJhXAbjdJ",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 0105 KOMBS BEEF LA GRANGE IL XXXXX3940XXXXXXXXXX0187",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 28.95,
+      "date": "2024-01-08",
+      "description": "CHECKCARD 0105 KOMBS BEEF LA GRANGE IL XXXXX3940XXXXXXXXXX0187",
+      "guid": "4pEB0YQQBkIJxxM7V86bsM5kdev4YAIDw8ad6",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "O'REILLY 4593 11/27 #XXXXX2547 PURCHASE O'REILLY 4593",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 8.46,
+      "date": "2023-11-27",
+      "description": "O'REILLY 4593 11/27 #XXXXX2547 PURCHASE O'REILLY 4593",
+      "guid": "DzQYE1NNY7IarrmoRLvbFQrO3KkEqYTXAbj47",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1121 MR. SUBMARINE XXX-XX42911 IL XXXXX9533XXXXXXXXXX1397",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 16.59,
+      "date": "2023-11-22",
+      "description": "CHECKCARD 1121 MR. SUBMARINE XXX-XX42911 IL XXXXX9533XXXXXXXXXX1397",
+      "guid": "4pEB0YQQBkIJxxM7V86bsM5ba9Q71AuDd9yxq",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1027 ARCO RIVERSIDE",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 22.4,
+      "date": "2023-10-30",
+      "description": "CHECKCARD 1027 ARCO RIVERSIDE",
+      "guid": "4pEB0YQQBkIJxxM7V86bsM5ba9Q71AuDd9yLj",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "Acorns DES:Transfer ID:XXXXX432015 INDN:Carmelo Celestin CO ID:XXXXX00001 WEB",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 20.0,
+      "date": "2023-11-13",
+      "description": "Acorns DES:Transfer ID:XXXXX432015 INDN:Carmelo Celestin CO ID:XXXXX00001 WEB",
+      "guid": "DzQYE1NNY7IarrmoRLvbFQrO3KkEqYTXAbja7",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Third Party\",\"Acorns\"]"
+    },
+    {
+      "originalDescription": "McDonald's",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 19.45,
+      "date": "2023-11-08",
+      "description": "McDonald's",
+      "guid": "4pEB0YQQBkIJxxM7V86bsM5ba9Q71AuDd9yjq",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "Acorns Invest DES:Transfer ID:ZH7JFB1 INDN:Carmelo Celestin CO ID:XXXXX42693 WEB",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 15.0,
+      "date": "2023-10-30",
+      "description": "Acorns Invest DES:Transfer ID:ZH7JFB1 INDN:Carmelo Celestin CO ID:XXXXX42693 WEB",
+      "guid": "DzQYE1NNY7IarrmoRLvbFQrO3KkEqYTXAbjk0",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Third Party\",\"Acorns\"]"
+    },
+    {
+      "originalDescription": "Credit One Bank DES:Payment ID:49832424 INDN:CARMELO CELESTIN CO ID:WEB000004 WEB",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 50.0,
+      "date": "2023-10-31",
+      "description": "Credit One Bank DES:Payment ID:49832424 INDN:CARMELO CELESTIN CO ID:WEB000004 WEB",
+      "guid": "DzQYE1NNY7IarrmoRLvbFQrO3KkEqYTXAbjk7",
+      "type": "DEBIT",
+      "category": "[\"Payment\",\"Credit Card\"]"
+    },
+    {
+      "originalDescription": "UNITED PARCEL DES:PAYROLL ID:0122967 P55002 INDN:CELESTIN, CARMELO CO ID:XXXXX07381 PPD",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 606.62,
+      "date": "2024-01-12",
+      "description": "UNITED PARCEL DES:PAYROLL ID:0122967 P55002 INDN:CELESTIN, CARMELO CO ID:XXXXX07381 PPD",
+      "guid": "3pOqgY88qKIQrr79kJb8HdbQe5YDAzHPaQXwg",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Payroll\"]"
+    },
+    {
+      "originalDescription": "ASPIRE MC PMT DES:ePay ID:ASPIRE MC PMT INDN:Carmelo Celestin CO ID:RXXXXX6689 WEB",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 50.0,
+      "date": "2024-01-08",
+      "description": "ASPIRE MC PMT DES:ePay ID:ASPIRE MC PMT INDN:Carmelo Celestin CO ID:RXXXXX6689 WEB",
+      "guid": "3pOqgY88qKIQrr79kJb8HdbQe5YDAzHPaQXwA",
+      "type": "DEBIT",
+      "category": "[\"Recreation\",\"Arts and Entertainment\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 0119 LAUNDRY WORLD CO. BERWYN IL XXXXX3640XXXXXXXXXX6818",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 14.25,
+      "date": "2024-01-22",
+      "description": "CHECKCARD 0119 LAUNDRY WORLD CO. BERWYN IL XXXXX3640XXXXXXXXXX6818",
+      "guid": "3pOqgY88qKIQrr79kJb8HdbQe5YDAzHPaQRZA",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Personal Care\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1225 LAUNDRY WORLD CO. BERWYN IL XXXXX3633XXXXXXXXXX6300",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 11.25,
+      "date": "2023-12-26",
+      "description": "CHECKCARD 1225 LAUNDRY WORLD CO. BERWYN IL XXXXX3633XXXXXXXXXX6300",
+      "guid": "3pOqgY88qKIQrr79kJb8HdbQe5YDAzHPaQRYY",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Personal Care\"]"
+    },
+    {
+      "originalDescription": "UNITED PARCEL DES:PAYROLL ID:0122967 P55001 INDN:CELESTIN, CARMELO CO ID:XXXXX07381 PPD",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 250.0,
+      "date": "2024-01-05",
+      "description": "UNITED PARCEL DES:PAYROLL ID:0122967 P55001 INDN:CELESTIN, CARMELO CO ID:XXXXX07381 PPD",
+      "guid": "3pOqgY88qKIQrr79kJb8HdbQe5YDAzHPaQRMA",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Payroll\"]"
+    },
+    {
+      "originalDescription": "PROSPER MARKETPL DES:PRSPER PYT ID:99696433 INDN:Celestin Carmelo CO ID:XXXXX36566 PPD",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 71.0,
+      "date": "2023-11-29",
+      "description": "PROSPER MARKETPL DES:PRSPER PYT ID:99696433 INDN:Celestin Carmelo CO ID:XXXXX36566 PPD",
+      "guid": "azbmP3jjmgI7xxzd3MOZFPb0yqq8Z6fKrBLpN",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1126 ADVANCE AUTO PART BROOKFIELD IL XXXXX7033XXXXXXXXXX2644",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 3.29,
+      "date": "2023-11-27",
+      "description": "CHECKCARD 1126 ADVANCE AUTO PART BROOKFIELD IL XXXXX7033XXXXXXXXXX2644",
+      "guid": "3pOqgY88qKIQrr79kJb8HdbAJQQwLkIPwy6dX",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Automotive\",\"Car Parts and Accessories\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1101 TST* AFRO DELI & COFFEE MN XXXXX4633XXXXXXXXXX8969",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 20.57,
+      "date": "2023-11-02",
+      "description": "CHECKCARD 1101 TST* AFRO DELI & COFFEE MN XXXXX4633XXXXXXXXXX8969",
+      "guid": "ewKMXAmmMQSzJJAapXQwseB5Xv61xOt4XOy6B",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Coffee Shop\"]"
+    },
+    {
+      "originalDescription": "Amazon",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 6.59,
+      "date": "2023-12-04",
+      "description": "Amazon",
+      "guid": "3pOqgY88qKIQrr79kJb8HdbAJQQwLkIPwy6dv",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Digital Purchase\"]"
+    },
+    {
+      "originalDescription": "UNITED PARCEL DES:PAYROLL ID:0122967 P55046 INDN:CELESTIN, CARMELO CO ID:XXXXX07381 PPD",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 489.42,
+      "date": "2023-11-17",
+      "description": "UNITED PARCEL DES:PAYROLL ID:0122967 P55046 INDN:CELESTIN, CARMELO CO ID:XXXXX07381 PPD",
+      "guid": "ewKMXAmmMQSzJJAapXQwseB5Xv61xOt4XOyvB",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Payroll\"]"
+    },
+    {
+      "originalDescription": "Tesoro",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 11.64,
+      "date": "2024-01-18",
+      "description": "Tesoro",
+      "guid": "ewKMXAmmMQSzJJAapXQwseBRNzydYOU4pY0XA",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "McDonald's",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 6.59,
+      "date": "2024-01-08",
+      "description": "McDonald's",
+      "guid": "ewKMXAmmMQSzJJAapXQwseBRNzydYOU4pY89Z",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "Taco Bell",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 16.87,
+      "date": "2023-10-30",
+      "description": "Taco Bell",
+      "guid": "9p9AdYmmArIqdd1bXg0vCDBa5oe0xqC6wE5Vn",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "STRACK & 12 R 11/23 #XXXXX5868 PURCHASE STRACK & 12 RIDG",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 60.19,
+      "date": "2023-11-24",
+      "description": "STRACK & 12 R 11/23 #XXXXX5868 PURCHASE STRACK & 12 RIDG",
+      "guid": "azbmP3jjmgI7xxzd3MOZFPb0yqq8Z6fKrBLpy",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1111 PARAMOUNT+ XXXXX45343 CA MDJXXXXX8733XXXXX8488 RECURRING",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 5.99,
+      "date": "2023-11-13",
+      "description": "CHECKCARD 1111 PARAMOUNT+ XXXXX45343 CA MDJXXXXX8733XXXXX8488 RECURRING",
+      "guid": "ewKMXAmmMQSzJJAapXQwseBY9bqQXdu4XOy1g",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Subscription\"]"
+    },
+    {
+      "originalDescription": "Taco Bell",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 7.51,
+      "date": "2023-11-06",
+      "description": "Taco Bell",
+      "guid": "3pOqgY88qKIQrr79kJb8HdbA6JOPXDFPwy6Bo",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "DEPT EDUCATION DES:STUDENT LN ID:6PGRUSI8R41 INDN:CARMELO KCELESTIN CO ID:XXXXX02005 WEB",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 115.73,
+      "date": "2023-10-31",
+      "description": "DEPT EDUCATION DES:STUDENT LN ID:6PGRUSI8R41 INDN:CARMELO KCELESTIN CO ID:XXXXX02005 WEB",
+      "guid": "3pOqgY88qKIQrr79kJb8Hdb8XqN93zfPwy6Ne",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]"
+    },
+    {
+      "originalDescription": "Zelle payment to Braylen Celestin Conf# ghgqnz3ug",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 10.0,
+      "date": "2023-10-30",
+      "description": "Zelle payment to Braylen Celestin Conf# ghgqnz3ug",
+      "guid": "3pOqgY88qKIQrr79kJb8Hdb8XqN93zfPwy6NB",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "BKOFAMERICA BC 11/10 #XXXXX2943 WITHDRWL 6400 Cermak Rd",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 2000.0,
+      "date": "2023-11-10",
+      "description": "BKOFAMERICA BC 11/10 #XXXXX2943 WITHDRWL 6400 Cermak Rd",
+      "guid": "3pOqgY88qKIQrr79kJb8Hdb8XqN93zfPwy65e",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\"]"
+    },
+    {
+      "originalDescription": "MNRD-HODG 6100 10/27 #XXXXX8328 PURCHASE MNRD-HODG 6100 EA",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 67.57,
+      "date": "2023-10-27",
+      "description": "MNRD-HODG 6100 10/27 #XXXXX8328 PURCHASE MNRD-HODG 6100 EA",
+      "guid": "EzJbBPaab9I9VVzqRDZxC3QNAme7vnCdPRjrY",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Hardware Store\"]"
+    },
+    {
+      "originalDescription": "Zelle payment to Braylen Celestin Conf# gfo0p7h2i",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 10.0,
+      "date": "2023-11-16",
+      "description": "Zelle payment to Braylen Celestin Conf# gfo0p7h2i",
+      "guid": "EzJbBPaab9I9VVzqRDZxC3QNmww0jMsdPRjay",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 0120 PAY*CHICAGO BULLS CHICAGO IL XXXXX9140XXXXXXXXXX3923",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 20.0,
+      "date": "2024-01-22",
+      "description": "CHECKCARD 0120 PAY*CHICAGO BULLS CHICAGO IL XXXXX9140XXXXXXXXXX3923",
+      "guid": "EzJbBPaab9I9VVzqRDZxC3QwBdanN6cd38Or7",
+      "type": "DEBIT",
+      "category": "[\"Recreation\",\"Sports Clubs\"]"
+    },
+    {
+      "originalDescription": "Wendy's",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 7.86,
+      "date": "2023-12-28",
+      "description": "Wendy's",
+      "guid": "EzJbBPaab9I9VVzqRDZxC3QwBdanN6cd38Vkg",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 0111 PARAMOUNT+ XXXXX45343 CA XXXXX8740XXXXXXXXXX0182 RECURRING",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 5.99,
+      "date": "2024-01-12",
+      "description": "CHECKCARD 0111 PARAMOUNT+ XXXXX45343 CA XXXXX8740XXXXXXXXXX0182 RECURRING",
+      "guid": "EzJbBPaab9I9VVzqRDZxC3QwBdanN6cd38Vqg",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Subscription\"]"
+    },
+    {
+      "originalDescription": "UNITED PARCEL DES:PAYROLL ID:0122967 P55044 INDN:CELESTIN, CARMELO CO ID:XXXXX07381 PPD",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 461.16,
+      "date": "2023-11-03",
+      "description": "UNITED PARCEL DES:PAYROLL ID:0122967 P55044 INDN:CELESTIN, CARMELO CO ID:XXXXX07381 PPD",
+      "guid": "EzJbBPaab9I9VVzqRDZxC3QYvqzJD6FdPRj9K",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Payroll\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1118 MUNSTER FOOD M",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 53.0,
+      "date": "2023-11-20",
+      "description": "CHECKCARD 1118 MUNSTER FOOD M",
+      "guid": "EzJbBPaab9I9VVzqRDZxC3QYvqzJD6FdPRjKK",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "Zelle payment to Braylen Celestin Conf# j3pudqyqx",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 100.0,
+      "date": "2024-01-05",
+      "description": "Zelle payment to Braylen Celestin Conf# j3pudqyqx",
+      "guid": "1pz1AYee13ImJJvgkaQ5C5BQPvDXKbcYwEerb",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "Wendy's",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 9.65,
+      "date": "2023-12-29",
+      "description": "Wendy's",
+      "guid": "1pz1AYee13ImJJvgkaQ5C5BQPvDXKbcYwEer0",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "Amazon",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 5.49,
+      "date": "2024-01-22",
+      "description": "Amazon",
+      "guid": "1pz1AYee13ImJJvgkaQ5C5BQPvDXKbcYwEeBb",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Digital Purchase\"]"
+    },
+    {
+      "originalDescription": "ExxonMobil",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 17.78,
+      "date": "2024-01-16",
+      "description": "ExxonMobil",
+      "guid": "1pz1AYee13ImJJvgkaQ5C5BQPvDXKbcYwE5aw",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "Best Buy",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 30.0,
+      "date": "2024-01-08",
+      "description": "Best Buy",
+      "guid": "1pz1AYee13ImJJvgkaQ5C5BQPvDXKbcYwE5ab",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Computers and Electronics\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1107 GOLDEN WOK RESTAU LA GRANGE PARIL MDJXXXXX8433XXXXX2396",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 12.95,
+      "date": "2023-11-08",
+      "description": "CHECKCARD 1107 GOLDEN WOK RESTAU LA GRANGE PARIL MDJXXXXX8433XXXXX2396",
+      "guid": "1pz1AYee13ImJJvgkaQ5C5BKMax8oXiYaNM8O",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "BKOFAMERICA ATM 12/15 #XXXXX2406 WITHDRWL LAGRANGE",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 40.0,
+      "date": "2023-12-15",
+      "description": "BKOFAMERICA ATM 12/15 #XXXXX2406 WITHDRWL LAGRANGE",
+      "guid": "9p9AdYmmArIqdd1bXg0vCDBaokk4yNU6wE5Rd",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "Popeyes",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 12.17,
+      "date": "2023-11-20",
+      "description": "Popeyes",
+      "guid": "9p9AdYmmArIqdd1bXg0vCDBaokk4yNU6wE5zw",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "CVS",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 7.16,
+      "date": "2024-01-02",
+      "description": "CVS",
+      "guid": "9p9AdYmmArIqdd1bXg0vCDBkRpvqaXH6Y43DO",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Pharmacies\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 0112 ADVANCE AUTO PART BERWYN IL XXXXX7040XXXXXXXXXX3493",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 31.55,
+      "date": "2024-01-16",
+      "description": "CHECKCARD 0112 ADVANCE AUTO PART BERWYN IL XXXXX7040XXXXXXXXXX3493",
+      "guid": "9p9AdYmmArIqdd1bXg0vCDBkRpvqaXH6Y43JO",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Automotive\",\"Car Parts and Accessories\"]"
+    },
+    {
+      "originalDescription": "PMNT SENT 0123 CASH APP*CHRIS XXX-XX91940 CA XXXXX3840XXXXXXXXXX5077",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 5.0,
+      "date": "2024-01-23",
+      "description": "PMNT SENT 0123 CASH APP*CHRIS XXX-XX91940 CA XXXXX3840XXXXXXXXXX5077",
+      "guid": "9p9AdYmmArIqdd1bXg0vCDBkRpvqaXH6Y4vV4",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "McDonald's",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 28.97,
+      "date": "2023-11-06",
+      "description": "McDonald's",
+      "guid": "gLA8p0VV8QF0XXVJ7gwLFZm5gwKPQrC6nPd0L",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "NST THE HOME D 12/05 #XXXXX7901 PURCHASE 20-232 W 87TH",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 5.81,
+      "date": "2023-12-05",
+      "description": "NST THE HOME D 12/05 #XXXXX7901 PURCHASE 20-232 W 87TH",
+      "guid": "1pz1AYee13ImJJvgkaQ5C5BKaQQ1AZTYaNMDz",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Hardware Store\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1118 COMED PAYMENT IL XXXXX1533XXXXXXXXXX7245",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 43.56,
+      "date": "2023-11-20",
+      "description": "CHECKCARD 1118 COMED PAYMENT IL XXXXX1533XXXXXXXXXX7245",
+      "guid": "9p9AdYmmArIqdd1bXg0vCDBrxg9bJXf6wE5Np",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Utilities\"]"
+    },
+    {
+      "originalDescription": "BKOFAMERICA ATM 12/09 #XXXXX4057 WITHDRWL 515 N LASALLE",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 260.0,
+      "date": "2023-12-11",
+      "description": "BKOFAMERICA ATM 12/09 #XXXXX4057 WITHDRWL 515 N LASALLE",
+      "guid": "gLA8p0VV8QF0XXVJ7gwLFZm5gwKPQrC6nPde8",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "TONYS FRE 6704 11/04 #XXXXX2781 PURCHASE TONYS FRE 6704 JO",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 18.64,
+      "date": "2023-11-06",
+      "description": "TONYS FRE 6704 11/04 #XXXXX2781 PURCHASE TONYS FRE 6704 JO",
+      "guid": "9p9AdYmmArIqdd1bXg0vCDBrxg9bJXf6wE5Op",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1127 ADVANCE AUTO P",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 8.79,
+      "date": "2023-11-27",
+      "description": "CHECKCARD 1127 ADVANCE AUTO P",
+      "guid": "1pz1AYee13ImJJvgkaQ5C5B3oELgnbFYaNMyM",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Automotive\",\"Car Parts and Accessories\"]"
+    },
+    {
+      "originalDescription": "STRACK & VAN T 11/18 #XXXXX5247 PURCHASE STRACK & VAN TIL",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 126.42,
+      "date": "2023-11-20",
+      "description": "STRACK & VAN T 11/18 #XXXXX5247 PURCHASE STRACK & VAN TIL",
+      "guid": "gLA8p0VV8QF0XXVJ7gwLFZm5gwKPQrC6nPdQL",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1028 PY *E&G 1109 MINN MINNEAPOLIS MN MDJXXXXX8433XXXXX2134",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 10.35,
+      "date": "2023-10-30",
+      "description": "CHECKCARD 1028 PY *E&G 1109 MINN MINNEAPOLIS MN MDJXXXXX8433XXXXX2134",
+      "guid": "gLA8p0VV8QF0XXVJ7gwLFZmDBNVLgqU6nPdBz",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "Wendy's",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 6.16,
+      "date": "2023-11-13",
+      "description": "Wendy's",
+      "guid": "1pz1AYee13ImJJvgkaQ5C5B3oELgnbFYaNMvM",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "CONCORA CREDIT DES:PAYMENT ID:XXXXXXXXXX00004 INDN:CELESTIN CARMELO CO ID:XXXXX36529 WEB",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 50.0,
+      "date": "2023-10-31",
+      "description": "CONCORA CREDIT DES:PAYMENT ID:XXXXXXXXXX00004 INDN:CELESTIN CARMELO CO ID:XXXXX36529 WEB",
+      "guid": "1pz1AYee13ImJJvgkaQ5C5B3oELgnbFYaNMkM",
+      "type": "DEBIT",
+      "category": "[\"Payment\",\"Credit Card\"]"
+    },
+    {
+      "originalDescription": "Acorns DES:Transfer ID:XXXXX139438 INDN:Carmelo Celestin CO ID:XXXXX00001 WEB",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 20.0,
+      "date": "2023-10-30",
+      "description": "Acorns DES:Transfer ID:XXXXX139438 INDN:Carmelo Celestin CO ID:XXXXX00001 WEB",
+      "guid": "1pz1AYee13ImJJvgkaQ5C5B3oELgnbFYaNMk4",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Third Party\",\"Acorns\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1118 JEWEL OSCO 3096 MUNSTER IN XXXXX5233XXXXXXXXXX8127",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 20.37,
+      "date": "2023-11-20",
+      "description": "CHECKCARD 1118 JEWEL OSCO 3096 MUNSTER IN XXXXX5233XXXXXXXXXX8127",
+      "guid": "gLA8p0VV8QF0XXVJ7gwLFZmDNee1E4H6nPd9D",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "White Castle",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 8.63,
+      "date": "2023-12-18",
+      "description": "White Castle",
+      "guid": "gLA8p0VV8QF0XXVJ7gwLFZmDNee1E4H6nPdOZ",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "Dunkin' Donuts",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 9.79,
+      "date": "2024-01-24",
+      "description": "Dunkin' Donuts",
+      "guid": "gLA8p0VV8QF0XXVJ7gwLFZmeM0dqDrU6oarBb",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Coffee Shop\"]"
+    },
+    {
+      "originalDescription": "Zelle payment to Braylen Celestin Conf# e9c7onj9y",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 15.0,
+      "date": "2024-01-16",
+      "description": "Zelle payment to Braylen Celestin Conf# e9c7onj9y",
+      "guid": "gLA8p0VV8QF0XXVJ7gwLFZmeM0dqDrU6oayEN",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "Zelle payment to Carmelo Celestin Conf# h2wsup8hs",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 5.0,
+      "date": "2024-01-02",
+      "description": "Zelle payment to Carmelo Celestin Conf# h2wsup8hs",
+      "guid": "gLA8p0VV8QF0XXVJ7gwLFZmeM0dqDrU6oayLN",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 0107 WOODMANS GAS S CARPENTERSVI",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 13.04,
+      "date": "2024-01-08",
+      "description": "CHECKCARD 0107 WOODMANS GAS S CARPENTERSVI",
+      "guid": "jPdo84VVoQHmZZw5nLBPCVJ9dmyDEgCv9mEDb",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 0108 COOPERS HAWK OAK PARK L OAK PARK IL XXXXX0640XXXXXXXXXX0924",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 13.18,
+      "date": "2024-01-09",
+      "description": "CHECKCARD 0108 COOPERS HAWK OAK PARK L OAK PARK IL XXXXX0640XXXXXXXXXX0924",
+      "guid": "jPdo84VVoQHmZZw5nLBPCVJ9dmyDEgCv9mEDE",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "Dollar Tree",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 9.63,
+      "date": "2023-12-26",
+      "description": "Dollar Tree",
+      "guid": "jPdo84VVoQHmZZw5nLBPCVJ9dmyDEgCv9mJ84",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Discount Stores\"]"
+    },
+    {
+      "originalDescription": "Walmart",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 98.04,
+      "date": "2024-01-02",
+      "description": "Walmart",
+      "guid": "jPdo84VVoQHmZZw5nLBPCVJ9dmyDEgCv9mJkb",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 0117 AMAZON DIGIT*R81R XXXXX61072 WA XXXXX2040XXXXXXXXXX3294",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 10.99,
+      "date": "2024-01-18",
+      "description": "CHECKCARD 0117 AMAZON DIGIT*R81R XXXXX61072 WA XXXXX2040XXXXXXXXXX3294",
+      "guid": "jPdo84VVoQHmZZw5nLBPCVJ9dmyDEgCv9mJOb",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Digital Purchase\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1122 JEWEL OSCO 4500 CHICAGO IL XXXXX6833XXXXXXXXXX0577",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 30.25,
+      "date": "2023-11-24",
+      "description": "CHECKCARD 1122 JEWEL OSCO 4500 CHICAGO IL XXXXX6833XXXXXXXXXX0577",
+      "guid": "jPdo84VVoQHmZZw5nLBPCVJbLM0k8gCvD6y5Q",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Wendy's",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 7.22,
+      "date": "2023-12-18",
+      "description": "Wendy's",
+      "guid": "azbmP3jjmgI7xxzd3MOZFPb0yqq8Z6fKrBLVN",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1217 BERWYN MART",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 37.41,
+      "date": "2023-12-18",
+      "description": "CHECKCARD 1217 BERWYN MART",
+      "guid": "jPdo84VVoQHmZZw5nLBPCVJbLM0k8gCvD6yga",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1108 WM SUPERCENTER",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 14.96,
+      "date": "2023-11-09",
+      "description": "CHECKCARD 1108 WM SUPERCENTER",
+      "guid": "jPdo84VVoQHmZZw5nLBPCVJbLM0k8gCvD6yqQ",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Walmart",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 96.44,
+      "date": "2023-10-30",
+      "description": "Walmart",
+      "guid": "jPdo84VVoQHmZZw5nLBPCVJbLM0k8gCvD6yzg",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Zelle payment to Carmelo Celestin Conf# fb7va2hdj",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 5.0,
+      "date": "2023-12-20",
+      "description": "Zelle payment to Carmelo Celestin Conf# fb7va2hdj",
+      "guid": "jPdo84VVoQHmZZw5nLBPCVJEn99Na7fvD6yB6",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "UNITED PARCEL DES:PAYROLL ID:0122967 P55048 INDN:CELESTIN, CARMELO CO ID:XXXXX07381 PPD",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 250.0,
+      "date": "2023-12-01",
+      "description": "UNITED PARCEL DES:PAYROLL ID:0122967 P55048 INDN:CELESTIN, CARMELO CO ID:XXXXX07381 PPD",
+      "guid": "jPdo84VVoQHmZZw5nLBPCVJEn99Na7fvD6yM6",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Payroll\"]"
+    },
+    {
+      "originalDescription": "Amazon Prime",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 14.99,
+      "date": "2023-11-27",
+      "description": "Amazon Prime",
+      "guid": "jPdo84VVoQHmZZw5nLBPCVJEn99Na7fvD6yMv",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Subscription\"]"
+    },
+    {
+      "originalDescription": "Wendy's",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 7.22,
+      "date": "2023-12-20",
+      "description": "Wendy's",
+      "guid": "0pEDZY88DBIK113ba4k6UP1YNddnJzf9dw0Xz",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1104 eBay O*05-10749-6 XXXXX66151 CA MDJXXXXX2133XXXXX0927",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 21.99,
+      "date": "2023-11-06",
+      "description": "CHECKCARD 1104 eBay O*05-10749-6 XXXXX66151 CA MDJXXXXX2133XXXXX0927",
+      "guid": "jPdo84VVoQHmZZw5nLBPCVJExn3PLDFvD6yXm",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Digital Purchase\"]"
+    },
+    {
+      "originalDescription": "Wendy's",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 7.22,
+      "date": "2023-12-01",
+      "description": "Wendy's",
+      "guid": "0pEDZY88DBIK113ba4k6UP1YNddnJzf9dw0Ez",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "White Castle",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 8.63,
+      "date": "2023-11-27",
+      "description": "White Castle",
+      "guid": "0pEDZY88DBIK113ba4k6UP1YNddnJzf9dw0EA",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1103 JEWEL OSCO 4500 CHICAGO IL MDJXXXXX5233XXXXX0021",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 16.54,
+      "date": "2023-11-06",
+      "description": "CHECKCARD 1103 JEWEL OSCO 4500 CHICAGO IL MDJXXXXX5233XXXXX0021",
+      "guid": "0pEDZY88DBIK113ba4k6UP1Y0NrLE6I9dw0aJ",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1210 LAUNDRY WORLD CO. BERWYN IL XXXXX2333XXXXXXXXXX4345",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 11.25,
+      "date": "2023-12-12",
+      "description": "CHECKCARD 1210 LAUNDRY WORLD CO. BERWYN IL XXXXX2333XXXXXXXXXX4345",
+      "guid": "JzOJNKxxJDIzvvXoR3YLsqYobD4A9ZC0EdrJK",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Personal Care\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1027 BMS MART LAGRANGE PARKIL",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 61.23,
+      "date": "2023-10-27",
+      "description": "CHECKCARD 1027 BMS MART LAGRANGE PARKIL",
+      "guid": "JzOJNKxxJDIzvvXoR3YLsqYobD4A9ZC0EdrLO",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1223 ALDI 40087 BROADVIEW IL XXXXX4833XXXXXXXXXX5715",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 22.98,
+      "date": "2023-12-26",
+      "description": "CHECKCARD 1223 ALDI 40087 BROADVIEW IL XXXXX4833XXXXXXXXXX5715",
+      "guid": "0pEDZY88DBIK113ba4k6UP1djxR6YeI93omP7",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Acorns Invest DES:Transfer ID:D35ZTB1 INDN:Carmelo Celestin CO ID:XXXXX42693 WEB",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 15.0,
+      "date": "2023-11-20",
+      "description": "Acorns Invest DES:Transfer ID:D35ZTB1 INDN:Carmelo Celestin CO ID:XXXXX42693 WEB",
+      "guid": "JzOJNKxxJDIzvvXoR3YLsqYobD4A9ZC0EdrPx",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Third Party\",\"Acorns\"]"
+    },
+    {
+      "originalDescription": "Online Banking transfer to CHK 0842 Confirmation# XXXXX52771",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 20.0,
+      "date": "2024-01-02",
+      "description": "Online Banking transfer to CHK 0842 Confirmation# XXXXX52771",
+      "guid": "0pEDZY88DBIK113ba4k6UP1djxR6YeI93omBj",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Internal Account Transfer\"]"
+    },
+    {
+      "originalDescription": "UNITED PARCEL DES:PAYROLL ID:0122967 P55003 INDN:CELESTIN, CARMELO CO ID:XXXXX07381 PPD",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 250.0,
+      "date": "2024-01-19",
+      "description": "UNITED PARCEL DES:PAYROLL ID:0122967 P55003 INDN:CELESTIN, CARMELO CO ID:XXXXX07381 PPD",
+      "guid": "0pEDZY88DBIK113ba4k6UP1djxR6YeI93om8j",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Payroll\"]"
+    },
+    {
+      "originalDescription": "Acorns Invest DES:Transfer ID:46STKB1 INDN:Carmelo Celestin CO ID:XXXXX42693 WEB",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 15.0,
+      "date": "2023-11-06",
+      "description": "Acorns Invest DES:Transfer ID:46STKB1 INDN:Carmelo Celestin CO ID:XXXXX42693 WEB",
+      "guid": "JzOJNKxxJDIzvvXoR3YLsqYobD4A9ZC0Edrzx",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Third Party\",\"Acorns\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1217 AMAZON DIGIT*5B39 XXXXX61072 WA XXXXX2033XXXXXXXXXX1992",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 10.99,
+      "date": "2023-12-18",
+      "description": "CHECKCARD 1217 AMAZON DIGIT*5B39 XXXXX61072 WA XXXXX2033XXXXXXXXXX1992",
+      "guid": "JzOJNKxxJDIzvvXoR3YLsqYOePPVrps0Edr5n",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Digital Purchase\"]"
+    },
+    {
+      "originalDescription": "UNITED PARCEL DES:PAYROLL ID:0122967 P55047 INDN:CELESTIN, CARMELO CO ID:XXXXX07381 PPD",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 250.0,
+      "date": "2023-11-24",
+      "description": "UNITED PARCEL DES:PAYROLL ID:0122967 P55047 INDN:CELESTIN, CARMELO CO ID:XXXXX07381 PPD",
+      "guid": "JzOJNKxxJDIzvvXoR3YLsqYOePPVrps0EdrVk",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Payroll\"]"
+    },
+    {
+      "originalDescription": "Burlington",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 6.59,
+      "date": "2023-11-28",
+      "description": "Burlington",
+      "guid": "JzOJNKxxJDIzvvXoR3YLsqYOePPVrps0EdrVn",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Department Stores\"]"
+    },
+    {
+      "originalDescription": "Mission Lane LLC DES:EDI PYMNTS ID:7AIy8OjjcREHyPU INDN:Carmelo Celestin CO ID:XXXXX74981 WEB",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 102.42,
+      "date": "2024-01-08",
+      "description": "Mission Lane LLC DES:EDI PYMNTS ID:7AIy8OjjcREHyPU INDN:Carmelo Celestin CO ID:XXXXX74981 WEB",
+      "guid": "0pEDZY88DBIK113ba4k6UP1djxR6YeI93o6dj",
+      "type": "DEBIT",
+      "category": "[\"Payment\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 0108 72794 - LAKE & FOREST P OAK PARK IL XXXXX5440XXXXXXXXXX2794",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 3.0,
+      "date": "2024-01-10",
+      "description": "CHECKCARD 0108 72794 - LAKE & FOREST P OAK PARK IL XXXXX5440XXXXXXXXXX2794",
+      "guid": "0pEDZY88DBIK113ba4k6UP1djxR6YeI93o6d0",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "Walgreens",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 69.12,
+      "date": "2023-11-24",
+      "description": "Walgreens",
+      "guid": "0pEDZY88DBIK113ba4k6UP1BE95bKeU9dw0OV",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Pharmacies\"]"
+    },
+    {
+      "originalDescription": "Amazon",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 10.31,
+      "date": "2023-11-01",
+      "description": "Amazon",
+      "guid": "JzOJNKxxJDIzvvXoR3YLsqYOKeQab7i0Edrpp",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Digital Purchase\"]"
+    },
+    {
+      "originalDescription": "Amazon",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 18.7,
+      "date": "2024-01-16",
+      "description": "Amazon",
+      "guid": "JzOJNKxxJDIzvvXoR3YLsqYPwxB7OZU0jqeoE",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Digital Purchase\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 0105 SOUTH SIDE GAS",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 30.0,
+      "date": "2024-01-05",
+      "description": "CHECKCARD 0105 SOUTH SIDE GAS",
+      "guid": "JzOJNKxxJDIzvvXoR3YLsqYPwxB7OZU0jqKEE",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1028 CKE*LISTO FRESH MEXICAN MINNEAPOLIS MN XXXXX0033XXXXXXXXXX0170",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 47.09,
+      "date": "2023-10-30",
+      "description": "CHECKCARD 1028 CKE*LISTO FRESH MEXICAN MINNEAPOLIS MN XXXXX0033XXXXXXXXXX0170",
+      "guid": "0pEDZY88DBIK113ba4k6UP1BE95bKeU9dw07g",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "UNITED PARCEL DES:PAYROLL ID:0122967 P55045 INDN:CELESTIN, CARMELO CO ID:XXXXX07381 PPD",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 1442.26,
+      "date": "2023-11-10",
+      "description": "UNITED PARCEL DES:PAYROLL ID:0122967 P55045 INDN:CELESTIN, CARMELO CO ID:XXXXX07381 PPD",
+      "guid": "0pEDZY88DBIK113ba4k6UP1BE95bKeU9dw01V",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Payroll\"]"
+    },
+    {
+      "originalDescription": "UNITED PARCEL DES:PAYROLL ID:0122967 P55044 INDN:CELESTIN, CARMELO CO ID:XXXXX07381 PPD",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 250.0,
+      "date": "2023-11-03",
+      "description": "UNITED PARCEL DES:PAYROLL ID:0122967 P55044 INDN:CELESTIN, CARMELO CO ID:XXXXX07381 PPD",
+      "guid": "azbmP3jjmgI7xxzd3MOZFPb0Qy3m57IKrBLeV",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Payroll\"]"
+    },
+    {
+      "originalDescription": "Online Banking transfer from CHK 5977 Confirmation# XXXXX04620",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 5.0,
+      "date": "2023-12-13",
+      "description": "Online Banking transfer from CHK 5977 Confirmation# XXXXX04620",
+      "guid": "azbmP3jjmgI7xxzd3MOZFPbj51zrMRUKrBLJk",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Internal Account Transfer\"]"
+    },
+    {
+      "originalDescription": "Goodwill",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 25.0,
+      "date": "2023-10-31",
+      "description": "Goodwill",
+      "guid": "kqwbrannbQTmZZaJM0dqC45J0gMp6eCbaOL8o",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Vintage and Thrift\"]"
+    },
+    {
+      "originalDescription": "UNITED PARCEL DES:PAYROLL ID:0122967 P55045 INDN:CELESTIN, CARMELO CO ID:XXXXX07381 PPD",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 63.95,
+      "date": "2023-11-10",
+      "description": "UNITED PARCEL DES:PAYROLL ID:0122967 P55045 INDN:CELESTIN, CARMELO CO ID:XXXXX07381 PPD",
+      "guid": "kqwbrannbQTmZZaJM0dqC45J0gMp6eCbaOLmo",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Payroll\"]"
+    },
+    {
+      "originalDescription": "Zelle payment to Braylen Celestin Conf# g07jqwx3v",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 20.0,
+      "date": "2023-11-27",
+      "description": "Zelle payment to Braylen Celestin Conf# g07jqwx3v",
+      "guid": "kqwbrannbQTmZZaJM0dqC45J0gMp6eCbaOLNo",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "Credit One Bank DES:Payment ID:49832424 INDN:CARMELO CELESTIN CO ID:WEB000004 WEB",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 50.0,
+      "date": "2023-11-28",
+      "description": "Credit One Bank DES:Payment ID:49832424 INDN:CARMELO CELESTIN CO ID:WEB000004 WEB",
+      "guid": "kqwbrannbQTmZZaJM0dqC45J0gMp6eCbaOLNY",
+      "type": "DEBIT",
+      "category": "[\"Payment\",\"Credit Card\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1029 YouTub",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 72.99,
+      "date": "2023-10-30",
+      "description": "CHECKCARD 1029 YouTub",
+      "guid": "kqwbrannbQTmZZaJM0dqC45J0gMp6eCbaOLPw",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Digital Purchase\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1218 XSPORT LYONS-CKFR IL XXXXX0033XXXXXXXXXX7737 RECURRING",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 12.95,
+      "date": "2023-12-19",
+      "description": "CHECKCARD 1218 XSPORT LYONS-CKFR IL XXXXX0033XXXXXXXXXX7737 RECURRING",
+      "guid": "kqwbrannbQTmZZaJM0dqC45J0gMp6eCbaOLzY",
+      "type": "DEBIT",
+      "category": "[\"Recreation\",\"Gyms and Fitness Centers\"]"
+    },
+    {
+      "originalDescription": "Online Banking transfer from CHK 5977 Confirmation# XXXXX95460",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 30.0,
+      "date": "2023-12-11",
+      "description": "Online Banking transfer from CHK 5977 Confirmation# XXXXX95460",
+      "guid": "7egKDYbbK0f455LO7pQKTjLKbDEONwH8pX7V8",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Internal Account Transfer\"]"
+    },
+    {
+      "originalDescription": "Acorns Invest DES:Transfer ID:V6HRCC1 INDN:Carmelo Celestin CO ID:XXXXX42693 WEB",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 15.0,
+      "date": "2023-12-18",
+      "description": "Acorns Invest DES:Transfer ID:V6HRCC1 INDN:Carmelo Celestin CO ID:XXXXX42693 WEB",
+      "guid": "AzmNv6EENoIP77jyOdv6u7O6mLxyYNiwXDRrD",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Third Party\",\"Acorns\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1104 eBay O*05-10749-6 XXXXX66151 CA MDJXXXXX2133XXXXX0927",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 9.44,
+      "date": "2023-11-06",
+      "description": "CHECKCARD 1104 eBay O*05-10749-6 XXXXX66151 CA MDJXXXXX2133XXXXX0927",
+      "guid": "kqwbrannbQTmZZaJM0dqC45KkV9Q0RtbaOLB3",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Digital Purchase\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1125 JEWEL OSCO 2265 LA GRANGE PARIL XXXXX5233XXXXXXXXXX5522",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 8.18,
+      "date": "2023-11-27",
+      "description": "CHECKCARD 1125 JEWEL OSCO 2265 LA GRANGE PARIL XXXXX5233XXXXXXXXXX5522",
+      "guid": "kqwbrannbQTmZZaJM0dqC45KVYY7yqFbaOL14",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Amazon",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 10.87,
+      "date": "2023-12-04",
+      "description": "Amazon",
+      "guid": "kqwbrannbQTmZZaJM0dqC45KVYY7yqFbaOL1q",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Digital Purchase\"]"
+    },
+    {
+      "originalDescription": "Zelle payment to Carmelo Celestin Conf# duodrko0a",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 5.0,
+      "date": "2024-01-11",
+      "description": "Zelle payment to Carmelo Celestin Conf# duodrko0a",
+      "guid": "kqwbrannbQTmZZaJM0dqC45YvdLRKeUbQ0kaA",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "ALLY CC DES:MOBILE PYM ID:XXXXXXXXXX21313 INDN:CARMELO CELESTIN CO ID:XXXXX02835 WEB",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 88.0,
+      "date": "2024-01-08",
+      "description": "ALLY CC DES:MOBILE PYM ID:XXXXXXXXXX21313 INDN:CARMELO CELESTIN CO ID:XXXXX02835 WEB",
+      "guid": "kqwbrannbQTmZZaJM0dqC45YvdLRKeUbQ0kaD",
+      "type": "DEBIT",
+      "category": "[\"Payment\"]"
+    },
+    {
+      "originalDescription": "TISCHLER FINER 01/19 #XXXXX9486 PURCHASE 9118 BROADWAY AVE",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 5.5,
+      "date": "2024-01-19",
+      "description": "TISCHLER FINER 01/19 #XXXXX9486 PURCHASE 9118 BROADWAY AVE",
+      "guid": "kqwbrannbQTmZZaJM0dqC45YvdLRKeUbQ0nwD",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Panda Express",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 11.31,
+      "date": "2023-12-26",
+      "description": "Panda Express",
+      "guid": "kqwbrannbQTmZZaJM0dqC45YvdLRKeUbQ0nxN",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 0103 UIC PARKING SERVI CHICAGO IL XXXXX8740XXXXXXXXXX6864",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 9.0,
+      "date": "2024-01-04",
+      "description": "CHECKCARD 0103 UIC PARKING SERVI CHICAGO IL XXXXX8740XXXXXXXXXX6864",
+      "guid": "kqwbrannbQTmZZaJM0dqC45YvdLRKeUbQ0nZD",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Parking\"]"
+    },
+    {
+      "originalDescription": "ASPIRE MC PMT DES:ePay ID:ASPIRE MC PMT INDN:Carmelo Celestin CO ID:RXXXXX6689 WEB",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 47.02,
+      "date": "2023-11-28",
+      "description": "ASPIRE MC PMT DES:ePay ID:ASPIRE MC PMT INDN:Carmelo Celestin CO ID:RXXXXX6689 WEB",
+      "guid": "Kz9mDkaam1IRPPa1NygQckaLzX9B8VUyDwM49",
+      "type": "DEBIT",
+      "category": "[\"Recreation\",\"Arts and Entertainment\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1125 Nickys Gyros Calumet City IL XXXXX8833XXXXXXXXXX4214",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 42.04,
+      "date": "2023-11-27",
+      "description": "CHECKCARD 1125 Nickys Gyros Calumet City IL XXXXX8833XXXXXXXXXX4214",
+      "guid": "Kz9mDkaam1IRPPa1NygQckaLzX9B8VUyDwM4Q",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1219 MR. SUBMARINE XXX-XX42911 IL XXXXX9533XXXXXXXXXX1301",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 36.51,
+      "date": "2023-12-21",
+      "description": "CHECKCARD 1219 MR. SUBMARINE XXX-XX42911 IL XXXXX9533XXXXXXXXXX1301",
+      "guid": "Kz9mDkaam1IRPPa1NygQckaLzX9B8VUyDwMa9",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1108 CHINESE SEE THRU KITCH BROADVIEW IL XXXXX0133XXXXXXXXXX4999",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 32.9,
+      "date": "2023-11-10",
+      "description": "CHECKCARD 1108 CHINESE SEE THRU KITCH BROADVIEW IL XXXXX0133XXXXXXXXXX4999",
+      "guid": "Kz9mDkaam1IRPPa1NygQckaLzX9B8VUyDwMjQ",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1029 BROADVIEW MINU",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 63.58,
+      "date": "2023-10-30",
+      "description": "CHECKCARD 1029 BROADVIEW MINU",
+      "guid": "Kz9mDkaam1IRPPa1NygQckaLzX9B8VUyDwMPD",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "Burlington",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 33.08,
+      "date": "2023-10-31",
+      "description": "Burlington",
+      "guid": "Kz9mDkaam1IRPPa1NygQckaLzX9B8VUyDwMPQ",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Department Stores\"]"
+    },
+    {
+      "originalDescription": "MNRD-HAMMOND 1 12/09 #XXXXX6289 PURCHASE MNRD-HAMMOND 1233",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 64.72,
+      "date": "2023-12-11",
+      "description": "MNRD-HAMMOND 1 12/09 #XXXXX6289 PURCHASE MNRD-HAMMOND 1233",
+      "guid": "bzK84yXX87InNNq8REkeFNL5dbM3vZtPK3BEq",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Hardware Store\"]"
+    },
+    {
+      "originalDescription": "MNRD-HODGKINS 12/23 #XXXXX4240 PURCHASE 6100 EAST AVENUE",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 5.43,
+      "date": "2023-12-26",
+      "description": "MNRD-HODGKINS 12/23 #XXXXX4240 PURCHASE 6100 EAST AVENUE",
+      "guid": "Kz9mDkaam1IRPPa1NygQckanR30mPVfyrA63a",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Hardware Store\"]"
+    },
+    {
+      "originalDescription": "Dunkin' Donuts",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 6.04,
+      "date": "2024-01-04",
+      "description": "Dunkin' Donuts",
+      "guid": "Kz9mDkaam1IRPPa1NygQckanR30mPVfyrA6KL",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Coffee Shop\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 0119 LAUNDRY WORLD CO. BERWYN IL XXXXX3640XXXXXXXXXX6479",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 9.75,
+      "date": "2024-01-22",
+      "description": "CHECKCARD 0119 LAUNDRY WORLD CO. BERWYN IL XXXXX3640XXXXXXXXXX6479",
+      "guid": "Kz9mDkaam1IRPPa1NygQckanR30mPVfyrA6YL",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Personal Care\"]"
+    },
+    {
+      "originalDescription": "PROSPER MARKETPL DES:PRSPER PYT ID:99056512 INDN:Celestin Carmelo CO ID:XXXXX36566 PPD",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 70.0,
+      "date": "2024-01-08",
+      "description": "PROSPER MARKETPL DES:PRSPER PYT ID:99056512 INDN:Celestin Carmelo CO ID:XXXXX36566 PPD",
+      "guid": "Kz9mDkaam1IRPPa1NygQckanR30mPVfyrAODL",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "Wendy's",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 9.73,
+      "date": "2024-01-11",
+      "description": "Wendy's",
+      "guid": "Kz9mDkaam1IRPPa1NygQckanR30mPVfyrAODq",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1125 ADVANCE AUTO PART BROOKFIELD IL XXXXX7033XXXXXXXXXX0806",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 12.74,
+      "date": "2023-11-27",
+      "description": "CHECKCARD 1125 ADVANCE AUTO PART BROOKFIELD IL XXXXX7033XXXXXXXXXX0806",
+      "guid": "Kz9mDkaam1IRPPa1NygQckaPennZ75hyDwMJe",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Automotive\",\"Car Parts and Accessories\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1202 eBayCommerce",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 21.99,
+      "date": "2023-12-04",
+      "description": "CHECKCARD 1202 eBayCommerce",
+      "guid": "Kz9mDkaam1IRPPa1NygQckaPennZ75hyDwMJR",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "CVS",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 12.16,
+      "date": "2023-11-06",
+      "description": "CVS",
+      "guid": "Kz9mDkaam1IRPPa1NygQckaPQebYzmSyDwM7m",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Pharmacies\"]"
+    },
+    {
+      "originalDescription": "ExxonMobil",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 20.0,
+      "date": "2024-01-24",
+      "description": "ExxonMobil",
+      "guid": "Yzrp3wRRpaIRqqjPw5bZcrm3aRjANoHzyYKx5",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "Acorns DES:Transfer ID:XXXXX544228 INDN:Carmelo Celestin CO ID:XXXXX00001 WEB",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 20.0,
+      "date": "2024-01-22",
+      "description": "Acorns DES:Transfer ID:XXXXX544228 INDN:Carmelo Celestin CO ID:XXXXX00001 WEB",
+      "guid": "Oz0ObjmmO3IbzzVKXvNatBMRKbEg67CpreQX9",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Third Party\",\"Acorns\"]"
+    },
+    {
+      "originalDescription": "Acorns Invest DES:Transfer ID:19T21D1 INDN:Carmelo Celestin CO ID:XXXXX42693 WEB",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 15.0,
+      "date": "2024-01-22",
+      "description": "Acorns Invest DES:Transfer ID:19T21D1 INDN:Carmelo Celestin CO ID:XXXXX42693 WEB",
+      "guid": "VzAQ0Z99QjIReebyKJPDcQN9aRVjPvineYP65",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Third Party\",\"Acorns\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 0119 BUDDY BEAR CAR WA BROADVIEW IL XXXXX2940XXXXXXXXXX9968",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 5.0,
+      "date": "2024-01-22",
+      "description": "CHECKCARD 0119 BUDDY BEAR CAR WA BROADVIEW IL XXXXX2940XXXXXXXXXX9968",
+      "guid": "yJ76mn996QC0ddQVL1xJFNX384mOzLHRm9v13",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Automotive\",\"Car Wash and Detail\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 0119 JADE GARDEN LYONS IL XXXXX0240XXXXXXXXXX3311",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 41.63,
+      "date": "2024-01-22",
+      "description": "CHECKCARD 0119 JADE GARDEN LYONS IL XXXXX0240XXXXXXXXXX3311",
+      "guid": "qAwxanvvxNSAoozNk1vQt0pXyZjJEaH1QP7ZD",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 0120 DOLLARTREE LA GRANGE IL XXXXX8440XXXXXXXXXX3917",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 5.45,
+      "date": "2024-01-22",
+      "description": "CHECKCARD 0120 DOLLARTREE LA GRANGE IL XXXXX8440XXXXXXXXXX3917",
+      "guid": "LzmJ1AaaJPI355QeXKoLUqbO7mRBd6UJ1anKv",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Discount Stores\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 0120 QT 7205 INSIDE LANSING IL XXXXX1640XXXXXXXXXX9111",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 8.78,
+      "date": "2024-01-22",
+      "description": "CHECKCARD 0120 QT 7205 INSIDE LANSING IL XXXXX1640XXXXXXXXXX9111",
+      "guid": "MzAJ5vOOJqIMEEKV4kvwFvZRQN8pgwF0xOvDq",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 0120 WM SUPERCENTER",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 19.16,
+      "date": "2024-01-22",
+      "description": "CHECKCARD 0120 WM SUPERCENTER",
+      "guid": "Rz4Jma99JkIOddw09rzyIyMNAOxqP6I9NoXbR",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Dollar Tree",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 9.59,
+      "date": "2024-01-22",
+      "description": "Dollar Tree",
+      "guid": "m3g4PJnn4QCxPPLENya3idvOjgJMmQH8XQLDw",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Discount Stores\"]"
+    },
+    {
+      "originalDescription": "ExxonMobil",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 19.97,
+      "date": "2024-01-22",
+      "description": "ExxonMobil",
+      "guid": "wajd7XOOdQIjOO3PwvyaHY47dAao6ZiRVgj67",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "Wendy's",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 9.73,
+      "date": "2024-01-22",
+      "description": "Wendy's",
+      "guid": "z8oL7nppLQIRwwJ7Dbz8c9BmJLoOY4TMoR6Zy",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "Zelle payment to Carmelo Celestin Conf# f816h3hnm",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 20.0,
+      "date": "2024-01-22",
+      "description": "Zelle payment to Carmelo Celestin Conf# f816h3hnm",
+      "guid": "PzZbxr99byIZvvDzm0eaFy5OBZpAkxIOVDBQm",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 0119 KWIK-TRIP BLK RIVER FLSWI",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 15.0,
+      "date": "2024-01-19",
+      "description": "CHECKCARD 0119 KWIK-TRIP BLK RIVER FLSWI",
+      "guid": "v4oVRn00VXUREE34dp6Qc3JZg0KmaBcpEzANz",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "McDonald's",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 7.23,
+      "date": "2024-01-19",
+      "description": "McDonald's",
+      "guid": "QzQJO4mmJKIwaaXDVj9mCLYK5wo48QF9XMAgg",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "UNITED PARCEL DES:PAYROLL ID:0122967 P55003 INDN:CELESTIN, CARMELO CO ID:XXXXX07381 PPD",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 697.34,
+      "date": "2024-01-19",
+      "description": "UNITED PARCEL DES:PAYROLL ID:0122967 P55003 INDN:CELESTIN, CARMELO CO ID:XXXXX07381 PPD",
+      "guid": "nyD4a8VV4QsYDDx3jrXyHNE7ZR4AxJHjDN153",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Payroll\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 0116 JADE GARDEN LYONS IL XXXXX2940XXXXXXXXXX0790",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 15.49,
+      "date": "2024-01-18",
+      "description": "CHECKCARD 0116 JADE GARDEN LYONS IL XXXXX2940XXXXXXXXXX0790",
+      "guid": "m3g4PJnn4QCxPPLENya3idvOjgJMmQH8XQa95",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 0117 BERWYN MART",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 39.1,
+      "date": "2024-01-18",
+      "description": "CHECKCARD 0117 BERWYN MART",
+      "guid": "Yzrp3wRRpaIRqqjPw5bZcrm3aRjANoHzyYLDk",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 0117 XSPORT LYONS-CKFR IL XXXXX0040XXXXXXXXXX9900 RECURRING",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 12.95,
+      "date": "2024-01-18",
+      "description": "CHECKCARD 0117 XSPORT LYONS-CKFR IL XXXXX0040XXXXXXXXXX9900 RECURRING",
+      "guid": "z8oL7nppLQIRwwJ7Dbz8c9BmJLoOY4TMoR7Lj",
+      "type": "DEBIT",
+      "category": "[\"Recreation\",\"Gyms and Fitness Centers\"]"
+    },
+    {
+      "originalDescription": "Zelle payment to BreAnna Celestin Conf# h26vh09ci",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 20.0,
+      "date": "2024-01-18",
+      "description": "Zelle payment to BreAnna Celestin Conf# h26vh09ci",
+      "guid": "XzM8Rd9984IoPPmrdZwaF7Pkzo4aYquzRyYxj",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "Zelle payment to Carmelo Celestin Conf# cqap7v3l9",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 8.0,
+      "date": "2024-01-18",
+      "description": "Zelle payment to Carmelo Celestin Conf# cqap7v3l9",
+      "guid": "NzQJq099JBIZ33obEAD4F8nbXZxrPeUyVQmOv",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "Zelle payment to SMP Conf# h6j7qa2z9",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 20.0,
+      "date": "2024-01-18",
+      "description": "Zelle payment to SMP Conf# h6j7qa2z9",
+      "guid": "pkd4P5jj4nIyaa9znANQUj8Qom0JXOFAqDpy1",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 0117 TMOBILE AUTO P BELLEVUE WA XXXXXXXXXXXXXXX00620747 RECURRING",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 181.57,
+      "date": "2024-01-17",
+      "description": "CHECKCARD 0117 TMOBILE AUTO P BELLEVUE WA XXXXXXXXXXXXXXX00620747 RECURRING",
+      "guid": "wajd7XOOdQIjOO3PwvyaHY47dAao6ZiRVg7wE",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Telecommunication Services\"]"
+    },
+    {
+      "originalDescription": "ExxonMobil",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 15.0,
+      "date": "2024-01-17",
+      "description": "ExxonMobil",
+      "guid": "rv746NVV4YfwZZ5okrPQCq3gRKnB9JUrPezE7",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "Acorns DES:Transfer ID:XXXXX100095 INDN:Carmelo Celestin CO ID:XXXXX00001 WEB",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 20.0,
+      "date": "2024-01-16",
+      "description": "Acorns DES:Transfer ID:XXXXX100095 INDN:Carmelo Celestin CO ID:XXXXX00001 WEB",
+      "guid": "LzmJ1AaaJPI355QeXKoLUqbO7mRBd6UJ1a5Ee",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Third Party\",\"Acorns\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 0113 LAUNDRY WORLD CO. BERWYN IL XXXXX3640XXXXXXXXXX5873",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 19.5,
+      "date": "2024-01-16",
+      "description": "CHECKCARD 0113 LAUNDRY WORLD CO. BERWYN IL XXXXX3640XXXXXXXXXX5873",
+      "guid": "oK149Zvv4QFbBBPexvVKtMXJq0EBzPIrXyD09",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Personal Care\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 0114 JADE GARDEN LYONS IL XXXXX0240XXXXXXXXXX3301",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 23.76,
+      "date": "2024-01-16",
+      "description": "CHECKCARD 0114 JADE GARDEN LYONS IL XXXXX0240XXXXXXXXXX3301",
+      "guid": "xx9wRnvvwQUJOOKj61nxszo9jkZM6LUmZy9rY",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "Popeyes",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 12.17,
+      "date": "2024-01-16",
+      "description": "Popeyes",
+      "guid": "ZzvR9677RxIPggn3zo40uQ8oZPNKe7i81jMPP",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "TONYS FRE 7111 01/14 #XXXXX1940 PURCHASE TONYS FRE 7111 CE",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 27.2,
+      "date": "2024-01-16",
+      "description": "TONYS FRE 7111 01/14 #XXXXX1940 PURCHASE TONYS FRE 7111 CE",
+      "guid": "PzZbxr99byIZvvDzm0eaFy5OBZpAkxIOVDLp9",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Walmart",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 197.82,
+      "date": "2024-01-16",
+      "description": "Walmart",
+      "guid": "qAwxanvvxNSAoozNk1vQt0pXyZjJEaH1QPR8M",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 0112 BP#XXXXX006705",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 13.0,
+      "date": "2024-01-12",
+      "description": "CHECKCARD 0112 BP#XXXXX006705",
+      "guid": "Oz0ObjmmO3IbzzVKXvNatBMRKbEg67Cpre0Pk",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "Starbucks",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 10.0,
+      "date": "2024-01-12",
+      "description": "Starbucks",
+      "guid": "MzAJ5vOOJqIMEEKV4kvwFvZRQN8pgwF0xOLg3",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Coffee Shop\"]"
+    },
+    {
+      "originalDescription": "Zelle Scheduled payment from BREANNA J CELESTIN Conf# fSjGfhkS4",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 10.0,
+      "date": "2023-12-04",
+      "description": "Zelle Scheduled payment from BREANNA J CELESTIN Conf# fSjGfhkS4",
+      "guid": "6pByEYmmyvIyKKpdk5XeUZ9envAd50CAdRQEg",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "Acorns DES:Transfer ID:XXXXX846699 INDN:Carmelo Celestin CO ID:XXXXX00001 WEB",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 20.0,
+      "date": "2023-12-11",
+      "description": "Acorns DES:Transfer ID:XXXXX846699 INDN:Carmelo Celestin CO ID:XXXXX00001 WEB",
+      "guid": "5pE3jY883AInyyMqvZ4rFO5AyQRqPDuN58ejL",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Third Party\",\"Acorns\"]"
+    },
+    {
+      "originalDescription": "Credit One Bank DES:Payment ID:40611099 INDN:CARMELO CELESTIN CO ID:WEB000004 WEB",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 30.0,
+      "date": "2023-11-28",
+      "description": "Credit One Bank DES:Payment ID:40611099 INDN:CARMELO CELESTIN CO ID:WEB000004 WEB",
+      "guid": "BzNV6m88VbIROOVAewQqcKXoE58AbjfvwEynY",
+      "type": "DEBIT",
+      "category": "[\"Payment\",\"Credit Card\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1201 VILLAGE OF WEST DUNDEE WWW.WDUNDEE.OIL XXXXX4533XXXXXXXXXX3884",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 26.0,
+      "date": "2023-12-04",
+      "description": "CHECKCARD 1201 VILLAGE OF WEST DUNDEE WWW.WDUNDEE.OIL XXXXX4533XXXXXXXXXX3884",
+      "guid": "ddg9BkVV9zIORRkPmoeQINYLdPxVD1togOz7E",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "Subscription DES:Acorns ID:C6JDY5 INDN:Carmelo Celestin CO ID:XXXXX42694 WEB",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 3.0,
+      "date": "2023-12-11",
+      "description": "Subscription DES:Acorns ID:C6JDY5 INDN:Carmelo Celestin CO ID:XXXXX42694 WEB",
+      "guid": "8p1kyYNNkjIAzzEN0mZ5tpn5o3yKD1fYjgNbP",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Third Party\",\"Acorns\"]"
+    },
+    {
+      "originalDescription": "Wendy's",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 7.22,
+      "date": "2023-11-30",
+      "description": "Wendy's",
+      "guid": "DzQYE1NNY7IarrmoRLvbFQrO3KkEqYTXAbj4a",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "UNITED PARCEL DES:PAYROLL ID:0122967 P55050 INDN:CELESTIN, CARMELO CO ID:XXXXX07381 PPD",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 461.17,
+      "date": "2023-12-15",
+      "description": "UNITED PARCEL DES:PAYROLL ID:0122967 P55050 INDN:CELESTIN, CARMELO CO ID:XXXXX07381 PPD",
+      "guid": "4pEB0YQQBkIJxxM7V86bsM5ba9Q71AuDd9yPO",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Payroll\"]"
+    },
+    {
+      "originalDescription": "ALLY CC DES:MOBILE PYM ID:XXXXXXXXXX06261 INDN:CARMELO CELESTIN CO ID:XXXXX02835 WEB",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 38.0,
+      "date": "2023-11-28",
+      "description": "ALLY CC DES:MOBILE PYM ID:XXXXXXXXXX06261 INDN:CARMELO CELESTIN CO ID:XXXXX02835 WEB",
+      "guid": "3pOqgY88qKIQrr79kJb8Hdb8XqN93zfPwy6n9",
+      "type": "DEBIT",
+      "category": "[\"Payment\"]"
+    },
+    {
+      "originalDescription": "Zelle Scheduled payment from BREANNA J CELESTIN Conf# pX5Jfj2Zk",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 10.0,
+      "date": "2023-12-08",
+      "description": "Zelle Scheduled payment from BREANNA J CELESTIN Conf# pX5Jfj2Zk",
+      "guid": "9p9AdYmmArIqdd1bXg0vCDBrxg9bJXf6wE5ex",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1127 BLUE DREAM SMOKE SHOP CHICAGO IL XXXXX5333XXXXXXXXXX4792",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 44.1,
+      "date": "2023-11-29",
+      "description": "CHECKCARD 1127 BLUE DREAM SMOKE SHOP CHICAGO IL XXXXX5333XXXXXXXXXX4792",
+      "guid": "1pz1AYee13ImJJvgkaQ5C5B3oELgnbFYaNMyk",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Tobacco\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1217 TMOBILE AUTO P BELLEVUE WA XXXXXXXXXXXXXXX00874577 RECURRING",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 196.35,
+      "date": "2023-12-18",
+      "description": "CHECKCARD 1217 TMOBILE AUTO P BELLEVUE WA XXXXXXXXXXXXXXX00874577 RECURRING",
+      "guid": "0pEDZY88DBIK113ba4k6UP1BE95bKeU9dw0Z4",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Telecommunication Services\"]"
+    },
+    {
+      "originalDescription": "Zelle payment to BreAnna Celestin Conf# iuygj1cl8",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 40.0,
+      "date": "2023-12-08",
+      "description": "Zelle payment to BreAnna Celestin Conf# iuygj1cl8",
+      "guid": "ddg9BkVV9zIORRkPmoeQINYAw77e9vUogOzVg",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "Starbucks",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 10.0,
+      "date": "2023-12-11",
+      "description": "Starbucks",
+      "guid": "ewKMXAmmMQSzJJAapXQwseBYbRRLjMf4XOy55",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Coffee Shop\"]"
+    },
+    {
+      "originalDescription": "Online Banking transfer to CHK 0842 Confirmation# XXXXX04620",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 5.0,
+      "date": "2023-12-13",
+      "description": "Online Banking transfer to CHK 0842 Confirmation# XXXXX04620",
+      "guid": "EzJbBPaab9I9VVzqRDZxC3QNmww0jMsdPRjvJ",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Internal Account Transfer\"]"
+    },
+    {
+      "originalDescription": "Zelle payment to Angela Abner for \"Happy Birthday Aidan\"; Conf# fjy09jwls",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 50.0,
+      "date": "2023-12-04",
+      "description": "Zelle payment to Angela Abner for \"Happy Birthday Aidan\"; Conf# fjy09jwls",
+      "guid": "ewKMXAmmMQSzJJAapXQwseB5Xv61xOt4XOymM",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "PMNT SENT 1206 CASH APP*CHRIS XXX-XX91940 CA XXXXX3833XXXXXXXXXX0058",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 5.0,
+      "date": "2023-12-06",
+      "description": "PMNT SENT 1206 CASH APP*CHRIS XXX-XX91940 CA XXXXX3833XXXXXXXXXX0058",
+      "guid": "EzJbBPaab9I9VVzqRDZxC3QYvqzJD6FdPRjmE",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "UNITED PARCEL DES:PAYROLL ID:0122967 P55002 INDN:CELESTIN, CARMELO CO ID:XXXXX07381 PPD",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 250.0,
+      "date": "2024-01-12",
+      "description": "UNITED PARCEL DES:PAYROLL ID:0122967 P55002 INDN:CELESTIN, CARMELO CO ID:XXXXX07381 PPD",
+      "guid": "Rz4Jma99JkIOddw09rzyIyMNAOxqP6I9NoMrN",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Payroll\"]"
+    },
+    {
+      "originalDescription": "Wendy's",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 9.65,
+      "date": "2024-01-12",
+      "description": "Wendy's",
+      "guid": "VzAQ0Z99QjIReebyKJPDcQN9aRVjPvineYbJp",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "Subscription DES:Acorns ID:LS7526 INDN:Carmelo Celestin CO ID:XXXXX42694 WEB",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 3.0,
+      "date": "2024-01-11",
+      "description": "Subscription DES:Acorns ID:LS7526 INDN:Carmelo Celestin CO ID:XXXXX42694 WEB",
+      "guid": "yJ76mn996QC0ddQVL1xJFNX384mOzLHRm9wAy",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Third Party\",\"Acorns\"]"
+    },
+    {
+      "originalDescription": "Walmart",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 24.01,
+      "date": "2024-01-11",
+      "description": "Walmart",
+      "guid": "nyD4a8VV4QsYDDx3jrXyHNE7ZR4AxJHjDNbX9",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Zelle payment to Carmelo Celestin Conf# bv2i025ox",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 7.0,
+      "date": "2024-01-11",
+      "description": "Zelle payment to Carmelo Celestin Conf# bv2i025ox",
+      "guid": "QzQJO4mmJKIwaaXDVj9mCLYK5wo48QF9XMpo8",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 0110 WM SUPERCENTER",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 20.97,
+      "date": "2024-01-10",
+      "description": "CHECKCARD 0110 WM SUPERCENTER",
+      "guid": "pkd4P5jj4nIyaa9znANQUj8Qom0JXOFAqD9Lo",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Wendy's",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 9.73,
+      "date": "2024-01-10",
+      "description": "Wendy's",
+      "guid": "v4oVRn00VXUREE34dp6Qc3JZg0KmaBcpEzwn1",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 0108 COOPERS HAWK OAK OAK PARK IL XXXXX2040XXXXXXXXXX0454",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 114.44,
+      "date": "2024-01-09",
+      "description": "CHECKCARD 0108 COOPERS HAWK OAK OAK PARK IL XXXXX2040XXXXXXXXXX0454",
+      "guid": "NzQJq099JBIZ33obEAD4F8nbXZxrPeUyVQ1z6",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "Wendy's",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 7.56,
+      "date": "2024-01-09",
+      "description": "Wendy's",
+      "guid": "XzM8Rd9984IoPPmrdZwaF7Pkzo4aYquzRy3jL",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "Acorns DES:Transfer ID:XXXXX323135 INDN:Carmelo Celestin CO ID:XXXXX00001 WEB",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 20.0,
+      "date": "2024-01-08",
+      "description": "Acorns DES:Transfer ID:XXXXX323135 INDN:Carmelo Celestin CO ID:XXXXX00001 WEB",
+      "guid": "LzmJ1AaaJPI355QeXKoLUqbO7mRBd6UJ1a5Ev",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Third Party\",\"Acorns\"]"
+    },
+    {
+      "originalDescription": "Acorns Invest DES:Transfer ID:H8L2SC1 INDN:Carmelo Celestin CO ID:XXXXX42693 WEB",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 15.0,
+      "date": "2024-01-08",
+      "description": "Acorns Invest DES:Transfer ID:H8L2SC1 INDN:Carmelo Celestin CO ID:XXXXX42693 WEB",
+      "guid": "rv746NVV4YfwZZ5okrPQCq3gRKnB9JUrPeo1z",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Third Party\",\"Acorns\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 0106 ONSTAR SERVICES 888-4ONSTAR MI XXXXX1640XXXXXXXXXX9671 RECURRING",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 15.34,
+      "date": "2024-01-08",
+      "description": "CHECKCARD 0106 ONSTAR SERVICES 888-4ONSTAR MI XXXXX1640XXXXXXXXXX9671 RECURRING",
+      "guid": "rv746NVV4YfwZZ5okrPQCq3gRKnB9JUrPeo17",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Telecommunication Services\"]"
+    },
+    {
+      "originalDescription": "CONT FINANCE DES:PAY BY PHO ID:XXXXXXXXXX11076 INDN:Celestin Carmelo CO ID:XXXXX30448 TEL",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 65.0,
+      "date": "2024-01-08",
+      "description": "CONT FINANCE DES:PAY BY PHO ID:XXXXXXXXXX11076 INDN:Celestin Carmelo CO ID:XXXXX30448 TEL",
+      "guid": "yJ76mn996QC0ddQVL1xJFNX384mOzLHRm9wA3",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]"
+    },
+    {
+      "originalDescription": "Credit One Bank DES:Payment ID:40611099 INDN:CARMELO CELESTIN CO ID:WEB000004 WEB",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 30.0,
+      "date": "2024-01-08",
+      "description": "Credit One Bank DES:Payment ID:40611099 INDN:CARMELO CELESTIN CO ID:WEB000004 WEB",
+      "guid": "qAwxanvvxNSAoozNk1vQt0pXyZjJEaH1QPR8D",
+      "type": "DEBIT",
+      "category": "[\"Payment\",\"Credit Card\"]"
+    },
+    {
+      "originalDescription": "Credit One Bank DES:Payment ID:49832424 INDN:CARMELO CELESTIN CO ID:WEB000004 WEB",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 96.0,
+      "date": "2024-01-08",
+      "description": "Credit One Bank DES:Payment ID:49832424 INDN:CARMELO CELESTIN CO ID:WEB000004 WEB",
+      "guid": "v4oVRn00VXUREE34dp6Qc3JZg0KmaBcpEzwnz",
+      "type": "DEBIT",
+      "category": "[\"Payment\",\"Credit Card\"]"
+    },
+    {
+      "originalDescription": "Credit One Bank DES:Payment ID:62531245 INDN:CARMELO CELESTIN CO ID:WEB000004 WEB",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 30.0,
+      "date": "2024-01-08",
+      "description": "Credit One Bank DES:Payment ID:62531245 INDN:CARMELO CELESTIN CO ID:WEB000004 WEB",
+      "guid": "PzZbxr99byIZvvDzm0eaFy5OBZpAkxIOVDLpm",
+      "type": "DEBIT",
+      "category": "[\"Payment\",\"Credit Card\"]"
+    },
+    {
+      "originalDescription": "Burger King",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 8.86,
+      "date": "2024-01-08",
+      "description": "Burger King",
+      "guid": "LzmJ1AaaJPI355QeXKoLUqbO7mRBd6UJ1anjv",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "Dunkin' Donuts",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 16.39,
+      "date": "2024-01-08",
+      "description": "Dunkin' Donuts",
+      "guid": "z8oL7nppLQIRwwJ7Dbz8c9BmJLoOY4TMoR6ky",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Coffee Shop\"]"
+    },
+    {
+      "originalDescription": "MNRD-MELR 3215 01/06 #XXXXX1731 PURCHASE MNRD-MELR 3215 WE ELROSE PARK",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 29.28,
+      "date": "2024-01-08",
+      "description": "MNRD-MELR 3215 01/06 #XXXXX1731 PURCHASE MNRD-MELR 3215 WE ELROSE PARK",
+      "guid": "wajd7XOOdQIjOO3PwvyaHY47dAao6ZiRVgjJ7",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Hardware Store\"]"
+    },
+    {
+      "originalDescription": "WOODMANS FOOD 01/07 #XXXXX2900 PURCHASE 2100 RANDALL ROAD CARPENTERSVI",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 6.52,
+      "date": "2024-01-08",
+      "description": "WOODMANS FOOD 01/07 #XXXXX2900 PURCHASE 2100 RANDALL ROAD CARPENTERSVI",
+      "guid": "Yzrp3wRRpaIRqqjPw5bZcrm3aRjANoHzyYK75",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Zelle payment to Carmelo Celestin Conf# qwjmkhh5x",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 7.0,
+      "date": "2024-01-08",
+      "description": "Zelle payment to Carmelo Celestin Conf# qwjmkhh5x",
+      "guid": "m3g4PJnn4QCxPPLENya3idvOjgJMmQH8XQLEw",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "BKOFAMERICA ATM 01/05 #XXXXX7730 WITHDRWL 83RD & PRINCETON",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 40.0,
+      "date": "2024-01-05",
+      "description": "BKOFAMERICA ATM 01/05 #XXXXX7730 WITHDRWL 83RD & PRINCETON",
+      "guid": "PzZbxr99byIZvvDzm0eaFy5OBZpAkxIOVDB5m",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 0104 PORTILLOS HOT DOG FOREST PARK IL XXXXX8740XXXXXXXXXX7240",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 19.64,
+      "date": "2024-01-05",
+      "description": "CHECKCARD 0104 PORTILLOS HOT DOG FOREST PARK IL XXXXX8740XXXXXXXXXX7240",
+      "guid": "qAwxanvvxNSAoozNk1vQt0pXyZjJEaH1QP75D",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "Customer Withdrawal Image",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 700.0,
+      "date": "2024-01-05",
+      "description": "Customer Withdrawal Image",
+      "guid": "xx9wRnvvwQUJOOKj61nxszo9jkZM6LUmZy7BY",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\"]"
+    },
+    {
+      "originalDescription": "UNITED PARCEL DES:PAYROLL ID:0122967 P55001 INDN:CELESTIN, CARMELO CO ID:XXXXX07381 PPD",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 1010.75,
+      "date": "2024-01-05",
+      "description": "UNITED PARCEL DES:PAYROLL ID:0122967 P55001 INDN:CELESTIN, CARMELO CO ID:XXXXX07381 PPD",
+      "guid": "ZzvR9677RxIPggn3zo40uQ8oZPNKe7i81jMJP",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Payroll\"]"
+    },
+    {
+      "originalDescription": "UNITED PARCEL DES:PAYROLL ID:0122967 P55001 INDN:CELESTIN, CARMELO CO ID:XXXXX07381 PPD",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 250.0,
+      "date": "2024-01-05",
+      "description": "UNITED PARCEL DES:PAYROLL ID:0122967 P55001 INDN:CELESTIN, CARMELO CO ID:XXXXX07381 PPD",
+      "guid": "yJ76mn996QC0ddQVL1xJFNX384mOzLHRm9vP3",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Payroll\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 0102 TONYS FRESH MRKT BERWYN IL XXXXX8440XXXXXXXXXX0625",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 4.07,
+      "date": "2024-01-03",
+      "description": "CHECKCARD 0102 TONYS FRESH MRKT BERWYN IL XXXXX8440XXXXXXXXXX0625",
+      "guid": "v4oVRn00VXUREE34dp6Qc3JZg0KmaBcpEzAPz",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Acorns DES:Transfer ID:XXXXX906764 INDN:Carmelo Celestin CO ID:XXXXX00001 WEB",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 20.0,
+      "date": "2024-01-02",
+      "description": "Acorns DES:Transfer ID:XXXXX906764 INDN:Carmelo Celestin CO ID:XXXXX00001 WEB",
+      "guid": "oK149Zvv4QFbBBPexvVKtMXJq0EBzPIrXyDZ9",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Third Party\",\"Acorns\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1230 LUCKY DOG BERWYN BERWYN IL XXXXX8833XXXXXXXXXX1994",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 9.75,
+      "date": "2024-01-02",
+      "description": "CHECKCARD 1230 LUCKY DOG BERWYN BERWYN IL XXXXX8833XXXXXXXXXX1994",
+      "guid": "LzmJ1AaaJPI355QeXKoLUqbO7mRBd6UJ1anj7",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "Online Banking transfer from CHK 5977 Confirmation# XXXXX52771",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 20.0,
+      "date": "2024-01-02",
+      "description": "Online Banking transfer from CHK 5977 Confirmation# XXXXX52771",
+      "guid": "VzAQ0Z99QjIReebyKJPDcQN9aRVjPvineYbwp",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Internal Account Transfer\"]"
+    },
+    {
+      "originalDescription": "TONYS FRE 7111 12/30 #XXXXX8634 PURCHASE TONYS FRE 7111 CE",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 14.78,
+      "date": "2024-01-02",
+      "description": "TONYS FRE 7111 12/30 #XXXXX8634 PURCHASE TONYS FRE 7111 CE",
+      "guid": "rv746NVV4YfwZZ5okrPQCq3gRKnB9JUrPezj7",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "AUTOPMT ASPIREMC DES:PAYMENT ID:XXXXXXXXXX69949 INDN:CELESTIN,CARMELO CO ID:LXXXXX6689 PPD",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 45.43,
+      "date": "2023-12-29",
+      "description": "AUTOPMT ASPIREMC DES:PAYMENT ID:XXXXXXXXXX69949 INDN:CELESTIN,CARMELO CO ID:LXXXXX6689 PPD",
+      "guid": "Oz0ObjmmO3IbzzVKXvNatBMRKbEg67Cpre0ak",
+      "type": "DEBIT",
+      "category": "[\"Payment\"]"
+    },
+    {
+      "originalDescription": "UNITED PARCEL DES:PAYROLL ID:0122967 P55052 INDN:CELESTIN, CARMELO CO ID:XXXXX07381 PPD",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 718.01,
+      "date": "2023-12-29",
+      "description": "UNITED PARCEL DES:PAYROLL ID:0122967 P55052 INDN:CELESTIN, CARMELO CO ID:XXXXX07381 PPD",
+      "guid": "MzAJ5vOOJqIMEEKV4kvwFvZRQN8pgwF0xOLe3",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Payroll\"]"
+    },
+    {
+      "originalDescription": "UNITED PARCEL DES:PAYROLL ID:0122967 P55052 INDN:CELESTIN, CARMELO CO ID:XXXXX07381 PPD",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 250.0,
+      "date": "2023-12-29",
+      "description": "UNITED PARCEL DES:PAYROLL ID:0122967 P55052 INDN:CELESTIN, CARMELO CO ID:XXXXX07381 PPD",
+      "guid": "PzZbxr99byIZvvDzm0eaFy5OBZpAkxIOVDB5p",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Payroll\"]"
+    },
+    {
+      "originalDescription": "Zelle payment to SMP Conf# ew8uqhg40",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 45.0,
+      "date": "2023-12-28",
+      "description": "Zelle payment to SMP Conf# ew8uqhg40",
+      "guid": "Rz4Jma99JkIOddw09rzyIyMNAOxqP6I9NoMQN",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "Acorns DES:Transfer ID:XXXXX004552 INDN:Carmelo Celestin CO ID:XXXXX00001 WEB",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 20.0,
+      "date": "2023-12-26",
+      "description": "Acorns DES:Transfer ID:XXXXX004552 INDN:Carmelo Celestin CO ID:XXXXX00001 WEB",
+      "guid": "nyD4a8VV4QsYDDx3jrXyHNE7ZR4AxJHjDNbn9",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Third Party\",\"Acorns\"]"
+    },
+    {
+      "originalDescription": "Acorns Invest DES:Transfer ID:3VXYHC1 INDN:Carmelo Celestin CO ID:XXXXX42693 WEB",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 15.0,
+      "date": "2023-12-26",
+      "description": "Acorns Invest DES:Transfer ID:3VXYHC1 INDN:Carmelo Celestin CO ID:XXXXX42693 WEB",
+      "guid": "QzQJO4mmJKIwaaXDVj9mCLYK5wo48QF9XMpD8",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Third Party\",\"Acorns\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1222 JEWEL OSCO 4500 CHICAGO IL XXXXX5233XXXXXXXXXX2057",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 5.77,
+      "date": "2023-12-26",
+      "description": "CHECKCARD 1222 JEWEL OSCO 4500 CHICAGO IL XXXXX5233XXXXXXXXXX2057",
+      "guid": "rv746NVV4YfwZZ5okrPQCq3gRKnB9JUrPezdm",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1224 RICOBENES CHICAGO GATEW CHICAGO IL XXXXX8333XXXXXXXXXX1607",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 19.36,
+      "date": "2023-12-26",
+      "description": "CHECKCARD 1224 RICOBENES CHICAGO GATEW CHICAGO IL XXXXX8333XXXXXXXXXX1607",
+      "guid": "NzQJq099JBIZ33obEAD4F8nbXZxrPeUyVQ1J6",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "CVS",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 16.35,
+      "date": "2023-12-26",
+      "description": "CVS",
+      "guid": "qAwxanvvxNSAoozNk1vQt0pXyZjJEaH1QP7OZ",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Pharmacies\"]"
+    },
+    {
+      "originalDescription": "McDonald's",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 24.34,
+      "date": "2023-12-26",
+      "description": "McDonald's",
+      "guid": "yJ76mn996QC0ddQVL1xJFNX384mOzLHRm9vk0",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "Target",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 23.34,
+      "date": "2023-12-26",
+      "description": "Target",
+      "guid": "XzM8Rd9984IoPPmrdZwaF7Pkzo4aYquzRy3wL",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Walmart",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 35.1,
+      "date": "2023-12-26",
+      "description": "Walmart",
+      "guid": "v4oVRn00VXUREE34dp6Qc3JZg0KmaBcpEzAOa",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Wendy's",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 7.86,
+      "date": "2023-12-26",
+      "description": "Wendy's",
+      "guid": "pkd4P5jj4nIyaa9znANQUj8Qom0JXOFAqD91o",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "UNITED PARCEL DES:PAYROLL ID:0122967 P55043 INDN:CELESTIN, CARMELO CO ID:XXXXX07381 PPD",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 250.0,
+      "date": "2023-10-27",
+      "description": "UNITED PARCEL DES:PAYROLL ID:0122967 P55043 INDN:CELESTIN, CARMELO CO ID:XXXXX07381 PPD",
+      "guid": "QzQJO4mmJKIwaaXDVj9mCLY8xr69E4F9L13gN",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Payroll\"]"
+    },
+    {
+      "originalDescription": "Amazon",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 5.49,
+      "date": "2023-10-27",
+      "description": "Amazon",
+      "guid": "Rz4Jma99JkIOddw09rzyIyMPJ9LDKqC9n7JbD",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Digital Purchase\"]"
+    },
+    {
+      "originalDescription": "Wendy's",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 27.47,
+      "date": "2023-10-27",
+      "description": "Wendy's",
+      "guid": "MzAJ5vOOJqIMEEKV4kvwFvZgqD6a5pU09r4DN",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "MNRD-STPL 2005 10/28 #XXXXX7011 REFUND MNRD-STPL 2005 W ST PAUL",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 21.58,
+      "date": "2023-10-30",
+      "description": "MNRD-STPL 2005 10/28 #XXXXX7011 REFUND MNRD-STPL 2005 W ST PAUL",
+      "guid": "Oz0ObjmmO3IbzzVKXvNatBM6m5dN8gCpbELXn",
+      "type": "CREDIT",
+      "category": "[\"Shops\",\"Hardware Store\"]"
+    },
+    {
+      "originalDescription": "McDonald's",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 4.01,
+      "date": "2023-10-30",
+      "description": "McDonald's",
+      "guid": "VzAQ0Z99QjIReebyKJPDcQNPxOwBrjSnEgZ60",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1028 TAMU GRILL AN Minneapolis MN MDJXXXXX8633XXXXX2118",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 8.59,
+      "date": "2023-10-30",
+      "description": "CHECKCARD 1028 TAMU GRILL AN Minneapolis MN MDJXXXXX8633XXXXX2118",
+      "guid": "oK149Zvv4QFbBBPexvVKtMXzAj6OvBfrKqYp0",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "CVS",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 4.83,
+      "date": "2023-10-31",
+      "description": "CVS",
+      "guid": "ZzvR9677RxIPggn3zo40uQ8edE1xRKS8pwNxp",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Pharmacies\"]"
+    },
+    {
+      "originalDescription": "ExxonMobil",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 1.95,
+      "date": "2023-11-01",
+      "description": "ExxonMobil",
+      "guid": "xx9wRnvvwQUJOOKj61nxszo6Pdx71MHmBXNv3",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "Zelle payment to Braylen Celestin Conf# c3okdpn44",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 10.0,
+      "date": "2023-11-03",
+      "description": "Zelle payment to Braylen Celestin Conf# c3okdpn44",
+      "guid": "rv746NVV4YfwZZ5okrPQCq39NAXQvBir1Rx8g",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "Walgreens",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 14.29,
+      "date": "2023-11-06",
+      "description": "Walgreens",
+      "guid": "v4oVRn00VXUREE34dp6Qc3JapyxX4mCpn45j7",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Pharmacies\"]"
+    },
+    {
+      "originalDescription": "White Castle",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 16.69,
+      "date": "2023-11-06",
+      "description": "White Castle",
+      "guid": "yJ76mn996QC0ddQVL1xJFNXzQwdv1OHRAZExR",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "Wendy's",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 8.54,
+      "date": "2023-11-07",
+      "description": "Wendy's",
+      "guid": "qAwxanvvxNSAoozNk1vQt0pEQNq8AJF18pwvN",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1106 LUCKY DOG BROADVI BROADVIEW IL MDJXXXXX8833XXXXX0121",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 14.63,
+      "date": "2023-11-08",
+      "description": "CHECKCARD 1106 LUCKY DOG BROADVI BROADVIEW IL MDJXXXXX8833XXXXX0121",
+      "guid": "PzZbxr99byIZvvDzm0eaFy5k07w6mACOpPv3M",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "Online Banking transfer to CHK 0842 Confirmation# XXXXX13517",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 150.0,
+      "date": "2023-11-10",
+      "description": "Online Banking transfer to CHK 0842 Confirmation# XXXXX13517",
+      "guid": "m3g4PJnn4QCxPPLENya3idvm5PEYyMF89joy6",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Internal Account Transfer\"]"
+    },
+    {
+      "originalDescription": "UNITED PARCEL DES:PAYROLL ID:0122967 P55045 INDN:CELESTIN, CARMELO CO ID:XXXXX07381 PPD",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 250.0,
+      "date": "2023-11-10",
+      "description": "UNITED PARCEL DES:PAYROLL ID:0122967 P55045 INDN:CELESTIN, CARMELO CO ID:XXXXX07381 PPD",
+      "guid": "LzmJ1AaaJPI355QeXKoLUqbd4wJN0BiJEgk45",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Payroll\"]"
+    },
+    {
+      "originalDescription": "McDonald's",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 10.76,
+      "date": "2023-11-10",
+      "description": "McDonald's",
+      "guid": "wajd7XOOdQIjOO3PwvyaHY46xOgQvoTRwNmon",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "Zelle payment to Angela Abner Conf# ic2tk8snl",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 30.0,
+      "date": "2023-11-10",
+      "description": "Zelle payment to Angela Abner Conf# ic2tk8snl",
+      "guid": "z8oL7nppLQIRwwJ7Dbz8c9BYe6XdbOIMLrp3P",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1110 LUCKY DOG BERWYN BERWYN IL MDJXXXXX8833XXXXX0131",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 22.47,
+      "date": "2023-11-13",
+      "description": "CHECKCARD 1110 LUCKY DOG BERWYN BERWYN IL MDJXXXXX8833XXXXX0131",
+      "guid": "Yzrp3wRRpaIRqqjPw5bZcrmNbYDgQAUzDOA3M",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "Burlington",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 12.12,
+      "date": "2023-11-13",
+      "description": "Burlington",
+      "guid": "NzQJq099JBIZ33obEAD4F8nPa7VdRrUyODNrD",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Department Stores\"]"
+    },
+    {
+      "originalDescription": "Zelle payment to Cynthia Celestin Conf# haoos41kt",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 20.0,
+      "date": "2023-11-13",
+      "description": "Zelle payment to Cynthia Celestin Conf# haoos41kt",
+      "guid": "XzM8Rd9984IoPPmrdZwaF7PYnwLyQaHzxgv8n",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "WOODMANS FOOD 11/11 #XXXXX3600 PURCHASE 2919 NORTH LEXING",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 5.38,
+      "date": "2023-11-13",
+      "description": "WOODMANS FOOD 11/11 #XXXXX3600 PURCHASE 2919 NORTH LEXING",
+      "guid": "pkd4P5jj4nIyaa9znANQUj8X1aLekJtAyoPjY",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "STRACK & 12 R 11/12 #XXXXX3612 PURCHASE STRACK & 12 RIDG",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 60.7,
+      "date": "2023-11-13",
+      "description": "STRACK & 12 R 11/12 #XXXXX3612 PURCHASE STRACK & 12 RIDG",
+      "guid": "nyD4a8VV4QsYDDx3jrXyHNExK6ayrAHj3ZO4D",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Zelle payment to SMP Conf# hw7s177ic",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 50.0,
+      "date": "2023-11-13",
+      "description": "Zelle payment to SMP Conf# hw7s177ic",
+      "guid": "QzQJO4mmJKIwaaXDVj9mCLY8xr69E4F9L13jN",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "Walmart",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 43.28,
+      "date": "2023-11-13",
+      "description": "Walmart",
+      "guid": "Rz4Jma99JkIOddw09rzyIyMPJ9LDKqC9n7JRD",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Zelle payment to Braylen Celestin Conf# qkmu1h6hm",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 10.0,
+      "date": "2023-11-13",
+      "description": "Zelle payment to Braylen Celestin Conf# qkmu1h6hm",
+      "guid": "NzQJq099JBIZ33obEAD4F8nP7bb1N6FyODNrP",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "Wendy's",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 9.51,
+      "date": "2023-11-14",
+      "description": "Wendy's",
+      "guid": "XzM8Rd9984IoPPmrdZwaF7PYwkkEvNhzxgv8V",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "Starbucks",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 25.0,
+      "date": "2023-11-15",
+      "description": "Starbucks",
+      "guid": "pkd4P5jj4nIyaa9znANQUj8XaQQv5AFAyoPjK",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Coffee Shop\"]"
+    },
+    {
+      "originalDescription": "Wendy's",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 9.65,
+      "date": "2023-11-15",
+      "description": "Wendy's",
+      "guid": "nyD4a8VV4QsYDDx3jrXyHNEx677kw8Uj3ZO4m",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "Online Banking transfer from CHK 0842 Confirmation# XXXXX51842",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 100.0,
+      "date": "2023-11-16",
+      "description": "Online Banking transfer from CHK 0842 Confirmation# XXXXX51842",
+      "guid": "QzQJO4mmJKIwaaXDVj9mCLY8rKKg3PC9L13jV",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Internal Account Transfer\"]"
+    },
+    {
+      "originalDescription": "Wendy's",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 9.65,
+      "date": "2023-11-16",
+      "description": "Wendy's",
+      "guid": "Rz4Jma99JkIOddw09rzyIyMP9NNwgZi9n7JRx",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "UNITED PARCEL DES:PAYROLL ID:0122967 P55046 INDN:CELESTIN, CARMELO CO ID:XXXXX07381 PPD",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 250.0,
+      "date": "2023-11-17",
+      "description": "UNITED PARCEL DES:PAYROLL ID:0122967 P55046 INDN:CELESTIN, CARMELO CO ID:XXXXX07381 PPD",
+      "guid": "MzAJ5vOOJqIMEEKV4kvwFvZgDRRe4KF09r4Vm",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Payroll\"]"
+    },
+    {
+      "originalDescription": "Amazon",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 51.44,
+      "date": "2023-11-17",
+      "description": "Amazon",
+      "guid": "Oz0ObjmmO3IbzzVKXvNatBM65RRzLOtpbEL3P",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Digital Purchase\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1117 AMAZON DIGIT*1M4L XXXXX61072 WA XXXXX2033XXXXXXXXXX9958",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 10.99,
+      "date": "2023-11-20",
+      "description": "CHECKCARD 1117 AMAZON DIGIT*1M4L XXXXX61072 WA XXXXX2033XXXXXXXXXX9958",
+      "guid": "VzAQ0Z99QjIReebyKJPDcQNPO99nZMhnEgZLw",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Digital Purchase\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1118 ROSS STORES #1909 CHICAGO RIDGEIL XXXXX8633XXXXXXXXXX4351",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 45.05,
+      "date": "2023-11-20",
+      "description": "CHECKCARD 1118 ROSS STORES #1909 CHICAGO RIDGEIL XXXXX8633XXXXXXXXXX4351",
+      "guid": "oK149Zvv4QFbBBPexvVKtMXzjJJeVgTrKqY5M",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Clothing and Accessories\"]"
+    },
+    {
+      "originalDescription": "Zelle payment to BreAnna Celestin Conf# b3qnftz6p",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 183.0,
+      "date": "2023-11-21",
+      "description": "Zelle payment to BreAnna Celestin Conf# b3qnftz6p",
+      "guid": "ZzvR9677RxIPggn3zo40uQ8eEoo4Dgh8pwN7L",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "Online Banking transfer from CHK 0842 Confirmation# XXXXX61350",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 100.0,
+      "date": "2023-11-24",
+      "description": "Online Banking transfer from CHK 0842 Confirmation# XXXXX61350",
+      "guid": "xx9wRnvvwQUJOOKj61nxszo6d99QV5FmBXN3j",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Internal Account Transfer\"]"
+    },
+    {
+      "originalDescription": "BARCLAYCARD US DES:CREDITCARD ID:XXXXX73177 INDN:CARMELO CELESTIN CO ID:XXXXX07970 WEB",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 35.0,
+      "date": "2023-11-27",
+      "description": "BARCLAYCARD US DES:CREDITCARD ID:XXXXX73177 INDN:CARMELO CELESTIN CO ID:XXXXX07970 WEB",
+      "guid": "qAwxanvvxNSAoozNk1vQt0pENXXegzH18pw4y",
+      "type": "DEBIT",
+      "category": "[\"Payment\",\"Credit Card\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1126 ADVANCE AUTO PART BROOKFIELD IL XXXXX7033XXXXXXXXXX2636",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 0.87,
+      "date": "2023-11-27",
+      "description": "CHECKCARD 1126 ADVANCE AUTO PART BROOKFIELD IL XXXXX7033XXXXXXXXXX2636",
+      "guid": "v4oVRn00VXUREE34dp6Qc3JayZZ7r9spn45Jm",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Automotive\",\"Car Parts and Accessories\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1126 WM SUPERCENTER",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 32.16,
+      "date": "2023-11-27",
+      "description": "CHECKCARD 1126 WM SUPERCENTER",
+      "guid": "yJ76mn996QC0ddQVL1xJFNXzw33nbKURAZEYv",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1124 TONYS FRESH MRKT BERWYN IL XXXXX8433XXXXXXXXXX9778",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 26.96,
+      "date": "2023-11-27",
+      "description": "CHECKCARD 1124 TONYS FRESH MRKT BERWYN IL XXXXX8433XXXXXXXXXX9778",
+      "guid": "rv746NVV4YfwZZ5okrPQCq39Agg5k7sr1Rx5w",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "OVERDRAFT PROTECTION FROM XXXXXXXXXX0842",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 38.01,
+      "date": "2023-11-29",
+      "description": "OVERDRAFT PROTECTION FROM XXXXXXXXXX0842",
+      "guid": "xx9wRnvvwQUJOOKj61nxszo6d99QV5FmBXN34",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "UNITED PARCEL SE DES:DV02DD2311 ID:CXXXXX02311UPS INDN:CARMELO K CELESTIN CO ID:XXXXX12740 PPD",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 9.85,
+      "date": "2023-11-30",
+      "description": "UNITED PARCEL SE DES:DV02DD2311 ID:CXXXXX02311UPS INDN:CARMELO K CELESTIN CO ID:XXXXX12740 PPD",
+      "guid": "rv746NVV4YfwZZ5okrPQCq39Agg5k7sr1Rx5D",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Payroll\"]"
+    },
+    {
+      "originalDescription": "Zelle payment to SMP Conf# iqnhqu5kp",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 85.0,
+      "date": "2023-12-01",
+      "description": "Zelle payment to SMP Conf# iqnhqu5kp",
+      "guid": "v4oVRn00VXUREE34dp6Qc3JayZZ7r9spn45JZ",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "Dollar Tree",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 4.13,
+      "date": "2023-12-04",
+      "description": "Dollar Tree",
+      "guid": "yJ76mn996QC0ddQVL1xJFNXzw33nbKURAZEY6",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Discount Stores\"]"
+    },
+    {
+      "originalDescription": "Amazon",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 7.41,
+      "date": "2023-12-05",
+      "description": "Amazon",
+      "guid": "PzZbxr99byIZvvDzm0eaFy5k7OO9vqiOpPvjR",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Digital Purchase\"]"
+    },
+    {
+      "originalDescription": "UNITED PARCEL DES:PAYROLL ID:0122967 P55049 INDN:CELESTIN, CARMELO CO ID:XXXXX07381 PPD",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 250.0,
+      "date": "2023-12-08",
+      "description": "UNITED PARCEL DES:PAYROLL ID:0122967 P55049 INDN:CELESTIN, CARMELO CO ID:XXXXX07381 PPD",
+      "guid": "LzmJ1AaaJPI355QeXKoLUqbdwOOXDKsJEgk7A",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Payroll\"]"
+    },
+    {
+      "originalDescription": "Wendy's",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 9.65,
+      "date": "2023-12-08",
+      "description": "Wendy's",
+      "guid": "wajd7XOOdQIjOO3PwvyaHY46O7795DURwNmX6",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1207 PARKINGMETER4 877 CHICAGO IL XXXXX2433XXXXXXXXXX7699",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 3.32,
+      "date": "2023-12-11",
+      "description": "CHECKCARD 1207 PARKINGMETER4 877 CHICAGO IL XXXXX2433XXXXXXXXXX7699",
+      "guid": "m3g4PJnn4QCxPPLENya3idvmPOOK7VI89joJR",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Parking\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1209 TST* TACO BURRITO Chicago IL XXXXX8633XXXXXXXXXX5980",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 13.35,
+      "date": "2023-12-11",
+      "description": "CHECKCARD 1209 TST* TACO BURRITO Chicago IL XXXXX8633XXXXXXXXXX5980",
+      "guid": "z8oL7nppLQIRwwJ7Dbz8c9BY6mmEg1UMLrpq3",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1209 MR. SUBMARINE BERWYN IL XXXXX9833XXXXXXXXXX1646",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 23.24,
+      "date": "2023-12-11",
+      "description": "CHECKCARD 1209 MR. SUBMARINE BERWYN IL XXXXX9833XXXXXXXXXX1646",
+      "guid": "Yzrp3wRRpaIRqqjPw5bZcrmNY33vOMFzDOAgj",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1209 18025 TORRENCE",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 46.09,
+      "date": "2023-12-11",
+      "description": "CHECKCARD 1209 18025 TORRENCE",
+      "guid": "NzQJq099JBIZ33obEAD4F8nP7bb1N6FyODN08",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Bar\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1209 TONYS FRESH MRKT COUNTRYSIDE IL XXXXX8433XXXXXXXXXX2787",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 35.77,
+      "date": "2023-12-11",
+      "description": "CHECKCARD 1209 TONYS FRESH MRKT COUNTRYSIDE IL XXXXX8433XXXXXXXXXX2787",
+      "guid": "XzM8Rd9984IoPPmrdZwaF7PYwkkEvNhzxgvkX",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "White Castle",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 23.56,
+      "date": "2023-12-11",
+      "description": "White Castle",
+      "guid": "pkd4P5jj4nIyaa9znANQUj8XaQQv5AFAyoPnD",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "Online Banking transfer to CHK 0842 Confirmation# XXXXX95460",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 30.0,
+      "date": "2023-12-11",
+      "description": "Online Banking transfer to CHK 0842 Confirmation# XXXXX95460",
+      "guid": "nyD4a8VV4QsYDDx3jrXyHNEx677kw8Uj3ZOJ7",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Internal Account Transfer\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1211 PARAMOUNT+ XXXXX45343 CA XXXXX8733XXXXXXXXXX8558 RECURRING",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 5.99,
+      "date": "2023-12-12",
+      "description": "CHECKCARD 1211 PARAMOUNT+ XXXXX45343 CA XXXXX8733XXXXXXXXXX8558 RECURRING",
+      "guid": "QzQJO4mmJKIwaaXDVj9mCLY8rKKg3PC9L13eb",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Subscription\"]"
+    },
+    {
+      "originalDescription": "Zelle payment to Braylen Celestin Conf# hf31qn3tb",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 20.0,
+      "date": "2023-12-12",
+      "description": "Zelle payment to Braylen Celestin Conf# hf31qn3tb",
+      "guid": "Rz4Jma99JkIOddw09rzyIyMP9NNwgZi9n7J5K",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "UNITED PARCEL DES:PAYROLL ID:0122967 P55050 INDN:CELESTIN, CARMELO CO ID:XXXXX07381 PPD",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 250.0,
+      "date": "2023-12-15",
+      "description": "UNITED PARCEL DES:PAYROLL ID:0122967 P55050 INDN:CELESTIN, CARMELO CO ID:XXXXX07381 PPD",
+      "guid": "MzAJ5vOOJqIMEEKV4kvwFvZgDRRe4KF09r4qp",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Payroll\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1214 TONYS FRESH MRKT BERWYN IL XXXXX8433XXXXXXXXXX9927",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 2.02,
+      "date": "2023-12-15",
+      "description": "CHECKCARD 1214 TONYS FRESH MRKT BERWYN IL XXXXX8433XXXXXXXXXX9927",
+      "guid": "Oz0ObjmmO3IbzzVKXvNatBM65RRzLOtpbELDp",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1214 TONYS FRESH MRKT BERWYN IL XXXXX8433XXXXXXXXXX0089",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 2.03,
+      "date": "2023-12-15",
+      "description": "CHECKCARD 1214 TONYS FRESH MRKT BERWYN IL XXXXX8433XXXXXXXXXX0089",
+      "guid": "VzAQ0Z99QjIReebyKJPDcQNPO99nZMhnEgZ84",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1216 BILLS PLACE LA GRANGE PARIL XXXXX8033XXXXXXXXXX9089",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 21.98,
+      "date": "2023-12-18",
+      "description": "CHECKCARD 1216 BILLS PLACE LA GRANGE PARIL XXXXX8033XXXXXXXXXX9089",
+      "guid": "oK149Zvv4QFbBBPexvVKtMXzjJJeVgTrKqYMD",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1216 WM SUPERCENTER",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 10.9,
+      "date": "2023-12-18",
+      "description": "CHECKCARD 1216 WM SUPERCENTER",
+      "guid": "ZzvR9677RxIPggn3zo40uQ8eEoo4Dgh8pwNEN",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1217 TONYS FRESH MRKT BERWYN IL XXXXX8433XXXXXXXXXX9661",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 20.91,
+      "date": "2023-12-18",
+      "description": "CHECKCARD 1217 TONYS FRESH MRKT BERWYN IL XXXXX8433XXXXXXXXXX9661",
+      "guid": "xx9wRnvvwQUJOOKj61nxszo6d99QV5FmBXNg4",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Wendy's",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 7.86,
+      "date": "2023-12-19",
+      "description": "Wendy's",
+      "guid": "rv746NVV4YfwZZ5okrPQCq39Agg5k7sr1Rx7D",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "UNITED PARCEL DES:PAYROLL ID:0122967 P55051 INDN:CELESTIN, CARMELO CO ID:XXXXX07381 PPD",
+      "accountGuid": "0pEDZY88DBIK113ba4k6UP1oj96rX1H9KgkoP",
+      "amount": 250.0,
+      "date": "2023-12-22",
+      "description": "UNITED PARCEL DES:PAYROLL ID:0122967 P55051 INDN:CELESTIN, CARMELO CO ID:XXXXX07381 PPD",
+      "guid": "v4oVRn00VXUREE34dp6Qc3JayZZ7r9spn45DZ",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Payroll\"]"
+    },
+    {
+      "originalDescription": "UNITED PARCEL DES:PAYROLL ID:0122967 P55043 INDN:CELESTIN, CARMELO CO ID:XXXXX07381 PPD",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 674.53,
+      "date": "2023-10-27",
+      "description": "UNITED PARCEL DES:PAYROLL ID:0122967 P55043 INDN:CELESTIN, CARMELO CO ID:XXXXX07381 PPD",
+      "guid": "oK149Zvv4QFbBBPexvVKtMXnv98boPurKqYzw",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Payroll\"]"
+    },
+    {
+      "originalDescription": "Sam's Club",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 16.46,
+      "date": "2023-10-27",
+      "description": "Sam's Club",
+      "guid": "ZzvR9677RxIPggn3zo40uQ8LRp39A7T8pwNZ0",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Warehouses and Wholesale Stores\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1026 MR. SUBMARINE LYONS LYONS IL XXXXX9533XXXXXXXXXX0225",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 15.33,
+      "date": "2023-10-30",
+      "description": "CHECKCARD 1026 MR. SUBMARINE LYONS LYONS IL XXXXX9533XXXXXXXXXX0225",
+      "guid": "xx9wRnvvwQUJOOKj61nxszor1Ee3vLtmBXN66",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "Jiffy Lube",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 83.17,
+      "date": "2023-10-30",
+      "description": "Jiffy Lube",
+      "guid": "rv746NVV4YfwZZ5okrPQCq3OvEbLDJCr1Rx9N",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Automotive\"]"
+    },
+    {
+      "originalDescription": "MNRD-STPL MDWY 10/28 #XXXXX6403 PURCHASE MNRD-STPL MDWY 20 ST PAUL",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 23.22,
+      "date": "2023-10-30",
+      "description": "MNRD-STPL MDWY 10/28 #XXXXX6403 PURCHASE MNRD-STPL MDWY 20 ST PAUL",
+      "guid": "v4oVRn00VXUREE34dp6Qc3JN4A8qYBFpn45yO",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Hardware Store\"]"
+    },
+    {
+      "originalDescription": "PMNT SENT 1030 CASH APP*CHRIS XXX-XX91940 CA XXXXX3833XXXXXXXXXX0076",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 60.0,
+      "date": "2023-10-30",
+      "description": "PMNT SENT 1030 CASH APP*CHRIS XXX-XX91940 CA XXXXX3833XXXXXXXXXX0076",
+      "guid": "yJ76mn996QC0ddQVL1xJFNXY19ryJLtRAZE5r",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "Wendy's",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 8.39,
+      "date": "2023-10-30",
+      "description": "Wendy's",
+      "guid": "qAwxanvvxNSAoozNk1vQt0pYALb6PaI18pwKo",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "AUTOPMT ASPIREMC DES:PAYMENT ID:XXXXXXXXXX69949 INDN:CELESTIN,CARMELO CO ID:LXXXXX6689 PPD",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 48.03,
+      "date": "2023-10-30",
+      "description": "AUTOPMT ASPIREMC DES:PAYMENT ID:XXXXXXXXXX69949 INDN:CELESTIN,CARMELO CO ID:LXXXXX6689 PPD",
+      "guid": "PzZbxr99byIZvvDzm0eaFy5nmVNjXxUOpPvzb",
+      "type": "DEBIT",
+      "category": "[\"Payment\"]"
+    },
+    {
+      "originalDescription": "Zelle payment from CARMELO K CELESTIN Conf# 99a4bxyoy",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 800.0,
+      "date": "2023-10-31",
+      "description": "Zelle payment from CARMELO K CELESTIN Conf# 99a4bxyoy",
+      "guid": "LzmJ1AaaJPI355QeXKoLUqbE0Pn3z6CJEgkz8",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "Walmart",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 40.66,
+      "date": "2023-10-31",
+      "description": "Walmart",
+      "guid": "wajd7XOOdQIjOO3PwvyaHY4wvy8BNZuRwNmAe",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Cub Foods",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 17.41,
+      "date": "2023-10-31",
+      "description": "Cub Foods",
+      "guid": "m3g4PJnn4QCxPPLENya3idvLyrwxaQf89jopv",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1031 BSAW-MINNEAPOL",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 20.01,
+      "date": "2023-10-31",
+      "description": "CHECKCARD 1031 BSAW-MINNEAPOL",
+      "guid": "yJ76mn996QC0ddQVL1xJFNXY19ryJLtRAZE5X",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "Credit One Bank DES:Payment ID:62531245 INDN:CARMELO CELESTIN CO ID:WEB000004 WEB",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 50.0,
+      "date": "2023-10-31",
+      "description": "Credit One Bank DES:Payment ID:62531245 INDN:CARMELO CELESTIN CO ID:WEB000004 WEB",
+      "guid": "qAwxanvvxNSAoozNk1vQt0pYALb6PaI18pwK7",
+      "type": "DEBIT",
+      "category": "[\"Payment\",\"Credit Card\"]"
+    },
+    {
+      "originalDescription": "ALLY CC DES:MOBILE PYM ID:XXXXXXXXXX18161 INDN:CARMELO CELESTIN CO ID:XXXXX02835 WEB",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 50.0,
+      "date": "2023-10-31",
+      "description": "ALLY CC DES:MOBILE PYM ID:XXXXXXXXXX18161 INDN:CARMELO CELESTIN CO ID:XXXXX02835 WEB",
+      "guid": "PzZbxr99byIZvvDzm0eaFy5nmVNjXxUOpPvzL",
+      "type": "DEBIT",
+      "category": "[\"Payment\"]"
+    },
+    {
+      "originalDescription": "Credit One Bank DES:Payment ID:40611099 INDN:CARMELO CELESTIN CO ID:WEB000004 WEB",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 40.0,
+      "date": "2023-10-31",
+      "description": "Credit One Bank DES:Payment ID:40611099 INDN:CARMELO CELESTIN CO ID:WEB000004 WEB",
+      "guid": "LzmJ1AaaJPI355QeXKoLUqbE0Pn3z6CJEgkzr",
+      "type": "DEBIT",
+      "category": "[\"Payment\",\"Credit Card\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1031 DAVANNIS #2 RIVERSIDE MINNEAPOLIS MN XXXXX3933XXXXXXXXXX0247",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 32.42,
+      "date": "2023-11-01",
+      "description": "CHECKCARD 1031 DAVANNIS #2 RIVERSIDE MINNEAPOLIS MN XXXXX3933XXXXXXXXXX0247",
+      "guid": "wajd7XOOdQIjOO3PwvyaHY4wvy8BNZuRwNmA5",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "ExxonMobil",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 1.74,
+      "date": "2023-11-01",
+      "description": "ExxonMobil",
+      "guid": "m3g4PJnn4QCxPPLENya3idvLyrwxaQf89jopn",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "7-Eleven",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 44.63,
+      "date": "2023-11-01",
+      "description": "7-Eleven",
+      "guid": "z8oL7nppLQIRwwJ7Dbz8c9BwbDVKP4hMLrpEr",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Convenience Stores\"]"
+    },
+    {
+      "originalDescription": "BINNYS BEV DEP 11/01 #XXXXX2369 PURCHASE BINNYS BEV DEPOT N",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 44.49,
+      "date": "2023-11-01",
+      "description": "BINNYS BEV DEP 11/01 #XXXXX2369 PURCHASE BINNYS BEV DEPOT N",
+      "guid": "Yzrp3wRRpaIRqqjPw5bZcrm5QVPdqofzDOAmb",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Food and Beverage Store\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1101 TST* AFRO DELI & COFFEE MINNEAPOLIS MN XXXXX4633XXXXXXXXXX8886",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 3.82,
+      "date": "2023-11-02",
+      "description": "CHECKCARD 1101 TST* AFRO DELI & COFFEE MINNEAPOLIS MN XXXXX4633XXXXXXXXXX8886",
+      "guid": "NzQJq099JBIZ33obEAD4F8nJRyj90efyODNAV",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Coffee Shop\"]"
+    },
+    {
+      "originalDescription": "White Castle",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 21.24,
+      "date": "2023-11-02",
+      "description": "White Castle",
+      "guid": "XzM8Rd9984IoPPmrdZwaF7PMQergDqizxgvJo",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1101 BUDDY BEAR CAR WASH - B BROADVIEW IL XXXXX9733XXXXXXXXXX7100",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 7.0,
+      "date": "2023-11-02",
+      "description": "CHECKCARD 1101 BUDDY BEAR CAR WASH - B BROADVIEW IL XXXXX9733XXXXXXXXXX7100",
+      "guid": "pkd4P5jj4nIyaa9znANQUj84k6rwzOHAyoPKk",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Automotive\",\"Car Wash and Detail\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1102 SP DOLLARSHAVECLUBUS HTTPSUS.DOLLACA XXXXX3433XXXXXXXXXX4028",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 4.96,
+      "date": "2023-11-02",
+      "description": "CHECKCARD 1102 SP DOLLARSHAVECLUBUS HTTPSUS.DOLLACA XXXXX3433XXXXXXXXXX4028",
+      "guid": "nyD4a8VV4QsYDDx3jrXyHNEmrqDYbJtj3ZOEy",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Personal Care\"]"
+    },
+    {
+      "originalDescription": "USPS PO 160972 11/02 #XXXXX0912 PURCHASE USPS PO 16097205",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 3.96,
+      "date": "2023-11-02",
+      "description": "USPS PO 160972 11/02 #XXXXX0912 PURCHASE USPS PO 16097205",
+      "guid": "QzQJO4mmJKIwaaXDVj9mCLYREVdknQC9L137K",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Shipping and Freight\"]"
+    },
+    {
+      "originalDescription": "Wendy's",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 6.11,
+      "date": "2023-11-02",
+      "description": "Wendy's",
+      "guid": "Rz4Jma99JkIOddw09rzyIyM8KVd0m6U9n7JLL",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1102 COMED PAYMENT IL XXXXX1533XXXXXXXXXX9503",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 24.81,
+      "date": "2023-11-03",
+      "description": "CHECKCARD 1102 COMED PAYMENT IL XXXXX1533XXXXXXXXXX9503",
+      "guid": "MzAJ5vOOJqIMEEKV4kvwFvZo5Y7bOwf09r4J6",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Utilities\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1102 COMED PAYMENT IL XXXXX1533XXXXXXXXXX6242",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 40.46,
+      "date": "2023-11-03",
+      "description": "CHECKCARD 1102 COMED PAYMENT IL XXXXX1533XXXXXXXXXX6242",
+      "guid": "Oz0ObjmmO3IbzzVKXvNatBMA8jXq37fpbELnd",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Utilities\"]"
+    },
+    {
+      "originalDescription": "Walgreens",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 9.59,
+      "date": "2023-11-03",
+      "description": "Walgreens",
+      "guid": "VzAQ0Z99QjIReebyKJPDcQNdr8yoEvTnEgZy9",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Pharmacies\"]"
+    },
+    {
+      "originalDescription": "TONYS FRE 6704 11/05 #XXXXX8214 PURCHASE TONYS FRE 6704 JO",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 38.8,
+      "date": "2023-11-06",
+      "description": "TONYS FRE 6704 11/05 #XXXXX8214 PURCHASE TONYS FRE 6704 JO",
+      "guid": "oK149Zvv4QFbBBPexvVKtMXnv98boPurKqY1p",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Best Buy",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 30.0,
+      "date": "2023-11-06",
+      "description": "Best Buy",
+      "guid": "ZzvR9677RxIPggn3zo40uQ8LRp39A7T8pwNy7",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Computers and Electronics\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1106 ONSTAR SERVICES 888-4ONSTAR MI XXXXX1633XXXXXXXXXX3347 RECURRING",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 7.67,
+      "date": "2023-11-07",
+      "description": "CHECKCARD 1106 ONSTAR SERVICES 888-4ONSTAR MI XXXXX1633XXXXXXXXXX3347 RECURRING",
+      "guid": "xx9wRnvvwQUJOOKj61nxszor1Ee3vLtmBXN1Q",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Telecommunication Services\"]"
+    },
+    {
+      "originalDescription": "Zelle payment to Braylen Celestin Conf# cykr8rwsf",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 10.0,
+      "date": "2023-11-08",
+      "description": "Zelle payment to Braylen Celestin Conf# cykr8rwsf",
+      "guid": "rv746NVV4YfwZZ5okrPQCq3OvEbLDJCr1RxOA",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "Zelle payment from CARMELO K CELESTIN Conf# 99a4up4tb",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 300.0,
+      "date": "2023-11-10",
+      "description": "Zelle payment from CARMELO K CELESTIN Conf# 99a4up4tb",
+      "guid": "v4oVRn00VXUREE34dp6Qc3JN4A8qYBFpn45L0",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "Wendy's",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 8.39,
+      "date": "2023-11-10",
+      "description": "Wendy's",
+      "guid": "yJ76mn996QC0ddQVL1xJFNXY19ryJLtRAZEVX",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "WOODMANS GAS S 11/12 #XXXXX0500 PURCHASE 2170 RANDALL ROAD CARPENTERSVI",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 6.0,
+      "date": "2023-11-13",
+      "description": "WOODMANS GAS S 11/12 #XXXXX0500 PURCHASE 2170 RANDALL ROAD CARPENTERSVI",
+      "guid": "qAwxanvvxNSAoozNk1vQt0pYALb6PaI18pwY7",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "Walmart",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 6.73,
+      "date": "2023-11-13",
+      "description": "Walmart",
+      "guid": "PzZbxr99byIZvvDzm0eaFy5nmVNjXxUOpPvxL",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Acorns Invest DES:Transfer ID:6FBWPB1 INDN:Carmelo Celestin CO ID:XXXXX42693 WEB",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 15.0,
+      "date": "2023-11-13",
+      "description": "Acorns Invest DES:Transfer ID:6FBWPB1 INDN:Carmelo Celestin CO ID:XXXXX42693 WEB",
+      "guid": "LzmJ1AaaJPI355QeXKoLUqbE0Pn3z6CJEgkMr",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Third Party\",\"Acorns\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1112 LAUNDRY WORLD CO. BERWYN IL XXXXX2333XXXXXXXXXX9519",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 11.25,
+      "date": "2023-11-14",
+      "description": "CHECKCARD 1112 LAUNDRY WORLD CO. BERWYN IL XXXXX2333XXXXXXXXXX9519",
+      "guid": "wajd7XOOdQIjOO3PwvyaHY4wvy8BNZuRwNm45",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Personal Care\"]"
+    },
+    {
+      "originalDescription": "Online Banking transfer to CHK 5977 Confirmation# XXXXX51842",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 100.0,
+      "date": "2023-11-16",
+      "description": "Online Banking transfer to CHK 5977 Confirmation# XXXXX51842",
+      "guid": "m3g4PJnn4QCxPPLENya3idvLyrwxaQf89jo5n",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Internal Account Transfer\"]"
+    },
+    {
+      "originalDescription": "Walgreens",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 29.8,
+      "date": "2023-11-16",
+      "description": "Walgreens",
+      "guid": "z8oL7nppLQIRwwJ7Dbz8c9BwbDVKP4hMLrpwr",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Pharmacies\"]"
+    },
+    {
+      "originalDescription": "DOLLARTREE 11/16 #XXXXX4138 PURCHASE 333 N LA GRANGE R",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 4.09,
+      "date": "2023-11-16",
+      "description": "DOLLARTREE 11/16 #XXXXX4138 PURCHASE 333 N LA GRANGE R",
+      "guid": "Yzrp3wRRpaIRqqjPw5bZcrm5QVPdqofzDOA6b",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Discount Stores\"]"
+    },
+    {
+      "originalDescription": "McDonald's",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 13.28,
+      "date": "2023-11-17",
+      "description": "McDonald's",
+      "guid": "NzQJq099JBIZ33obEAD4F8nJRyj90efyODNBV",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "Zelle payment to SMP Conf# al6jdq8lb",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 30.0,
+      "date": "2023-11-17",
+      "description": "Zelle payment to SMP Conf# al6jdq8lb",
+      "guid": "XzM8Rd9984IoPPmrdZwaF7PMQergDqizxgvBo",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1117 TMOBILE AUTO P BELLEVUE WA XXXXXXXXXXXXXXX00687460 RECURRING",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 181.35,
+      "date": "2023-11-17",
+      "description": "CHECKCARD 1117 TMOBILE AUTO P BELLEVUE WA XXXXXXXXXXXXXXX00687460 RECURRING",
+      "guid": "pkd4P5jj4nIyaa9znANQUj84k6rwzOHAyoP0k",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Telecommunication Services\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1116 JEWEL OSCO 2265 LA GRANGE PARIL XXXXX6833XXXXXXXXXX2045",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 25.52,
+      "date": "2023-11-20",
+      "description": "CHECKCARD 1116 JEWEL OSCO 2265 LA GRANGE PARIL XXXXX6833XXXXXXXXXX2045",
+      "guid": "nyD4a8VV4QsYDDx3jrXyHNEmrqDYbJtj3ZOmy",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "McDonald's",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 11.63,
+      "date": "2023-11-20",
+      "description": "McDonald's",
+      "guid": "QzQJO4mmJKIwaaXDVj9mCLYREVdknQC9L13QK",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "Zelle payment to SMP Conf# dktpt1kn9",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 50.0,
+      "date": "2023-11-20",
+      "description": "Zelle payment to SMP Conf# dktpt1kn9",
+      "guid": "Rz4Jma99JkIOddw09rzyIyM8KVd0m6U9n7J6L",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1118 XSPORT LYONS-CKFR IL XXXXX0033XXXXXXXXXX1689 RECURRING",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 12.95,
+      "date": "2023-11-20",
+      "description": "CHECKCARD 1118 XSPORT LYONS-CKFR IL XXXXX0033XXXXXXXXXX1689 RECURRING",
+      "guid": "MzAJ5vOOJqIMEEKV4kvwFvZo5Y7bOwf09r4A6",
+      "type": "DEBIT",
+      "category": "[\"Recreation\",\"Gyms and Fitness Centers\"]"
+    },
+    {
+      "originalDescription": "Dunkin' Donuts",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 9.79,
+      "date": "2023-11-20",
+      "description": "Dunkin' Donuts",
+      "guid": "Oz0ObjmmO3IbzzVKXvNatBMA8jXq37fpbEL7d",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Coffee Shop\"]"
+    },
+    {
+      "originalDescription": "Zelle payment to BreAnna Celestin Conf# eh5mrbib8",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 70.0,
+      "date": "2023-11-20",
+      "description": "Zelle payment to BreAnna Celestin Conf# eh5mrbib8",
+      "guid": "VzAQ0Z99QjIReebyKJPDcQNdr8yoEvTnEgZ09",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "Zelle payment to Braylen Celestin Conf# atkw3nnbf",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 70.0,
+      "date": "2023-11-20",
+      "description": "Zelle payment to Braylen Celestin Conf# atkw3nnbf",
+      "guid": "oK149Zvv4QFbBBPexvVKtMXnv98boPurKqYgp",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "Wendy's",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 7.28,
+      "date": "2023-11-20",
+      "description": "Wendy's",
+      "guid": "ZzvR9677RxIPggn3zo40uQ8LRp39A7T8pwNo7",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1120 LAUNDRY WORLD CO. BERWYN IL XXXXX2333XXXXXXXXXX0750",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 14.25,
+      "date": "2023-11-21",
+      "description": "CHECKCARD 1120 LAUNDRY WORLD CO. BERWYN IL XXXXX2333XXXXXXXXXX0750",
+      "guid": "xx9wRnvvwQUJOOKj61nxszor1Ee3vLtmBXNqQ",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Personal Care\"]"
+    },
+    {
+      "originalDescription": "UNITED PARCEL DES:PAYROLL ID:0122967 P55047 INDN:CELESTIN, CARMELO CO ID:XXXXX07381 PPD",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 947.48,
+      "date": "2023-11-24",
+      "description": "UNITED PARCEL DES:PAYROLL ID:0122967 P55047 INDN:CELESTIN, CARMELO CO ID:XXXXX07381 PPD",
+      "guid": "rv746NVV4YfwZZ5okrPQCq3OvEbLDJCr1RxNA",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Payroll\"]"
+    },
+    {
+      "originalDescription": "Online Banking transfer to CHK 5977 Confirmation# XXXXX61350",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 100.0,
+      "date": "2023-11-24",
+      "description": "Online Banking transfer to CHK 5977 Confirmation# XXXXX61350",
+      "guid": "v4oVRn00VXUREE34dp6Qc3JN4A8qYBFpn45K0",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Internal Account Transfer\"]"
+    },
+    {
+      "originalDescription": "TONYS FRE 7111 11/25 #XXXXX0581 PURCHASE TONYS FRE 7111 CE",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 54.44,
+      "date": "2023-11-27",
+      "description": "TONYS FRE 7111 11/25 #XXXXX0581 PURCHASE TONYS FRE 7111 CE",
+      "guid": "yJ76mn996QC0ddQVL1xJFNXY19ryJLtRAZEqX",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "TONYS FRE 6704 11/25 #XXXXX1139 PURCHASE TONYS FRE 6704 JO",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 41.43,
+      "date": "2023-11-27",
+      "description": "TONYS FRE 6704 11/25 #XXXXX1139 PURCHASE TONYS FRE 6704 JO",
+      "guid": "qAwxanvvxNSAoozNk1vQt0pYALb6PaI18pw97",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Zelle payment to Carmelo Celestin Conf# gbc12cum0",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 40.0,
+      "date": "2023-11-27",
+      "description": "Zelle payment to Carmelo Celestin Conf# gbc12cum0",
+      "guid": "PzZbxr99byIZvvDzm0eaFy5nmVNjXxUOpPvRL",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1127 BMS MART LAGRANGE PARKIL",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 10.0,
+      "date": "2023-11-27",
+      "description": "CHECKCARD 1127 BMS MART LAGRANGE PARKIL",
+      "guid": "LzmJ1AaaJPI355QeXKoLUqbE0Pn3z6CJEgkyr",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "Acorns Invest DES:Transfer ID:2N40ZB1 INDN:Carmelo Celestin CO ID:XXXXX42693 WEB",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 15.0,
+      "date": "2023-11-27",
+      "description": "Acorns Invest DES:Transfer ID:2N40ZB1 INDN:Carmelo Celestin CO ID:XXXXX42693 WEB",
+      "guid": "wajd7XOOdQIjOO3PwvyaHY4wvy8BNZuRwNmk5",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Third Party\",\"Acorns\"]"
+    },
+    {
+      "originalDescription": "ALLY CC DES:MOBILE PYM ID:XXXXXXXXXX06248 INDN:CARMELO CELESTIN CO ID:XXXXX02835 WEB",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 86.0,
+      "date": "2023-11-28",
+      "description": "ALLY CC DES:MOBILE PYM ID:XXXXXXXXXX06248 INDN:CARMELO CELESTIN CO ID:XXXXX02835 WEB",
+      "guid": "m3g4PJnn4QCxPPLENya3idvLyrwxaQf89joKn",
+      "type": "DEBIT",
+      "category": "[\"Payment\"]"
+    },
+    {
+      "originalDescription": "CONCORA CREDIT DES:PAYMENT ID:XXXXXXXXXX74522 INDN:CELESTIN CARMELO CO ID:XXXXX36529 WEB",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 40.0,
+      "date": "2023-11-28",
+      "description": "CONCORA CREDIT DES:PAYMENT ID:XXXXXXXXXX74522 INDN:CELESTIN CARMELO CO ID:XXXXX36529 WEB",
+      "guid": "yJ76mn996QC0ddQVL1xJFNXY19ryJLtRAZEqm",
+      "type": "DEBIT",
+      "category": "[\"Payment\",\"Credit Card\"]"
+    },
+    {
+      "originalDescription": "Credit One Bank DES:Payment ID:62531245 INDN:CARMELO CELESTIN CO ID:WEB000004 WEB",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 30.0,
+      "date": "2023-11-28",
+      "description": "Credit One Bank DES:Payment ID:62531245 INDN:CARMELO CELESTIN CO ID:WEB000004 WEB",
+      "guid": "qAwxanvvxNSAoozNk1vQt0pYALb6PaI18pw9X",
+      "type": "DEBIT",
+      "category": "[\"Payment\",\"Credit Card\"]"
+    },
+    {
+      "originalDescription": "OVERDRAFT PROTECTION TO XXXXX0000XXXXX5985977",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 38.01,
+      "date": "2023-11-29",
+      "description": "OVERDRAFT PROTECTION TO XXXXX0000XXXXX5985977",
+      "guid": "PzZbxr99byIZvvDzm0eaFy5nmVNjXxUOpPvRy",
+      "type": "DEBIT",
+      "category": "[\"Bank Fees\",\"Overdraft\"]"
+    },
+    {
+      "originalDescription": "UNITED PARCEL DES:PAYROLL ID:0122967 P55048 INDN:CELESTIN, CARMELO CO ID:XXXXX07381 PPD",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 664.71,
+      "date": "2023-12-01",
+      "description": "UNITED PARCEL DES:PAYROLL ID:0122967 P55048 INDN:CELESTIN, CARMELO CO ID:XXXXX07381 PPD",
+      "guid": "LzmJ1AaaJPI355QeXKoLUqbE0Pn3z6CJEgkyy",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Payroll\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1201 ALLPAID*MONROE COUNTY C XXX-XX98743 WI XXXXX4133XXXXXXXXXX0927",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 262.15,
+      "date": "2023-12-04",
+      "description": "CHECKCARD 1201 ALLPAID*MONROE COUNTY C XXX-XX98743 WI XXXXX4133XXXXXXXXXX0927",
+      "guid": "wajd7XOOdQIjOO3PwvyaHY4wvy8BNZuRwNmkP",
+      "type": "DEBIT",
+      "category": "[\"Community\",\"Government Departments and Agencies\"]"
+    },
+    {
+      "originalDescription": "Wendy's",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 12.2,
+      "date": "2023-12-04",
+      "description": "Wendy's",
+      "guid": "m3g4PJnn4QCxPPLENya3idvLyrwxaQf89joKE",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "CVS",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 4.96,
+      "date": "2023-12-04",
+      "description": "CVS",
+      "guid": "z8oL7nppLQIRwwJ7Dbz8c9BwbDVKP4hMLrpjZ",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Pharmacies\"]"
+    },
+    {
+      "originalDescription": "Walmart",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 52.86,
+      "date": "2023-12-04",
+      "description": "Walmart",
+      "guid": "Yzrp3wRRpaIRqqjPw5bZcrm5QVPdqofzDOAkD",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Walmart",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 24.7,
+      "date": "2023-12-04",
+      "description": "Walmart",
+      "guid": "NzQJq099JBIZ33obEAD4F8nJRyj90efyODNer",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Walgreens",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 8.53,
+      "date": "2023-12-04",
+      "description": "Walgreens",
+      "guid": "XzM8Rd9984IoPPmrdZwaF7PMQergDqizxgvAQ",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Pharmacies\"]"
+    },
+    {
+      "originalDescription": "Acorns DES:Transfer ID:XXXXX854993 INDN:Carmelo Celestin CO ID:XXXXX00001 WEB",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 20.0,
+      "date": "2023-12-04",
+      "description": "Acorns DES:Transfer ID:XXXXX854993 INDN:Carmelo Celestin CO ID:XXXXX00001 WEB",
+      "guid": "pkd4P5jj4nIyaa9znANQUj84k6rwzOHAyoPEn",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Third Party\",\"Acorns\"]"
+    },
+    {
+      "originalDescription": "Acorns Invest DES:Transfer ID:Z3VC3C1 INDN:Carmelo Celestin CO ID:XXXXX42693 WEB",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 15.0,
+      "date": "2023-12-04",
+      "description": "Acorns Invest DES:Transfer ID:Z3VC3C1 INDN:Carmelo Celestin CO ID:XXXXX42693 WEB",
+      "guid": "nyD4a8VV4QsYDDx3jrXyHNEmrqDYbJtj3ZORV",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Third Party\",\"Acorns\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1205 BERWYN MART",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 40.0,
+      "date": "2023-12-05",
+      "description": "CHECKCARD 1205 BERWYN MART",
+      "guid": "QzQJO4mmJKIwaaXDVj9mCLYREVdknQC9L13Yd",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "Best Buy",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 30.0,
+      "date": "2023-12-05",
+      "description": "Best Buy",
+      "guid": "Rz4Jma99JkIOddw09rzyIyM8KVd0m6U9n7Jxo",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Computers and Electronics\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 1206 ONSTAR SERVICES 888-4ONSTAR MI XXXXX1633XXXXXXXXXX3213 RECURRING",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 15.34,
+      "date": "2023-12-07",
+      "description": "CHECKCARD 1206 ONSTAR SERVICES 888-4ONSTAR MI XXXXX1633XXXXXXXXXX3213 RECURRING",
+      "guid": "MzAJ5vOOJqIMEEKV4kvwFvZo5Y7bOwf09r4Zk",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Telecommunication Services\"]"
+    },
+    {
+      "originalDescription": "Walgreens",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 17.84,
+      "date": "2023-12-07",
+      "description": "Walgreens",
+      "guid": "Oz0ObjmmO3IbzzVKXvNatBMA8jXq37fpbELdZ",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Pharmacies\"]"
+    },
+    {
+      "originalDescription": "UNITED PARCEL DES:PAYROLL ID:0122967 P55049 INDN:CELESTIN, CARMELO CO ID:XXXXX07381 PPD",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 610.51,
+      "date": "2023-12-08",
+      "description": "UNITED PARCEL DES:PAYROLL ID:0122967 P55049 INDN:CELESTIN, CARMELO CO ID:XXXXX07381 PPD",
+      "guid": "VzAQ0Z99QjIReebyKJPDcQNdr8yoEvTnEgZ1X",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Payroll\"]"
+    },
+    {
+      "originalDescription": "Walmart",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 15.47,
+      "date": "2023-12-11",
+      "description": "Walmart",
+      "guid": "oK149Zvv4QFbBBPexvVKtMXnv98boPurKqYmJ",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Acorns Invest DES:Transfer ID:2VKL7C1 INDN:Carmelo Celestin CO ID:XXXXX42693 WEB",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 15.0,
+      "date": "2023-12-11",
+      "description": "Acorns Invest DES:Transfer ID:2VKL7C1 INDN:Carmelo Celestin CO ID:XXXXX42693 WEB",
+      "guid": "ZzvR9677RxIPggn3zo40uQ8LRp39A7T8pwNYq",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Third Party\",\"Acorns\"]"
+    },
+    {
+      "originalDescription": "AAA Insurance",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 363.43,
+      "date": "2023-12-12",
+      "description": "AAA Insurance",
+      "guid": "xx9wRnvvwQUJOOKj61nxszor1Ee3vLtmBXNwN",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Insurance\"]"
+    },
+    {
+      "originalDescription": "TONYS FRE 6704 12/15 #XXXXX2039 PURCHASE TONYS FRE 6704 JO",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 32.63,
+      "date": "2023-12-15",
+      "description": "TONYS FRE 6704 12/15 #XXXXX2039 PURCHASE TONYS FRE 6704 JO",
+      "guid": "rv746NVV4YfwZZ5okrPQCq3OvEbLDJCr1Rxqp",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Acorns DES:Transfer ID:XXXXX579311 INDN:Carmelo Celestin CO ID:XXXXX00001 WEB",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 20.0,
+      "date": "2023-12-18",
+      "description": "Acorns DES:Transfer ID:XXXXX579311 INDN:Carmelo Celestin CO ID:XXXXX00001 WEB",
+      "guid": "v4oVRn00VXUREE34dp6Qc3JN4A8qYBFpn45xe",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Third Party\",\"Acorns\"]"
+    },
+    {
+      "originalDescription": "UNITED PARCEL DES:PAYROLL ID:0122967 P55051 INDN:CELESTIN, CARMELO CO ID:XXXXX07381 PPD",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 688.76,
+      "date": "2023-12-22",
+      "description": "UNITED PARCEL DES:PAYROLL ID:0122967 P55051 INDN:CELESTIN, CARMELO CO ID:XXXXX07381 PPD",
+      "guid": "yJ76mn996QC0ddQVL1xJFNXY19ryJLtRAZEem",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Payroll\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 0124 HUCK FINN RESTAURANT D OAK LAWN IL XXXXX0540XXXXXXXXXX1515",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 57.96,
+      "date": "2024-01-25",
+      "description": "CHECKCARD 0124 HUCK FINN RESTAURANT D OAK LAWN IL XXXXX0540XXXXXXXXXX1515",
+      "guid": "NzQJq099JBIZ33obEADYUnLAJYJN9rtLvRRJZ",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "CHECKCARD 0125 2755 W 87TH EVERGREEN PARIL",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 20.0,
+      "date": "2024-01-25",
+      "description": "CHECKCARD 0125 2755 W 87TH EVERGREEN PARIL",
+      "guid": "pkd4P5jj4nIyaa9znANPH8K94Y45wJU4zJJ1V",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "McDonald's",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 10.77,
+      "date": "2024-01-25",
+      "description": "McDonald's",
+      "guid": "XzM8Rd9984IoPPmrdZw3UP03MxMvgaCaq44wm",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "Wendy's",
+      "accountGuid": "v4oVRn00VXUREE34dp6Qc3JkgAmxwJFpdo9zP",
+      "amount": 7.86,
+      "date": "2024-01-25",
+      "description": "Wendy's",
+      "guid": "nyD4a8VV4QsYDDx3jrXOCE0zmLmwYAcpLAAnx",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    }
+  ],
+  "asOfDate": "2024-01-25"
+}

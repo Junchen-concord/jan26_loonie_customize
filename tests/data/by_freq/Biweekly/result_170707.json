@@ -1,0 +1,3277 @@
+{
+  "accounts": [
+    {
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "currentBalance": 6189.37,
+      "currentBalanceDate": "2024-01-23"
+    },
+    {
+      "accountGuid": "wrvxBX9wNLuQaq7KdRxqUBbqgDqr76fRLQzEO",
+      "currentBalance": 9.69,
+      "currentBalanceDate": "2024-01-23"
+    }
+  ],
+  "transactions": [
+    {
+      "originalDescription": "W/D Debit Card Subway 42103 9119 Hwy 225 La Porte TX Merchant Category Code: 5814",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 8.85,
+      "date": "2023-12-19",
+      "description": "W/D Debit Card Subway 42103 9119 Hwy 225 La Porte TX Merchant Category Code: 5814",
+      "guid": "Dd8KJ1vjX0sybQ6BEpMQCEmKRe0aYzUz8KZV9",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "W/D Debit Card PIADA - 42 1025 UNIVERSITY DR COLLEGE STAT Merchant Category Code: 5812",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 23.77,
+      "date": "2023-12-30",
+      "description": "W/D Debit Card PIADA - 42 1025 UNIVERSITY DR COLLEGE STAT Merchant Category Code: 5812",
+      "guid": "bVZqYyvABLsBeV9K3gLVu3eyN7wwvZhxYqEzN",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "Amazon",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 35.95,
+      "date": "2024-01-14",
+      "description": "Amazon",
+      "guid": "bVZqYyvABLsBeV9K3gLVu3eyN7wwvZhxYqEeN",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Digital Purchase\"]"
+    },
+    {
+      "originalDescription": "W/D ACH Synchrony Bank TYPE: CC PYMT ID: 9856794001 CO: Synchrony Bank ACH Trace Number: 021000029446738",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 63.0,
+      "date": "2024-01-08",
+      "description": "W/D ACH Synchrony Bank TYPE: CC PYMT ID: 9856794001 CO: Synchrony Bank ACH Trace Number: 021000029446738",
+      "guid": "Dd8KJ1vjX0sybQ6BEpMQCEmMQz99qYFzrZxKB",
+      "type": "DEBIT",
+      "category": "[\"Payment\",\"Credit Card\"]"
+    },
+    {
+      "originalDescription": "Chevron",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 27.04,
+      "date": "2024-01-07",
+      "description": "Chevron",
+      "guid": "BM41amEvZACBq0xrojm0uA4wKVZZbjh8X9PZr",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "Recurring W/D Debit Card LIFEMD 5882 BOLSA AVE SUITE 23 Merchant Category Code: 8011",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 15.0,
+      "date": "2023-12-17",
+      "description": "Recurring W/D Debit Card LIFEMD 5882 BOLSA AVE SUITE 23 Merchant Category Code: 8011",
+      "guid": "BM41amEvZACBq0xrojm0uA457QaJjVH8AZ9d9",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "W/D Debit Card HARTZ CHICKEN BUFF 9955 Bammel North H Merchant Category Code: 5462",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 29.31,
+      "date": "2024-01-04",
+      "description": "W/D Debit Card HARTZ CHICKEN BUFF 9955 Bammel North H Merchant Category Code: 5462",
+      "guid": "AOrD46BA7ktq6g3rz1LgFyqz7MkkYNHZy6rAM",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "W/D Digital Banking Transfer To Loan 0006 REF # 2654143",
+      "accountGuid": "wrvxBX9wNLuQaq7KdRxqUBbqgDqr76fRLQzEO",
+      "amount": 685.14,
+      "date": "2023-12-18",
+      "description": "W/D Digital Banking Transfer To Loan 0006 REF # 2654143",
+      "guid": "AOrD46BA7ktq6g3rz1LgFyqLnw03NMHZ7A6MP",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]"
+    },
+    {
+      "originalDescription": "Kroger",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 15.58,
+      "date": "2023-12-24",
+      "description": "Kroger",
+      "guid": "Dd8KJ1vjX0sybQ6BEpMQCEmMQz99qYFzrZxmB",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Spotify",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 11.9,
+      "date": "2024-01-02",
+      "description": "Spotify",
+      "guid": "a97yY3Xkq6HrZmwPgpJmirNAP833MRtyMZJA4",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Subscription\"]"
+    },
+    {
+      "originalDescription": "W/D Debit Card Dicks Sporting Goods 7925 FM 1960 Road W # Merchant Category Code: 5941",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 33.55,
+      "date": "2023-12-22",
+      "description": "W/D Debit Card Dicks Sporting Goods 7925 FM 1960 Road W # Merchant Category Code: 5941",
+      "guid": "9Z3nyYz1LDcrvNJ5MLeNibVgq380X4fPA9dkn",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Sporting Goods\"]"
+    },
+    {
+      "originalDescription": "W/D POS H-E-B #099 HOUSTON TX Merchant Category Code: 5411",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 141.46,
+      "date": "2023-12-29",
+      "description": "W/D POS H-E-B #099 HOUSTON TX Merchant Category Code: 5411",
+      "guid": "9Z3nyYz1LDcrvNJ5MLeNibV7D4eeJXIPBdeZJ",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "W/D Debit Card TST* UCC HOSPITALITY 4402 EMANCIPATION AVE Merchant Category Code: 5813",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 32.82,
+      "date": "2024-01-14",
+      "description": "W/D Debit Card TST* UCC HOSPITALITY 4402 EMANCIPATION AVE Merchant Category Code: 5813",
+      "guid": "9Z3nyYz1LDcrvNJ5MLeNibV7D4eeJXIPBde9J",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "Kroger",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 12.89,
+      "date": "2023-12-31",
+      "description": "Kroger",
+      "guid": "88BO3Y7D6LTq5oQBbgkoFKXepYqqD1cmnybEA",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Chevron",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 5.37,
+      "date": "2023-12-23",
+      "description": "Chevron",
+      "guid": "7JqZBYnLw6cAK1NqYnx1COgDYkBXwRc4ynQDV",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "Kroger",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 13.35,
+      "date": "2024-01-14",
+      "description": "Kroger",
+      "guid": "7JqZBYnLw6cAK1NqYnx1COg4jR00Nwt4LQVnj",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "W/D Debit Card LAZ PARKING ECOMMERCE ONE FINANCIAL PLAZA, Merchant Category Code: 7523",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 4.08,
+      "date": "2023-12-29",
+      "description": "W/D Debit Card LAZ PARKING ECOMMERCE ONE FINANCIAL PLAZA, Merchant Category Code: 7523",
+      "guid": "7JqZBYnLw6cAK1NqYnx1COg4jR00Nwt4LQV6j",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Parking\"]"
+    },
+    {
+      "originalDescription": "W/D ACH AMERICANFIRSTFIN TYPE: 8557211188 ID: 1462541785 CO: AMERICANFIRSTFIN ACH Trace Number: 096016938235095",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 118.56,
+      "date": "2023-12-08",
+      "description": "W/D ACH AMERICANFIRSTFIN TYPE: 8557211188 ID: 1462541785 CO: AMERICANFIRSTFIN ACH Trace Number: 096016938235095",
+      "guid": "dMnqYk40w1CVQ7930Z57IVJPb3EQ1eH8dab8D",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "Deposit Digital Banking Transfer From Share 0001 REF # 2658314",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 200.0,
+      "date": "2023-12-20",
+      "description": "Deposit Digital Banking Transfer From Share 0001 REF # 2658314",
+      "guid": "6xP9qYN6dwSMeDBxo9rDCdPvr4NX0LFV3XayQ",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "Kroger",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 88.63,
+      "date": "2024-01-08",
+      "description": "Kroger",
+      "guid": "6xP9qYN6dwSMeDBxo9rDCdPgZLbb50IVragXO",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "W/D Debit Card FEUL LOUNGE LLC 4217 TIDWELL RD HOUSTON TX Merchant Category Code: 5813",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 17.95,
+      "date": "2023-12-24",
+      "description": "W/D Debit Card FEUL LOUNGE LLC 4217 TIDWELL RD HOUSTON TX Merchant Category Code: 5813",
+      "guid": "6xP9qYN6dwSMeDBxo9rDCdPgZLbb50IVragOO",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Bar\"]"
+    },
+    {
+      "originalDescription": "Recurring W/D Debit Card YouTube TV 1600 AMPHITHEATRE PKWY Merchant Category Code: 5818",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 78.28,
+      "date": "2023-12-30",
+      "description": "Recurring W/D Debit Card YouTube TV 1600 AMPHITHEATRE PKWY Merchant Category Code: 5818",
+      "guid": "5a19PYew7dcmrbjazJRbfqJYOm66PDtbaBjnz",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Digital Purchase\"]"
+    },
+    {
+      "originalDescription": "Recurring W/D Debit Card PEARLAND BOAT & RV STO 3600 OLD CHOCOLATE Merchant Category Code: 4225",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 100.0,
+      "date": "2024-01-02",
+      "description": "Recurring W/D Debit Card PEARLAND BOAT & RV STO 3600 OLD CHOCOLATE Merchant Category Code: 4225",
+      "guid": "4mDz1Y7d5xSYbRgaXwQRI76RMmLL1Ai1pkPoE",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Food and Beverage Store\"]"
+    },
+    {
+      "originalDescription": "Kroger",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 78.42,
+      "date": "2023-11-05",
+      "description": "Kroger",
+      "guid": "dMnqYk40w1CVQ7930Z57IVJPb3EQ1eH8dabLn",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "W/D POS HIGHWAY 21 AND PAIGE PAIGE TX Merchant Category Code: 5541",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 3.56,
+      "date": "2024-01-06",
+      "description": "W/D POS HIGHWAY 21 AND PAIGE PAIGE TX Merchant Category Code: 5541",
+      "guid": "3rL9DYvMZauo84DpaxN4C91jdwOO3zCzkK3qr",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "W/D ACH AFFIRM INC TYPE: AFFIRM PAY ID: 0000317218 CO: AFFIRM INC NAME: Jerald *Davis ACH Trace Number: 021000025674545",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 16.36,
+      "date": "2024-01-08",
+      "description": "W/D ACH AFFIRM INC TYPE: AFFIRM PAY ID: 0000317218 CO: AFFIRM INC NAME: Jerald *Davis ACH Trace Number: 021000025674545",
+      "guid": "10w96YNV5rsX503pwAL0hg7V51xxnbcoZmzxd",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]"
+    },
+    {
+      "originalDescription": "Kroger",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 25.06,
+      "date": "2023-12-24",
+      "description": "Kroger",
+      "guid": "10w96YNV5rsX503pwAL0hg7V51xxnbcoZmz9d",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "W/D Debit Card Subway 42103 9119 Hwy 225 La Porte TX Merchant Category Code: 5814",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 8.85,
+      "date": "2023-12-20",
+      "description": "W/D Debit Card Subway 42103 9119 Hwy 225 La Porte TX Merchant Category Code: 5814",
+      "guid": "dMnqYk40w1CVQ7930Z57IVJPb3EQ1eH8dabyJ",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "W/D Debit Card FEUL LOUNGE LLC 4217 TIDWELL RD HOUSTON TX Merchant Category Code: 5813",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 20.25,
+      "date": "2023-12-24",
+      "description": "W/D Debit Card FEUL LOUNGE LLC 4217 TIDWELL RD HOUSTON TX Merchant Category Code: 5813",
+      "guid": "dMnqYk40w1CVQ7930Z57IVJRNeaaD1C8RbX56",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Bar\"]"
+    },
+    {
+      "originalDescription": "W/D Debit Card CANTEEN VENDING 100 DEERFIELD LN STE300 KA Merchant Category Code: 5814",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 1.85,
+      "date": "2024-01-09",
+      "description": "W/D Debit Card CANTEEN VENDING 100 DEERFIELD LN STE300 KA Merchant Category Code: 5814",
+      "guid": "dMnqYk40w1CVQ7930Z57IVJRNeaaD1C8RbXa6",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\"]"
+    },
+    {
+      "originalDescription": "W/D ACH CONCORA CREDIT TYPE: PAYMENT ID: 9044036529 CO: CONCORA CREDIT NAME: DAVIS JERALD ACH Trace Number: 043305133389284",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 16.82,
+      "date": "2023-12-19",
+      "description": "W/D ACH CONCORA CREDIT TYPE: PAYMENT ID: 9044036529 CO: CONCORA CREDIT NAME: DAVIS JERALD ACH Trace Number: 043305133389284",
+      "guid": "10w96YNV5rsX503pwAL0hg7EXez8b1UoXxmjO",
+      "type": "DEBIT",
+      "category": "[\"Payment\",\"Credit Card\"]"
+    },
+    {
+      "originalDescription": "W/D at ATM #671728 A465629 MR EXPRESS -465629 HOUSTON TX A465629 Merchant Category Code: 6011",
+      "accountGuid": "wrvxBX9wNLuQaq7KdRxqUBbqgDqr76fRLQzEO",
+      "amount": 102.99,
+      "date": "2024-01-17",
+      "description": "W/D at ATM #671728 A465629 MR EXPRESS -465629 HOUSTON TX A465629 Merchant Category Code: 6011",
+      "guid": "0vdxwY59Kjcj6v7dON5vHbqDPnrrKeIxzrZqq",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "W/D Debit Card TST* K TEA BOBA 10978 Grant Road Houston T Merchant Category Code: 5812",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 21.31,
+      "date": "2024-01-04",
+      "description": "W/D Debit Card TST* K TEA BOBA 10978 Grant Road Houston T Merchant Category Code: 5812",
+      "guid": "0vdxwY59Kjcj6v7dON5vHbqDPnrrKeIxzrZ4v",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Food and Beverage Store\"]"
+    },
+    {
+      "originalDescription": "W/D POS H-E-B #099 HOUSTON TX Merchant Category Code: 5411",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 143.42,
+      "date": "2023-11-22",
+      "description": "W/D POS H-E-B #099 HOUSTON TX Merchant Category Code: 5411",
+      "guid": "Dd8KJ1vjX0sybQ6BEpMQCEmKRe0aYzUz8KZqp",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Chevron",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 6.58,
+      "date": "2023-11-03",
+      "description": "Chevron",
+      "guid": "Dd8KJ1vjX0sybQ6BEpMQCEmKRe0aYzUz8KZ0D",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "Deposit ACH ARCTIC TESTING TYPE: ATI 120823 ID: 4842147913 CO: ARCTIC TESTING ACH Trace Number: 091000013726823",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 2898.72,
+      "date": "2023-12-06",
+      "description": "Deposit ACH ARCTIC TESTING TYPE: ATI 120823 ID: 4842147913 CO: ARCTIC TESTING ACH Trace Number: 091000013726823",
+      "guid": "Dd8KJ1vjX0sybQ6BEpMQCEmKRe0aYzUz8KZzp",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Payroll\"]"
+    },
+    {
+      "originalDescription": "W/D Debit Card GRANT EXPRESS 10210 GRANT ROAD HOUSTON TX Merchant Category Code: 5541",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 4.33,
+      "date": "2023-12-14",
+      "description": "W/D Debit Card GRANT EXPRESS 10210 GRANT ROAD HOUSTON TX Merchant Category Code: 5541",
+      "guid": "bVZqYyvABLsBeV9K3gLVu3ebqRk8Z7Hxpzqx8",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "W/D POS MOTION MARKET HOUSTON TX Merchant Category Code: 5542",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 38.84,
+      "date": "2023-10-27",
+      "description": "W/D POS MOTION MARKET HOUSTON TX Merchant Category Code: 5542",
+      "guid": "bVZqYyvABLsBeV9K3gLVu3ebqRk8Z7Hxpzqog",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Kroger",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 81.58,
+      "date": "2023-11-30",
+      "description": "Kroger",
+      "guid": "bVZqYyvABLsBeV9K3gLVu3ebqRk8Z7Hxpzqdz",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "W/D Faster Payments ZEL* Taco truck J2JT000LfcOE",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 15.25,
+      "date": "2023-11-02",
+      "description": "W/D Faster Payments ZEL* Taco truck J2JT000LfcOE",
+      "guid": "BM41amEvZACBq0xrojm0uA457QaJjVH8AZ9QX",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "Deposit ACH ARCTIC TESTING TYPE: ATI 112423 ID: 4842147913 CO: ARCTIC TESTING ACH Trace Number: 091000011547538",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 2208.37,
+      "date": "2023-11-21",
+      "description": "Deposit ACH ARCTIC TESTING TYPE: ATI 112423 ID: 4842147913 CO: ARCTIC TESTING ACH Trace Number: 091000011547538",
+      "guid": "BM41amEvZACBq0xrojm0uA457QaJjVH8AZ9jw",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Payroll\"]"
+    },
+    {
+      "originalDescription": "W/D Faster Payments ZEL* Samansa Hurd J2JN000LHQOd",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 20.0,
+      "date": "2023-12-05",
+      "description": "W/D Faster Payments ZEL* Samansa Hurd J2JN000LHQOd",
+      "guid": "BM41amEvZACBq0xrojm0uA457QaJjVH8AZ98w",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "W/D ACH MERRICK BANK COR TYPE: MOBILE PAY ID: 9000002935 CO: MERRICK BANK COR NAME: JERALD DAVIS ACH Trace Number: 124384601820312",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 46.0,
+      "date": "2023-11-02",
+      "description": "W/D ACH MERRICK BANK COR TYPE: MOBILE PAY ID: 9000002935 CO: MERRICK BANK COR NAME: JERALD DAVIS ACH Trace Number: 124384601820312",
+      "guid": "AOrD46BA7ktq6g3rz1LgFyqLnw03NMHZ7A6QE",
+      "type": "DEBIT",
+      "category": "[\"Payment\"]"
+    },
+    {
+      "originalDescription": "W/D Debit Card VIVI NAILS & SPA 19750 HWY 249 HOUSTON TX Merchant Category Code: 7230",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 93.0,
+      "date": "2023-11-20",
+      "description": "W/D Debit Card VIVI NAILS & SPA 19750 HWY 249 HOUSTON TX Merchant Category Code: 7230",
+      "guid": "AOrD46BA7ktq6g3rz1LgFyqLnw03NMHZ7A6jr",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Personal Care\"]"
+    },
+    {
+      "originalDescription": "W/D POS FAMILY DO 13780 CYPRES CYPRESS TX Merchant Category Code: 5331",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 79.18,
+      "date": "2023-12-16",
+      "description": "W/D POS FAMILY DO 13780 CYPRES CYPRESS TX Merchant Category Code: 5331",
+      "guid": "AOrD46BA7ktq6g3rz1LgFyqLnw03NMHZ7A6bZ",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Convenience Stores\"]"
+    },
+    {
+      "originalDescription": "Spotify",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 11.9,
+      "date": "2023-12-02",
+      "description": "Spotify",
+      "guid": "AOrD46BA7ktq6g3rz1LgFyqLnw03NMHZ7A6Br",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Subscription\"]"
+    },
+    {
+      "originalDescription": "W/D Debit Card TIKTOK SHOP 5800 Bristol Parkway CULVER CI Merchant Category Code: 5399",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 55.0,
+      "date": "2023-10-31",
+      "description": "W/D Debit Card TIKTOK SHOP 5800 Bristol Parkway CULVER CI Merchant Category Code: 5399",
+      "guid": "a97yY3Xkq6HrZmwPgpJmirN17XKmR8Hy8AZbv",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "W/D Debit Card CASH APP*ALDE MONDRAGO 1455 Market Street Merchant Category Code: 4829",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 22.5,
+      "date": "2023-12-01",
+      "description": "W/D Debit Card CASH APP*ALDE MONDRAGO 1455 Market Street Merchant Category Code: 4829",
+      "guid": "a97yY3Xkq6HrZmwPgpJmirN17XKmR8Hy8AZaX",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "W/D NON-ACU ATM FEE 000000000219050 Kroozin Market 249 Cu Houston TX NH106061 Merchant Category Code: 6011",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 2.0,
+      "date": "2023-12-15",
+      "description": "W/D NON-ACU ATM FEE 000000000219050 Kroozin Market 249 Cu Houston TX NH106061 Merchant Category Code: 6011",
+      "guid": "a97yY3Xkq6HrZmwPgpJmirN17XKmR8Hy8AZ9V",
+      "type": "DEBIT",
+      "category": "[\"Bank Fees\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "W/D at ATM #157038 ALI08052 ROADTRAC# 9 -LI08052 HOUSTON TX ALI08052 Merchant Category Code: 6011",
+      "accountGuid": "wrvxBX9wNLuQaq7KdRxqUBbqgDqr76fRLQzEO",
+      "amount": 143.0,
+      "date": "2023-12-08",
+      "description": "W/D at ATM #157038 ALI08052 ROADTRAC# 9 -LI08052 HOUSTON TX ALI08052 Merchant Category Code: 6011",
+      "guid": "a97yY3Xkq6HrZmwPgpJmirN17XKmR8Hy8AZ7m",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "Recurring W/D Debit Card LIFEMD 5882 BOLSA AVE SUITE 23 Merchant Category Code: 8011",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 15.0,
+      "date": "2023-11-17",
+      "description": "Recurring W/D Debit Card LIFEMD 5882 BOLSA AVE SUITE 23 Merchant Category Code: 8011",
+      "guid": "a97yY3Xkq6HrZmwPgpJmirN17XKmR8Hy8AZ4X",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "Recurring W/D Debit Card PLANTSBASICALLY.COM 4167 Iowa Street SAN D Merchant Category Code: 5499",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 56.37,
+      "date": "2023-11-14",
+      "description": "Recurring W/D Debit Card PLANTSBASICALLY.COM 4167 Iowa Street SAN D Merchant Category Code: 5499",
+      "guid": "9Z3nyYz1LDcrvNJ5MLeNibVgq380X4fPA9dyQ",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Arts and Crafts\"]"
+    },
+    {
+      "originalDescription": "Recurring W/D Debit Card PLANTSBASICALLY.COM 4167 Iowa Street SAN D Merchant Category Code: 5499",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 56.37,
+      "date": "2023-12-14",
+      "description": "Recurring W/D Debit Card PLANTSBASICALLY.COM 4167 Iowa Street SAN D Merchant Category Code: 5499",
+      "guid": "9Z3nyYz1LDcrvNJ5MLeNibVgq380X4fPA9dPn",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Arts and Crafts\"]"
+    },
+    {
+      "originalDescription": "W/D Debit Card CANTEEN VENDING 11600 BIG JOHN KATY TX Merchant Category Code: 5814",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 3.0,
+      "date": "2023-10-27",
+      "description": "W/D Debit Card CANTEEN VENDING 11600 BIG JOHN KATY TX Merchant Category Code: 5814",
+      "guid": "9Z3nyYz1LDcrvNJ5MLeNibVgq380X4fPA9d4y",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\"]"
+    },
+    {
+      "originalDescription": "W/D POS THOMPSON'S FISH CAMP- 213 SIMMS RD BAYTOWN TX Merchant Category Code: 5941",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 40.05,
+      "date": "2023-11-17",
+      "description": "W/D POS THOMPSON'S FISH CAMP- 213 SIMMS RD BAYTOWN TX Merchant Category Code: 5941",
+      "guid": "88BO3Y7D6LTq5oQBbgkoFKX3NP6A1YcmdEyZD",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "W/D Debit Card CANTEEN VENDING 9500 I-10 EAST KATY TX Merchant Category Code: 5814",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 2.7,
+      "date": "2023-12-01",
+      "description": "W/D Debit Card CANTEEN VENDING 9500 I-10 EAST KATY TX Merchant Category Code: 5814",
+      "guid": "88BO3Y7D6LTq5oQBbgkoFKX3NP6A1YcmdEyKD",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\"]"
+    },
+    {
+      "originalDescription": "W/D Debit Card LA PORTE TRAVEL PLAZ 9119 HWY 225 V TX Merchant Category Code: 5541",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 5.5,
+      "date": "2023-12-14",
+      "description": "W/D Debit Card LA PORTE TRAVEL PLAZ 9119 HWY 225 V TX Merchant Category Code: 5541",
+      "guid": "88BO3Y7D6LTq5oQBbgkoFKX3NP6A1YcmdEyJp",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "W/D POS CN TRAVEL PLAZA DURANT OK Merchant Category Code: 5542",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 30.87,
+      "date": "2023-10-28",
+      "description": "W/D POS CN TRAVEL PLAZA DURANT OK Merchant Category Code: 5542",
+      "guid": "88BO3Y7D6LTq5oQBbgkoFKX3NP6A1YcmdEyBy",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "McDonald's",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 8.85,
+      "date": "2023-11-29",
+      "description": "McDonald's",
+      "guid": "7JqZBYnLw6cAK1NqYnx1COgDYkBXwRc4ynQzx",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "W/D POS O'REILLY 440 HOUSTON SD Merchant Category Code: 5533",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 34.38,
+      "date": "2023-11-15",
+      "description": "W/D POS O'REILLY 440 HOUSTON SD Merchant Category Code: 5533",
+      "guid": "7JqZBYnLw6cAK1NqYnx1COgDYkBXwRc4ynQYx",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "W/D Faster Payments ZEL* Samansa Hurd J2JL000LeXQB",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 250.0,
+      "date": "2023-10-27",
+      "description": "W/D Faster Payments ZEL* Samansa Hurd J2JL000LeXQB",
+      "guid": "7JqZBYnLw6cAK1NqYnx1COgDYkBXwRc4ynQEz",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "Kroger",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 39.37,
+      "date": "2024-01-10",
+      "description": "Kroger",
+      "guid": "eE9BYAvj6PH1we7yEN0eI17oeLqqxOILKdm3p",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Amazon",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 35.99,
+      "date": "2024-01-14",
+      "description": "Amazon",
+      "guid": "eE9BYAvj6PH1we7yEN0eI17oeLqqxOILKdmg1",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Digital Purchase\"]"
+    },
+    {
+      "originalDescription": "Deposit Digital Banking Transfer From Share 0001 REF # 2671527",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 400.0,
+      "date": "2023-12-26",
+      "description": "Deposit Digital Banking Transfer From Share 0001 REF # 2671527",
+      "guid": "eE9BYAvj6PH1we7yEN0eI17oeLqqxOILKdmZp",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "Boston Market",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 29.75,
+      "date": "2023-12-14",
+      "description": "Boston Market",
+      "guid": "7JqZBYnLw6cAK1NqYnx1COgDYkBXwRc4ynQ4V",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Chevron",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 12.73,
+      "date": "2023-12-07",
+      "description": "Chevron",
+      "guid": "6xP9qYN6dwSMeDBxo9rDCdPvr4NX0LFV3XaVj",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "Amazon",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 205.66,
+      "date": "2023-10-25",
+      "description": "Amazon",
+      "guid": "eE9BYAvj6PH1we7yEN0eI17vdJAQOLuLw3d7Q",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Digital Purchase\"]"
+    },
+    {
+      "originalDescription": "W/D Debit Card CRAFTY CRAB HOUSTON 17460 NORTHWEST FREEWA Merchant Category Code: 5812",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 146.09,
+      "date": "2023-11-11",
+      "description": "W/D Debit Card CRAFTY CRAB HOUSTON 17460 NORTHWEST FREEWA Merchant Category Code: 5812",
+      "guid": "eE9BYAvj6PH1we7yEN0eI17vdJAQOLuLw3dab",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "W/D Debit Card ACADEMY SPORTS #172 7650FM 1960 W HOUSTON Merchant Category Code: 5941",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 43.29,
+      "date": "2023-11-25",
+      "description": "W/D Debit Card ACADEMY SPORTS #172 7650FM 1960 W HOUSTON Merchant Category Code: 5941",
+      "guid": "eE9BYAvj6PH1we7yEN0eI17vdJAQOLuLw3deb",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Sporting Goods\"]"
+    },
+    {
+      "originalDescription": "W/D Debit Card TikTok Shop 250 Bryant Street Mountain Vie Merchant Category Code: 5399",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 21.96,
+      "date": "2023-12-21",
+      "description": "W/D Debit Card TikTok Shop 250 Bryant Street Mountain Vie Merchant Category Code: 5399",
+      "guid": "eE9BYAvj6PH1we7yEN0eI17vdJAQOLuLw3dkg",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Clothing and Accessories\",\"Women\\u0027s Store\"]"
+    },
+    {
+      "originalDescription": "Recurring W/D Debit Card THECUT INC* 4EIPTF0B 15807 Aberdeen Trails Merchant Category Code: 7230",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 46.95,
+      "date": "2023-12-08",
+      "description": "Recurring W/D Debit Card THECUT INC* 4EIPTF0B 15807 Aberdeen Trails Merchant Category Code: 7230",
+      "guid": "eE9BYAvj6PH1we7yEN0eI17vdJAQOLuLw3dLb",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "W/D Debit Card CANTEEN VENDING 11600 BIG JOHN KATY TX Merchant Category Code: 5814",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 1.1,
+      "date": "2023-12-12",
+      "description": "W/D Debit Card CANTEEN VENDING 11600 BIG JOHN KATY TX Merchant Category Code: 5814",
+      "guid": "eE9BYAvj6PH1we7yEN0eI17vdJAQOLuLw3dLg",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\"]"
+    },
+    {
+      "originalDescription": "Whataburger",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 9.95,
+      "date": "2023-11-04",
+      "description": "Whataburger",
+      "guid": "6xP9qYN6dwSMeDBxo9rDCdPvr4NX0LFV3Xame",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "Kroger",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 3.99,
+      "date": "2023-11-22",
+      "description": "Kroger",
+      "guid": "6xP9qYN6dwSMeDBxo9rDCdPvr4NX0LFV3Xa9j",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "W/D Debit Card CASH APP*JOE ESQUIVEL 1455 Market Street S Merchant Category Code: 4829",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 5.0,
+      "date": "2023-11-16",
+      "description": "W/D Debit Card CASH APP*JOE ESQUIVEL 1455 Market Street S Merchant Category Code: 4829",
+      "guid": "5a19PYew7dcmrbjazJRbfqJQZ39BDmfbqnBV8",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "Deposit Dividend 0.010% Annual Percentage Yield Earned 0.01% from 11/01/23 through 11/30/23",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 0.07,
+      "date": "2023-12-01",
+      "description": "Deposit Dividend 0.010% Annual Percentage Yield Earned 0.01% from 11/01/23 through 11/30/23",
+      "guid": "5a19PYew7dcmrbjazJRbfqJQZ39BDmfbqnBd8",
+      "type": "CREDIT",
+      "category": "[\"Interest\",\"Interest Earned\"]"
+    },
+    {
+      "originalDescription": "W/D POS O'REILLY 460 HOUSTON SD Merchant Category Code: 5533",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 22.48,
+      "date": "2023-12-14",
+      "description": "W/D POS O'REILLY 460 HOUSTON SD Merchant Category Code: 5533",
+      "guid": "5a19PYew7dcmrbjazJRbfqJQZ39BDmfbqnBb9",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "W/D Debit Card OIL CHANGE EXPRESS 1323 W Mount Houston Rd Merchant Category Code: 7538",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 82.67,
+      "date": "2023-10-28",
+      "description": "W/D Debit Card OIL CHANGE EXPRESS 1323 W Mount Houston Rd Merchant Category Code: 7538",
+      "guid": "5a19PYew7dcmrbjazJRbfqJQZ39BDmfbqnB1N",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Automotive\",\"Maintenance and Repair\"]"
+    },
+    {
+      "originalDescription": "Kroger",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 95.93,
+      "date": "2024-01-22",
+      "description": "Kroger",
+      "guid": "4mDz1Y7d5xSYbRgaXwQRI76RMmLL1Ai1pkP4B",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "W/D Digital Banking Transfer To Loan 0006 REF # 2725410",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 650.0,
+      "date": "2024-01-18",
+      "description": "W/D Digital Banking Transfer To Loan 0006 REF # 2725410",
+      "guid": "EwnY8PArZjCKx1mrJ7g1FJXb30eeD6CZDpmb5",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]"
+    },
+    {
+      "originalDescription": "Recurring W/D Debit Card APPLE.COM/BILL ONE APPLE PARK WAY 866-712- Merchant Category Code: 5818",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 10.81,
+      "date": "2024-01-12",
+      "description": "Recurring W/D Debit Card APPLE.COM/BILL ONE APPLE PARK WAY 866-712- Merchant Category Code: 5818",
+      "guid": "EwnY8PArZjCKx1mrJ7g1FJXb30eeD6CZDpmo4",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Digital Purchase\"]"
+    },
+    {
+      "originalDescription": "Amazon",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 43.29,
+      "date": "2023-12-28",
+      "description": "Amazon",
+      "guid": "EwnY8PArZjCKx1mrJ7g1FJXb30eeD6CZDpmX4",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Digital Purchase\"]"
+    },
+    {
+      "originalDescription": "W/D NON-ACU ATM FEE ALI08052 ROADTRAC# 9 -LI08052 HOUSTON TX ALI08052 Merchant Category Code: 6011",
+      "accountGuid": "wrvxBX9wNLuQaq7KdRxqUBbqgDqr76fRLQzEO",
+      "amount": 2.0,
+      "date": "2023-12-08",
+      "description": "W/D NON-ACU ATM FEE ALI08052 ROADTRAC# 9 -LI08052 HOUSTON TX ALI08052 Merchant Category Code: 6011",
+      "guid": "4mDz1Y7d5xSYbRgaXwQRI7694nN8Ams1XokRa",
+      "type": "DEBIT",
+      "category": "[\"Bank Fees\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "W/D POS THOMPSON'S FISH CAMP- 213 SIMMS RD BAYTOWN TX Merchant Category Code: 5941",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 22.0,
+      "date": "2023-11-18",
+      "description": "W/D POS THOMPSON'S FISH CAMP- 213 SIMMS RD BAYTOWN TX Merchant Category Code: 5941",
+      "guid": "4mDz1Y7d5xSYbRgaXwQRI7694nN8Ams1XokqY",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "W/D Debit Card TIKTOK SHOP 5800 Bristol Parkway CULVER CI Merchant Category Code: 5399",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 50.36,
+      "date": "2023-12-15",
+      "description": "W/D Debit Card TIKTOK SHOP 5800 Bristol Parkway CULVER CI Merchant Category Code: 5399",
+      "guid": "4mDz1Y7d5xSYbRgaXwQRI7694nN8Ams1XokJZ",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "Chevron",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 2.49,
+      "date": "2023-12-01",
+      "description": "Chevron",
+      "guid": "4mDz1Y7d5xSYbRgaXwQRI7694nN8Ams1XokEY",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "Deposit Dividend 0.010% Annual Percentage Yield Earned 0.01% from 10/01/23 through 10/31/23",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 0.08,
+      "date": "2023-11-01",
+      "description": "Deposit Dividend 0.010% Annual Percentage Yield Earned 0.01% from 10/01/23 through 10/31/23",
+      "guid": "4mDz1Y7d5xSYbRgaXwQRI7694nN8Ams1Xok8v",
+      "type": "CREDIT",
+      "category": "[\"Interest\",\"Interest Earned\"]"
+    },
+    {
+      "originalDescription": "Spotify",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 11.9,
+      "date": "2023-11-02",
+      "description": "Spotify",
+      "guid": "3rL9DYvMZauo84DpaxN4C91qDRMPzwsz9qKQy",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Subscription\"]"
+    },
+    {
+      "originalDescription": "W/D Debit Card TST* K TEA BOBA 10978 Grant Road Houston T Merchant Category Code: 5812",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 34.78,
+      "date": "2023-11-21",
+      "description": "W/D Debit Card TST* K TEA BOBA 10978 Grant Road Houston T Merchant Category Code: 5812",
+      "guid": "3rL9DYvMZauo84DpaxN4C91qDRMPzwsz9qKLZ",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Food and Beverage Store\"]"
+    },
+    {
+      "originalDescription": "W/D POS H-E-B #099 HOUSTON TX Merchant Category Code: 5411",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 87.38,
+      "date": "2023-12-17",
+      "description": "W/D POS H-E-B #099 HOUSTON TX Merchant Category Code: 5411",
+      "guid": "3rL9DYvMZauo84DpaxN4C91qDRMPzwsz9qK7o",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "W/D Debit Card CANTEEN VENDING 11600 BIG JOHN KATY TX Merchant Category Code: 5814",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 1.1,
+      "date": "2023-12-05",
+      "description": "W/D Debit Card CANTEEN VENDING 11600 BIG JOHN KATY TX Merchant Category Code: 5814",
+      "guid": "3rL9DYvMZauo84DpaxN4C91qDRMPzwsz9qK0Z",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\"]"
+    },
+    {
+      "originalDescription": "Kroger",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 112.8,
+      "date": "2023-11-22",
+      "description": "Kroger",
+      "guid": "10w96YNV5rsX503pwAL0hg7EXez8b1UoXxmqD",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "W/D POS JOC STOP 24 PASADENA TX Merchant Category Code: 5541",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 4.7,
+      "date": "2023-12-06",
+      "description": "W/D POS JOC STOP 24 PASADENA TX Merchant Category Code: 5541",
+      "guid": "10w96YNV5rsX503pwAL0hg7EXez8b1UoXxmoD",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "W/D POS O'REILLY 514 HOUSTON TX Merchant Category Code: 5533",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 23.8,
+      "date": "2023-11-03",
+      "description": "W/D POS O'REILLY 514 HOUSTON TX Merchant Category Code: 5533",
+      "guid": "10w96YNV5rsX503pwAL0hg7EXez8b1UoXxmEX",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "W/D Debit Card LA PORTE TRAVEL PLAZ 9119 HWY 225 V TX Merchant Category Code: 5541",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 4.74,
+      "date": "2023-12-15",
+      "description": "W/D Debit Card LA PORTE TRAVEL PLAZ 9119 HWY 225 V TX Merchant Category Code: 5541",
+      "guid": "0vdxwY59Kjcj6v7dON5vHbq96yZLenfxb4rVJ",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "Kroger",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 7.57,
+      "date": "2023-11-01",
+      "description": "Kroger",
+      "guid": "0vdxwY59Kjcj6v7dON5vHbq96yZLenfxb4ron",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "W/D Digital Banking Transfer To Loan 0006 REF # 2585942",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 685.14,
+      "date": "2023-11-19",
+      "description": "W/D Digital Banking Transfer To Loan 0006 REF # 2585942",
+      "guid": "0vdxwY59Kjcj6v7dON5vHbq96yZLenfxb4rJ1",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]"
+    },
+    {
+      "originalDescription": "W/D at ATM #700683 000000000219050 Kroozin Market 249 Cu Houston TX NH106061 Merchant Category Code: 6011",
+      "accountGuid": "wrvxBX9wNLuQaq7KdRxqUBbqgDqr76fRLQzEO",
+      "amount": 202.99,
+      "date": "2023-12-15",
+      "description": "W/D at ATM #700683 000000000219050 Kroozin Market 249 Cu Houston TX NH106061 Merchant Category Code: 6011",
+      "guid": "0vdxwY59Kjcj6v7dON5vHbq96yZLenfxb4rAQ",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "W/D POS H-E-B #099 HOUSTON TX Merchant Category Code: 5411",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 51.97,
+      "date": "2023-12-02",
+      "description": "W/D POS H-E-B #099 HOUSTON TX Merchant Category Code: 5411",
+      "guid": "0vdxwY59Kjcj6v7dON5vHbq96yZLenfxb4r51",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "W/D Debit Card AMERICAN FOOD N VENDI 100 DEERFIELD LN STE Merchant Category Code: 5814",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 1.65,
+      "date": "2024-01-19",
+      "description": "W/D Debit Card AMERICAN FOOD N VENDI 100 DEERFIELD LN STE Merchant Category Code: 5814",
+      "guid": "bVZqYyvABLsBeV9K3gLVu3eyN7wwvZhxYqEe6",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\"]"
+    },
+    {
+      "originalDescription": "Amazon Music",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 6.48,
+      "date": "2024-01-21",
+      "description": "Amazon Music",
+      "guid": "a97yY3Xkq6HrZmwPgpJmirNAP833MRtyMZJOE",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Music, Video and DVD\"]"
+    },
+    {
+      "originalDescription": "W/D ACH AFFIRM INC TYPE: AFFIRM PAY ID: 0000317218 CO: AFFIRM INC NAME: Jerald *Davis ACH Trace Number: 021000025432975",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 19.3,
+      "date": "2024-01-19",
+      "description": "W/D ACH AFFIRM INC TYPE: AFFIRM PAY ID: 0000317218 CO: AFFIRM INC NAME: Jerald *Davis ACH Trace Number: 021000025432975",
+      "guid": "9Z3nyYz1LDcrvNJ5MLeNibV7D4eeJXIPBdeq6",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]"
+    },
+    {
+      "originalDescription": "Kroger",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 27.38,
+      "date": "2024-01-23",
+      "description": "Kroger",
+      "guid": "88BO3Y7D6LTq5oQBbgkoFv97YQnQEatmMJqAX",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "W/D ACH AMERICANFIRSTFIN TYPE: 8557211188 ID: 1462541785 CO: AMERICANFIRSTFIN ACH Trace Number: 096016934699221",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 118.56,
+      "date": "2023-11-24",
+      "description": "W/D ACH AMERICANFIRSTFIN TYPE: 8557211188 ID: 1462541785 CO: AMERICANFIRSTFIN ACH Trace Number: 096016934699221",
+      "guid": "dMnqYk40w1CVQ7930Z57IVJPb3EQ1eH8dab1D",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "W/D POS H-E-B #099 HOUSTON TX Merchant Category Code: 5411",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 172.59,
+      "date": "2023-10-26",
+      "description": "W/D POS H-E-B #099 HOUSTON TX Merchant Category Code: 5411",
+      "guid": "EwnY8PArZjCKx1mrJ7g1FJXqnOp760HZgop8v",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Kroger",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 6.91,
+      "date": "2024-01-20",
+      "description": "Kroger",
+      "guid": "88BO3Y7D6LTq5oQBbgkoFKXepYqqD1cmnyb4o",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "W/D Debit Card Prime Video Channels 440 Terry Ave N amzn. Merchant Category Code: 5818",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 7.57,
+      "date": "2023-11-09",
+      "description": "W/D Debit Card Prime Video Channels 440 Terry Ave N amzn. Merchant Category Code: 5818",
+      "guid": "EwnY8PArZjCKx1mrJ7g1FJXqnOp760HZgopEv",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Entertainment\"]"
+    },
+    {
+      "originalDescription": "Bath & Body Works",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 59.38,
+      "date": "2023-12-22",
+      "description": "Bath & Body Works",
+      "guid": "EwnY8PArZjCKx1mrJ7g1FJXqnOp760HZgopJY",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Beauty Products\"]"
+    },
+    {
+      "originalDescription": "W/D ACH AMERICANFIRSTFIN TYPE: 8557211188 ID: 1462541785 CO: AMERICANFIRSTFIN ACH Trace Number: 096016938714624",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 118.56,
+      "date": "2024-01-19",
+      "description": "W/D ACH AMERICANFIRSTFIN TYPE: 8557211188 ID: 1462541785 CO: AMERICANFIRSTFIN ACH Trace Number: 096016938714624",
+      "guid": "7JqZBYnLw6cAK1NqYnx1COg4jR00Nwt4LQVJ0",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "Regal Cinemas",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 22.56,
+      "date": "2023-12-10",
+      "description": "Regal Cinemas",
+      "guid": "dMnqYk40w1CVQ7930Z57IVJPb3EQ1eH8dab8J",
+      "type": "DEBIT",
+      "category": "[\"Recreation\",\"Arts and Entertainment\"]"
+    },
+    {
+      "originalDescription": "TIKTOK SHOP Pending credit/return for $55.00 on card 6316",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 0.0,
+      "date": "2023-11-10",
+      "description": "TIKTOK SHOP Pending credit/return for $55.00 on card 6316",
+      "guid": "dMnqYk40w1CVQ7930Z57IVJPb3EQ1eH8dabDD",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "W/D Debit Card CASH APP*TJ DAVIS 1455 Market Street San F Merchant Category Code: 4829",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 12.0,
+      "date": "2024-01-20",
+      "description": "W/D Debit Card CASH APP*TJ DAVIS 1455 Market Street San F Merchant Category Code: 4829",
+      "guid": "5a19PYew7dcmrbjazJRbfqJYOm66PDtbaBjx7",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "W/D Debit Card ROADTRAC #9 2710 WEST MOUNT HOUSTON HOUSTO Merchant Category Code: 5541",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 5.5,
+      "date": "2023-12-09",
+      "description": "W/D Debit Card ROADTRAC #9 2710 WEST MOUNT HOUSTON HOUSTO Merchant Category Code: 5541",
+      "guid": "EwnY8PArZjCKx1mrJ7g1FJXqnOp760HZgopZV",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "W/D Debit Card Prime Video Channels 440 Terry Ave N amzn. Merchant Category Code: 5818",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 12.98,
+      "date": "2023-12-13",
+      "description": "W/D Debit Card Prime Video Channels 440 Terry Ave N amzn. Merchant Category Code: 5818",
+      "guid": "EwnY8PArZjCKx1mrJ7g1FJXqnOp760HZgopZY",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Entertainment\"]"
+    },
+    {
+      "originalDescription": "Recurring W/D Debit Card THECUT INC* WHMUT1FI 15807 Aberdeen Trails Merchant Category Code: 7230",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 48.15,
+      "date": "2023-12-30",
+      "description": "Recurring W/D Debit Card THECUT INC* WHMUT1FI 15807 Aberdeen Trails Merchant Category Code: 7230",
+      "guid": "gwZdY094DBCPLea9bMEeIPnAZ1VVQrHMVqejn",
+      "type": "DEBIT",
+      "category": "[\"Recreation\"]"
+    },
+    {
+      "originalDescription": "Kroger",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 23.34,
+      "date": "2024-01-14",
+      "description": "Kroger",
+      "guid": "gwZdY094DBCPLea9bMEeIPnAZ1VVQrHMVqekn",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "W/D Debit Card TRIPLE J'S SMOKEHOUSE 6715 HOMESTEAD RD HO Merchant Category Code: 5814",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 18.94,
+      "date": "2024-01-19",
+      "description": "W/D Debit Card TRIPLE J'S SMOKEHOUSE 6715 HOMESTEAD RD HO Merchant Category Code: 5814",
+      "guid": "gwZdY094DBCPLea9bMEeIPnAZ1VVQrHMVqekq",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "W/D Debit Card ORION #1 LIQUOR 13354 JONES RD HOUSTON TX Merchant Category Code: 5921",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 70.32,
+      "date": "2023-12-23",
+      "description": "W/D Debit Card ORION #1 LIQUOR 13354 JONES RD HOUSTON TX Merchant Category Code: 5921",
+      "guid": "gwZdY094DBCPLea9bMEeIPnwqOzLr1CMgjq3z",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Food and Beverage Store\"]"
+    },
+    {
+      "originalDescription": "W/D POS MOTION MARKET HOUSTON TX Merchant Category Code: 5541",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 19.57,
+      "date": "2023-10-27",
+      "description": "W/D POS MOTION MARKET HOUSTON TX Merchant Category Code: 5541",
+      "guid": "gwZdY094DBCPLea9bMEeIPnwqOzLr1CMgjqaM",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Popeyes",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 28.13,
+      "date": "2023-11-30",
+      "description": "Popeyes",
+      "guid": "gwZdY094DBCPLea9bMEeIPnwqOzLr1CMgjqbY",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "T-Mobile",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 191.14,
+      "date": "2023-12-14",
+      "description": "T-Mobile",
+      "guid": "gwZdY094DBCPLea9bMEeIPnwqOzLr1CMgjqMz",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Telecommunication Services\"]"
+    },
+    {
+      "originalDescription": "Amazon",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 33.95,
+      "date": "2023-12-15",
+      "description": "Amazon",
+      "guid": "jDwLz40JqKskP9Kjd8N9IkzMD6XPgNfQLnR1m",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Digital Purchase\"]"
+    },
+    {
+      "originalDescription": "W/D Debit Card SOTOS CANTINA 10609 GRANT RD HOUSTON TX Merchant Category Code: 5812",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 40.85,
+      "date": "2023-11-19",
+      "description": "W/D Debit Card SOTOS CANTINA 10609 GRANT RD HOUSTON TX Merchant Category Code: 5812",
+      "guid": "jDwLz40JqKskP9Kjd8N9IkzMD6XPgNfQLnR3p",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "W/D Faster Payments ZEL* Jerald Davis J2JA000LmBHr",
+      "accountGuid": "wrvxBX9wNLuQaq7KdRxqUBbqgDqr76fRLQzEO",
+      "amount": 230.0,
+      "date": "2023-12-13",
+      "description": "W/D Faster Payments ZEL* Jerald Davis J2JA000LmBHr",
+      "guid": "jDwLz40JqKskP9Kjd8N9IkzMD6XPgNfQLnReP",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "W/D ACH WEX INC TYPE: FLEET DEBI ID: 0841425616 CO: WEX INC ACH Trace Number: 071000289818474",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 140.0,
+      "date": "2023-11-01",
+      "description": "W/D ACH WEX INC TYPE: FLEET DEBI ID: 0841425616 CO: WEX INC ACH Trace Number: 071000289818474",
+      "guid": "jDwLz40JqKskP9Kjd8N9IkzMD6XPgNfQLnRmy",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]"
+    },
+    {
+      "originalDescription": "Recurring W/D Debit Card PEARLAND BOAT & RV STO 3600 OLD CHOCOLATE Merchant Category Code: 4225",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 100.0,
+      "date": "2023-12-02",
+      "description": "Recurring W/D Debit Card PEARLAND BOAT & RV STO 3600 OLD CHOCOLATE Merchant Category Code: 4225",
+      "guid": "jDwLz40JqKskP9Kjd8N9IkzMD6XPgNfQLnRYp",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Food and Beverage Store\"]"
+    },
+    {
+      "originalDescription": "Deposit Dividend 0.100% Annual Percentage Yield Earned 0.08% from 12/01/23 through 12/31/23",
+      "accountGuid": "wrvxBX9wNLuQaq7KdRxqUBbqgDqr76fRLQzEO",
+      "amount": 0.05,
+      "date": "2024-01-01",
+      "description": "Deposit Dividend 0.100% Annual Percentage Yield Earned 0.08% from 12/01/23 through 12/31/23",
+      "guid": "jDwLz40JqKskP9Kjd8N9IkzqVN338ghQoRg7n",
+      "type": "CREDIT",
+      "category": "[\"Interest\",\"Interest Earned\"]"
+    },
+    {
+      "originalDescription": "Deposit ACH ARCTIC TESTING TYPE: ATI 010524 ID: 4842147913 CO: ARCTIC TESTING ACH Trace Number: 091000010610392",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 2724.25,
+      "date": "2024-01-04",
+      "description": "Deposit ACH ARCTIC TESTING TYPE: ATI 010524 ID: 4842147913 CO: ARCTIC TESTING ACH Trace Number: 091000010610392",
+      "guid": "jDwLz40JqKskP9Kjd8N9IkzqVN338ghQoRgn1",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Payroll\"]"
+    },
+    {
+      "originalDescription": "Kroger",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 3.23,
+      "date": "2023-11-17",
+      "description": "Kroger",
+      "guid": "JPYwgKA85MujL7pOAn87HAND7mXaZVHAY4bkj",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Recurring W/D Debit Card YouTube TV 1600 AMPHITHEATRE PKWY Merchant Category Code: 5818",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 78.28,
+      "date": "2023-10-30",
+      "description": "Recurring W/D Debit Card YouTube TV 1600 AMPHITHEATRE PKWY Merchant Category Code: 5818",
+      "guid": "JPYwgKA85MujL7pOAn87HAND7mXaZVHAY4bq9",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Digital Purchase\"]"
+    },
+    {
+      "originalDescription": "Deposit POS #310123 CASH APP*JERALD DAVIS* San Francisco CA Merchant Category Code: 6536",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 24.31,
+      "date": "2023-12-01",
+      "description": "Deposit POS #310123 CASH APP*JERALD DAVIS* San Francisco CA Merchant Category Code: 6536",
+      "guid": "JPYwgKA85MujL7pOAn87HAND7mXaZVHAY4bQj",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "W/D Debit Card AFFIRM.COM PAYMENTS 650 California St.12th Merchant Category Code: 5999",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 48.04,
+      "date": "2023-12-15",
+      "description": "W/D Debit Card AFFIRM.COM PAYMENTS 650 California St.12th Merchant Category Code: 5999",
+      "guid": "JPYwgKA85MujL7pOAn87HAND7mXaZVHAY4bXp",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]"
+    },
+    {
+      "originalDescription": "Deposit Dividend 0.010% Annual Percentage Yield Earned 0.01% from 12/01/23 through 12/31/23",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 0.06,
+      "date": "2024-01-01",
+      "description": "Deposit Dividend 0.010% Annual Percentage Yield Earned 0.01% from 12/01/23 through 12/31/23",
+      "guid": "JPYwgKA85MujL7pOAn87HANJqVQQ9ZhARbJ4v",
+      "type": "CREDIT",
+      "category": "[\"Interest\",\"Interest Earned\"]"
+    },
+    {
+      "originalDescription": "Recurring W/D Debit Card THECUT INC* VEY5JBGA 15807 Aberdeen Trails Merchant Category Code: 7230",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 48.15,
+      "date": "2024-01-20",
+      "description": "Recurring W/D Debit Card THECUT INC* VEY5JBGA 15807 Aberdeen Trails Merchant Category Code: 7230",
+      "guid": "JPYwgKA85MujL7pOAn87HANJqVQQ9ZhARbJDr",
+      "type": "DEBIT",
+      "category": "[\"Recreation\"]"
+    },
+    {
+      "originalDescription": "W/D ACH FREEDOM TYPE: MTG PYMTS ID: 1223039688 CO: FREEDOM NAME: JEROLD D DAVIS ACH Trace Number: 041001031946083",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 1690.91,
+      "date": "2023-11-02",
+      "description": "W/D ACH FREEDOM TYPE: MTG PYMTS ID: 1223039688 CO: FREEDOM NAME: JEROLD D DAVIS ACH Trace Number: 041001031946083",
+      "guid": "k16DYa08BkCpqYOnvwQYHpPgRwNQe7HpqXR0y",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]"
+    },
+    {
+      "originalDescription": "W/D Debit Card EXECUTIVE VIDEO 14002 NORTHWEST FWY HOUSTO Merchant Category Code: 7829",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 34.53,
+      "date": "2023-12-16",
+      "description": "W/D Debit Card EXECUTIVE VIDEO 14002 NORTHWEST FWY HOUSTO Merchant Category Code: 7829",
+      "guid": "k16DYa08BkCpqYOnvwQYHpPgRwNQe7HpqXR33",
+      "type": "DEBIT",
+      "category": "[\"Shops\"]"
+    },
+    {
+      "originalDescription": "Jack in the Box",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 25.27,
+      "date": "2023-12-02",
+      "description": "Jack in the Box",
+      "guid": "k16DYa08BkCpqYOnvwQYHpPgRwNQe7HpqXRDM",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "Whataburger",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 18.59,
+      "date": "2023-11-20",
+      "description": "Whataburger",
+      "guid": "k16DYa08BkCpqYOnvwQYHpPgRwNQe7HpqXREM",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "W/D Digital Banking Transfer To Share 0008 REF # 2658314",
+      "accountGuid": "wrvxBX9wNLuQaq7KdRxqUBbqgDqr76fRLQzEO",
+      "amount": 200.0,
+      "date": "2023-12-20",
+      "description": "W/D Digital Banking Transfer To Share 0008 REF # 2658314",
+      "guid": "k16DYa08BkCpqYOnvwQYHpPgRwNQe7HpqXRoX",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "W/D ACH AMERICANFIRSTFIN TYPE: 8557211188 ID: 1462541785 CO: AMERICANFIRSTFIN ACH Trace Number: 096016935452689",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 118.56,
+      "date": "2024-01-05",
+      "description": "W/D ACH AMERICANFIRSTFIN TYPE: 8557211188 ID: 1462541785 CO: AMERICANFIRSTFIN ACH Trace Number: 096016935452689",
+      "guid": "k16DYa08BkCpqYOnvwQYHpPj47996efpYRzXR",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "W/D Debit Card SHIPLEY DO-NUTS - FC51 9557 FM 1960 HOUSTO Merchant Category Code: 5814",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 9.7,
+      "date": "2024-01-06",
+      "description": "W/D Debit Card SHIPLEY DO-NUTS - FC51 9557 FM 1960 HOUSTO Merchant Category Code: 5814",
+      "guid": "Kq867k5ZEgcrQEoOMYqEiBArkZbb8VILbQagd",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Food and Beverage Store\"]"
+    },
+    {
+      "originalDescription": "Smoothie King",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 7.57,
+      "date": "2023-12-16",
+      "description": "Smoothie King",
+      "guid": "Kq867k5ZEgcrQEoOMYqEiBAXmOxYVZULpgQ1m",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\"]"
+    },
+    {
+      "originalDescription": "W/D at ATM #171152 A365767 EXPRESS FUEL-365767 HOUSTON TX A365767 Merchant Category Code: 6011",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 63.29,
+      "date": "2023-11-02",
+      "description": "W/D at ATM #171152 A365767 EXPRESS FUEL-365767 HOUSTON TX A365767 Merchant Category Code: 6011",
+      "guid": "Kq867k5ZEgcrQEoOMYqEiBAXmOxYVZULpgQAg",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "W/D Debit Card MARCOS PIZZA - 5028 16949 N ELDRIDGE PKWY Merchant Category Code: 5812",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 56.36,
+      "date": "2023-11-20",
+      "description": "W/D Debit Card MARCOS PIZZA - 5028 16949 N ELDRIDGE PKWY Merchant Category Code: 5812",
+      "guid": "Kq867k5ZEgcrQEoOMYqEiBAXmOxYVZULpgQN3",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "Comcast",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 81.11,
+      "date": "2023-12-04",
+      "description": "Comcast",
+      "guid": "Kq867k5ZEgcrQEoOMYqEiBAXmOxYVZULpgQv3",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Cable\"]"
+    },
+    {
+      "originalDescription": "W/D ACH Synchrony Bank TYPE: CC PYMT ID: 9856794001 CO: Synchrony Bank ACH Trace Number: 021000029448948",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 79.0,
+      "date": "2024-01-08",
+      "description": "W/D ACH Synchrony Bank TYPE: CC PYMT ID: 9856794001 CO: Synchrony Bank ACH Trace Number: 021000029448948",
+      "guid": "LB8L9Ad5kMs4LYvxkNzYH3VMqXJJz6hdQ0bX3",
+      "type": "DEBIT",
+      "category": "[\"Payment\",\"Credit Card\"]"
+    },
+    {
+      "originalDescription": "W/D Debit Card TAKE 5 #82 3520 HWY 6 SOUTH HOUSTON TX Merchant Category Code: 7538",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 224.27,
+      "date": "2023-11-04",
+      "description": "W/D Debit Card TAKE 5 #82 3520 HWY 6 SOUTH HOUSTON TX Merchant Category Code: 7538",
+      "guid": "LB8L9Ad5kMs4LYvxkNzYH3VPB5ZN6XHdpX0aw",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "W/D Debit Card CASH APP*JOE ESQUIVEL 1455 Market Street S Merchant Category Code: 4829",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 5.0,
+      "date": "2023-12-07",
+      "description": "W/D Debit Card CASH APP*JOE ESQUIVEL 1455 Market Street S Merchant Category Code: 4829",
+      "guid": "LB8L9Ad5kMs4LYvxkNzYH3VPB5ZN6XHdpX0dR",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "Amazon",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 40.01,
+      "date": "2023-12-19",
+      "description": "Amazon",
+      "guid": "LB8L9Ad5kMs4LYvxkNzYH3VPB5ZN6XHdpX0m5",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Digital Purchase\"]"
+    },
+    {
+      "originalDescription": "Kroger",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 24.21,
+      "date": "2023-11-22",
+      "description": "Kroger",
+      "guid": "LB8L9Ad5kMs4LYvxkNzYH3VPB5ZN6XHdpX0PR",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "W/D Debit Card TEOTIHUACAN MEXICAN CA 1511 AIRLINE DR HOU Merchant Category Code: 5812",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 69.25,
+      "date": "2024-01-19",
+      "description": "W/D Debit Card TEOTIHUACAN MEXICAN CA 1511 AIRLINE DR HOU Merchant Category Code: 5812",
+      "guid": "M38DVvwmQgFawOoPbpjOCbzdve66OwIBYMZaB",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "W/D Debit Card CASH APP*JOE ESQUIVEL 1455 Market Street S Merchant Category Code: 4829",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 10.0,
+      "date": "2024-01-12",
+      "description": "W/D Debit Card CASH APP*JOE ESQUIVEL 1455 Market Street S Merchant Category Code: 4829",
+      "guid": "M38DVvwmQgFawOoPbpjOCbzdve66OwIBYMZKZ",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "W/D Debit Card TIKTOK SHOP 5800 BRISTOL PKWY 6505840896 C Merchant Category Code: 7399",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 25.66,
+      "date": "2023-12-28",
+      "description": "W/D Debit Card TIKTOK SHOP 5800 BRISTOL PKWY 6505840896 C Merchant Category Code: 7399",
+      "guid": "M38DVvwmQgFawOoPbpjOCbzdve66OwIBYMZzZ",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "W/D POS H-E-B #099 HOUSTON TX Merchant Category Code: 5411",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 183.48,
+      "date": "2023-12-22",
+      "description": "W/D POS H-E-B #099 HOUSTON TX Merchant Category Code: 5411",
+      "guid": "M38DVvwmQgFawOoPbpjOCbzYp9nawefB8KM5N",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "W/D Debit Card Subway 42103 9119 Hwy 225 La Porte TX Merchant Category Code: 5814",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 8.85,
+      "date": "2023-12-13",
+      "description": "W/D Debit Card Subway 42103 9119 Hwy 225 La Porte TX Merchant Category Code: 5814",
+      "guid": "M38DVvwmQgFawOoPbpjOCbzYp9nawefB8KMBN",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "W/D Debit Card CANTEEN VENDING 100 DEERFIELD LN STE300 HO Merchant Category Code: 5814",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 0.95,
+      "date": "2023-12-10",
+      "description": "W/D Debit Card CANTEEN VENDING 100 DEERFIELD LN STE300 HO Merchant Category Code: 5814",
+      "guid": "M38DVvwmQgFawOoPbpjOCbzYp9nawefB8KMBv",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\"]"
+    },
+    {
+      "originalDescription": "W/D Debit Card EL REFU BAR RESTAURANT 17111 STATE HIGHWAY Merchant Category Code: 5812",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 73.57,
+      "date": "2023-10-26",
+      "description": "W/D Debit Card EL REFU BAR RESTAURANT 17111 STATE HIGHWAY Merchant Category Code: 5812",
+      "guid": "M38DVvwmQgFawOoPbpjOCbzYp9nawefB8KMOw",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "W/D Debit Card SOTOS CANTINA 10609 GRANT RD HOUSTON TX Merchant Category Code: 5812",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 16.81,
+      "date": "2023-11-14",
+      "description": "W/D Debit Card SOTOS CANTINA 10609 GRANT RD HOUSTON TX Merchant Category Code: 5812",
+      "guid": "M38DVvwmQgFawOoPbpjOCbzYp9nawefB8KMPv",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "W/D Faster Payments ZEL* Joe Esquivel J2JU000LdZSu",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 5.0,
+      "date": "2023-11-09",
+      "description": "W/D Faster Payments ZEL* Joe Esquivel J2JU000LdZSu",
+      "guid": "M38DVvwmQgFawOoPbpjOCbzYp9nawefB8KMPw",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "W/D Debit Card Prime Video Channels 440 Terry Ave N amzn. Merchant Category Code: 5818",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 7.57,
+      "date": "2024-01-09",
+      "description": "W/D Debit Card Prime Video Channels 440 Terry Ave N amzn. Merchant Category Code: 5818",
+      "guid": "mqDXYJr5yvco3eZwj9YeCx09dKEEaQHmPMg1j",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Entertainment\"]"
+    },
+    {
+      "originalDescription": "Whataburger",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 17.07,
+      "date": "2023-12-25",
+      "description": "Whataburger",
+      "guid": "mqDXYJr5yvco3eZwj9YeCx09dKEEaQHmPMg7j",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "W/D Debit Card LA PORTE TRAVEL PLAZ 9119 HWY 225 V TX Merchant Category Code: 5541",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 24.33,
+      "date": "2023-12-20",
+      "description": "W/D Debit Card LA PORTE TRAVEL PLAZ 9119 HWY 225 V TX Merchant Category Code: 5541",
+      "guid": "mqDXYJr5yvco3eZwj9YeCx0rMkqYQKHmV1M36",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "W/D POS JENSEN DRIVE FEE 9740 JEN HOUSTON TX Merchant Category Code: 5995",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 56.0,
+      "date": "2023-11-24",
+      "description": "W/D POS JENSEN DRIVE FEE 9740 JEN HOUSTON TX Merchant Category Code: 5995",
+      "guid": "mqDXYJr5yvco3eZwj9YeCx0rMkqYQKHmV1M44",
+      "type": "DEBIT",
+      "category": "[\"Bank Fees\"]"
+    },
+    {
+      "originalDescription": "Kroger",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 10.81,
+      "date": "2023-12-08",
+      "description": "Kroger",
+      "guid": "mqDXYJr5yvco3eZwj9YeCx0rMkqYQKHmV1Mm4",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "W/D Debit Card REG LONE STAR 19 1441 24720 TOMBALL PARKWA Merchant Category Code: 7832",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 19.38,
+      "date": "2023-12-11",
+      "description": "W/D Debit Card REG LONE STAR 19 1441 24720 TOMBALL PARKWA Merchant Category Code: 7832",
+      "guid": "mqDXYJr5yvco3eZwj9YeCx0rMkqYQKHmV1Mm6",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "W/D ACH AMERICANFIRSTFIN TYPE: 8557211188 ID: 1462541785 CO: AMERICANFIRSTFIN ACH Trace Number: 096016931541372",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 118.56,
+      "date": "2023-11-10",
+      "description": "W/D ACH AMERICANFIRSTFIN TYPE: 8557211188 ID: 1462541785 CO: AMERICANFIRSTFIN ACH Trace Number: 096016931541372",
+      "guid": "mqDXYJr5yvco3eZwj9YeCx0rMkqYQKHmV1MN4",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "Kroger",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 9.93,
+      "date": "2023-11-05",
+      "description": "Kroger",
+      "guid": "mqDXYJr5yvco3eZwj9YeCx0rMkqYQKHmV1MQK",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Chevron",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 102.0,
+      "date": "2024-01-11",
+      "description": "Chevron",
+      "guid": "nBmZY8xoK0s0ye8AZ1oeCYd5NkaabJUM9ARkx",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "T-Mobile",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 191.14,
+      "date": "2024-01-16",
+      "description": "T-Mobile",
+      "guid": "nBmZY8xoK0s0ye8AZ1oeCYd5NkaabJUM9ARva",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Telecommunication Services\"]"
+    },
+    {
+      "originalDescription": "Kroger",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 116.13,
+      "date": "2023-12-27",
+      "description": "Kroger",
+      "guid": "nBmZY8xoK0s0ye8AZ1oeCYd5NkaabJUM9ARwx",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "W/D ACH AMERICANFIRSTFIN TYPE: 8557211188 ID: 1462541785 CO: AMERICANFIRSTFIN ACH Trace Number: 096016932338264",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 118.56,
+      "date": "2023-12-22",
+      "description": "W/D ACH AMERICANFIRSTFIN TYPE: 8557211188 ID: 1462541785 CO: AMERICANFIRSTFIN ACH Trace Number: 096016932338264",
+      "guid": "nBmZY8xoK0s0ye8AZ1oeCYdqAMVyJkcMrkA0D",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "Kroger",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 6.98,
+      "date": "2023-11-12",
+      "description": "Kroger",
+      "guid": "nBmZY8xoK0s0ye8AZ1oeCYdqAMVyJkcMrkA7Q",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "W/D Debit Card CANTEEN VENDING 11600 BIG JOHN KATY TX Merchant Category Code: 5814",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 1.1,
+      "date": "2023-12-13",
+      "description": "W/D Debit Card CANTEEN VENDING 11600 BIG JOHN KATY TX Merchant Category Code: 5814",
+      "guid": "nBmZY8xoK0s0ye8AZ1oeCYdqAMVyJkcMrkAMD",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\"]"
+    },
+    {
+      "originalDescription": "W/D Debit Card SAFFIRE LLC 248 ADDIE ROY ROAD #B-1 512430 Merchant Category Code: 5045",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 58.0,
+      "date": "2023-12-09",
+      "description": "W/D Debit Card SAFFIRE LLC 248 ADDIE ROY ROAD #B-1 512430 Merchant Category Code: 5045",
+      "guid": "nBmZY8xoK0s0ye8AZ1oeCYdqAMVyJkcMrkAMQ",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "W/D Debit Card Temu.com 251 LITTLE FALLS DRIVE Boston MA Merchant Category Code: 5311",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 65.95,
+      "date": "2023-10-25",
+      "description": "W/D Debit Card Temu.com 251 LITTLE FALLS DRIVE Boston MA Merchant Category Code: 5311",
+      "guid": "nBmZY8xoK0s0ye8AZ1oeCYdqAMVyJkcMrkAN5",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "W/D Debit Card VIDA MARISCOS - CYPRES 22400 STATE HIGHWAY Merchant Category Code: 5812",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 67.9,
+      "date": "2023-11-26",
+      "description": "W/D Debit Card VIDA MARISCOS - CYPRES 22400 STATE HIGHWAY Merchant Category Code: 5812",
+      "guid": "nBmZY8xoK0s0ye8AZ1oeCYdqAMVyJkcMrkAqQ",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "W/D Debit Card FEUL LOUNGE LLC 4217 TIDWELL RD HOUSTON TX Merchant Category Code: 5813",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 58.35,
+      "date": "2023-12-24",
+      "description": "W/D Debit Card FEUL LOUNGE LLC 4217 TIDWELL RD HOUSTON TX Merchant Category Code: 5813",
+      "guid": "LB8L9Ad5kMs4LYvxkNzYH3VMqXJJz6hdQ0bV3",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Bar\"]"
+    },
+    {
+      "originalDescription": "Amazon",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 31.64,
+      "date": "2024-01-23",
+      "description": "Amazon",
+      "guid": "10w96YNV5rsX503pwAL0hZmxvA0K3afoOo0Xp",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Digital Purchase\"]"
+    },
+    {
+      "originalDescription": "W/D Debit Card CASH APP*TJ DAVIS 1455 Market Street San F Merchant Category Code: 4829",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 25.0,
+      "date": "2023-11-15",
+      "description": "W/D Debit Card CASH APP*TJ DAVIS 1455 Market Street San F Merchant Category Code: 4829",
+      "guid": "gwZdY094DBCPLea9bMEeIPnwqOzLr1CMgjqAY",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "W/D Transfer To Loan 0001",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 186.27,
+      "date": "2023-11-15",
+      "description": "W/D Transfer To Loan 0001",
+      "guid": "bVZqYyvABLsBeV9K3gLVu3ebqRk8Z7Hxpzq9z",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]"
+    },
+    {
+      "originalDescription": "W/D Digital Banking Transfer REF # 2601699 To Loan 5522########3252",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 344.44,
+      "date": "2023-11-27",
+      "description": "W/D Digital Banking Transfer REF # 2601699 To Loan 5522########3252",
+      "guid": "EwnY8PArZjCKx1mrJ7g1FJXqnOp760HZgop5V",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]"
+    },
+    {
+      "originalDescription": "W/D ACH AFFIRM INC TYPE: AFFIRM PAY ID: 0000317218 CO: AFFIRM INC NAME: Jerald *Davis ACH Trace Number: 021000021752359",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 21.62,
+      "date": "2023-11-27",
+      "description": "W/D ACH AFFIRM INC TYPE: AFFIRM PAY ID: 0000317218 CO: AFFIRM INC NAME: Jerald *Davis ACH Trace Number: 021000021752359",
+      "guid": "M38DVvwmQgFawOoPbpjOCbzYp9nawefB8KMkv",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]"
+    },
+    {
+      "originalDescription": "W/D Debit Card HOUSTON ALIGNMENT & TI 331 W MOUNT HOUSTON Merchant Category Code: 5532",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 1758.21,
+      "date": "2023-11-08",
+      "description": "W/D Debit Card HOUSTON ALIGNMENT & TI 331 W MOUNT HOUSTON Merchant Category Code: 5532",
+      "guid": "nBmZY8xoK0s0ye8AZ1oeCYdqAMVyJkcMrkA75",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Automotive\",\"Maintenance and Repair\"]"
+    },
+    {
+      "originalDescription": "Jack in the Box",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 12.22,
+      "date": "2023-11-28",
+      "description": "Jack in the Box",
+      "guid": "9Z3nyYz1LDcrvNJ5MLeNibVgq380X4fPA9drQ",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "W/D Transfer To Loan 0006",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 685.14,
+      "date": "2023-11-06",
+      "description": "W/D Transfer To Loan 0006",
+      "guid": "eE9BYAvj6PH1we7yEN0eI17vdJAQOLuLw3dYQ",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]"
+    },
+    {
+      "originalDescription": "W/D POS ZIPPS LIQUOR #3 HOUSTON HOUSTON TX Merchant Category Code: 5921",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 24.22,
+      "date": "2024-01-10",
+      "description": "W/D POS ZIPPS LIQUOR #3 HOUSTON HOUSTON TX Merchant Category Code: 5921",
+      "guid": "Ny81O06b5mFe4Pa19pqPI9Ew81VV0eCpkRe6Z",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Food and Beverage Store\"]"
+    },
+    {
+      "originalDescription": "W/D Debit Card JOE`S ITALIAN GRILL 13203 JONES ROAD HOUST Merchant Category Code: 5812",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 25.96,
+      "date": "2024-01-14",
+      "description": "W/D Debit Card JOE`S ITALIAN GRILL 13203 JONES ROAD HOUST Merchant Category Code: 5812",
+      "guid": "Ny81O06b5mFe4Pa19pqPI9Ew81VV0eCpkRe7n",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "W/D ACH AFFIRM INC TYPE: AFFIRM PAY ID: 0000317218 CO: AFFIRM INC NAME: Jerald *Davis ACH Trace Number: 021000026217615",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 21.62,
+      "date": "2023-12-26",
+      "description": "W/D ACH AFFIRM INC TYPE: AFFIRM PAY ID: 0000317218 CO: AFFIRM INC NAME: Jerald *Davis ACH Trace Number: 021000026217615",
+      "guid": "Ny81O06b5mFe4Pa19pqPI9Ew81VV0eCpkReEZ",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]"
+    },
+    {
+      "originalDescription": "Whataburger",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 13.94,
+      "date": "2023-11-11",
+      "description": "Whataburger",
+      "guid": "Ny81O06b5mFe4Pa19pqPI9EyrmOde1spZ6R3y",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "Deposit POS #178401 CASH APP*JERALD DAVIS* SAN FRANCISCO CA Merchant Category Code: 6536",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 43.76,
+      "date": "2023-11-25",
+      "description": "Deposit POS #178401 CASH APP*JERALD DAVIS* SAN FRANCISCO CA Merchant Category Code: 6536",
+      "guid": "Ny81O06b5mFe4Pa19pqPI9EyrmOde1spZ6Rby",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "Whataburger",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 22.92,
+      "date": "2023-10-25",
+      "description": "Whataburger",
+      "guid": "Ny81O06b5mFe4Pa19pqPI9EyrmOde1spZ6Rdz",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "W/D ACH FREEDOM TYPE: MTG PYMTS ID: 1223039688 CO: FREEDOM NAME: JEROLD D DAVIS ACH Trace Number: 041001030749183",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 1690.91,
+      "date": "2023-12-12",
+      "description": "W/D ACH FREEDOM TYPE: MTG PYMTS ID: 1223039688 CO: FREEDOM NAME: JEROLD D DAVIS ACH Trace Number: 041001030749183",
+      "guid": "Ny81O06b5mFe4Pa19pqPI9EyrmOde1spZ6RpD",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]"
+    },
+    {
+      "originalDescription": "W/D Debit Card Prime Video Channels 440 Terry Ave N amzn. Merchant Category Code: 5818",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 7.57,
+      "date": "2023-12-09",
+      "description": "W/D Debit Card Prime Video Channels 440 Terry Ave N amzn. Merchant Category Code: 5818",
+      "guid": "Ny81O06b5mFe4Pa19pqPI9EyrmOde1spZ6Rpy",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Entertainment\"]"
+    },
+    {
+      "originalDescription": "W/D at ATM #021326 P478018 ROADSTER RIC-478018 HOUSTON TX P478018 Merchant Category Code: 6011",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 82.75,
+      "date": "2023-11-07",
+      "description": "W/D at ATM #021326 P478018 ROADSTER RIC-478018 HOUSTON TX P478018 Merchant Category Code: 6011",
+      "guid": "Ny81O06b5mFe4Pa19pqPI9EyrmOde1spZ6RQz",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "W/D Debit Card LA PORTE TRAVEL PLAZ 9119 HWY 225 V TX Merchant Category Code: 5541",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 5.5,
+      "date": "2023-12-21",
+      "description": "W/D Debit Card LA PORTE TRAVEL PLAZ 9119 HWY 225 V TX Merchant Category Code: 5541",
+      "guid": "Ny81O06b5mFe4Pa19pqPI9EyrmOde1spZ6RxD",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "W/D POS CAFE LA PORTE 9119 HWY 225 LA PORTE TX Merchant Category Code: 5814",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 7.57,
+      "date": "2023-12-14",
+      "description": "W/D POS CAFE LA PORTE 9119 HWY 225 LA PORTE TX Merchant Category Code: 5814",
+      "guid": "o3PodZVbgjFNK7YJqo37Uby9B1xOPefd8EBd0",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "Recurring W/D Debit Card YouTube TV 1600 AMPHITHEATRE PKWY Merchant Category Code: 4816",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 78.28,
+      "date": "2023-11-30",
+      "description": "Recurring W/D Debit Card YouTube TV 1600 AMPHITHEATRE PKWY Merchant Category Code: 4816",
+      "guid": "o3PodZVbgjFNK7YJqo37Uby9B1xOPefd8EBkA",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Digital Purchase\"]"
+    },
+    {
+      "originalDescription": "Papa John's",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 18.72,
+      "date": "2023-11-16",
+      "description": "Papa John's",
+      "guid": "o3PodZVbgjFNK7YJqo37Uby9B1xOPefd8EBOA",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "W/D Debit Card CANTEEN VENDING 11600 BIG JOHN KATY TX Merchant Category Code: 5814",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 3.5,
+      "date": "2023-10-28",
+      "description": "W/D Debit Card CANTEEN VENDING 11600 BIG JOHN KATY TX Merchant Category Code: 5814",
+      "guid": "o3PodZVbgjFNK7YJqo37Uby9B1xOPefd8EByb",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\"]"
+    },
+    {
+      "originalDescription": "Walmart",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 134.39,
+      "date": "2024-01-19",
+      "description": "Walmart",
+      "guid": "o3PodZVbgjFNK7YJqo37UbywMe66oPIdNBmAa",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Department Stores\"]"
+    },
+    {
+      "originalDescription": "W/D Debit Card EAVS 15803 Highway 59 N HUMBLE TX Merchant Category Code: 5947",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 32.45,
+      "date": "2023-12-30",
+      "description": "W/D Debit Card EAVS 15803 Highway 59 N HUMBLE TX Merchant Category Code: 5947",
+      "guid": "o3PodZVbgjFNK7YJqo37UbywMe66oPIdNBmEP",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "Recurring W/D Debit Card SP JUVENON 774 Mays Blvd Ste 10-48 INCLINE Merchant Category Code: 5399",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 29.96,
+      "date": "2023-11-09",
+      "description": "Recurring W/D Debit Card SP JUVENON 774 Mays Blvd Ste 10-48 INCLINE Merchant Category Code: 5399",
+      "guid": "OK8MYjLgaEcJaQ1Lqp0QIq9jgQZN7zfZwO845",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "T-Mobile",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 191.14,
+      "date": "2023-11-14",
+      "description": "T-Mobile",
+      "guid": "OK8MYjLgaEcJaQ1Lqp0QIq9jgQZN7zfZwO84L",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Telecommunication Services\"]"
+    },
+    {
+      "originalDescription": "Netflix",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 21.64,
+      "date": "2023-10-26",
+      "description": "Netflix",
+      "guid": "OK8MYjLgaEcJaQ1Lqp0QIq9jgQZN7zfZwO8e5",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Subscription\"]"
+    },
+    {
+      "originalDescription": "Chevron",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 102.0,
+      "date": "2023-11-28",
+      "description": "Chevron",
+      "guid": "OK8MYjLgaEcJaQ1Lqp0QIq9jgQZN7zfZwO8NL",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "W/D Debit Card BEST OF CANVAS 1568 Willowbrook Mall H Merchant Category Code: 7333",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 346.4,
+      "date": "2023-12-22",
+      "description": "W/D Debit Card BEST OF CANVAS 1568 Willowbrook Mall H Merchant Category Code: 7333",
+      "guid": "OK8MYjLgaEcJaQ1Lqp0QIq9jgQZN7zfZwO8Vn",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Photos and Frames\"]"
+    },
+    {
+      "originalDescription": "W/D Debit Card CANTEEN VENDING 100 DEERFIELD LN STE300 HO Merchant Category Code: 5814",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 1.35,
+      "date": "2023-12-10",
+      "description": "W/D Debit Card CANTEEN VENDING 100 DEERFIELD LN STE300 HO Merchant Category Code: 5814",
+      "guid": "OK8MYjLgaEcJaQ1Lqp0QIq9jgQZN7zfZwO8ZL",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\"]"
+    },
+    {
+      "originalDescription": "Best Western",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 79.1,
+      "date": "2023-12-13",
+      "description": "Best Western",
+      "guid": "OK8MYjLgaEcJaQ1Lqp0QIq9jgQZN7zfZwO8Zn",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Lodging\",\"Hotels and Motels\"]"
+    },
+    {
+      "originalDescription": "W/D Debit Card TikTok Shop 250 Bryant Street Mountain Vie Merchant Category Code: 5399",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 26.42,
+      "date": "2023-12-28",
+      "description": "W/D Debit Card TikTok Shop 250 Bryant Street Mountain Vie Merchant Category Code: 5399",
+      "guid": "OK8MYjLgaEcJaQ1Lqp0QIq9nBzdd37tZR8dm6",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Clothing and Accessories\",\"Women\\u0027s Store\"]"
+    },
+    {
+      "originalDescription": "Recurring W/D Debit Card PLANTSBASICALLY.COM 4167 Iowa Street SAN D Merchant Category Code: 5499",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 56.37,
+      "date": "2024-01-13",
+      "description": "Recurring W/D Debit Card PLANTSBASICALLY.COM 4167 Iowa Street SAN D Merchant Category Code: 5499",
+      "guid": "OK8MYjLgaEcJaQ1Lqp0QIq9nBzdd37tZR8dO6",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Arts and Crafts\"]"
+    },
+    {
+      "originalDescription": "W/D Debit Card TikTok Shop 250 Bryant Street Mountain Vie Merchant Category Code: 5399",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 26.95,
+      "date": "2024-01-19",
+      "description": "W/D Debit Card TikTok Shop 250 Bryant Street Mountain Vie Merchant Category Code: 5399",
+      "guid": "OK8MYjLgaEcJaQ1Lqp0QIq9nBzdd37tZR8dvV",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Clothing and Accessories\",\"Women\\u0027s Store\"]"
+    },
+    {
+      "originalDescription": "W/D Debit Card CASH APP*TJ DAVIS 1455 Market Street San F Merchant Category Code: 4829",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 30.0,
+      "date": "2024-01-07",
+      "description": "W/D Debit Card CASH APP*TJ DAVIS 1455 Market Street San F Merchant Category Code: 4829",
+      "guid": "PkmMYrD75gf8aKVEjOdKFjEDy9wwXxfa6m0qv",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "W/D Debit Card CASH APP*ALDE MONDRAGO 1455 Market Street Merchant Category Code: 4829",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 15.25,
+      "date": "2023-12-19",
+      "description": "W/D Debit Card CASH APP*ALDE MONDRAGO 1455 Market Street Merchant Category Code: 4829",
+      "guid": "PkmMYrD75gf8aKVEjOdKFjEVALY6x9IaZqm1M",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "W/D Debit Card CANTEEN VENDING 11600 BIG JOHN KATY TX Merchant Category Code: 5814",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 1.1,
+      "date": "2023-11-21",
+      "description": "W/D Debit Card CANTEEN VENDING 11600 BIG JOHN KATY TX Merchant Category Code: 5814",
+      "guid": "PkmMYrD75gf8aKVEjOdKFjEVALY6x9IaZqm73",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\"]"
+    },
+    {
+      "originalDescription": "W/D Debit Card LJS #70055 10270 NORTH FREEWAY HOUSTON TX Merchant Category Code: 5814",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 10.6,
+      "date": "2023-12-06",
+      "description": "W/D Debit Card LJS #70055 10270 NORTH FREEWAY HOUSTON TX Merchant Category Code: 5814",
+      "guid": "PkmMYrD75gf8aKVEjOdKFjEVALY6x9IaZqma3",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "W/D Debit Card TST* Mai Tai 9344 Jones Rd Houston TX Merchant Category Code: 5812",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 32.54,
+      "date": "2023-11-03",
+      "description": "W/D Debit Card TST* Mai Tai 9344 Jones Rd Houston TX Merchant Category Code: 5812",
+      "guid": "PkmMYrD75gf8aKVEjOdKFjEVALY6x9IaZqmDV",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "Recurring W/D Debit Card SP JUVENON 774 Mays Blvd Ste 10-48 INCLINE Merchant Category Code: 5399",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 29.96,
+      "date": "2023-12-09",
+      "description": "Recurring W/D Debit Card SP JUVENON 774 Mays Blvd Ste 10-48 INCLINE Merchant Category Code: 5399",
+      "guid": "pyqOw5YgNrFLQeKDoYkeCwn6Jd7eOvi7vwJ7J",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "W/D Debit Card LA PORTE TRAVEL PLAZ 9119 HWY 225 V TX Merchant Category Code: 5541",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 20.1,
+      "date": "2023-12-12",
+      "description": "W/D Debit Card LA PORTE TRAVEL PLAZ 9119 HWY 225 V TX Merchant Category Code: 5541",
+      "guid": "pyqOw5YgNrFLQeKDoYkeCwn6Jd7eOvi7vwJ7Y",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "Kroger",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 117.61,
+      "date": "2023-11-12",
+      "description": "Kroger",
+      "guid": "pyqOw5YgNrFLQeKDoYkeCwn6Jd7eOvi7vwJaJ",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "W/D ACH AFFIRM INC TYPE: AFFIRM PAY ID: 0000317218 CO: AFFIRM INC NAME: Jerald *Davis ACH Trace Number: 021000021694393",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 16.36,
+      "date": "2023-11-08",
+      "description": "W/D ACH AFFIRM INC TYPE: AFFIRM PAY ID: 0000317218 CO: AFFIRM INC NAME: Jerald *Davis ACH Trace Number: 021000021694393",
+      "guid": "pyqOw5YgNrFLQeKDoYkeCwn6Jd7eOvi7vwJay",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]"
+    },
+    {
+      "originalDescription": "Deposit ACH ARCTIC TESTING TYPE: ATI 102723 ID: 4842147913 CO: ARCTIC TESTING ACH Trace Number: 091000013075492",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 5712.12,
+      "date": "2023-10-25",
+      "description": "Deposit ACH ARCTIC TESTING TYPE: ATI 102723 ID: 4842147913 CO: ARCTIC TESTING ACH Trace Number: 091000013075492",
+      "guid": "pyqOw5YgNrFLQeKDoYkeCwn6Jd7eOvi7vwJDy",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Payroll\"]"
+    },
+    {
+      "originalDescription": "Netflix",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 24.89,
+      "date": "2023-11-26",
+      "description": "Netflix",
+      "guid": "pyqOw5YgNrFLQeKDoYkeCwn6Jd7eOvi7vwJQJ",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Subscription\"]"
+    },
+    {
+      "originalDescription": "W/D Debit Card CANTEEN VENDING 11600 BIG JOHN KATY TX Merchant Category Code: 5814",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 1.1,
+      "date": "2023-12-22",
+      "description": "W/D Debit Card CANTEEN VENDING 11600 BIG JOHN KATY TX Merchant Category Code: 5814",
+      "guid": "pyqOw5YgNrFLQeKDoYkeCwn6Jd7eOvi7vwJZY",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\"]"
+    },
+    {
+      "originalDescription": "W/D Debit Card CASH APP*TJ DAVIS 1455 Market Street San F Merchant Category Code: 4829",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 40.0,
+      "date": "2023-12-26",
+      "description": "W/D Debit Card CASH APP*TJ DAVIS 1455 Market Street San F Merchant Category Code: 4829",
+      "guid": "pyqOw5YgNrFLQeKDoYkeCwnpjvLLzOC78JE5V",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "W/D Debit Card TikTok Shop 250 Bryant Street Mountain Vie Merchant Category Code: 5399",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 20.85,
+      "date": "2024-01-11",
+      "description": "W/D Debit Card TikTok Shop 250 Bryant Street Mountain Vie Merchant Category Code: 5399",
+      "guid": "pyqOw5YgNrFLQeKDoYkeCwnpjvLLzOC78JEwV",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Clothing and Accessories\",\"Women\\u0027s Store\"]"
+    },
+    {
+      "originalDescription": "Recurring W/D Debit Card LIFEMD 5882 BOLSA AVE SUITE 23 Merchant Category Code: 8011",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 49.0,
+      "date": "2024-01-15",
+      "description": "Recurring W/D Debit Card LIFEMD 5882 BOLSA AVE SUITE 23 Merchant Category Code: 8011",
+      "guid": "pyqOw5YgNrFLQeKDoYkeCwnpjvLLzOC78JExm",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "Amazon",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 38.96,
+      "date": "2023-12-27",
+      "description": "Amazon",
+      "guid": "QAbMY419dgFZmJNdk8xJCkaeLg66nQhwrEYa7",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Digital Purchase\"]"
+    },
+    {
+      "originalDescription": "Recurring W/D Debit Card LIFEMD 5882 BOLSA AVE SUITE 23 Merchant Category Code: 8011",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 15.0,
+      "date": "2024-01-17",
+      "description": "Recurring W/D Debit Card LIFEMD 5882 BOLSA AVE SUITE 23 Merchant Category Code: 8011",
+      "guid": "QAbMY419dgFZmJNdk8xJCkaeLg66nQhwrEYqM",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "Chevron",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 2.0,
+      "date": "2024-01-11",
+      "description": "Chevron",
+      "guid": "QAbMY419dgFZmJNdk8xJCkaeLg66nQhwrEYx7",
+      "type": "DEBIT",
+      "category": "[\"Bank Fees\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "W/D Debit Card AMAZON.COM*IJ3J60LR3 440 TERRY AVE N. SEAT Merchant Category Code: 5942",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 120.94,
+      "date": "2023-11-26",
+      "description": "W/D Debit Card AMAZON.COM*IJ3J60LR3 440 TERRY AVE N. SEAT Merchant Category Code: 5942",
+      "guid": "QAbMY419dgFZmJNdk8xJCkaV4AB9QgfwNxEbk",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Digital Purchase\"]"
+    },
+    {
+      "originalDescription": "Deposit ACH ARCTIC TESTING TYPE: ATI 111023 ID: 4842147913 CO: ARCTIC TESTING ACH Trace Number: 091000012581154",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 2327.96,
+      "date": "2023-11-08",
+      "description": "Deposit ACH ARCTIC TESTING TYPE: ATI 111023 ID: 4842147913 CO: ARCTIC TESTING ACH Trace Number: 091000012581154",
+      "guid": "QAbMY419dgFZmJNdk8xJCkaV4AB9QgfwNxEJj",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Payroll\"]"
+    },
+    {
+      "originalDescription": "Recurring W/D Debit Card APPLE.COM/BILL ONE APPLE PARK WAY 866-712- Merchant Category Code: 5818",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 7.57,
+      "date": "2023-11-13",
+      "description": "Recurring W/D Debit Card APPLE.COM/BILL ONE APPLE PARK WAY 866-712- Merchant Category Code: 5818",
+      "guid": "QAbMY419dgFZmJNdk8xJCkaV4AB9QgfwNxEJk",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Digital Purchase\"]"
+    },
+    {
+      "originalDescription": "Recurring W/D Debit Card JUST ENERGY 5251 WESTHEIMER RD STE 866-587 Merchant Category Code: 4900",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 392.63,
+      "date": "2023-10-26",
+      "description": "Recurring W/D Debit Card JUST ENERGY 5251 WESTHEIMER RD STE 866-587 Merchant Category Code: 4900",
+      "guid": "QAbMY419dgFZmJNdk8xJCkaV4AB9QgfwNxEMj",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Utilities\",\"Electric\"]"
+    },
+    {
+      "originalDescription": "W/D Debit Card TST* K TEA BOBA 10978 Grant Road Houston T Merchant Category Code: 5812",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 21.31,
+      "date": "2023-12-09",
+      "description": "W/D Debit Card TST* K TEA BOBA 10978 Grant Road Houston T Merchant Category Code: 5812",
+      "guid": "QAbMY419dgFZmJNdk8xJCkaV4AB9QgfwNxEwk",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Food and Beverage Store\"]"
+    },
+    {
+      "originalDescription": "Amazon",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 35.99,
+      "date": "2023-12-13",
+      "description": "Amazon",
+      "guid": "QAbMY419dgFZmJNdk8xJCkaV4AB9QgfwNxEwN",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Digital Purchase\"]"
+    },
+    {
+      "originalDescription": "W/D ACH WEX INC TYPE: FLEET DEBI ID: 0841425616 CO: WEX INC ACH Trace Number: 071000285903386",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 300.0,
+      "date": "2023-12-22",
+      "description": "W/D ACH WEX INC TYPE: FLEET DEBI ID: 0841425616 CO: WEX INC ACH Trace Number: 071000285903386",
+      "guid": "QAbMY419dgFZmJNdk8xJCkaV4AB9QgfwNxEzN",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]"
+    },
+    {
+      "originalDescription": "W/D Debit Card TST* JACK & GINGERS IR 11500 Rock Rose Ave Merchant Category Code: 5812",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 56.02,
+      "date": "2024-01-07",
+      "description": "W/D Debit Card TST* JACK & GINGERS IR 11500 Rock Rose Ave Merchant Category Code: 5812",
+      "guid": "qmBZ6nY7y4SLQ7eVyO97C6v70eqqPaUxMJm6R",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "Amazon",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 25.97,
+      "date": "2023-12-18",
+      "description": "Amazon",
+      "guid": "qmBZ6nY7y4SLQ7eVyO97C6vLJ9V8aeUxb6JBN",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Digital Purchase\"]"
+    },
+    {
+      "originalDescription": "Recurring W/D Debit Card PEARLAND BOAT & RV STO 3600 OLD CHOCOLATE Merchant Category Code: 4225",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 100.0,
+      "date": "2023-11-02",
+      "description": "Recurring W/D Debit Card PEARLAND BOAT & RV STO 3600 OLD CHOCOLATE Merchant Category Code: 4225",
+      "guid": "qmBZ6nY7y4SLQ7eVyO97C6vLJ9V8aeUxb6JPd",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Food and Beverage Store\"]"
+    },
+    {
+      "originalDescription": "Amazon Music",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 5.4,
+      "date": "2023-11-21",
+      "description": "Amazon Music",
+      "guid": "qmBZ6nY7y4SLQ7eVyO97C6vLJ9V8aeUxb6Jrq",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Music, Video and DVD\"]"
+    },
+    {
+      "originalDescription": "W/D Debit Card CANTEEN VENDING 11600 BIG JOHN KATY TX Merchant Category Code: 5814",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 1.1,
+      "date": "2023-12-06",
+      "description": "W/D Debit Card CANTEEN VENDING 11600 BIG JOHN KATY TX Merchant Category Code: 5814",
+      "guid": "qmBZ6nY7y4SLQ7eVyO97C6vLJ9V8aeUxb6Jxq",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\"]"
+    },
+    {
+      "originalDescription": "W/D Digital Banking Transfer To Share 0008 REF # 2671527",
+      "accountGuid": "wrvxBX9wNLuQaq7KdRxqUBbqgDqr76fRLQzEO",
+      "amount": 400.0,
+      "date": "2023-12-26",
+      "description": "W/D Digital Banking Transfer To Share 0008 REF # 2671527",
+      "guid": "rk3ZLNK90afNQBzmR06BULmaq5XXDJUKMBqDk",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "Comcast",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 81.11,
+      "date": "2024-01-04",
+      "description": "Comcast",
+      "guid": "rk3ZLNK90afNQBzmR06BULmaq5XXDJUKMBqLK",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Cable\"]"
+    },
+    {
+      "originalDescription": "W/D Debit Card PETCARE EXPRESS IN 6220 W 43RD ST HOUSTON Merchant Category Code: 0742",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 23.0,
+      "date": "2023-12-02",
+      "description": "W/D Debit Card PETCARE EXPRESS IN 6220 W 43RD ST HOUSTON Merchant Category Code: 0742",
+      "guid": "rk3ZLNK90afNQBzmR06BULmEBwPQJ5CKvLBA9",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "Kroger",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 32.46,
+      "date": "2023-12-15",
+      "description": "Kroger",
+      "guid": "rk3ZLNK90afNQBzmR06BULmEBwPQJ5CKvLBag",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Chevron",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 10.78,
+      "date": "2023-11-19",
+      "description": "Chevron",
+      "guid": "rk3ZLNK90afNQBzmR06BULmEBwPQJ5CKvLBb9",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "W/D Debit Card HARTZ CHICKEN BUFF 14411 State Highway Merchant Category Code: 5462",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 28.13,
+      "date": "2023-11-01",
+      "description": "W/D Debit Card HARTZ CHICKEN BUFF 14411 State Highway Merchant Category Code: 5462",
+      "guid": "rk3ZLNK90afNQBzmR06BULmEBwPQJ5CKvLBeo",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "W/D Faster Payments ZEL* Joe Esquivel J2Jr000Lm2f9",
+      "accountGuid": "wrvxBX9wNLuQaq7KdRxqUBbqgDqr76fRLQzEO",
+      "amount": 5.0,
+      "date": "2023-12-13",
+      "description": "W/D Faster Payments ZEL* Joe Esquivel J2Jr000Lm2f9",
+      "guid": "rk3ZLNK90afNQBzmR06BULmEBwPQJ5CKvLBVx",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "W/D Debit Card CANTEEN VENDING 11600 BIG JOHN KATY TX Merchant Category Code: 5814",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 1.1,
+      "date": "2023-12-28",
+      "description": "W/D Debit Card CANTEEN VENDING 11600 BIG JOHN KATY TX Merchant Category Code: 5814",
+      "guid": "Rv8MYaPVwgc5y3kKJXb3I0jRywLLm6FK3yxj6",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\"]"
+    },
+    {
+      "originalDescription": "Deposit ACH ARCTIC TESTING TYPE: ATI 011924 ID: 4842147913 CO: ARCTIC TESTING ACH Trace Number: 091000010985598",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 2520.62,
+      "date": "2024-01-18",
+      "description": "Deposit ACH ARCTIC TESTING TYPE: ATI 011924 ID: 4842147913 CO: ARCTIC TESTING ACH Trace Number: 091000010985598",
+      "guid": "Rv8MYaPVwgc5y3kKJXb3I0jRywLLm6FK3yxm1",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Payroll\"]"
+    },
+    {
+      "originalDescription": "W/D Debit Card CASH APP*ALDE MONDRAGO 1455 Market Street Merchant Category Code: 4829",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 20.0,
+      "date": "2024-01-11",
+      "description": "W/D Debit Card CASH APP*ALDE MONDRAGO 1455 Market Street Merchant Category Code: 4829",
+      "guid": "Rv8MYaPVwgc5y3kKJXb3I0jRywLLm6FK3yxZ6",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "W/D Debit Card LOVE'S #0481 INSIDE 7005 Highway 225 DEER Merchant Category Code: 5541",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 4.86,
+      "date": "2023-11-09",
+      "description": "W/D Debit Card LOVE'S #0481 INSIDE 7005 Highway 225 DEER Merchant Category Code: 5541",
+      "guid": "Rv8MYaPVwgc5y3kKJXb3I0jVqXED6wfKOZy1P",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "W/D POS JD 1159 1400 WILLOWBROOK HOUSTON TX Merchant Category Code: 5661",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 102.84,
+      "date": "2023-12-22",
+      "description": "W/D POS JD 1159 1400 WILLOWBROOK HOUSTON TX Merchant Category Code: 5661",
+      "guid": "Rv8MYaPVwgc5y3kKJXb3I0jVqXED6wfKOZy4D",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "W/D Debit Card TST* CAPTAIN BENNYS - 10896 Northwest Free Merchant Category Code: 5812",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 71.92,
+      "date": "2023-11-26",
+      "description": "W/D Debit Card TST* CAPTAIN BENNYS - 10896 Northwest Free Merchant Category Code: 5812",
+      "guid": "Rv8MYaPVwgc5y3kKJXb3I0jVqXED6wfKOZydp",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "Amazon Prime",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 150.47,
+      "date": "2023-12-13",
+      "description": "Amazon Prime",
+      "guid": "Rv8MYaPVwgc5y3kKJXb3I0jVqXED6wfKOZyKD",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Subscription\"]"
+    },
+    {
+      "originalDescription": "W/D POS H-E-B #614 HOUSTON TX Merchant Category Code: 5411",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 107.24,
+      "date": "2023-12-09",
+      "description": "W/D POS H-E-B #614 HOUSTON TX Merchant Category Code: 5411",
+      "guid": "Rv8MYaPVwgc5y3kKJXb3I0jVqXED6wfKOZyKp",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Deposit POS #234112 CASH APP*JERALD DAVIS* SAN FRANCISCO CA Merchant Category Code: 6536",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 190.61,
+      "date": "2023-10-26",
+      "description": "Deposit POS #234112 CASH APP*JERALD DAVIS* SAN FRANCISCO CA Merchant Category Code: 6536",
+      "guid": "Rv8MYaPVwgc5y3kKJXb3I0jVqXED6wfKOZyoP",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "Chevron",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 2.0,
+      "date": "2023-11-28",
+      "description": "Chevron",
+      "guid": "V4obYZvw1gT7Dr0AoZ1rCop8jmABvnHzRMraA",
+      "type": "DEBIT",
+      "category": "[\"Bank Fees\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "Kroger",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 65.58,
+      "date": "2023-11-14",
+      "description": "Kroger",
+      "guid": "V4obYZvw1gT7Dr0AoZ1rCop8jmABvnHzRMrkA",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Kroger",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 31.41,
+      "date": "2023-11-09",
+      "description": "Kroger",
+      "guid": "V4obYZvw1gT7Dr0AoZ1rCop8jmABvnHzRMrkY",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "W/D Debit Card VIDA MARISCOS - CYPRES 22400 STATE HIGHWAY Merchant Category Code: 5812",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 78.15,
+      "date": "2023-12-22",
+      "description": "W/D Debit Card VIDA MARISCOS - CYPRES 22400 STATE HIGHWAY Merchant Category Code: 5812",
+      "guid": "V4obYZvw1gT7Dr0AoZ1rCop8jmABvnHzRMrX0",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "Recurring W/D Debit Card THECUT INC* GDA9IYXI 15807 Aberdeen Trails Merchant Category Code: 7230",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 46.95,
+      "date": "2023-10-26",
+      "description": "Recurring W/D Debit Card THECUT INC* GDA9IYXI 15807 Aberdeen Trails Merchant Category Code: 7230",
+      "guid": "V4obYZvw1gT7Dr0AoZ1rCop8jmABvnHzRMrYY",
+      "type": "DEBIT",
+      "category": "[\"Recreation\"]"
+    },
+    {
+      "originalDescription": "Deposit ACH ARCTIC TESTING TYPE: ATI 121523 ID: 4842147913 CO: ARCTIC TESTING ACH Trace Number: 091000014640822",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 461.75,
+      "date": "2023-12-13",
+      "description": "Deposit ACH ARCTIC TESTING TYPE: ATI 121523 ID: 4842147913 CO: ARCTIC TESTING ACH Trace Number: 091000014640822",
+      "guid": "V4obYZvw1gT7Dr0AoZ1rCop8jmABvnHzRMrz0",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Payroll\"]"
+    },
+    {
+      "originalDescription": "Chevron",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 16.21,
+      "date": "2023-12-10",
+      "description": "Chevron",
+      "guid": "V4obYZvw1gT7Dr0AoZ1rCop8jmABvnHzRMrzA",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "W/D Debit Card AMERICAN FOOD N VENDI 100 DEERFIELD LN STE Merchant Category Code: 5814",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 2.15,
+      "date": "2024-01-19",
+      "description": "W/D Debit Card AMERICAN FOOD N VENDI 100 DEERFIELD LN STE Merchant Category Code: 5814",
+      "guid": "V4obYZvw1gT7Dr0AoZ1rCopKQnwwEvTzxr13j",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\"]"
+    },
+    {
+      "originalDescription": "W/D Debit Card Prime Video Channels 440 Terry Ave N amzn. Merchant Category Code: 5818",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 12.98,
+      "date": "2024-01-13",
+      "description": "W/D Debit Card Prime Video Channels 440 Terry Ave N amzn. Merchant Category Code: 5818",
+      "guid": "V4obYZvw1gT7Dr0AoZ1rCopKQnwwEvTzxr1M7",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Entertainment\"]"
+    },
+    {
+      "originalDescription": "W/D Debit Card TikTok Shop 250 Bryant Street Mountain Vie Merchant Category Code: 5399",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 18.29,
+      "date": "2023-12-28",
+      "description": "W/D Debit Card TikTok Shop 250 Bryant Street Mountain Vie Merchant Category Code: 5399",
+      "guid": "V4obYZvw1gT7Dr0AoZ1rCopKQnwwEvTzxr1o7",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Clothing and Accessories\",\"Women\\u0027s Store\"]"
+    },
+    {
+      "originalDescription": "W/D NON-ACU ATM FEE A465629 MR EXPRESS -465629 HOUSTON TX A465629 Merchant Category Code: 6011",
+      "accountGuid": "wrvxBX9wNLuQaq7KdRxqUBbqgDqr76fRLQzEO",
+      "amount": 2.0,
+      "date": "2024-01-17",
+      "description": "W/D NON-ACU ATM FEE A465629 MR EXPRESS -465629 HOUSTON TX A465629 Merchant Category Code: 6011",
+      "guid": "vjA7qn5dY6hzQPZAgyOPFqP637xxYBtYbmxe4",
+      "type": "DEBIT",
+      "category": "[\"Bank Fees\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "W/D Debit Card CASH APP*JOE ESQUIVEL 1455 Market Street S Merchant Category Code: 4829",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 5.0,
+      "date": "2024-01-04",
+      "description": "W/D Debit Card CASH APP*JOE ESQUIVEL 1455 Market Street S Merchant Category Code: 4829",
+      "guid": "vjA7qn5dY6hzQPZAgyOPFqP637xxYBtYbmxqp",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "W/D POS FIESTA MART #20 HOUSTON TX Merchant Category Code: 5411",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 31.85,
+      "date": "2023-12-02",
+      "description": "W/D POS FIESTA MART #20 HOUSTON TX Merchant Category Code: 5411",
+      "guid": "vjA7qn5dY6hzQPZAgyOPFqPAmObXB7fYQqm7K",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "W/D Debit Card CASH APP*TJ DAVIS 1455 Market Street San F Merchant Category Code: 4829",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 25.0,
+      "date": "2023-11-19",
+      "description": "W/D Debit Card CASH APP*TJ DAVIS 1455 Market Street San F Merchant Category Code: 4829",
+      "guid": "vjA7qn5dY6hzQPZAgyOPFqPAmObXB7fYQqmgK",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "W/D Debit Card CELAYAS TIRE & WHEEL 11319 JONES RD HOUSTO Merchant Category Code: 5532",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 27.9,
+      "date": "2023-12-16",
+      "description": "W/D Debit Card CELAYAS TIRE & WHEEL 11319 JONES RD HOUSTO Merchant Category Code: 5532",
+      "guid": "vjA7qn5dY6hzQPZAgyOPFqPAmObXB7fYQqmk7",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Automotive\",\"Auto Tires\"]"
+    },
+    {
+      "originalDescription": "W/D NON-ACU ATM FEE 000000000219050 Kroozin Market 249 Cu Houston TX NH106061 Merchant Category Code: 6011",
+      "accountGuid": "wrvxBX9wNLuQaq7KdRxqUBbqgDqr76fRLQzEO",
+      "amount": 2.0,
+      "date": "2023-12-15",
+      "description": "W/D NON-ACU ATM FEE 000000000219050 Kroozin Market 249 Cu Houston TX NH106061 Merchant Category Code: 6011",
+      "guid": "vjA7qn5dY6hzQPZAgyOPFqPAmObXB7fYQqmVd",
+      "type": "DEBIT",
+      "category": "[\"Bank Fees\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "W/D POS MOTION MARKET HOUSTON TX Merchant Category Code: 5542",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 15.48,
+      "date": "2023-11-01",
+      "description": "W/D POS MOTION MARKET HOUSTON TX Merchant Category Code: 5542",
+      "guid": "vjA7qn5dY6hzQPZAgyOPFqPAmObXB7fYQqmz6",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "W/D Debit Card ORION #1 LIQUOR 13354 JONES RD HOUSTON TX Merchant Category Code: 5921",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 90.04,
+      "date": "2023-12-24",
+      "description": "W/D Debit Card ORION #1 LIQUOR 13354 JONES RD HOUSTON TX Merchant Category Code: 5921",
+      "guid": "wrvxBX9wNLuQaq7KdRxqUBbnY9ggNZIebL05B",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Food and Beverage Store\"]"
+    },
+    {
+      "originalDescription": "W/D Debit Card TikTok Shop 250 Bryant Street Mountain Vie Merchant Category Code: 5399",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 33.64,
+      "date": "2024-01-08",
+      "description": "W/D Debit Card TikTok Shop 250 Bryant Street Mountain Vie Merchant Category Code: 5399",
+      "guid": "wrvxBX9wNLuQaq7KdRxqUBbnY9ggNZIebL0BB",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Clothing and Accessories\",\"Women\\u0027s Store\"]"
+    },
+    {
+      "originalDescription": "W/D ACH AFFIRM INC TYPE: AFFIRM PAY ID: 0000317218 CO: AFFIRM INC NAME: Jerald *Davis ACH Trace Number: 021000026338070",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 16.36,
+      "date": "2023-12-08",
+      "description": "W/D ACH AFFIRM INC TYPE: AFFIRM PAY ID: 0000317218 CO: AFFIRM INC NAME: Jerald *Davis ACH Trace Number: 021000026338070",
+      "guid": "wrvxBX9wNLuQaq7KdRxqUBbyoP0QZ9UeaBLeg",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]"
+    },
+    {
+      "originalDescription": "W/D Debit Card AMERICAN FIRST FINANCE 8585 N STEMMONS FWY Merchant Category Code: 6012",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 42.22,
+      "date": "2023-11-04",
+      "description": "W/D Debit Card AMERICAN FIRST FINANCE 8585 N STEMMONS FWY Merchant Category Code: 6012",
+      "guid": "wrvxBX9wNLuQaq7KdRxqUBbyoP0QZ9UeaBLgA",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]"
+    },
+    {
+      "originalDescription": "Recurring W/D Debit Card JUST ENERGY 5251 WESTHEIMER RD STE 866-587 Merchant Category Code: 4900",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 257.59,
+      "date": "2023-11-23",
+      "description": "Recurring W/D Debit Card JUST ENERGY 5251 WESTHEIMER RD STE 866-587 Merchant Category Code: 4900",
+      "guid": "wrvxBX9wNLuQaq7KdRxqUBbyoP0QZ9UeaBLMg",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Utilities\",\"Electric\"]"
+    },
+    {
+      "originalDescription": "W/D Debit Card CASH APP*JOE DAVIS 1455 Market Street San Merchant Category Code: 4829",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 200.0,
+      "date": "2023-12-20",
+      "description": "W/D Debit Card CASH APP*JOE DAVIS 1455 Market Street San Merchant Category Code: 4829",
+      "guid": "wrvxBX9wNLuQaq7KdRxqUBbyoP0QZ9UeaBLyn",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "W/D at ATM #701388 000000000219050 Kroozin Market 249 Cu Houston TX NH106061 Merchant Category Code: 6011",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 202.99,
+      "date": "2023-12-15",
+      "description": "W/D at ATM #701388 000000000219050 Kroozin Market 249 Cu Houston TX NH106061 Merchant Category Code: 6011",
+      "guid": "x40V3nB6NDTdxV9YPwBVi3pEMBw7LQHAebMJ3",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "W/D Debit Card CASH APP*JOE DAVIS 1455 Market Street San Merchant Category Code: 4829",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 40.0,
+      "date": "2023-12-01",
+      "description": "W/D Debit Card CASH APP*JOE DAVIS 1455 Market Street San Merchant Category Code: 4829",
+      "guid": "x40V3nB6NDTdxV9YPwBVi3pEMBw7LQHAebMje",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "Deposit DEPOSIT TO 344432-0001",
+      "accountGuid": "wrvxBX9wNLuQaq7KdRxqUBbqgDqr76fRLQzEO",
+      "amount": 1984.76,
+      "date": "2023-12-08",
+      "description": "Deposit DEPOSIT TO 344432-0001",
+      "guid": "x40V3nB6NDTdxV9YPwBVi3pEMBw7LQHAebMO5",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Deposit\"]"
+    },
+    {
+      "originalDescription": "W/D at ATM #658484 HOUSTON #739-R 9125 W SAM HOUSTON HOUSTON TX KR003167 Merchant Category Code: 6011",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 80.0,
+      "date": "2023-11-17",
+      "description": "W/D at ATM #658484 HOUSTON #739-R 9125 W SAM HOUSTON HOUSTON TX KR003167 Merchant Category Code: 6011",
+      "guid": "x40V3nB6NDTdxV9YPwBVi3pEMBw7LQHAebMoe",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "W/D ACH Avant LLC 800-71 TYPE: avant.com ID: 4522190781 CO: Avant LLC 800-71 ACH Trace Number: 091000013813817",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 59.9,
+      "date": "2023-10-31",
+      "description": "W/D ACH Avant LLC 800-71 TYPE: avant.com ID: 4522190781 CO: Avant LLC 800-71 ACH Trace Number: 091000013813817",
+      "guid": "x40V3nB6NDTdxV9YPwBVi3pEMBw7LQHAebMyL",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]"
+    },
+    {
+      "originalDescription": "W/D Debit Card CASH APP*TJ DAVIS 1455 Market Street San F Merchant Category Code: 4829",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 20.0,
+      "date": "2024-01-01",
+      "description": "W/D Debit Card CASH APP*TJ DAVIS 1455 Market Street San F Merchant Category Code: 4829",
+      "guid": "x40V3nB6NDTdxV9YPwBVi3pgzQxxvLhA8Mwby",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "CVS",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 2.75,
+      "date": "2024-01-21",
+      "description": "CVS",
+      "guid": "x40V3nB6NDTdxV9YPwBVi3pgzQxxvLhA8Mwx0",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Pharmacies\"]"
+    },
+    {
+      "originalDescription": "Amazon Music",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 5.4,
+      "date": "2023-12-21",
+      "description": "Amazon Music",
+      "guid": "XxQbYd0LqgSVabBDgz9bIgjeam1yqEUOoN40n",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Music, Video and DVD\"]"
+    },
+    {
+      "originalDescription": "W/D Debit Card FREDDY'S 26-0016 1705 FRY RD STE B KATY TX Merchant Category Code: 5814",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 43.91,
+      "date": "2023-11-12",
+      "description": "W/D Debit Card FREDDY'S 26-0016 1705 FRY RD STE B KATY TX Merchant Category Code: 5814",
+      "guid": "XxQbYd0LqgSVabBDgz9bIgjeam1yqEUOoN46d",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "W/D Debit Card AMP FUNNEL CAKE 2 5000 Katy Mills Circ Merchant Category Code: 5814",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 19.0,
+      "date": "2023-12-09",
+      "description": "W/D Debit Card AMP FUNNEL CAKE 2 5000 Katy Mills Circ Merchant Category Code: 5814",
+      "guid": "XxQbYd0LqgSVabBDgz9bIgjeam1yqEUOoN4Od",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Food and Beverage Store\"]"
+    },
+    {
+      "originalDescription": "Recurring W/D Debit Card APPLE.COM/BILL ONE APPLE PARK WAY 866-712- Merchant Category Code: 5818",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 10.81,
+      "date": "2023-12-12",
+      "description": "Recurring W/D Debit Card APPLE.COM/BILL ONE APPLE PARK WAY 866-712- Merchant Category Code: 5818",
+      "guid": "XxQbYd0LqgSVabBDgz9bIgjeam1yqEUOoN4On",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Digital Purchase\"]"
+    },
+    {
+      "originalDescription": "ExxonMobil",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 22.28,
+      "date": "2023-11-26",
+      "description": "ExxonMobil",
+      "guid": "XxQbYd0LqgSVabBDgz9bIgjeam1yqEUOoN4Pd",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "Amazon",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 108.24,
+      "date": "2023-10-25",
+      "description": "Amazon",
+      "guid": "XxQbYd0LqgSVabBDgz9bIgjeam1yqEUOoN4Xw",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Digital Purchase\"]"
+    },
+    {
+      "originalDescription": "W/D NON-ACU ATM FEE P478018 ROADSTER RIC-478018 HOUSTON TX P478018 Merchant Category Code: 6011",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 2.0,
+      "date": "2023-11-07",
+      "description": "W/D NON-ACU ATM FEE P478018 ROADSTER RIC-478018 HOUSTON TX P478018 Merchant Category Code: 6011",
+      "guid": "XxQbYd0LqgSVabBDgz9bIgjeam1yqEUOoN4yw",
+      "type": "DEBIT",
+      "category": "[\"Bank Fees\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "Kroger",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 63.07,
+      "date": "2024-01-15",
+      "description": "Kroger",
+      "guid": "XxQbYd0LqgSVabBDgz9bIgjO7ELLDqcOn4ALk",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "W/D Debit Card TikTok Shop 250 Bryant Street Mountain Vie Merchant Category Code: 5399",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 9.15,
+      "date": "2024-01-10",
+      "description": "W/D Debit Card TikTok Shop 250 Bryant Street Mountain Vie Merchant Category Code: 5399",
+      "guid": "XxQbYd0LqgSVabBDgz9bIgjO7ELLDqcOn4ANm",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Clothing and Accessories\",\"Women\\u0027s Store\"]"
+    },
+    {
+      "originalDescription": "Netflix",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 24.89,
+      "date": "2023-12-26",
+      "description": "Netflix",
+      "guid": "XxQbYd0LqgSVabBDgz9bIgjO7ELLDqcOn4AZm",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Subscription\"]"
+    },
+    {
+      "originalDescription": "McDonald's",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 11.45,
+      "date": "2023-12-17",
+      "description": "McDonald's",
+      "guid": "yajAynoLN1cwJo3Y8q5oIyq9O5AvLnHD4yO3R",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "W/D NON-ACU ATM FEE A365767 EXPRESS FUEL-365767 HOUSTON TX A365767 Merchant Category Code: 6011",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 2.0,
+      "date": "2023-11-02",
+      "description": "W/D NON-ACU ATM FEE A365767 EXPRESS FUEL-365767 HOUSTON TX A365767 Merchant Category Code: 6011",
+      "guid": "yajAynoLN1cwJo3Y8q5oIyq9O5AvLnHD4yO9B",
+      "type": "DEBIT",
+      "category": "[\"Bank Fees\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "W/D ACH CONCORA CREDIT TYPE: PAYMENT ID: 9044036529 CO: CONCORA CREDIT NAME: DAVIS JERALD ACH Trace Number: 043305138963725",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 40.0,
+      "date": "2023-11-21",
+      "description": "W/D ACH CONCORA CREDIT TYPE: PAYMENT ID: 9044036529 CO: CONCORA CREDIT NAME: DAVIS JERALD ACH Trace Number: 043305138963725",
+      "guid": "yajAynoLN1cwJo3Y8q5oIyq9O5AvLnHD4yOaP",
+      "type": "DEBIT",
+      "category": "[\"Payment\",\"Credit Card\"]"
+    },
+    {
+      "originalDescription": "Kroger",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 46.59,
+      "date": "2023-12-04",
+      "description": "Kroger",
+      "guid": "yajAynoLN1cwJo3Y8q5oIyq9O5AvLnHD4yOoP",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "W/D Debit Card IDEMIA TSA TWIC 296 CONCORD ROAD STE 30 87 Merchant Category Code: 9399",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 117.25,
+      "date": "2024-01-06",
+      "description": "W/D Debit Card IDEMIA TSA TWIC 296 CONCORD ROAD STE 30 87 Merchant Category Code: 9399",
+      "guid": "yajAynoLN1cwJo3Y8q5oIyqDNnddJLHD8OeyL",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "W/D ACH FREEDOM TYPE: MTG PYMTS ID: 1223039688 CO: FREEDOM NAME: JEROLD D DAVIS ACH Trace Number: 041001038536418",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 1690.91,
+      "date": "2024-01-09",
+      "description": "W/D ACH FREEDOM TYPE: MTG PYMTS ID: 1223039688 CO: FREEDOM NAME: JEROLD D DAVIS ACH Trace Number: 041001038536418",
+      "guid": "YJZbYwxDBgcAZx6MeQ1xCd0KrvDDqoInbQkMv",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]"
+    },
+    {
+      "originalDescription": "W/D Digital Banking Transfer REF # 2671526 To Loan 5522########3252",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 345.0,
+      "date": "2023-12-26",
+      "description": "W/D Digital Banking Transfer REF # 2671526 To Loan 5522########3252",
+      "guid": "YJZbYwxDBgcAZx6MeQ1xCd0KrvDDqoInbQkZv",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]"
+    },
+    {
+      "originalDescription": "W/D Debit Card CRAFTY CRAB HOUSTON 17460 NORTHWEST FREEWA Merchant Category Code: 5812",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 24.06,
+      "date": "2023-11-11",
+      "description": "W/D Debit Card CRAFTY CRAB HOUSTON 17460 NORTHWEST FREEWA Merchant Category Code: 5812",
+      "guid": "YJZbYwxDBgcAZx6MeQ1xCd0VAB8govFn0MQ9w",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "W/D ACH AFFIRM INC TYPE: AFFIRM PAY ID: 0000317218 CO: AFFIRM INC NAME: Jerald *Davis ACH Trace Number: 021000027781229",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 21.62,
+      "date": "2023-10-25",
+      "description": "W/D ACH AFFIRM INC TYPE: AFFIRM PAY ID: 0000317218 CO: AFFIRM INC NAME: Jerald *Davis ACH Trace Number: 021000027781229",
+      "guid": "YJZbYwxDBgcAZx6MeQ1xCd0VAB8govFn0MQdR",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]"
+    },
+    {
+      "originalDescription": "W/D ACH Synchrony Bank TYPE: CC PYMT ID: 9856794001 CO: Synchrony Bank ACH Trace Number: 021000028963621",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 82.0,
+      "date": "2023-12-11",
+      "description": "W/D ACH Synchrony Bank TYPE: CC PYMT ID: 9856794001 CO: Synchrony Bank ACH Trace Number: 021000028963621",
+      "guid": "YJZbYwxDBgcAZx6MeQ1xCd0VAB8govFn0MQnM",
+      "type": "DEBIT",
+      "category": "[\"Payment\",\"Credit Card\"]"
+    },
+    {
+      "originalDescription": "Kroger",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 60.86,
+      "date": "2024-01-20",
+      "description": "Kroger",
+      "guid": "Z8pbY631dgT90Byb5ZJBI9wYQ411A7CzdRYaM",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Recurring W/D Debit Card SP JUVENON 774 Mays Blvd Ste 10-48 INCLINE Merchant Category Code: 5399",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 29.96,
+      "date": "2024-01-09",
+      "description": "Recurring W/D Debit Card SP JUVENON 774 Mays Blvd Ste 10-48 INCLINE Merchant Category Code: 5399",
+      "guid": "zxrZKnjDNPS68ymYdVNyfKjr9EXXP4czQO0bQ",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "W/D Debit Card SOTOS CANTINA 10609 GRANT RD HOUSTON TX Merchant Category Code: 5812",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 47.05,
+      "date": "2023-12-31",
+      "description": "W/D Debit Card SOTOS CANTINA 10609 GRANT RD HOUSTON TX Merchant Category Code: 5812",
+      "guid": "Z8pbY631dgT90Byb5ZJBI9wYQ411A7CzdRYgE",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "W/D Debit Card CASH APP*CAM 1455 Market Street San Franci Merchant Category Code: 4829",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 213.0,
+      "date": "2023-12-26",
+      "description": "W/D Debit Card CASH APP*CAM 1455 Market Street San Franci Merchant Category Code: 4829",
+      "guid": "zxrZKnjDNPS68ymYdVNyfKjr9EXXP4czQO0PQ",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "Recurring W/D Debit Card APPLE.COM/BILL ONE APPLE PARK WAY 866-712- Merchant Category Code: 5818",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 35.17,
+      "date": "2023-12-21",
+      "description": "Recurring W/D Debit Card APPLE.COM/BILL ONE APPLE PARK WAY 866-712- Merchant Category Code: 5818",
+      "guid": "YJZbYwxDBgcAZx6MeQ1xCd0VAB8govFn0MQwM",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Digital Purchase\"]"
+    },
+    {
+      "originalDescription": "Deposit ACH ARCTIC TESTING TYPE: ATI 122223 ID: 4842147913 CO: ARCTIC TESTING ACH Trace Number: 091000010661979",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 2577.11,
+      "date": "2023-12-20",
+      "description": "Deposit ACH ARCTIC TESTING TYPE: ATI 122223 ID: 4842147913 CO: ARCTIC TESTING ACH Trace Number: 091000010661979",
+      "guid": "zxrZKnjDNPS68ymYdVNyfKjDONZd4EczgbOdP",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Payroll\"]"
+    },
+    {
+      "originalDescription": "W/D POS FLYING J #729 HOUSTON TX Merchant Category Code: 5542",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 52.44,
+      "date": "2023-10-28",
+      "description": "W/D POS FLYING J #729 HOUSTON TX Merchant Category Code: 5542",
+      "guid": "Z8pbY631dgT90Byb5ZJBI9wpKXBx74sz0gRjb",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "Amazon",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 25.95,
+      "date": "2023-12-14",
+      "description": "Amazon",
+      "guid": "Z8pbY631dgT90Byb5ZJBI9wpKXBx74sz0gRVp",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Digital Purchase\"]"
+    },
+    {
+      "originalDescription": "W/D ACH Synchrony Bank TYPE: CC PYMT ID: 9856794001 CO: Synchrony Bank ACH Trace Number: 021000028953528",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 63.0,
+      "date": "2023-12-11",
+      "description": "W/D ACH Synchrony Bank TYPE: CC PYMT ID: 9856794001 CO: Synchrony Bank ACH Trace Number: 021000028953528",
+      "guid": "zxrZKnjDNPS68ymYdVNyfKjDONZd4EczgbOzP",
+      "type": "DEBIT",
+      "category": "[\"Payment\",\"Credit Card\"]"
+    },
+    {
+      "originalDescription": "W/D Debit Card VIDA MARISCOS - CYPRES 22400 STATE HIGHWAY Merchant Category Code: 5812",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 115.75,
+      "date": "2023-12-08",
+      "description": "W/D Debit Card VIDA MARISCOS - CYPRES 22400 STATE HIGHWAY Merchant Category Code: 5812",
+      "guid": "YJZbYwxDBgcAZx6MeQ1xCd0VAB8govFn0MQnw",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "W/D POS O'REILLY 454 HOUSTON SD Merchant Category Code: 5533",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 51.69,
+      "date": "2023-12-08",
+      "description": "W/D POS O'REILLY 454 HOUSTON SD Merchant Category Code: 5533",
+      "guid": "zxrZKnjDNPS68ymYdVNyfKjDONZd4EczgbOzz",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "Comcast",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 87.45,
+      "date": "2023-11-06",
+      "description": "Comcast",
+      "guid": "zxrZKnjDNPS68ymYdVNyfKjDONZd4EczgbOR0",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Cable\"]"
+    },
+    {
+      "originalDescription": "W/D Debit Card CANTEEN VENDING 11600 BIG JOHN KATY TX Merchant Category Code: 5814",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 1.1,
+      "date": "2023-11-30",
+      "description": "W/D Debit Card CANTEEN VENDING 11600 BIG JOHN KATY TX Merchant Category Code: 5814",
+      "guid": "Z8pbY631dgT90Byb5ZJBI9wpKXBx74sz0gR9d",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\"]"
+    },
+    {
+      "originalDescription": "W/D Debit Card ASC RIFLE AND PISTOL 16500 WESTHEIMER PKWY Merchant Category Code: 7032",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 37.89,
+      "date": "2023-11-06",
+      "description": "W/D Debit Card ASC RIFLE AND PISTOL 16500 WESTHEIMER PKWY Merchant Category Code: 7032",
+      "guid": "YJZbYwxDBgcAZx6MeQ1xCd0VAB8govFn0MQYR",
+      "type": "DEBIT",
+      "category": "[\"Recreation\"]"
+    },
+    {
+      "originalDescription": "W/D Debit Card SCOTT GERTNER S RHYTHM 5535 MEMORIAL DR ST Merchant Category Code: 5812",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 56.82,
+      "date": "2023-11-24",
+      "description": "W/D Debit Card SCOTT GERTNER S RHYTHM 5535 MEMORIAL DR ST Merchant Category Code: 5812",
+      "guid": "YJZbYwxDBgcAZx6MeQ1xCd0VAB8govFn0MQpw",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "W/D POS BUC-EE'S #40 27700 KAT KATY TX Merchant Category Code: 5411",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 40.7,
+      "date": "2023-11-24",
+      "description": "W/D POS BUC-EE'S #40 27700 KAT KATY TX Merchant Category Code: 5411",
+      "guid": "zxrZKnjDNPS68ymYdVNyfKjDONZd4EczgbOBz",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Convenience Stores\"]"
+    },
+    {
+      "originalDescription": "W/D Adjustment Debit Card Credit Voucher TIKTOK SHOP 5800 Bristol Parkway CULVER CI Date 11/10/23 0 0000423639 9 5399 Merchant Category Code: 5399",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 55.0,
+      "date": "2023-11-10",
+      "description": "W/D Adjustment Debit Card Credit Voucher TIKTOK SHOP 5800 Bristol Parkway CULVER CI Date 11/10/23 0 0000423639 9 5399 Merchant Category Code: 5399",
+      "guid": "zxrZKnjDNPS68ymYdVNyfKjDONZd4EczgbOKz",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "W/D Debit Card eBay O*10-10798-40506 2535 North First Str Merchant Category Code: 5311",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 96.34,
+      "date": "2023-11-16",
+      "description": "W/D Debit Card eBay O*10-10798-40506 2535 North First Str Merchant Category Code: 5311",
+      "guid": "Z8pbY631dgT90Byb5ZJBI9wpKXBx74sz0gRvd",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Digital Purchase\"]"
+    },
+    {
+      "originalDescription": "W/D ACH WEX INC TYPE: FLEET DEBI ID: 0841425616 CO: WEX INC ACH Trace Number: 071000283946942",
+      "accountGuid": "6xP9qYN6dwSMeDBxo9rDCdPVbKV1RjCAa8zed",
+      "amount": 160.0,
+      "date": "2024-01-23",
+      "description": "W/D ACH WEX INC TYPE: FLEET DEBI ID: 0841425616 CO: WEX INC ACH Trace Number: 071000283946942",
+      "guid": "Z8pbY631dgT90Byb5ZJBIPZN4v8vjgHz1V5rY",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]"
+    }
+  ],
+  "asOfDate": "2024-01-23"
+}

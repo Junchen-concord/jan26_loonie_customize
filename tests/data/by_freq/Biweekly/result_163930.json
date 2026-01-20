@@ -1,0 +1,952 @@
+{
+  "accounts": [
+    {
+      "accountGuid": "33edezpvKbFD4BgAqryoI9dQEbDYgAuz0ev6q",
+      "currentBalance": 38.48,
+      "currentBalanceDate": "2024-01-04"
+    }
+  ],
+  "transactions": [
+    {
+      "originalDescription": "TIKTOK SHOP XXXXX0896",
+      "accountGuid": "33edezpvKbFD4BgAqryoI9dQEbDYgAuz0ev6q",
+      "amount": 25.99,
+      "date": "2024-01-04",
+      "description": "TIKTOK SHOP XXXXX0896",
+      "guid": "verPrZ45XDSZPDv19ErDhPyJ83Do0JH7Xarnn",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "POS PURCHASE POS001 1115767 Love's #0580 O",
+      "accountGuid": "33edezpvKbFD4BgAqryoI9dQEbDYgAuz0ev6q",
+      "amount": 41.0,
+      "date": "2024-01-04",
+      "description": "POS PURCHASE POS001 1115767 Love's #0580 O",
+      "guid": "AZMJM9zBoYF3geNmE7Xetq1Ox7X8gOsBYLPXY",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "RECURRING DEBIT CARD XXXXX6363 Roku for WarnerMedia G XXXXX8107 DE",
+      "accountGuid": "33edezpvKbFD4BgAqryoI9dQEbDYgAuz0ev6q",
+      "amount": 103.99,
+      "date": "2023-12-29",
+      "description": "RECURRING DEBIT CARD XXXXX6363 Roku for WarnerMedia G XXXXX8107 DE",
+      "guid": "ZVjLjrz3xmHyBOpvQgq9h9QxOV3ZjgIXeE1R0",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Music, Video and DVD\"]"
+    },
+    {
+      "originalDescription": "Amazon",
+      "accountGuid": "33edezpvKbFD4BgAqryoI9dQEbDYgAuz0ev6q",
+      "amount": 102.59,
+      "date": "2024-01-02",
+      "description": "Amazon",
+      "guid": "xeagaZxBQPS9VXpqoO7dS3z74KejY5fY7gZM6",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Digital Purchase\"]"
+    },
+    {
+      "originalDescription": "PPAPPLECOMBILL XXXXX7733",
+      "accountGuid": "33edezpvKbFD4BgAqryoI9dQEbDYgAuz0ev6q",
+      "amount": 8.43,
+      "date": "2023-12-21",
+      "description": "PPAPPLECOMBILL XXXXX7733",
+      "guid": "VVkrkPzvjDH0r8p5YeL7HoQBJXya7Mi6P8ero",
+      "type": "DEBIT",
+      "category": "[\"Service\"]"
+    },
+    {
+      "originalDescription": "Amazon",
+      "accountGuid": "33edezpvKbFD4BgAqryoI9dQEbDYgAuz0ev6q",
+      "amount": 29.37,
+      "date": "2023-12-18",
+      "description": "Amazon",
+      "guid": "REBOB3zPkdHk3Av8Zdj5S0yDB4dA3ZtbX5NyJ",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Digital Purchase\"]"
+    },
+    {
+      "originalDescription": "Amazon",
+      "accountGuid": "33edezpvKbFD4BgAqryoI9dQEbDYgAuz0ev6q",
+      "amount": 86.26,
+      "date": "2023-12-18",
+      "description": "Amazon",
+      "guid": "QVqxqrz1K0HNJ5ARya3ZFkL9qzd5bPUgAeXEA",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Digital Purchase\"]"
+    },
+    {
+      "originalDescription": "ZEL FROM GABRIEL RIVERA-ESPINOZA",
+      "accountGuid": "33edezpvKbFD4BgAqryoI9dQEbDYgAuz0ev6q",
+      "amount": 1.0,
+      "date": "2023-12-18",
+      "description": "ZEL FROM GABRIEL RIVERA-ESPINOZA",
+      "guid": "peKaKXkYn7SKeVB63aJLTwjeBKroqAuNpnqJX",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Payroll\"]"
+    },
+    {
+      "originalDescription": "PPAPPLECOMBILL XXXXX7733",
+      "accountGuid": "33edezpvKbFD4BgAqryoI9dQEbDYgAuz0ev6q",
+      "amount": 5.99,
+      "date": "2023-12-21",
+      "description": "PPAPPLECOMBILL XXXXX7733",
+      "guid": "OV1P17zL3AH1QmRAZz4JiqBNJVXKvOuXQDr8q",
+      "type": "DEBIT",
+      "category": "[\"Service\"]"
+    },
+    {
+      "originalDescription": "MOBILE DEPOSIT XXXXX8903",
+      "accountGuid": "33edezpvKbFD4BgAqryoI9dQEbDYgAuz0ev6q",
+      "amount": 47.95,
+      "date": "2023-12-28",
+      "description": "MOBILE DEPOSIT XXXXX8903",
+      "guid": "oey0yaKVQXSY7gm6RBONSbMOma8q5gtpRMXBw",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Deposit\"]"
+    },
+    {
+      "originalDescription": "ZEL FROM GABRIEL RIVERA-ESPINOZA",
+      "accountGuid": "33edezpvKbFD4BgAqryoI9dQEbDYgAuz0ev6q",
+      "amount": 99.0,
+      "date": "2023-12-18",
+      "description": "ZEL FROM GABRIEL RIVERA-ESPINOZA",
+      "guid": "ne393qyxQ7S8e5PNgD60TYNyP0DZ98U51JDAb",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "RECURRING DEBIT CARD XXXXX6354 Roku for Starz XXXXX8107 DE",
+      "accountGuid": "33edezpvKbFD4BgAqryoI9dQEbDYgAuz0ev6q",
+      "amount": 10.39,
+      "date": "2023-12-20",
+      "description": "RECURRING DEBIT CARD XXXXX6354 Roku for Starz XXXXX8107 DE",
+      "guid": "MYLxLjzwqKFoOQ3BDE9aibvaLM7QmKtDvqxME",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Music, Video and DVD\"]"
+    },
+    {
+      "originalDescription": "Amazon",
+      "accountGuid": "33edezpvKbFD4BgAqryoI9dQEbDYgAuz0ev6q",
+      "amount": 161.99,
+      "date": "2024-01-02",
+      "description": "Amazon",
+      "guid": "JVdLdZzADBHp7wPx4vyjsAqag84w1pU6K5jbO",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Digital Purchase\"]"
+    },
+    {
+      "originalDescription": "ACH CREDIT 070029 D&MM2 MANAGEMENT EPAY",
+      "accountGuid": "33edezpvKbFD4BgAqryoI9dQEbDYgAuz0ev6q",
+      "amount": 486.87,
+      "date": "2023-12-28",
+      "description": "ACH CREDIT 070029 D&MM2 MANAGEMENT EPAY",
+      "guid": "ge6y6KL9Q7SaepZ8qXdPiPZLv3KMx4FBrOoqP",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "POS PURCHASE POS06895069 1265629 ROSS STORES #1",
+      "accountGuid": "33edezpvKbFD4BgAqryoI9dQEbDYgAuz0ev6q",
+      "amount": 67.48,
+      "date": "2023-12-19",
+      "description": "POS PURCHASE POS06895069 1265629 ROSS STORES #1",
+      "guid": "EgMkMQzA9Lsm1BwYbVQKTJ374KzB9MtrOv3p0",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Clothing and Accessories\"]"
+    },
+    {
+      "originalDescription": "AFTERPAY XXXXX9601",
+      "accountGuid": "33edezpvKbFD4BgAqryoI9dQEbDYgAuz0ev6q",
+      "amount": 10.53,
+      "date": "2023-12-15",
+      "description": "AFTERPAY XXXXX9601",
+      "guid": "eed3dowvQ7S7ej9xbJ31i1eQ8k6NPMiM05pdd",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Digital Purchase\"]"
+    },
+    {
+      "originalDescription": "DEPOSIT XXXXX5906",
+      "accountGuid": "33edezpvKbFD4BgAqryoI9dQEbDYgAuz0ev6q",
+      "amount": 175.0,
+      "date": "2023-12-28",
+      "description": "DEPOSIT XXXXX5906",
+      "guid": "bembmPzv7RS9V7YjyN4BS3N8OgMax1fNkL0qY",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Deposit\"]"
+    },
+    {
+      "originalDescription": "Netflix",
+      "accountGuid": "33edezpvKbFD4BgAqryoI9dQEbDYgAuz0ev6q",
+      "amount": 25.06,
+      "date": "2024-01-02",
+      "description": "Netflix",
+      "guid": "apZAZQzXg0Cwme9qAxQrirPmO9zeJ6CR0VoZQ",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Subscription\"]"
+    },
+    {
+      "originalDescription": "PPAPPLECOMBILL XXXXX7733",
+      "accountGuid": "33edezpvKbFD4BgAqryoI9dQEbDYgAuz0ev6q",
+      "amount": 10.99,
+      "date": "2023-12-21",
+      "description": "PPAPPLECOMBILL XXXXX7733",
+      "guid": "90MPMEpzretJNOzaDd6ribD0dL9RENtVvRYd9",
+      "type": "DEBIT",
+      "category": "[\"Service\"]"
+    },
+    {
+      "originalDescription": "Walmart",
+      "accountGuid": "33edezpvKbFD4BgAqryoI9dQEbDYgAuz0ev6q",
+      "amount": 100.01,
+      "date": "2023-12-29",
+      "description": "Walmart",
+      "guid": "8vMQMzp7j5UQoeO4LzwqhKpABOy9EaUpozMya",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "PPAPPLECOMBILL XXXXX7733",
+      "accountGuid": "33edezpvKbFD4BgAqryoI9dQEbDYgAuz0ev6q",
+      "amount": 2.99,
+      "date": "2023-12-21",
+      "description": "PPAPPLECOMBILL XXXXX7733",
+      "guid": "7Az9zEen04cN16RrJ5dAFOjX8aEJQdTwbRvQJ",
+      "type": "DEBIT",
+      "category": "[\"Service\"]"
+    },
+    {
+      "originalDescription": "Amazon",
+      "accountGuid": "33edezpvKbFD4BgAqryoI9dQEbDYgAuz0ev6q",
+      "amount": 81.88,
+      "date": "2023-12-29",
+      "description": "Amazon",
+      "guid": "5KM6MgpeAOFjb150dykmuqOBK7RoNauyrRJBJ",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Digital Purchase\"]"
+    },
+    {
+      "originalDescription": "AFTERPAY XXXXX9601",
+      "accountGuid": "33edezpvKbFD4BgAqryoI9dQEbDYgAuz0ev6q",
+      "amount": 10.52,
+      "date": "2023-10-26",
+      "description": "AFTERPAY XXXXX9601",
+      "guid": "ZVjLjrz3xmHyBOpvQgq9h9Q4449yoKSPo98pNx",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Digital Purchase\"]"
+    },
+    {
+      "originalDescription": "ATM BALANCE INQUIRY FEE",
+      "accountGuid": "33edezpvKbFD4BgAqryoI9dQEbDYgAuz0ev6q",
+      "amount": 3.0,
+      "date": "2023-12-01",
+      "description": "ATM BALANCE INQUIRY FEE",
+      "guid": "ZVjLjrz3xmHyBOpvQgq9h9Q4449yoKSPo98pBx",
+      "type": "DEBIT",
+      "category": "[\"Bank Fees\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "POS PURCHASE POS001 1206107 Love's #0580 O",
+      "accountGuid": "33edezpvKbFD4BgAqryoI9dQEbDYgAuz0ev6q",
+      "amount": 40.93,
+      "date": "2023-11-15",
+      "description": "POS PURCHASE POS001 1206107 Love's #0580 O",
+      "guid": "zeJmJg8jQBSmyqg3xwr6TK9EEEKpmOCkjBMLpD",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "ACH CREDIT 070029 D&MM2 MANAGEMENT EPAY",
+      "accountGuid": "33edezpvKbFD4BgAqryoI9dQEbDYgAuz0ev6q",
+      "amount": 551.24,
+      "date": "2023-10-19",
+      "description": "ACH CREDIT 070029 D&MM2 MANAGEMENT EPAY",
+      "guid": "zeJmJg8jQBSmyqg3xwr6TK9EEEKpmOCkjBML7D",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "N1214 5366 PAYMENT POSbrigit01 1247157 Brigit",
+      "accountGuid": "33edezpvKbFD4BgAqryoI9dQEbDYgAuz0ev6q",
+      "amount": 50.0,
+      "date": "2023-12-14",
+      "description": "N1214 5366 PAYMENT POSbrigit01 1247157 Brigit",
+      "guid": "zeJmJg8jQBSmyqg3xwr6TK9danVJ71Ua7qoOM",
+      "type": "DEBIT",
+      "category": "[\"Payment\"]"
+    },
+    {
+      "originalDescription": "Amazon.com*TP23Z8511 Amzn.com/bi",
+      "accountGuid": "33edezpvKbFD4BgAqryoI9dQEbDYgAuz0ev6q",
+      "amount": 11.08,
+      "date": "2023-10-19",
+      "description": "Amazon.com*TP23Z8511 Amzn.com/bi",
+      "guid": "YV060AzxaqH6xgV3YqmATdrvvvd63At7opzDLO",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Digital Purchase\"]"
+    },
+    {
+      "originalDescription": "ACH CREDIT 070029 D&MM2 MANAGEMENT EPAY",
+      "accountGuid": "33edezpvKbFD4BgAqryoI9dQEbDYgAuz0ev6q",
+      "amount": 738.07,
+      "date": "2023-11-16",
+      "description": "ACH CREDIT 070029 D&MM2 MANAGEMENT EPAY",
+      "guid": "YV060AzxaqH6xgV3YqmATdrvvvd63At7opzDAO",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "ATM WITHDRAWAL PNCPJ4435 N1214 5366 606 AVALON AVE MUSCLE SHOAL",
+      "accountGuid": "33edezpvKbFD4BgAqryoI9dQEbDYgAuz0ev6q",
+      "amount": 300.0,
+      "date": "2023-12-14",
+      "description": "ATM WITHDRAWAL PNCPJ4435 N1214 5366 606 AVALON AVE MUSCLE SHOAL",
+      "guid": "YV060AzxaqH6xgV3YqmATdrgewPaxMCNLgyQJ",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "Amazon",
+      "accountGuid": "33edezpvKbFD4BgAqryoI9dQEbDYgAuz0ev6q",
+      "amount": 47.5,
+      "date": "2023-11-06",
+      "description": "Amazon",
+      "guid": "yex0xVJoQqS3ojrBadpwhyNnnnyE3OfPqoRAEO",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Digital Purchase\"]"
+    },
+    {
+      "originalDescription": "Walmart",
+      "accountGuid": "33edezpvKbFD4BgAqryoI9dQEbDYgAuz0ev6q",
+      "amount": 53.99,
+      "date": "2023-12-15",
+      "description": "Walmart",
+      "guid": "XOvwvkz04PcBbAQknP1Vhg7yJ0rzbNUMYkR47",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "POS RETURN POS00000000 4216275 AMAZON.COM",
+      "accountGuid": "33edezpvKbFD4BgAqryoI9dQEbDYgAuz0ev6q",
+      "amount": 54.0,
+      "date": "2023-10-23",
+      "description": "POS RETURN POS00000000 4216275 AMAZON.COM",
+      "guid": "XOvwvkz04PcBbAQknP1Vhg7EEEgBkaTj9PzxYR",
+      "type": "CREDIT",
+      "category": "[\"Shops\",\"Digital Purchase\"]"
+    },
+    {
+      "originalDescription": "Burger King",
+      "accountGuid": "33edezpvKbFD4BgAqryoI9dQEbDYgAuz0ev6q",
+      "amount": 14.85,
+      "date": "2023-11-17",
+      "description": "Burger King",
+      "guid": "XOvwvkz04PcBbAQknP1Vhg7EEEgBkaTj9PzxvR",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "MOBILE DEPOSIT XXXXX4352",
+      "accountGuid": "33edezpvKbFD4BgAqryoI9dQEbDYgAuz0ev6q",
+      "amount": 23.0,
+      "date": "2023-10-30",
+      "description": "MOBILE DEPOSIT XXXXX4352",
+      "guid": "xeagaZxBQPS9VXpqoO7dS3zQQQ3N9MipqjmBNV",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Deposit\"]"
+    },
+    {
+      "originalDescription": "Walmart",
+      "accountGuid": "33edezpvKbFD4BgAqryoI9dQEbDYgAuz0ev6q",
+      "amount": 67.27,
+      "date": "2023-12-04",
+      "description": "Walmart",
+      "guid": "xeagaZxBQPS9VXpqoO7dS3zQQQ3N9MipqjmB0V",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "McDonald's",
+      "accountGuid": "33edezpvKbFD4BgAqryoI9dQEbDYgAuz0ev6q",
+      "amount": 20.99,
+      "date": "2023-11-13",
+      "description": "McDonald's",
+      "guid": "wY4g45a9Q1F7q80n9OrQiBY999Bm7oHJkMRwm8",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "AFTERPAY XXXXX9601",
+      "accountGuid": "33edezpvKbFD4BgAqryoI9dQEbDYgAuz0ev6q",
+      "amount": 10.52,
+      "date": "2023-12-01",
+      "description": "AFTERPAY XXXXX9601",
+      "guid": "VVkrkPzvjDH0r8p5YeL7HoQnnno09juJvanEZ1",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Digital Purchase\"]"
+    },
+    {
+      "originalDescription": "Amazon",
+      "accountGuid": "33edezpvKbFD4BgAqryoI9dQEbDYgAuz0ev6q",
+      "amount": 9.71,
+      "date": "2023-10-24",
+      "description": "Amazon",
+      "guid": "VVkrkPzvjDH0r8p5YeL7HoQnnno09juJvanEP1",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Digital Purchase\"]"
+    },
+    {
+      "originalDescription": "TitleMax",
+      "accountGuid": "33edezpvKbFD4BgAqryoI9dQEbDYgAuz0ev6q",
+      "amount": 370.0,
+      "date": "2023-11-03",
+      "description": "TitleMax",
+      "guid": "verPrZ45XDSZPDv19ErzHq3777q5ZmFPK7pn5k",
+      "type": "DEBIT",
+      "category": "[\"Service\"]"
+    },
+    {
+      "originalDescription": "McDonald's",
+      "accountGuid": "33edezpvKbFD4BgAqryoI9dQEbDYgAuz0ev6q",
+      "amount": 11.9,
+      "date": "2023-11-02",
+      "description": "McDonald's",
+      "guid": "remEmBvKYdSzBgynOZ8NCLq555LxgBCjNAr1xb",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "POS PURCHASE POS87390001 4216277 ATS FLORENCE 2",
+      "accountGuid": "33edezpvKbFD4BgAqryoI9dQEbDYgAuz0ev6q",
+      "amount": 92.2,
+      "date": "2023-10-23",
+      "description": "POS PURCHASE POS87390001 4216277 ATS FLORENCE 2",
+      "guid": "REBOB3zPkdHk3Av8Zdj5S0ywww0aNqHrad9nXk",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "Amazon",
+      "accountGuid": "33edezpvKbFD4BgAqryoI9dQEbDYgAuz0ev6q",
+      "amount": 488.14,
+      "date": "2023-11-20",
+      "description": "Amazon",
+      "guid": "REBOB3zPkdHk3Av8Zdj5S0ywww0aNqHrad9nJk",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Digital Purchase\"]"
+    },
+    {
+      "originalDescription": "AFTERPAY XXXXX9601",
+      "accountGuid": "33edezpvKbFD4BgAqryoI9dQEbDYgAuz0ev6q",
+      "amount": 7.5,
+      "date": "2023-10-23",
+      "description": "AFTERPAY XXXXX9601",
+      "guid": "QVqxqrz1K0HNJ5ARya3ZFkLgggkvK4CoVb9LAn",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Digital Purchase\"]"
+    },
+    {
+      "originalDescription": "TIKTOK SHOP HTTPSSHOP.T",
+      "accountGuid": "33edezpvKbFD4BgAqryoI9dQEbDYgAuz0ev6q",
+      "amount": 70.25,
+      "date": "2023-11-20",
+      "description": "TIKTOK SHOP HTTPSSHOP.T",
+      "guid": "QVqxqrz1K0HNJ5ARya3ZFkLgggkvK4CoVb9L3n",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Walmart",
+      "accountGuid": "33edezpvKbFD4BgAqryoI9dQEbDYgAuz0ev6q",
+      "amount": 12.93,
+      "date": "2023-11-08",
+      "description": "Walmart",
+      "guid": "qekqk9AYNESe7K3dno8LT60eee6wXJC59r18wz",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "POS PURCHASE POS06600031 1179364 WM SUPERCENTER MUSCLE SHOAL",
+      "accountGuid": "33edezpvKbFD4BgAqryoI9dQEbDYgAuz0ev6q",
+      "amount": 9.2,
+      "date": "2023-11-08",
+      "description": "POS PURCHASE POS06600031 1179364 WM SUPERCENTER MUSCLE SHOAL",
+      "guid": "PVPXPqzDyvHVKBkn5v98Ujy999jPOAI5R7OpvB",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "TRANSFER FROM XXXXX4942",
+      "accountGuid": "33edezpvKbFD4BgAqryoI9dQEbDYgAuz0ev6q",
+      "amount": 1.0,
+      "date": "2023-10-23",
+      "description": "TRANSFER FROM XXXXX4942",
+      "guid": "peKaKXkYn7SKeVB63aJLTwjvvvwPQJhLRQAypv",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "RECURRING DEBIT CARD XXXXX6297 MCW52 XXXXX3229",
+      "accountGuid": "33edezpvKbFD4BgAqryoI9dQEbDYgAuz0ev6q",
+      "amount": 29.99,
+      "date": "2023-10-24",
+      "description": "RECURRING DEBIT CARD XXXXX6297 MCW52 XXXXX3229",
+      "guid": "OV1P17zL3AH1QmRAZz4JiqBzzzqPRgFPjNpbQj",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Debit\"]"
+    },
+    {
+      "originalDescription": "ATT BILL PAYMENT XXXXX0500",
+      "accountGuid": "33edezpvKbFD4BgAqryoI9dQEbDYgAuz0ev6q",
+      "amount": 344.12,
+      "date": "2023-12-01",
+      "description": "ATT BILL PAYMENT XXXXX0500",
+      "guid": "OV1P17zL3AH1QmRAZz4JiqBzzzqPRgFPjNpbLj",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Telecommunication Services\"]"
+    },
+    {
+      "originalDescription": "AFTERPAY XXXXX9601",
+      "accountGuid": "33edezpvKbFD4BgAqryoI9dQEbDYgAuz0ev6q",
+      "amount": 15.87,
+      "date": "2023-10-26",
+      "description": "AFTERPAY XXXXX9601",
+      "guid": "oey0yaKVQXSY7gm6RBONSbMeeebdJBH0gkrKYK",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Digital Purchase\"]"
+    },
+    {
+      "originalDescription": "ATM WITHDRAWAL FEE",
+      "accountGuid": "33edezpvKbFD4BgAqryoI9dQEbDYgAuz0ev6q",
+      "amount": 3.0,
+      "date": "2023-12-01",
+      "description": "ATM WITHDRAWAL FEE",
+      "guid": "oey0yaKVQXSY7gm6RBONSbMeeebdJBH0gkrKeK",
+      "type": "DEBIT",
+      "category": "[\"Bank Fees\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "POS PURCHASE POS18486903 1487808 ALDI 70084 MUSCLE SHOAL",
+      "accountGuid": "33edezpvKbFD4BgAqryoI9dQEbDYgAuz0ev6q",
+      "amount": 38.29,
+      "date": "2023-12-15",
+      "description": "POS PURCHASE POS18486903 1487808 ALDI 70084 MUSCLE SHOAL",
+      "guid": "NVDMDZz6BkHaPXyJV35ei98dgLjX56I5m0VRY",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Amazon",
+      "accountGuid": "33edezpvKbFD4BgAqryoI9dQEbDYgAuz0ev6q",
+      "amount": 89.72,
+      "date": "2023-11-16",
+      "description": "Amazon",
+      "guid": "NVDMDZz6BkHaPXyJV35ei981119pbrSz4byONj",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Digital Purchase\"]"
+    },
+    {
+      "originalDescription": "PROVISIONAL CREDIT - DISPUTE PENDING",
+      "accountGuid": "33edezpvKbFD4BgAqryoI9dQEbDYgAuz0ev6q",
+      "amount": 120.0,
+      "date": "2023-10-23",
+      "description": "PROVISIONAL CREDIT - DISPUTE PENDING",
+      "guid": "NVDMDZz6BkHaPXyJV35ei981119pbrSz4byOmj",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "ATM WITHDRAWAL PNCPJ4435 N1117 5366 606 AVALON AVE MUSCLE SHOAL",
+      "accountGuid": "33edezpvKbFD4BgAqryoI9dQEbDYgAuz0ev6q",
+      "amount": 140.0,
+      "date": "2023-11-17",
+      "description": "ATM WITHDRAWAL PNCPJ4435 N1117 5366 606 AVALON AVE MUSCLE SHOAL",
+      "guid": "ne393qyxQ7S8e5PNgD60TYNkkkYo7ACXKqj3Oe",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "ATT BILL PAYMENT XXXXX0500",
+      "accountGuid": "33edezpvKbFD4BgAqryoI9dQEbDYgAuz0ev6q",
+      "amount": 400.0,
+      "date": "2023-10-23",
+      "description": "ATT BILL PAYMENT XXXXX0500",
+      "guid": "ne393qyxQ7S8e5PNgD60TYNkkkYo7ACXKqj31e",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Telecommunication Services\"]"
+    },
+    {
+      "originalDescription": "RECURRING DEBIT CARD XXXXX6296 COSMOTOGETHER.COM COSMOTOGETH CO",
+      "accountGuid": "33edezpvKbFD4BgAqryoI9dQEbDYgAuz0ev6q",
+      "amount": 23.75,
+      "date": "2023-10-23",
+      "description": "RECURRING DEBIT CARD XXXXX6296 COSMOTOGETHER.COM COSMOTOGETH CO",
+      "guid": "MYLxLjzwqKFoOQ3BDE9aibveeeb3RpHg6k09vA",
+      "type": "DEBIT",
+      "category": "[\"Service\"]"
+    },
+    {
+      "originalDescription": "ACH CREDIT 070029 D&MM2 MANAGEMENT EPAY",
+      "accountGuid": "33edezpvKbFD4BgAqryoI9dQEbDYgAuz0ev6q",
+      "amount": 790.29,
+      "date": "2023-11-30",
+      "description": "ACH CREDIT 070029 D&MM2 MANAGEMENT EPAY",
+      "guid": "MYLxLjzwqKFoOQ3BDE9aibveeeb3RpHg6k094A",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "ACH CREDIT 070029 D&MM2 MANAGEMENT EPAY",
+      "accountGuid": "33edezpvKbFD4BgAqryoI9dQEbDYgAuz0ev6q",
+      "amount": 577.04,
+      "date": "2023-12-14",
+      "description": "ACH CREDIT 070029 D&MM2 MANAGEMENT EPAY",
+      "guid": "meB9Bm3rQ7SZer1v7PAoHxdY13wjXVFRaJXMv",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "eBay OXXXXX8161",
+      "accountGuid": "33edezpvKbFD4BgAqryoI9dQEbDYgAuz0ev6q",
+      "amount": 8.63,
+      "date": "2023-11-13",
+      "description": "eBay OXXXXX8161",
+      "guid": "meB9Bm3rQ7SZer1v7PAoHxdKKKxZOMtEK489o1",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Digital Purchase\"]"
+    },
+    {
+      "originalDescription": "RECURRING DEBIT CARD XXXXX6313 Roku for Starz XXXXX8107 DE",
+      "accountGuid": "33edezpvKbFD4BgAqryoI9dQEbDYgAuz0ev6q",
+      "amount": 10.39,
+      "date": "2023-11-09",
+      "description": "RECURRING DEBIT CARD XXXXX6313 Roku for Starz XXXXX8107 DE",
+      "guid": "LV6x6nzdPyHvY7BEr5d4i3qXXX3yOBijyPJEk6",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Music, Video and DVD\"]"
+    },
+    {
+      "originalDescription": "DEBIT CARD CREDIT 8190141007 VIS 1104 Brigit",
+      "accountGuid": "33edezpvKbFD4BgAqryoI9dQEbDYgAuz0ev6q",
+      "amount": 0.01,
+      "date": "2023-11-06",
+      "description": "DEBIT CARD CREDIT 8190141007 VIS 1104 Brigit",
+      "guid": "KXwxwKz513HoE5nLzP6riBkZZZBEnmHK4vyDME",
+      "type": "CREDIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "Afterpay XXXXX3456",
+      "accountGuid": "33edezpvKbFD4BgAqryoI9dQEbDYgAuz0ev6q",
+      "amount": 15.87,
+      "date": "2023-11-03",
+      "description": "Afterpay XXXXX3456",
+      "guid": "kePNPoq0QMSOYgL6PZjpip4777pOYRFZNDbaLb",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Digital Purchase\"]"
+    },
+    {
+      "originalDescription": "N1201 5366 PAYMENT POSbrigit01 4281802 Brigit",
+      "accountGuid": "33edezpvKbFD4BgAqryoI9dQEbDYgAuz0ev6q",
+      "amount": 5.99,
+      "date": "2023-12-04",
+      "description": "N1201 5366 PAYMENT POSbrigit01 4281802 Brigit",
+      "guid": "JVdLdZzADBHp7wPx4vyjsAqVVVAMP7f3PQ0EZ5",
+      "type": "DEBIT",
+      "category": "[\"Payment\"]"
+    },
+    {
+      "originalDescription": "ATM DEPOSIT 83938026 DEPOSIT 606 AVALON AVE MUSCLE SHOAL",
+      "accountGuid": "33edezpvKbFD4BgAqryoI9dQEbDYgAuz0ev6q",
+      "amount": 6.0,
+      "date": "2023-10-27",
+      "description": "ATM DEPOSIT 83938026 DEPOSIT 606 AVALON AVE MUSCLE SHOAL",
+      "guid": "JVdLdZzADBHp7wPx4vyjsAqVVVAMP7f3PQ0Er5",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Deposit\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "ATM WITHDRAWAL PNCPJ4435 N1102 5366 606 AVALON AVE MUSCLE SHOAL",
+      "accountGuid": "33edezpvKbFD4BgAqryoI9dQEbDYgAuz0ev6q",
+      "amount": 40.0,
+      "date": "2023-11-02",
+      "description": "ATM WITHDRAWAL PNCPJ4435 N1102 5366 606 AVALON AVE MUSCLE SHOAL",
+      "guid": "jm1M1aP0QnfK9M6pXZqkTkVNNNkK9DCk5YvDyY",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "TikTok Shop Mountain Vi",
+      "accountGuid": "33edezpvKbFD4BgAqryoI9dQEbDYgAuz0ev6q",
+      "amount": 41.6,
+      "date": "2023-10-24",
+      "description": "TikTok Shop Mountain Vi",
+      "guid": "ge6y6KL9Q7SaepZ8qXdPiPZ111PaeqFENb6nrE",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "ATM WITHDRAWAL MACHY00989N1201 5366 2048 HWY 20",
+      "accountGuid": "33edezpvKbFD4BgAqryoI9dQEbDYgAuz0ev6q",
+      "amount": 204.95,
+      "date": "2023-12-01",
+      "description": "ATM WITHDRAWAL MACHY00989N1201 5366 2048 HWY 20",
+      "guid": "ge6y6KL9Q7SaepZ8qXdPiPZ111PaeqFENb6ndE",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Withdrawal\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "Publix",
+      "accountGuid": "33edezpvKbFD4BgAqryoI9dQEbDYgAuz0ev6q",
+      "amount": 3.59,
+      "date": "2023-10-23",
+      "description": "Publix",
+      "guid": "EgMkMQzA9Lsm1BwYbVQKTJ3000JRwnFq45dPO9",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "Amazon",
+      "accountGuid": "33edezpvKbFD4BgAqryoI9dQEbDYgAuz0ev6q",
+      "amount": 14.03,
+      "date": "2023-11-20",
+      "description": "Amazon",
+      "guid": "EgMkMQzA9Lsm1BwYbVQKTJ3000JRwnFq45dPj9",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Digital Purchase\"]"
+    },
+    {
+      "originalDescription": "DEBIT CARD CREDIT 2865941007 VIS 1115 CASH APP*LLAJAIRA ORTE San Francis",
+      "accountGuid": "33edezpvKbFD4BgAqryoI9dQEbDYgAuz0ev6q",
+      "amount": 147.38,
+      "date": "2023-11-16",
+      "description": "DEBIT CARD CREDIT 2865941007 VIS 1115 CASH APP*LLAJAIRA ORTE San Francis",
+      "guid": "eed3dowvQ7S7ej9xbJ31i1eLLL1ERdS9Re4XyK",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "Shell",
+      "accountGuid": "33edezpvKbFD4BgAqryoI9dQEbDYgAuz0ev6q",
+      "amount": 38.77,
+      "date": "2023-10-20",
+      "description": "Shell",
+      "guid": "eed3dowvQ7S7ej9xbJ31i1eLLL1ERdS9Re4X0K",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "POS PURCHASE POS10949301 1201240 TUSCUMBIA FOOD",
+      "accountGuid": "33edezpvKbFD4BgAqryoI9dQEbDYgAuz0ev6q",
+      "amount": 7.45,
+      "date": "2023-12-05",
+      "description": "POS PURCHASE POS10949301 1201240 TUSCUMBIA FOOD",
+      "guid": "deb3bod4zmS97YnDjRAVSVNQ8yxZMvfkAVBby",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\"]"
+    },
+    {
+      "originalDescription": "Amazon",
+      "accountGuid": "33edezpvKbFD4BgAqryoI9dQEbDYgAuz0ev6q",
+      "amount": 14.63,
+      "date": "2023-11-13",
+      "description": "Amazon",
+      "guid": "deb3bod4zmS97YnDjRAVSVNeeeV07bFP71ogz5",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Digital Purchase\"]"
+    },
+    {
+      "originalDescription": "DEBIT CARD CREDIT 1755241007 VIS 1108 TikTok Shop Mountain Vi",
+      "accountGuid": "33edezpvKbFD4BgAqryoI9dQEbDYgAuz0ev6q",
+      "amount": 20.8,
+      "date": "2023-11-09",
+      "description": "DEBIT CARD CREDIT 1755241007 VIS 1108 TikTok Shop Mountain Vi",
+      "guid": "DbMmMDzv76C6QDdOerAyTEQzzzEZdRuQ4qXAjj",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "Dollar Tree",
+      "accountGuid": "33edezpvKbFD4BgAqryoI9dQEbDYgAuz0ev6q",
+      "amount": 9.54,
+      "date": "2023-10-25",
+      "description": "Dollar Tree",
+      "guid": "bembmPzv7RS9V7YjyN4BS3N7773EVqiaRdPKkw",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Discount Stores\"]"
+    },
+    {
+      "originalDescription": "POS PURCHASE POS001 1494361 Love's #0580 I",
+      "accountGuid": "33edezpvKbFD4BgAqryoI9dQEbDYgAuz0ev6q",
+      "amount": 33.43,
+      "date": "2023-12-01",
+      "description": "POS PURCHASE POS001 1494361 Love's #0580 I",
+      "guid": "bembmPzv7RS9V7YjyN4BS3N7773EVqiaRdPKBw",
+      "type": "DEBIT",
+      "category": "[\"Travel\",\"Gas Stations\"]"
+    },
+    {
+      "originalDescription": "N1107 5366 PAYMENT POSbrigit01 1179362 Brigit",
+      "accountGuid": "33edezpvKbFD4BgAqryoI9dQEbDYgAuz0ev6q",
+      "amount": 5.99,
+      "date": "2023-11-08",
+      "description": "N1107 5366 PAYMENT POSbrigit01 1179362 Brigit",
+      "guid": "B5RkR0zEbdFx0adLZOKBUAKVVVAvB7fRnjvwyx",
+      "type": "DEBIT",
+      "category": "[\"Payment\"]"
+    },
+    {
+      "originalDescription": "AFTERPAY XXXXX9601",
+      "accountGuid": "33edezpvKbFD4BgAqryoI9dQEbDYgAuz0ev6q",
+      "amount": 7.49,
+      "date": "2023-11-03",
+      "description": "AFTERPAY XXXXX9601",
+      "guid": "AZMJM9zBoYF3geNmE7Xqhy7MMMyJenfx3BwXRn",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Digital Purchase\"]"
+    },
+    {
+      "originalDescription": "METAPAY*Jacque Flores pay.fb.com",
+      "accountGuid": "33edezpvKbFD4BgAqryoI9dQEbDYgAuz0ev6q",
+      "amount": 5.05,
+      "date": "2023-10-30",
+      "description": "METAPAY*Jacque Flores pay.fb.com",
+      "guid": "apZAZQzXg0Cwme9qAxQrirP888rwq7f3xaKrL5",
+      "type": "DEBIT",
+      "category": "[\"Transfer\",\"Third Party\"]"
+    },
+    {
+      "originalDescription": "Netflix",
+      "accountGuid": "33edezpvKbFD4BgAqryoI9dQEbDYgAuz0ev6q",
+      "amount": 21.79,
+      "date": "2023-10-24",
+      "description": "Netflix",
+      "guid": "90MPMEpzretJNOzaDd6ribD444bYkqHJnr6wv0",
+      "type": "DEBIT",
+      "category": "[\"Service\",\"Subscription\"]"
+    },
+    {
+      "originalDescription": "McDonald's",
+      "accountGuid": "33edezpvKbFD4BgAqryoI9dQEbDYgAuz0ev6q",
+      "amount": 24.41,
+      "date": "2023-12-01",
+      "description": "McDonald's",
+      "guid": "90MPMEpzretJNOzaDd6ribD444bYkqHJnr6w50",
+      "type": "DEBIT",
+      "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]"
+    },
+    {
+      "originalDescription": "ATM DEPOSIT 83937996 DEPOSIT 606 AVALON AVE MUSCLE SHOAL",
+      "accountGuid": "33edezpvKbFD4BgAqryoI9dQEbDYgAuz0ev6q",
+      "amount": 8.0,
+      "date": "2023-10-27",
+      "description": "ATM DEPOSIT 83937996 DEPOSIT 606 AVALON AVE MUSCLE SHOAL",
+      "guid": "8vMQMzp7j5UQoeO4LzwqhKpYYYKjkNCk8KYjNr",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Deposit\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "Amazon",
+      "accountGuid": "33edezpvKbFD4BgAqryoI9dQEbDYgAuz0ev6q",
+      "amount": 62.63,
+      "date": "2023-12-04",
+      "description": "Amazon",
+      "guid": "8vMQMzp7j5UQoeO4LzwqhKpYYYKjkNCk8KYjer",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Digital Purchase\"]"
+    },
+    {
+      "originalDescription": "Amazon",
+      "accountGuid": "33edezpvKbFD4BgAqryoI9dQEbDYgAuz0ev6q",
+      "amount": 10.88,
+      "date": "2023-10-24",
+      "description": "Amazon",
+      "guid": "7Az9zEen04cN16RrJ5dAFOjRRROyAYhZgz8pbB",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Digital Purchase\"]"
+    },
+    {
+      "originalDescription": "Netflix",
+      "accountGuid": "33edezpvKbFD4BgAqryoI9dQEbDYgAuz0ev6q",
+      "amount": 21.79,
+      "date": "2023-12-01",
+      "description": "Netflix",
+      "guid": "7Az9zEen04cN16RrJ5dAFOjRRROyAYhZgz8p7B",
+      "type": "DEBIT",
+      "category": "[\"Service\"]"
+    },
+    {
+      "originalDescription": "AFTERPAY XXXXX9601",
+      "accountGuid": "33edezpvKbFD4BgAqryoI9dQEbDYgAuz0ev6q",
+      "amount": 10.52,
+      "date": "2023-11-09",
+      "description": "AFTERPAY XXXXX9601",
+      "guid": "6kMLMQpNv4fBDaLjJKnMhdZLLLdERrtZE9AdQ1",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Digital Purchase\"]"
+    },
+    {
+      "originalDescription": "ATM BALANCE INQUIRY FEE",
+      "accountGuid": "33edezpvKbFD4BgAqryoI9dQEbDYgAuz0ev6q",
+      "amount": 3.0,
+      "date": "2023-12-01",
+      "description": "ATM BALANCE INQUIRY FEE",
+      "guid": "5KM6MgpeAOFjb150dykmuqOmmmq4nZFmMdN5Py",
+      "type": "DEBIT",
+      "category": "[\"Bank Fees\",\"ATM\"]"
+    },
+    {
+      "originalDescription": "TikTok Shop Mountain Vi",
+      "accountGuid": "33edezpvKbFD4BgAqryoI9dQEbDYgAuz0ev6q",
+      "amount": 12.48,
+      "date": "2023-10-26",
+      "description": "TikTok Shop Mountain Vi",
+      "guid": "5KM6MgpeAOFjb150dykmuqOmmmq4nZFmMdN5ey",
+      "type": "DEBIT",
+      "category": "[\"Shops\",\"Supermarkets and Groceries\"]"
+    },
+    {
+      "originalDescription": "ACH CREDIT 070029 D&MM2 MANAGEMENT EPAY",
+      "accountGuid": "33edezpvKbFD4BgAqryoI9dQEbDYgAuz0ev6q",
+      "amount": 519.86,
+      "date": "2023-11-02",
+      "description": "ACH CREDIT 070029 D&MM2 MANAGEMENT EPAY",
+      "guid": "4yMwMgp7kehgR4EvAxKYs7Mmmm7wk4FzxEDdy8",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "ACH WEB PAYMENT C2298DCE98B74ED BRIGIT-COM PROTECTION",
+      "accountGuid": "33edezpvKbFD4BgAqryoI9dQEbDYgAuz0ev6q",
+      "amount": 50.0,
+      "date": "2023-11-07",
+      "description": "ACH WEB PAYMENT C2298DCE98B74ED BRIGIT-COM PROTECTION",
+      "guid": "33edezpvKbFD4BgAqryoI9dwww9gQDSMn0Pw6D",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "DEBIT CARD CREDIT 1755341007 VIS 1108 TikTok Shop Mountain Vi",
+      "accountGuid": "33edezpvKbFD4BgAqryoI9dQEbDYgAuz0ev6q",
+      "amount": 20.8,
+      "date": "2023-11-09",
+      "description": "DEBIT CARD CREDIT 1755341007 VIS 1108 TikTok Shop Mountain Vi",
+      "guid": "1qMgMxpN3Rc301rKqJBXhg5111g0QXTryqYaM5",
+      "type": "CREDIT",
+      "category": "[\"Transfer\",\"Credit\"]"
+    },
+    {
+      "originalDescription": "N1102 5366 PAYMENT POSbrigit01 1236885 Brigit",
+      "accountGuid": "33edezpvKbFD4BgAqryoI9dQEbDYgAuz0ev6q",
+      "amount": 53.99,
+      "date": "2023-11-02",
+      "description": "N1102 5366 PAYMENT POSbrigit01 1236885 Brigit",
+      "guid": "0PMgMNp5BRU7vnJmp1qjibPnnnbgd6HBO59d0x",
+      "type": "DEBIT",
+      "category": "[\"Payment\"]"
+    }
+  ],
+  "asOfDate": "2024-01-04"
+}

@@ -1,0 +1,14 @@
+{
+	"asOfDate": "2023-12-13",
+	"accounts": [
+		{
+			"accountGuid": "5arvOZ4QzwtmBqqXqj06seYQwkv6q0S6wr01k",
+			"currentBalance": -73.08,
+			"accountType": "CHECKING",
+			"currentBalanceDate": "2023-12-13T17:14:40Z"
+		}
+	],
+	"transactions": [
+
+	]
+}

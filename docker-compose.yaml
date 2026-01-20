@@ -1,0 +1,32 @@
+version: '3.9'
+
+services:
+  pre-onboarding-service:
+    build: .
+    command: [gunicorn, --config, gunicorn.conf.py, src.app:create_app()]
+    volumes:
+      - .:/app
+    ports:
+      - "80:80"
+    environment:
+      PORT: 80
+      PRINT_TIMESTAMPS_THRESHOLD: 100
+      OUTPUT_REDZONE_EXPLAINATION: "False"
+      LOW_REDZONE_SCORE_CM: 50
+      REDIS_HOST: "redis"
+      REDIS_PORT: 6379
+      FLASK_ENV: development
+    # depends_on:
+    #   - redis
+
+#   redis:
+#     image: "redis:latest"
+#     ports:
+#       - "6379:6379"
+#     command: ["redis-server", "--save", "60", "1", "--loglevel", "debug"]
+#     volumes:
+#       - redis-data:/data  # Persist data in the /data directory
+
+# volumes:
+#   redis-data:
+#     driver: local  #Use a local volume to persist Redis data. TODO persist somewhere else, in azure? 

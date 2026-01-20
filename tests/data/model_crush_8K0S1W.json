@@ -1,0 +1,62 @@
+{
+    "accounts": [
+        {
+            "accountGuid": "ACT-f16346e4-77d1-4a49-ac30-f71b9842e7ef",
+            "currentBalance": "0.91",
+            "accountType": "CHECKING",
+            "currentBalanceDate": "2023-06-17T16:57:33Z"
+        }
+    ],
+    "transactions": [
+        {
+            "originalDescription": "POS Debit - Visa Check Card 4682 - CANTEEN VENDING DALLAS TX JOSELYN WILSON POS TRANSACTION",
+            "description": "Canteen Vending Machine",
+            "guid": "TRN-696f1123-24b5-4286-aba3-e7c9ab147384",
+            "accountGuid": "ACT-f16346e4-77d1-4a49-ac30-f71b9842e7ef",
+            "category": "Fast Food",
+            "amount": 1.500000000000000e+000,
+            "date": "2023-06-17T16:57:33",
+            "type": "DEBIT"
+        },
+        {
+            "originalDescription": "POS Debit - Visa Check Card 4682 - CMSVEND CV DALLAS DALLAS TX JOSELYN WILSON POS TRANSACTION",
+            "description": "CMS Vending",
+            "guid": "TRN-9fc0111f-7c69-4825-bc6c-ec7c6c3e34ee",
+            "accountGuid": "ACT-f16346e4-77d1-4a49-ac30-f71b9842e7ef",
+            "category": "Fast Food",
+            "amount": 1.100000000000000e+000,
+            "date": "2023-06-17T16:57:33",
+            "type": "DEBIT"
+        },
+        {
+            "originalDescription": "POS Debit - Visa Check Card 4682 - CANTEEN VENDING GRAPEVINE TX JOSELYN WILSON POS TRANSACTION",
+            "description": "Canteen Vending Machine",
+            "guid": "TRN-d43706bf-f949-412d-843f-b42778729593",
+            "accountGuid": "ACT-f16346e4-77d1-4a49-ac30-f71b9842e7ef",
+            "category": "Fast Food",
+            "amount": 1.500000000000000e+000,
+            "date": "2023-06-17T16:57:33",
+            "type": "DEBIT"
+        },
+        {
+            "originalDescription": "Transfer from Shares TFR FR OTHER",
+            "description": "Transfer From Shares Other",
+            "guid": "TRN-c85fb2b5-6979-4dc1-b822-9a159652a21d",
+            "accountGuid": "ACT-f16346e4-77d1-4a49-ac30-f71b9842e7ef",
+            "category": "Transfer",
+            "amount": 5.000000000000000e+000,
+            "date": "2023-06-17T16:57:33",
+            "type": "CREDIT"
+        },
+        {
+            "originalDescription": "POS Adjustment - Brigit New York NYUS Brigit New York NYUS POS ADJUSTMENT - CR",
+            "description": "Brigit",
+            "guid": "TRN-89c8fb3c-0c25-4a83-8151-b468f67d4c04",
+            "accountGuid": "ACT-f16346e4-77d1-4a49-ac30-f71b9842e7ef",
+            "category": "Financial",
+            "amount": 1.000000000000000e-002,
+            "date": "2023-06-17T16:57:33",
+            "type": "CREDIT"
+        }
+    ]
+}

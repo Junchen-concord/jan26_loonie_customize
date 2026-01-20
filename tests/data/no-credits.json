@@ -1,0 +1,2333 @@
+{
+    "accounts": [
+        {
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "currentBalanceDate": "2024-02-14",
+            "currentBalance": 88.34,
+            "Type": "WELLS FARGO CLEAR ACCESS BANKING ...5074"
+        }
+    ],
+    "transactions": [
+        {
+            "description": "Dave.com P2P SD1300 teresa rocha ACCOUNT 5074",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Transfer\",\"Credit\"]",
+            "amount": 400.0,
+            "date": "2023-11-30",
+            "type": "DEBIT",
+            "guid": 8127916,
+            "originalDescription": "Dave.com P2P SD1300 teresa rocha ACCOUNT 5074"
+        },
+        {
+            "description": "Earnin TRANSFER XXXXX0736 Teresa Rocha",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Service\",\"Financial\"]",
+            "amount": 100.0,
+            "date": "2023-11-30",
+            "type": "DEBIT",
+            "guid": 8127929,
+            "originalDescription": "Earnin TRANSFER XXXXX0736 Teresa Rocha"
+        },
+        {
+            "description": "PURCHASE AUTHORIZED ON 11/29 Klarna Columbus OH S463333834575513 CARD 3242",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Service\",\"Financial\"]",
+            "amount": 21.54,
+            "date": "2023-11-30",
+            "type": "DEBIT",
+            "guid": 8127930,
+            "originalDescription": "PURCHASE AUTHORIZED ON 11/29 Klarna Columbus OH S463333834575513 CARD 3242"
+        },
+        {
+            "description": "PURCHASE AUTHORIZED ON 11/27 HMBR ARC FL S463331806004158 CARD 3242",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Service\"]",
+            "amount": 336.5,
+            "date": "2023-11-29",
+            "type": "DEBIT",
+            "guid": 8127931,
+            "originalDescription": "PURCHASE AUTHORIZED ON 11/27 HMBR ARC FL S463331806004158 CARD 3242"
+        },
+        {
+            "description": "RECURRING PAYMENT AUTHORIZED ON 11/22 CHEWY.COM FL S303327239181637 CARD 3242",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Shops\",\"Pets\"]",
+            "amount": 73.43,
+            "date": "2023-11-29",
+            "type": "DEBIT",
+            "guid": 8127932,
+            "originalDescription": "RECURRING PAYMENT AUTHORIZED ON 11/22 CHEWY.COM FL S303327239181637 CARD 3242"
+        },
+        {
+            "description": "RECURRING PAYMENT AUTHORIZED ON 11/28 APPLE.COM/BILL CA S463332506483459 CARD 3242",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Shops\",\"Digital Purchase\"]",
+            "amount": 6.99,
+            "date": "2023-11-29",
+            "type": "DEBIT",
+            "guid": 8127943,
+            "originalDescription": "RECURRING PAYMENT AUTHORIZED ON 11/28 APPLE.COM/BILL CA S463332506483459 CARD 3242"
+        },
+        {
+            "description": "PURCHASE AUTHORIZED ON 11/27 MILOU AND OLIN PHO WWW.MILOUANDO CA S583331717858737 CARD 3242",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Food and Drink\",\"Restaurants\"]",
+            "amount": 500.0,
+            "date": "2023-11-28",
+            "type": "DEBIT",
+            "guid": 8127944,
+            "originalDescription": "PURCHASE AUTHORIZED ON 11/27 MILOU AND OLIN PHO WWW.MILOUANDO CA S583331717858737 CARD 3242"
+        },
+        {
+            "description": "RECURRING PAYMENT AUTHORIZED ON 11/26 APPLE.COM/BILL CA S303331218981399 CARD 3242",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Shops\",\"Digital Purchase\"]",
+            "amount": 11.99,
+            "date": "2023-11-28",
+            "type": "DEBIT",
+            "guid": 8127945,
+            "originalDescription": "RECURRING PAYMENT AUTHORIZED ON 11/26 APPLE.COM/BILL CA S303331218981399 CARD 3242"
+        },
+        {
+            "description": "Walmart",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Shops\",\"Supermarkets and Groceries\"]",
+            "amount": 68.53,
+            "date": "2023-11-28",
+            "type": "DEBIT",
+            "guid": 8127946,
+            "originalDescription": "Walmart"
+        },
+        {
+            "description": "PURCHASE AUTHORIZED ON 11/24 ADORE ME INC HTTPSWWW.ADOR NY S463328744542078 CARD 3242",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Shops\",\"Clothing and Accessories\",\"Women\\u0027s Store\"]",
+            "amount": 53.82,
+            "date": "2023-11-27",
+            "type": "DEBIT",
+            "guid": 8127957,
+            "originalDescription": "PURCHASE AUTHORIZED ON 11/24 ADORE ME INC HTTPSWWW.ADOR NY S463328744542078 CARD 3242"
+        },
+        {
+            "description": "PURCHASE AUTHORIZED ON 11/24 SP BODYCANDY HTTPSWWW.BODY NY S303328608778274 CARD 3242",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Shops\",\"Beauty Products\"]",
+            "amount": 34.97,
+            "date": "2023-11-27",
+            "type": "DEBIT",
+            "guid": 8127958,
+            "originalDescription": "PURCHASE AUTHORIZED ON 11/24 SP BODYCANDY HTTPSWWW.BODY NY S303328608778274 CARD 3242"
+        },
+        {
+            "description": "PURCHASE AUTHORIZED ON 11/26 Prime Video Channe amzn.com/bill WA S383331178971323 CARD 3242",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Service\",\"Entertainment\"]",
+            "amount": 9.99,
+            "date": "2023-11-27",
+            "type": "DEBIT",
+            "guid": 8127959,
+            "originalDescription": "PURCHASE AUTHORIZED ON 11/26 Prime Video Channe amzn.com/bill WA S383331178971323 CARD 3242"
+        },
+        {
+            "description": "RECURRING PAYMENT AUTHORIZED ON 11/25 MICROSOFT*CLIPCHAM MSBILL.INFO WA S383330084492167 CARD 3242",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Shops\",\"Computers and Electronics\"]",
+            "amount": 11.99,
+            "date": "2023-11-27",
+            "type": "DEBIT",
+            "guid": 8127972,
+            "originalDescription": "RECURRING PAYMENT AUTHORIZED ON 11/25 MICROSOFT*CLIPCHAM MSBILL.INFO WA S383330084492167 CARD 3242"
+        },
+        {
+            "description": "Earnin TRANSFER XXXXX1404 Teresa Rocha",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Service\",\"Financial\"]",
+            "amount": 100.0,
+            "date": "2024-01-08",
+            "type": "DEBIT",
+            "guid": 8128307,
+            "originalDescription": "Earnin TRANSFER XXXXX1404 Teresa Rocha"
+        },
+        {
+            "description": "GEICO",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Service\",\"Insurance\"]",
+            "amount": 282.22,
+            "date": "2024-01-08",
+            "type": "DEBIT",
+            "guid": 8128308,
+            "originalDescription": "GEICO"
+        },
+        {
+            "description": "MONEY TRANSFER AUTHORIZED ON 01/08 Dave Inc Los Angeles CA S584008463774863 CARD 3242",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Transfer\",\"Debit\"]",
+            "amount": 100.0,
+            "date": "2024-01-08",
+            "type": "DEBIT",
+            "guid": 8128309,
+            "originalDescription": "MONEY TRANSFER AUTHORIZED ON 01/08 Dave Inc Los Angeles CA S584008463774863 CARD 3242"
+        },
+        {
+            "description": "MONTHLY SERVICE FEE",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Bank Fees\"]",
+            "amount": 5.0,
+            "date": "2024-01-08",
+            "type": "DEBIT",
+            "guid": 8128321,
+            "originalDescription": "MONTHLY SERVICE FEE"
+        },
+        {
+            "description": "Earnin Active REPAYMENT XXXXX3107 Teresa Rocha",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Service\",\"Financial\"]",
+            "amount": 100.0,
+            "date": "2024-01-05",
+            "type": "DEBIT",
+            "guid": 8128322,
+            "originalDescription": "Earnin Active REPAYMENT XXXXX3107 Teresa Rocha"
+        },
+        {
+            "description": "Earnin Active REPAYMENT XXXXX4001 Teresa Rocha",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Service\",\"Financial\"]",
+            "amount": 103.99,
+            "date": "2024-01-05",
+            "type": "DEBIT",
+            "guid": 8128323,
+            "originalDescription": "Earnin Active REPAYMENT XXXXX4001 Teresa Rocha"
+        },
+        {
+            "description": "Earnin REPAYMENT XXXXX2564 Teresa Rocha",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Service\",\"Financial\"]",
+            "amount": 100.0,
+            "date": "2024-01-05",
+            "type": "DEBIT",
+            "guid": 8128324,
+            "originalDescription": "Earnin REPAYMENT XXXXX2564 Teresa Rocha"
+        },
+        {
+            "description": "Earnin REPAYMENT XXXXX5796 Teresa Rocha",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Service\",\"Financial\"]",
+            "amount": 100.0,
+            "date": "2024-01-05",
+            "type": "DEBIT",
+            "guid": 8128334,
+            "originalDescription": "Earnin REPAYMENT XXXXX5796 Teresa Rocha"
+        },
+        {
+            "description": "Earnin REPAYMENT XXXXX8860 Teresa Rocha",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Service\",\"Financial\"]",
+            "amount": 100.0,
+            "date": "2024-01-05",
+            "type": "DEBIT",
+            "guid": 8128335,
+            "originalDescription": "Earnin REPAYMENT XXXXX8860 Teresa Rocha"
+        },
+        {
+            "description": "INTEL CORPORATIO DIRDEP 240105 24010510177623 TERESA ROCHA",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Transfer\",\"Payroll\"]",
+            "amount": 1327.14,
+            "date": "2024-01-05",
+            "type": "DEBIT",
+            "guid": 8128336,
+            "originalDescription": "INTEL CORPORATIO DIRDEP 240105 24010510177623 TERESA ROCHA"
+        },
+        {
+            "description": "MONEY TRANSFER AUTHORIZED ON 01/05 Dave Inc Los Angeles CA S384005809515678 CARD 3242",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Transfer\",\"Debit\"]",
+            "amount": 80.0,
+            "date": "2024-01-05",
+            "type": "DEBIT",
+            "guid": 8128337,
+            "originalDescription": "MONEY TRANSFER AUTHORIZED ON 01/05 Dave Inc Los Angeles CA S384005809515678 CARD 3242"
+        },
+        {
+            "description": "PURCHASE AUTHORIZED ON 01/04 PRIMO WATER FL S384004832024917 CARD 3242",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Service\",\"Utilities\",\"Water\"]",
+            "amount": 201.14,
+            "date": "2024-01-05",
+            "type": "DEBIT",
+            "guid": 8128348,
+            "originalDescription": "PURCHASE AUTHORIZED ON 01/04 PRIMO WATER FL S384004832024917 CARD 3242"
+        },
+        {
+            "description": "RECURRING PAYMENT AUTHORIZED ON 01/04 DOORDASH DASHPASS WWW.DOORDASH. CA S304004607940587 CARD 3242",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Service\",\"Subscription\"]",
+            "amount": 9.99,
+            "date": "2024-01-05",
+            "type": "DEBIT",
+            "guid": 8128349,
+            "originalDescription": "RECURRING PAYMENT AUTHORIZED ON 01/04 DOORDASH DASHPASS WWW.DOORDASH. CA S304004607940587 CARD 3242"
+        },
+        {
+            "description": "RECURRING PAYMENT AUTHORIZED ON 01/04 Klarna Columbus OH S304005182899977 CARD 3242",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Service\",\"Financial\"]",
+            "amount": 33.62,
+            "date": "2024-01-05",
+            "type": "DEBIT",
+            "guid": 8128350,
+            "originalDescription": "RECURRING PAYMENT AUTHORIZED ON 01/04 Klarna Columbus OH S304005182899977 CARD 3242"
+        },
+        {
+            "description": "RiverValleyL 8339874837 240104 5861006 Teresa Rocha",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Service\"]",
+            "amount": 200.57,
+            "date": "2024-01-05",
+            "type": "DEBIT",
+            "guid": 8128351,
+            "originalDescription": "RiverValleyL 8339874837 240104 5861006 Teresa Rocha"
+        },
+        {
+            "description": "Amazon Prime",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Shops\",\"Digital Purchase\"]",
+            "amount": 16.15,
+            "date": "2024-01-02",
+            "type": "DEBIT",
+            "guid": 8128362,
+            "originalDescription": "Amazon Prime"
+        },
+        {
+            "description": "PURCHASE AUTHORIZED ON 12/28 IN-N-OUT RANCHOCOR RANCHO CORDOV CA S383362683903186 CARD 3242",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Food and Drink\",\"Restaurants\"]",
+            "amount": 23.16,
+            "date": "2024-01-02",
+            "type": "DEBIT",
+            "guid": 8128363,
+            "originalDescription": "PURCHASE AUTHORIZED ON 12/28 IN-N-OUT RANCHOCOR RANCHO CORDOV CA S383362683903186 CARD 3242"
+        },
+        {
+            "description": "PURCHASE AUTHORIZED ON 12/30 WINCO FOODS #54 8711 Gree Orangevale CA P463364725040626 CARD 3242",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Shops\",\"Supermarkets and Groceries\"]",
+            "amount": 104.25,
+            "date": "2024-01-02",
+            "type": "DEBIT",
+            "guid": 8128364,
+            "originalDescription": "PURCHASE AUTHORIZED ON 12/30 WINCO FOODS #54 8711 Gree Orangevale CA P463364725040626 CARD 3242"
+        },
+        {
+            "description": "RECURRING PAYMENT AUTHORIZED ON 01/01 APPLE.COM/BILL CA S464001538823660 CARD 3242",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Shops\",\"Digital Purchase\"]",
+            "amount": 2.99,
+            "date": "2024-01-02",
+            "type": "DEBIT",
+            "guid": 8128375,
+            "originalDescription": "RECURRING PAYMENT AUTHORIZED ON 01/01 APPLE.COM/BILL CA S464001538823660 CARD 3242"
+        },
+        {
+            "description": "RECURRING PAYMENT AUTHORIZED ON 12/30 APPLE.COM/BILL CA S463364403449013 CARD 3242",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Shops\",\"Digital Purchase\"]",
+            "amount": 0.99,
+            "date": "2024-01-02",
+            "type": "DEBIT",
+            "guid": 8128376,
+            "originalDescription": "RECURRING PAYMENT AUTHORIZED ON 12/30 APPLE.COM/BILL CA S463364403449013 CARD 3242"
+        },
+        {
+            "description": "RECURRING PAYMENT AUTHORIZED ON 12/30 Microsoft*Clipcham WA S383364433277447 CARD 3242",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Shops\",\"Computers and Electronics\"]",
+            "amount": 11.99,
+            "date": "2024-01-02",
+            "type": "DEBIT",
+            "guid": 8128377,
+            "originalDescription": "RECURRING PAYMENT AUTHORIZED ON 12/30 Microsoft*Clipcham WA S383364433277447 CARD 3242"
+        },
+        {
+            "description": "PURCHASE AUTHORIZED ON 12/27 MOUNTAIN MIKES PIZ CA S463362032186162 CARD 3242",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Food and Drink\",\"Restaurants\"]",
+            "amount": 83.61,
+            "date": "2023-12-29",
+            "type": "DEBIT",
+            "guid": 8128388,
+            "originalDescription": "PURCHASE AUTHORIZED ON 12/27 MOUNTAIN MIKES PIZ CA S463362032186162 CARD 3242"
+        },
+        {
+            "description": "RECURRING PAYMENT AUTHORIZED ON 12/27 APPLE.COM/BILL CA S463362141576388 CARD 3242",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Shops\",\"Digital Purchase\"]",
+            "amount": 11.99,
+            "date": "2023-12-29",
+            "type": "DEBIT",
+            "guid": 8128389,
+            "originalDescription": "RECURRING PAYMENT AUTHORIZED ON 12/27 APPLE.COM/BILL CA S463362141576388 CARD 3242"
+        },
+        {
+            "description": "RECURRING PAYMENT AUTHORIZED ON 12/28 APPLE.COM/BILL CA S383362506641965 CARD 3242",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Shops\",\"Digital Purchase\"]",
+            "amount": 9.99,
+            "date": "2023-12-29",
+            "type": "DEBIT",
+            "guid": 8128390,
+            "originalDescription": "RECURRING PAYMENT AUTHORIZED ON 12/28 APPLE.COM/BILL CA S383362506641965 CARD 3242"
+        },
+        {
+            "description": "PURCHASE AUTHORIZED ON 12/27 Prime Video Channe amzn.com/bill WA S383361746407299 CARD 3242",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Service\",\"Entertainment\"]",
+            "amount": 9.99,
+            "date": "2023-12-28",
+            "type": "DEBIT",
+            "guid": 8128391,
+            "originalDescription": "PURCHASE AUTHORIZED ON 12/27 Prime Video Channe amzn.com/bill WA S383361746407299 CARD 3242"
+        },
+        {
+            "description": "Earnin TRANSFER XXXXX0983 Teresa Rocha",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Service\",\"Financial\"]",
+            "amount": 100.0,
+            "date": "2023-12-27",
+            "type": "DEBIT",
+            "guid": 8128402,
+            "originalDescription": "Earnin TRANSFER XXXXX0983 Teresa Rocha"
+        },
+        {
+            "description": "MONEY TRANSFER AUTHORIZED ON 12/27 FROM Earnin CDJJE_B CA S303362018626178 CARD 3242",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Transfer\",\"Credit\"]",
+            "amount": 100.0,
+            "date": "2023-12-27",
+            "type": "DEBIT",
+            "guid": 8128403,
+            "originalDescription": "MONEY TRANSFER AUTHORIZED ON 12/27 FROM Earnin CDJJE_B CA S303362018626178 CARD 3242"
+        },
+        {
+            "description": "RECURRING PAYMENT AUTHORIZED ON 12/26 APPLE.COM/BILL CA S303360299279687 CARD 3242",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Shops\",\"Digital Purchase\"]",
+            "amount": 5.99,
+            "date": "2023-12-27",
+            "type": "DEBIT",
+            "guid": 8128404,
+            "originalDescription": "RECURRING PAYMENT AUTHORIZED ON 12/26 APPLE.COM/BILL CA S303360299279687 CARD 3242"
+        },
+        {
+            "description": "ATT Payment 122223 109526001SMT2O TERESA ROCHA",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Service\",\"Telecommunication Services\"]",
+            "amount": 122.0,
+            "date": "2023-12-26",
+            "type": "DEBIT",
+            "guid": 8128405,
+            "originalDescription": "ATT Payment 122223 109526001SMT2O TERESA ROCHA"
+        },
+        {
+            "description": "Amazon",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Shops\",\"Digital Purchase\"]",
+            "amount": 22.62,
+            "date": "2023-12-26",
+            "type": "DEBIT",
+            "guid": 8128409,
+            "originalDescription": "Amazon"
+        },
+        {
+            "description": "Amazon",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Shops\",\"Digital Purchase\"]",
+            "amount": 27.78,
+            "date": "2023-12-26",
+            "type": "DEBIT",
+            "guid": 8128410,
+            "originalDescription": "Amazon"
+        },
+        {
+            "description": "Big Lots",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Shops\",\"Furniture and Home Decor\"]",
+            "amount": 24.22,
+            "date": "2023-12-26",
+            "type": "DEBIT",
+            "guid": 8128411,
+            "originalDescription": "Big Lots"
+        },
+        {
+            "description": "Carl's Jr.",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Food and Drink\",\"Restaurants\"]",
+            "amount": 31.01,
+            "date": "2023-12-26",
+            "type": "DEBIT",
+            "guid": 8128412,
+            "originalDescription": "Carl's Jr."
+        },
+        {
+            "description": "Comcast",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Service\",\"Cable\"]",
+            "amount": 269.37,
+            "date": "2023-12-26",
+            "type": "DEBIT",
+            "guid": 8128413,
+            "originalDescription": "Comcast"
+        },
+        {
+            "description": "Earnin TRANSFER XXXXX7695 Teresa Rocha",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Service\",\"Financial\"]",
+            "amount": 100.0,
+            "date": "2023-12-26",
+            "type": "DEBIT",
+            "guid": 8128414,
+            "originalDescription": "Earnin TRANSFER XXXXX7695 Teresa Rocha"
+        },
+        {
+            "description": "EarninActivehour TRANSFER XXXXX1135 Teresa Rocha",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Service\",\"Financial\"]",
+            "amount": 100.0,
+            "date": "2023-12-26",
+            "type": "DEBIT",
+            "guid": 8128415,
+            "originalDescription": "EarninActivehour TRANSFER XXXXX1135 Teresa Rocha"
+        },
+        {
+            "description": "McDonald's",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]",
+            "amount": 31.72,
+            "date": "2023-12-26",
+            "type": "DEBIT",
+            "guid": 8128416,
+            "originalDescription": "McDonald's"
+        },
+        {
+            "description": "PURCHASE AUTHORIZED ON 12/21 HMBR ARC FL S303355481710739 CARD 3242",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Service\"]",
+            "amount": 336.5,
+            "date": "2023-12-26",
+            "type": "DEBIT",
+            "guid": 8128417,
+            "originalDescription": "PURCHASE AUTHORIZED ON 12/21 HMBR ARC FL S303355481710739 CARD 3242"
+        },
+        {
+            "description": "PURCHASE AUTHORIZED ON 12/23 ROCKET 5424 CITRUS HEIGHT CA P000000579395967 CARD 3242",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Food and Drink\",\"Restaurants\"]",
+            "amount": 68.9,
+            "date": "2023-12-26",
+            "type": "DEBIT",
+            "guid": 8128418,
+            "originalDescription": "PURCHASE AUTHORIZED ON 12/23 ROCKET 5424 CITRUS HEIGHT CA P000000579395967 CARD 3242"
+        },
+        {
+            "description": "PURCHASE AUTHORIZED ON 12/24 MARSHALLS 7975A GREENB CITRUS HEIGHT CA P000000477170625 CARD 3242",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Shops\",\"Department Stores\"]",
+            "amount": 93.69,
+            "date": "2023-12-26",
+            "type": "DEBIT",
+            "guid": 8128419,
+            "originalDescription": "PURCHASE AUTHORIZED ON 12/24 MARSHALLS 7975A GREENB CITRUS HEIGHT CA P000000477170625 CARD 3242"
+        },
+        {
+            "description": "Walmart",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Shops\",\"Supermarkets and Groceries\"]",
+            "amount": 72.42,
+            "date": "2023-12-26",
+            "type": "DEBIT",
+            "guid": 8128420,
+            "originalDescription": "Walmart"
+        },
+        {
+            "description": "Dave.com P2P SD1300 teresa rocha ACCOUNT 5074",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Transfer\",\"Credit\"]",
+            "amount": 400.0,
+            "date": "2023-12-22",
+            "type": "DEBIT",
+            "guid": 8128421,
+            "originalDescription": "Dave.com P2P SD1300 teresa rocha ACCOUNT 5074"
+        },
+        {
+            "description": "Earnin Active REPAYMENT XXXXX8135 Teresa Rocha",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Service\",\"Financial\"]",
+            "amount": 100.0,
+            "date": "2023-12-22",
+            "type": "DEBIT",
+            "guid": 8128422,
+            "originalDescription": "Earnin Active REPAYMENT XXXXX8135 Teresa Rocha"
+        },
+        {
+            "description": "Earnin REPAYMENT XXXXX2702 Teresa Rocha",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Service\",\"Financial\"]",
+            "amount": 100.0,
+            "date": "2023-12-22",
+            "type": "DEBIT",
+            "guid": 8128423,
+            "originalDescription": "Earnin REPAYMENT XXXXX2702 Teresa Rocha"
+        },
+        {
+            "description": "Earnin REPAYMENT XXXXX9394 Teresa Rocha",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Service\",\"Financial\"]",
+            "amount": 103.99,
+            "date": "2023-12-22",
+            "type": "DEBIT",
+            "guid": 8128424,
+            "originalDescription": "Earnin REPAYMENT XXXXX9394 Teresa Rocha"
+        },
+        {
+            "description": "Earnin TRANSFER XXXXX2616 Teresa Rocha",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Service\",\"Financial\"]",
+            "amount": 100.0,
+            "date": "2023-12-22",
+            "type": "DEBIT",
+            "guid": 8128425,
+            "originalDescription": "Earnin TRANSFER XXXXX2616 Teresa Rocha"
+        },
+        {
+            "description": "INTEL CORPORATIO DIRDEP 231222 23122210177623 TERESA ROCHA",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Transfer\",\"Payroll\"]",
+            "amount": 2180.25,
+            "date": "2023-12-22",
+            "type": "DEBIT",
+            "guid": 8128426,
+            "originalDescription": "INTEL CORPORATIO DIRDEP 231222 23122210177623 TERESA ROCHA"
+        },
+        {
+            "description": "MONEY TRANSFER AUTHORIZED ON 12/22 Dave Inc Los Angeles CA S303356308326320 CARD 3242",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Transfer\",\"Debit\"]",
+            "amount": 400.0,
+            "date": "2023-12-22",
+            "type": "DEBIT",
+            "guid": 8128427,
+            "originalDescription": "MONEY TRANSFER AUTHORIZED ON 12/22 Dave Inc Los Angeles CA S303356308326320 CARD 3242"
+        },
+        {
+            "description": "PURCHASE AUTHORIZED ON 12/21 SAMSCLUB #6620 FOLSOM CA P000000574660330 CARD 3242",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Shops\",\"Warehouses and Wholesale Stores\"]",
+            "amount": 339.27,
+            "date": "2023-12-22",
+            "type": "DEBIT",
+            "guid": 8128428,
+            "originalDescription": "PURCHASE AUTHORIZED ON 12/21 SAMSCLUB #6620 FOLSOM CA P000000574660330 CARD 3242"
+        },
+        {
+            "description": "ATT Payment 112223 922916003SMT2L TERESA ROCHA",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Service\",\"Telecommunication Services\"]",
+            "amount": 240.46,
+            "date": "2023-11-24",
+            "type": "DEBIT",
+            "guid": 8128429,
+            "originalDescription": "ATT Payment 112223 922916003SMT2L TERESA ROCHA"
+        },
+        {
+            "description": "Chevron",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Travel\",\"Gas Stations\"]",
+            "amount": 61.16,
+            "date": "2023-11-24",
+            "type": "DEBIT",
+            "guid": 8128430,
+            "originalDescription": "Chevron"
+        },
+        {
+            "description": "INTEL CORPORATIO DIRDEP 231124 23112410177623 TERESA ROCHA",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Transfer\",\"Payroll\"]",
+            "amount": 1260.04,
+            "date": "2023-11-24",
+            "type": "DEBIT",
+            "guid": 8128431,
+            "originalDescription": "INTEL CORPORATIO DIRDEP 231124 23112410177623 TERESA ROCHA"
+        },
+        {
+            "description": "PURCHASE AUTHORIZED ON 11/22 FIVE BELO 7953 GREENBA CITRUS HEIGHT CA P000000875701503 CARD 3242",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Shops\",\"Discount Stores\"]",
+            "amount": 10.51,
+            "date": "2023-11-24",
+            "type": "DEBIT",
+            "guid": 8128432,
+            "originalDescription": "PURCHASE AUTHORIZED ON 11/22 FIVE BELO 7953 GREENBA CITRUS HEIGHT CA P000000875701503 CARD 3242"
+        },
+        {
+            "description": "RiverValleyL 8339874837 231122 5861003 Teresa Rocha",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Service\"]",
+            "amount": 200.57,
+            "date": "2023-11-24",
+            "type": "DEBIT",
+            "guid": 8128433,
+            "originalDescription": "RiverValleyL 8339874837 231122 5861003 Teresa Rocha"
+        },
+        {
+            "description": "Taco Bell",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]",
+            "amount": 32.0,
+            "date": "2023-11-24",
+            "type": "DEBIT",
+            "guid": 8128434,
+            "originalDescription": "Taco Bell"
+        },
+        {
+            "description": "Walmart",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Shops\",\"Supermarkets and Groceries\"]",
+            "amount": 269.97,
+            "date": "2023-11-24",
+            "type": "DEBIT",
+            "guid": 8128435,
+            "originalDescription": "Walmart"
+        },
+        {
+            "description": "Wienerschnitzel",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Food and Drink\",\"Restaurants\"]",
+            "amount": 58.37,
+            "date": "2023-11-24",
+            "type": "DEBIT",
+            "guid": 8128436,
+            "originalDescription": "Wienerschnitzel"
+        },
+        {
+            "description": "GameStop",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Shops\",\"Computers and Electronics\",\"Video Games\"]",
+            "amount": 73.52,
+            "date": "2023-11-22",
+            "type": "DEBIT",
+            "guid": 8128437,
+            "originalDescription": "GameStop"
+        },
+        {
+            "description": "Jack in the Box",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]",
+            "amount": 24.62,
+            "date": "2023-11-22",
+            "type": "DEBIT",
+            "guid": 8128438,
+            "originalDescription": "Jack in the Box"
+        },
+        {
+            "description": "PURCHASE AUTHORIZED ON 11/20 LIGHTHOUSE WELLNES ROSEVILLE CA S303325026929496 CARD 3242",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Healthcare\",\"Healthcare Services\"]",
+            "amount": 15.0,
+            "date": "2023-11-22",
+            "type": "DEBIT",
+            "guid": 8128439,
+            "originalDescription": "PURCHASE AUTHORIZED ON 11/20 LIGHTHOUSE WELLNES ROSEVILLE CA S303325026929496 CARD 3242"
+        },
+        {
+            "description": "PURCHASE AUTHORIZED ON 11/21 APPLE.COM/BILL CA S383325540053062 CARD 3242",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Shops\",\"Digital Purchase\"]",
+            "amount": 12.98,
+            "date": "2023-11-22",
+            "type": "DEBIT",
+            "guid": 8128440,
+            "originalDescription": "PURCHASE AUTHORIZED ON 11/21 APPLE.COM/BILL CA S383325540053062 CARD 3242"
+        },
+        {
+            "description": "RECURRING PAYMENT AUTHORIZED ON 11/21 APPLE.COM/BILL CA S463325542199996 CARD 3242",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Shops\",\"Digital Purchase\"]",
+            "amount": 16.99,
+            "date": "2023-11-22",
+            "type": "DEBIT",
+            "guid": 8128441,
+            "originalDescription": "RECURRING PAYMENT AUTHORIZED ON 11/21 APPLE.COM/BILL CA S463325542199996 CARD 3242"
+        },
+        {
+            "description": "WIRE TRANS SVC CHARGE - SEQUENCE: 231122176021 SRF# 14536475 112223 TRN#231122176021 RFB#",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Bank Fees\",\"Wire Transfer\"]",
+            "amount": 15.0,
+            "date": "2023-11-22",
+            "type": "DEBIT",
+            "guid": 8128442,
+            "originalDescription": "WIRE TRANS SVC CHARGE - SEQUENCE: 231122176021 SRF# 14536475 112223 TRN#231122176021 RFB#"
+        },
+        {
+            "description": "WT FED#00766 MORGAN STANLEY PRI /ORG=TERESA L ROCHA TOD SRF# 14536475 112223 TRN#231122176021 RFB#",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Transfer\",\"Wire\"]",
+            "amount": 133.67,
+            "date": "2023-11-22",
+            "type": "DEBIT",
+            "guid": 8128443,
+            "originalDescription": "WT FED#00766 MORGAN STANLEY PRI /ORG=TERESA L ROCHA TOD SRF# 14536475 112223 TRN#231122176021 RFB#"
+        },
+        {
+            "description": "PURCHASE AUTHORIZED ON 11/20 KFC/AW #164 ROSEVILLE CA S583325067976280 CARD 3242",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]",
+            "amount": 19.91,
+            "date": "2023-11-21",
+            "type": "DEBIT",
+            "guid": 8128444,
+            "originalDescription": "PURCHASE AUTHORIZED ON 11/20 KFC/AW #164 ROSEVILLE CA S583325067976280 CARD 3242"
+        },
+        {
+            "description": "PURCHASE AUTHORIZED ON 11/21 WINCO FOODS #54 8711 Gree Orangevale CA P583325718158030 CARD 3242",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Shops\",\"Supermarkets and Groceries\"]",
+            "amount": 187.45,
+            "date": "2023-11-21",
+            "type": "DEBIT",
+            "guid": 8128445,
+            "originalDescription": "PURCHASE AUTHORIZED ON 11/21 WINCO FOODS #54 8711 Gree Orangevale CA P583325718158030 CARD 3242"
+        },
+        {
+            "description": "Amazon",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Shops\",\"Digital Purchase\"]",
+            "amount": 40.72,
+            "date": "2023-11-20",
+            "type": "DEBIT",
+            "guid": 8128446,
+            "originalDescription": "Amazon"
+        },
+        {
+            "description": "Amazon",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Shops\",\"Digital Purchase\"]",
+            "amount": 68.67,
+            "date": "2023-11-20",
+            "type": "DEBIT",
+            "guid": 8128447,
+            "originalDescription": "Amazon"
+        },
+        {
+            "description": "Amazon",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Shops\",\"Digital Purchase\"]",
+            "amount": 75.41,
+            "date": "2023-11-20",
+            "type": "DEBIT",
+            "guid": 8128448,
+            "originalDescription": "Amazon"
+        },
+        {
+            "description": "MOBILE DEPOSIT : REF NUMBER :911200774668",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Transfer\",\"Deposit\"]",
+            "amount": 112.86,
+            "date": "2023-11-20",
+            "type": "DEBIT",
+            "guid": 8128449,
+            "originalDescription": "MOBILE DEPOSIT : REF NUMBER :911200774668"
+        },
+        {
+            "description": "McDonald's",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]",
+            "amount": 9.45,
+            "date": "2023-11-20",
+            "type": "DEBIT",
+            "guid": 8128450,
+            "originalDescription": "McDonald's"
+        },
+        {
+            "description": "PURCHASE AUTHORIZED ON 11/17 KAISER CPP PHARM 2 CA S463322154082255 CARD 3242",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Shops\",\"Pharmacies\"]",
+            "amount": 20.0,
+            "date": "2023-11-20",
+            "type": "DEBIT",
+            "guid": 8128451,
+            "originalDescription": "PURCHASE AUTHORIZED ON 11/17 KAISER CPP PHARM 2 CA S463322154082255 CARD 3242"
+        },
+        {
+            "description": "PURCHASE AUTHORIZED ON 11/17 Prime Video Channe amzn.com/bill WA S463321795004885 CARD 3242",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Service\",\"Entertainment\"]",
+            "amount": 9.99,
+            "date": "2023-11-20",
+            "type": "DEBIT",
+            "guid": 8128452,
+            "originalDescription": "PURCHASE AUTHORIZED ON 11/17 Prime Video Channe amzn.com/bill WA S463321795004885 CARD 3242"
+        },
+        {
+            "description": "PURCHASE AUTHORIZED ON 11/18 DD DOORDASH ADALBE CA S303322770294383 CARD 3242",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Service\",\"Food and Beverage\"]",
+            "amount": 37.59,
+            "date": "2023-11-20",
+            "type": "DEBIT",
+            "guid": 8128453,
+            "originalDescription": "PURCHASE AUTHORIZED ON 11/18 DD DOORDASH ADALBE CA S303322770294383 CARD 3242"
+        },
+        {
+            "description": "PURCHASE AUTHORIZED ON 11/18 Klarna Columbus OH S383323040844163 CARD 3242",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Service\",\"Financial\"]",
+            "amount": 33.61,
+            "date": "2023-11-20",
+            "type": "DEBIT",
+            "guid": 8128454,
+            "originalDescription": "PURCHASE AUTHORIZED ON 11/18 Klarna Columbus OH S383323040844163 CARD 3242"
+        },
+        {
+            "description": "PURCHASE AUTHORIZED ON 11/18 RADC ENTERPRISES 5345 HAZ FAIR OAKS CA P383322671171304 CARD 3242",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Travel\",\"Gas Stations\"]",
+            "amount": 47.75,
+            "date": "2023-11-20",
+            "type": "DEBIT",
+            "guid": 8128455,
+            "originalDescription": "PURCHASE AUTHORIZED ON 11/18 RADC ENTERPRISES 5345 HAZ FAIR OAKS CA P383322671171304 CARD 3242"
+        },
+        {
+            "description": "PURCHASE AUTHORIZED ON 11/18 WWW.AMAZON* 112-01 WWW.AMAZON.CO WA S383323111825460 CARD 3242",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Shops\"]",
+            "amount": 16.37,
+            "date": "2023-11-20",
+            "type": "DEBIT",
+            "guid": 8128456,
+            "originalDescription": "PURCHASE AUTHORIZED ON 11/18 WWW.AMAZON* 112-01 WWW.AMAZON.CO WA S383323111825460 CARD 3242"
+        },
+        {
+            "description": "PURCHASE AUTHORIZED ON 11/20 HOBBYLOBB 1815 DOUGLAS ROSEVILLE CA P000000187531797 CARD 3242",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Shops\",\"Arts and Crafts\"]",
+            "amount": 6.45,
+            "date": "2023-11-20",
+            "type": "DEBIT",
+            "guid": 8128457,
+            "originalDescription": "PURCHASE AUTHORIZED ON 11/20 HOBBYLOBB 1815 DOUGLAS ROSEVILLE CA P000000187531797 CARD 3242"
+        },
+        {
+            "description": "Amazon",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Shops\",\"Digital Purchase\"]",
+            "amount": 15.03,
+            "date": "2023-11-17",
+            "type": "DEBIT",
+            "guid": 8128458,
+            "originalDescription": "Amazon"
+        },
+        {
+            "description": "Amazon",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Shops\",\"Digital Purchase\"]",
+            "amount": 15.07,
+            "date": "2023-11-17",
+            "type": "DEBIT",
+            "guid": 8128459,
+            "originalDescription": "Amazon"
+        },
+        {
+            "description": "Amazon",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Shops\",\"Digital Purchase\"]",
+            "amount": 26.93,
+            "date": "2023-11-17",
+            "type": "DEBIT",
+            "guid": 8128460,
+            "originalDescription": "Amazon"
+        },
+        {
+            "description": "Amazon",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Shops\",\"Digital Purchase\"]",
+            "amount": 70.03,
+            "date": "2023-11-17",
+            "type": "DEBIT",
+            "guid": 8128461,
+            "originalDescription": "Amazon"
+        },
+        {
+            "description": "Comcast",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Service\",\"Cable\"]",
+            "amount": 269.37,
+            "date": "2023-11-17",
+            "type": "DEBIT",
+            "guid": 8128462,
+            "originalDescription": "Comcast"
+        },
+        {
+            "description": "FRANCHISE TAX BD CASTTAXRFD 111423 XXXXX6016 ROCHA, TERESA L & TIMO",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Tax\",\"Refund\"]",
+            "amount": 1969.0,
+            "date": "2023-11-17",
+            "type": "DEBIT",
+            "guid": 8128463,
+            "originalDescription": "FRANCHISE TAX BD CASTTAXRFD 111423 XXXXX6016 ROCHA, TERESA L & TIMO"
+        },
+        {
+            "description": "PURCHASE AUTHORIZED ON 11/17 MARSHALLS 7975A GREENB CITRUS HEIGHT CA P000000186062302 CARD 3242",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Shops\",\"Department Stores\"]",
+            "amount": 34.45,
+            "date": "2023-11-17",
+            "type": "DEBIT",
+            "guid": 8128464,
+            "originalDescription": "PURCHASE AUTHORIZED ON 11/17 MARSHALLS 7975A GREENB CITRUS HEIGHT CA P000000186062302 CARD 3242"
+        },
+        {
+            "description": "RECURRING PAYMENT AUTHORIZED ON 12/21 APPLE.COM/BILL CA S383355350458666 CARD 3242",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Shops\",\"Digital Purchase\"]",
+            "amount": 6.99,
+            "date": "2023-12-22",
+            "type": "DEBIT",
+            "guid": 8128465,
+            "originalDescription": "RECURRING PAYMENT AUTHORIZED ON 12/21 APPLE.COM/BILL CA S383355350458666 CARD 3242"
+        },
+        {
+            "description": "RECURRING PAYMENT AUTHORIZED ON 12/21 APPLE.COM/BILL CA S383355512569131 CARD 3242",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Shops\",\"Digital Purchase\"]",
+            "amount": 16.99,
+            "date": "2023-12-22",
+            "type": "DEBIT",
+            "guid": 8128466,
+            "originalDescription": "RECURRING PAYMENT AUTHORIZED ON 12/21 APPLE.COM/BILL CA S383355512569131 CARD 3242"
+        },
+        {
+            "description": "RECURRING PAYMENT AUTHORIZED ON 12/21 Klarna Columbus OH S383356115069759 CARD 3242",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Service\",\"Financial\"]",
+            "amount": 33.62,
+            "date": "2023-12-22",
+            "type": "DEBIT",
+            "guid": 8128467,
+            "originalDescription": "RECURRING PAYMENT AUTHORIZED ON 12/21 Klarna Columbus OH S383356115069759 CARD 3242"
+        },
+        {
+            "description": "RiverValleyL 8339874837 231221 5861005 Teresa Rocha",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Service\"]",
+            "amount": 200.57,
+            "date": "2023-12-22",
+            "type": "DEBIT",
+            "guid": 8128468,
+            "originalDescription": "RiverValleyL 8339874837 231221 5861005 Teresa Rocha"
+        },
+        {
+            "description": "PURCHASE WITH CASH BACK $ 100.00 AUTHORIZED ON 12/21 WINCO FOODS #54 8711 Gree Orangevale CA P383355738587144 CARD 3242",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Shops\",\"Supermarkets and Groceries\"]",
+            "amount": 395.09,
+            "date": "2023-12-21",
+            "type": "DEBIT",
+            "guid": 8128469,
+            "originalDescription": "PURCHASE WITH CASH BACK $ 100.00 AUTHORIZED ON 12/21 WINCO FOODS #54 8711 Gree Orangevale CA P383355738587144 CARD 3242"
+        },
+        {
+            "description": "Amazon",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Shops\",\"Digital Purchase\"]",
+            "amount": 101.96,
+            "date": "2023-12-18",
+            "type": "DEBIT",
+            "guid": 8128470,
+            "originalDescription": "Amazon"
+        },
+        {
+            "description": "PURCHASE AUTHORIZED ON 12/14 AMAZON.COM*H53BC11 SEATTLE WA S383348447386054 CARD 3242",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Shops\",\"Digital Purchase\"]",
+            "amount": 16.37,
+            "date": "2023-12-18",
+            "type": "DEBIT",
+            "guid": 8128471,
+            "originalDescription": "PURCHASE AUTHORIZED ON 12/14 AMAZON.COM*H53BC11 SEATTLE WA S383348447386054 CARD 3242"
+        },
+        {
+            "description": "RECURRING PAYMENT AUTHORIZED ON 12/13 CHEWY.COM FL S383348240646763 CARD 3242",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Shops\",\"Pets\"]",
+            "amount": 50.15,
+            "date": "2023-12-18",
+            "type": "DEBIT",
+            "guid": 8128472,
+            "originalDescription": "RECURRING PAYMENT AUTHORIZED ON 12/13 CHEWY.COM FL S383348240646763 CARD 3242"
+        },
+        {
+            "description": "RECURRING PAYMENT AUTHORIZED ON 12/16 APPLE.COM/BILL CA S583350424210708 CARD 3242",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Shops\",\"Digital Purchase\"]",
+            "amount": 2.99,
+            "date": "2023-12-18",
+            "type": "DEBIT",
+            "guid": 8128473,
+            "originalDescription": "RECURRING PAYMENT AUTHORIZED ON 12/16 APPLE.COM/BILL CA S583350424210708 CARD 3242"
+        },
+        {
+            "description": "Amazon",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Shops\",\"Digital Purchase\"]",
+            "amount": 64.62,
+            "date": "2023-12-15",
+            "type": "DEBIT",
+            "guid": 8128474,
+            "originalDescription": "Amazon"
+        },
+        {
+            "description": "MONEY TRANSFER AUTHORIZED ON 12/15 FROM Earnin CJDHG_B CA S583349643837482 CARD 3242",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Transfer\",\"Credit\"]",
+            "amount": 100.0,
+            "date": "2023-12-15",
+            "type": "DEBIT",
+            "guid": 8128475,
+            "originalDescription": "MONEY TRANSFER AUTHORIZED ON 12/15 FROM Earnin CJDHG_B CA S583349643837482 CARD 3242"
+        },
+        {
+            "description": "RECURRING PAYMENT AUTHORIZED ON 12/14 SXM*SIRIUSXM.COM/A NY S303348319065236 CARD 3242",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Service\",\"Subscription\"]",
+            "amount": 23.05,
+            "date": "2023-12-15",
+            "type": "DEBIT",
+            "guid": 8128476,
+            "originalDescription": "RECURRING PAYMENT AUTHORIZED ON 12/14 SXM*SIRIUSXM.COM/A NY S303348319065236 CARD 3242"
+        },
+        {
+            "description": "RECURRING PAYMENT AUTHORIZED ON 12/12 APPLE.COM/BILL CA S583347131936636 CARD 3242",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Shops\",\"Digital Purchase\"]",
+            "amount": 3.49,
+            "date": "2023-12-14",
+            "type": "DEBIT",
+            "guid": 8128477,
+            "originalDescription": "RECURRING PAYMENT AUTHORIZED ON 12/12 APPLE.COM/BILL CA S583347131936636 CARD 3242"
+        },
+        {
+            "description": "Amazon",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Shops\",\"Digital Purchase\"]",
+            "amount": 248.24,
+            "date": "2023-12-13",
+            "type": "DEBIT",
+            "guid": 8128478,
+            "originalDescription": "Amazon"
+        },
+        {
+            "description": "PURCHASE AUTHORIZED ON 12/12 GLOBAL LENDING SER GA S303346531224530 CARD 3242",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]",
+            "amount": 250.0,
+            "date": "2023-12-13",
+            "type": "DEBIT",
+            "guid": 8128479,
+            "originalDescription": "PURCHASE AUTHORIZED ON 12/12 GLOBAL LENDING SER GA S303346531224530 CARD 3242"
+        },
+        {
+            "description": "Earnin TRANSFER XXXXX8596 Teresa Rocha",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Service\",\"Financial\"]",
+            "amount": 100.0,
+            "date": "2023-12-12",
+            "type": "DEBIT",
+            "guid": 8128480,
+            "originalDescription": "Earnin TRANSFER XXXXX8596 Teresa Rocha"
+        },
+        {
+            "description": "CAPITAL ONE MOBILE PMT 231209 3STZAVORYZMPYWQ TERESA L ROCHA",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Payment\",\"Credit Card\"]",
+            "amount": 40.73,
+            "date": "2023-12-11",
+            "type": "DEBIT",
+            "guid": 8128481,
+            "originalDescription": "CAPITAL ONE MOBILE PMT 231209 3STZAVORYZMPYWQ TERESA L ROCHA"
+        },
+        {
+            "description": "CONT FINANCE PAY BY PHO 231208 043000091855202 Rocha Teresa",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]",
+            "amount": 35.0,
+            "date": "2023-12-11",
+            "type": "DEBIT",
+            "guid": 8128482,
+            "originalDescription": "CONT FINANCE PAY BY PHO 231208 043000091855202 Rocha Teresa"
+        },
+        {
+            "description": "Dave DaveSubFee 231211 01HHCJQVKG8CFC77NMPCWDBZWH",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]",
+            "amount": 1.0,
+            "date": "2023-12-11",
+            "type": "DEBIT",
+            "guid": 8128483,
+            "originalDescription": "Dave DaveSubFee 231211 01HHCJQVKG8CFC77NMPCWDBZWH"
+        },
+        {
+            "description": "PURCHASE AUTHORIZED ON 12/09 DD DOORDASH OCONNO CA S303343733324873 CARD 3242",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Service\",\"Food and Beverage\"]",
+            "amount": 44.8,
+            "date": "2023-12-11",
+            "type": "DEBIT",
+            "guid": 8128484,
+            "originalDescription": "PURCHASE AUTHORIZED ON 12/09 DD DOORDASH OCONNO CA S303343733324873 CARD 3242"
+        },
+        {
+            "description": "Dave.com P2P SD1300 teresa rocha ACCOUNT 5074",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Transfer\",\"Credit\"]",
+            "amount": 400.0,
+            "date": "2023-12-11",
+            "type": "DEBIT",
+            "guid": 8128485,
+            "originalDescription": "Dave.com P2P SD1300 teresa rocha ACCOUNT 5074"
+        },
+        {
+            "description": "Earnin TRANSFER XXXXX4355 Teresa Rocha",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Service\",\"Financial\"]",
+            "amount": 100.0,
+            "date": "2023-12-11",
+            "type": "DEBIT",
+            "guid": 8128486,
+            "originalDescription": "Earnin TRANSFER XXXXX4355 Teresa Rocha"
+        },
+        {
+            "description": "PURCHASE AUTHORIZED ON 12/07 MOUNTAIN MIKES PIZ CA S383341860620705 CARD 3242",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Food and Drink\",\"Restaurants\"]",
+            "amount": 56.09,
+            "date": "2023-12-11",
+            "type": "DEBIT",
+            "guid": 8128487,
+            "originalDescription": "PURCHASE AUTHORIZED ON 12/07 MOUNTAIN MIKES PIZ CA S383341860620705 CARD 3242"
+        },
+        {
+            "description": "PURCHASE AUTHORIZED ON 12/08 APPLE.COM/BILL CA S463342598193661 CARD 3242",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Shops\",\"Digital Purchase\"]",
+            "amount": 4.99,
+            "date": "2023-12-11",
+            "type": "DEBIT",
+            "guid": 8128488,
+            "originalDescription": "PURCHASE AUTHORIZED ON 12/08 APPLE.COM/BILL CA S463342598193661 CARD 3242"
+        },
+        {
+            "description": "RECURRING PAYMENT AUTHORIZED ON 12/08 APPLE.COM/BILL CA S303342763452279 CARD 3242",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Shops\",\"Digital Purchase\"]",
+            "amount": 6.99,
+            "date": "2023-12-11",
+            "type": "DEBIT",
+            "guid": 8128489,
+            "originalDescription": "RECURRING PAYMENT AUTHORIZED ON 12/08 APPLE.COM/BILL CA S303342763452279 CARD 3242"
+        },
+        {
+            "description": "Walmart",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Shops\",\"Supermarkets and Groceries\"]",
+            "amount": 237.53,
+            "date": "2023-12-11",
+            "type": "DEBIT",
+            "guid": 8128490,
+            "originalDescription": "Walmart"
+        },
+        {
+            "description": "DISCOVER E-PAYMENT 231208 2376 ROCHA TERESA",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Payment\",\"Credit Card\"]",
+            "amount": 40.0,
+            "date": "2023-12-08",
+            "type": "DEBIT",
+            "guid": 8128491,
+            "originalDescription": "DISCOVER E-PAYMENT 231208 2376 ROCHA TERESA"
+        },
+        {
+            "description": "Earnin REPAYMENT XXXXX8741 Teresa Rocha",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Service\",\"Financial\"]",
+            "amount": 100.0,
+            "date": "2023-12-08",
+            "type": "DEBIT",
+            "guid": 8128492,
+            "originalDescription": "Earnin REPAYMENT XXXXX8741 Teresa Rocha"
+        },
+        {
+            "description": "Party City",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Shops\",\"Gift and Novelty\"]",
+            "amount": 47.41,
+            "date": "2023-11-17",
+            "type": "DEBIT",
+            "guid": 8128493,
+            "originalDescription": "Party City"
+        },
+        {
+            "description": "RECURRING PAYMENT AUTHORIZED ON 11/16 MILOU AND OLIN PHO WWW.MILOUANDO CA S303320752592962 CARD 3242",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Food and Drink\",\"Restaurants\"]",
+            "amount": 442.5,
+            "date": "2023-11-17",
+            "type": "DEBIT",
+            "guid": 8128494,
+            "originalDescription": "RECURRING PAYMENT AUTHORIZED ON 11/16 MILOU AND OLIN PHO WWW.MILOUANDO CA S303320752592962 CARD 3242"
+        },
+        {
+            "description": "Amazon",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Shops\",\"Digital Purchase\"]",
+            "amount": 21.74,
+            "date": "2023-11-16",
+            "type": "DEBIT",
+            "guid": 8128495,
+            "originalDescription": "Amazon"
+        },
+        {
+            "description": "PURCHASE AUTHORIZED ON 11/15 Subway 2495 Orangevale CA S583319722143600 CARD 3242",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Food and Drink\",\"Restaurants\"]",
+            "amount": 71.42,
+            "date": "2023-11-16",
+            "type": "DEBIT",
+            "guid": 8128496,
+            "originalDescription": "PURCHASE AUTHORIZED ON 11/15 Subway 2495 Orangevale CA S583319722143600 CARD 3242"
+        },
+        {
+            "description": "INTEL CORPORATIO DIRDEP 231208 23120810177623 TERESA ROCHA",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Transfer\",\"Payroll\"]",
+            "amount": 1290.73,
+            "date": "2023-12-08",
+            "type": "DEBIT",
+            "guid": 8128507,
+            "originalDescription": "INTEL CORPORATIO DIRDEP 231208 23120810177623 TERESA ROCHA"
+        },
+        {
+            "description": "MONEY TRANSFER AUTHORIZED ON 12/08 Dave Inc Los Angeles CA S383342356483695 CARD 3242",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Transfer\",\"Debit\"]",
+            "amount": 400.0,
+            "date": "2023-12-08",
+            "type": "DEBIT",
+            "guid": 8128523,
+            "originalDescription": "MONEY TRANSFER AUTHORIZED ON 12/08 Dave Inc Los Angeles CA S383342356483695 CARD 3242"
+        },
+        {
+            "description": "PURCHASE AUTHORIZED ON 12/06 DEL TACO 0129 FAIR OAKS CA S583341106192315 CARD 3242",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]",
+            "amount": 31.09,
+            "date": "2023-12-08",
+            "type": "DEBIT",
+            "guid": 8128524,
+            "originalDescription": "PURCHASE AUTHORIZED ON 12/06 DEL TACO 0129 FAIR OAKS CA S583341106192315 CARD 3242"
+        },
+        {
+            "description": "PURCHASE AUTHORIZED ON 12/06 INTEL FM7 CAFE FOLSOM CA S383340730534817 CARD 3242",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Food and Drink\",\"Restaurants\"]",
+            "amount": 8.22,
+            "date": "2023-12-08",
+            "type": "DEBIT",
+            "guid": 8128525,
+            "originalDescription": "PURCHASE AUTHORIZED ON 12/06 INTEL FM7 CAFE FOLSOM CA S383340730534817 CARD 3242"
+        },
+        {
+            "description": "RiverValleyL 8339874837 231207 5861004 Teresa Rocha",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Service\"]",
+            "amount": 200.57,
+            "date": "2023-12-08",
+            "type": "DEBIT",
+            "guid": 8128526,
+            "originalDescription": "RiverValleyL 8339874837 231207 5861004 Teresa Rocha"
+        },
+        {
+            "description": "MONTHLY SERVICE FEE",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Bank Fees\"]",
+            "amount": 5.0,
+            "date": "2023-12-07",
+            "type": "DEBIT",
+            "guid": 8128527,
+            "originalDescription": "MONTHLY SERVICE FEE"
+        },
+        {
+            "description": "PURCHASE AUTHORIZED ON 12/05 IN-N-OUT MADISON SACRAMENTO CA S383340034608959 CARD 3242",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Food and Drink\",\"Restaurants\"]",
+            "amount": 24.35,
+            "date": "2023-12-07",
+            "type": "DEBIT",
+            "guid": 8128528,
+            "originalDescription": "PURCHASE AUTHORIZED ON 12/05 IN-N-OUT MADISON SACRAMENTO CA S383340034608959 CARD 3242"
+        },
+        {
+            "description": "RECURRING PAYMENT AUTHORIZED ON 12/06 HOME* AHS.COM FRONTDOORHOME TN S463340493471180 CARD 3242",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Shops\",\"Furniture and Home Decor\"]",
+            "amount": 78.99,
+            "date": "2023-12-07",
+            "type": "DEBIT",
+            "guid": 8128529,
+            "originalDescription": "RECURRING PAYMENT AUTHORIZED ON 12/06 HOME* AHS.COM FRONTDOORHOME TN S463340493471180 CARD 3242"
+        },
+        {
+            "description": "Safeway",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Shops\",\"Supermarkets and Groceries\"]",
+            "amount": 42.29,
+            "date": "2023-12-07",
+            "type": "DEBIT",
+            "guid": 8128530,
+            "originalDescription": "Safeway"
+        },
+        {
+            "description": "Dave.com P2P SD1300 teresa rocha ACCOUNT 5074",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Transfer\",\"Credit\"]",
+            "amount": 125.0,
+            "date": "2024-01-19",
+            "type": "DEBIT",
+            "guid": 8128593,
+            "originalDescription": "Dave.com P2P SD1300 teresa rocha ACCOUNT 5074"
+        },
+        {
+            "description": "Earnin Active REPAYMENT XXXXX2050 Teresa Rocha",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Service\",\"Financial\"]",
+            "amount": 100.0,
+            "date": "2024-01-19",
+            "type": "DEBIT",
+            "guid": 8128594,
+            "originalDescription": "Earnin Active REPAYMENT XXXXX2050 Teresa Rocha"
+        },
+        {
+            "description": "Earnin REPAYMENT XXXXX3638 Teresa Rocha",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Service\",\"Financial\"]",
+            "amount": 103.99,
+            "date": "2024-01-19",
+            "type": "DEBIT",
+            "guid": 8128595,
+            "originalDescription": "Earnin REPAYMENT XXXXX3638 Teresa Rocha"
+        },
+        {
+            "description": "Earnin TRANSFER XXXXX6854 Teresa Rocha",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Service\",\"Financial\"]",
+            "amount": 100.0,
+            "date": "2024-01-19",
+            "type": "DEBIT",
+            "guid": 8128596,
+            "originalDescription": "Earnin TRANSFER XXXXX6854 Teresa Rocha"
+        },
+        {
+            "description": "INTEL CORPORATIO DIRDEP 240119 24011910177623 TERESA ROCHA",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Transfer\",\"Payroll\"]",
+            "amount": 1874.07,
+            "date": "2024-01-19",
+            "type": "DEBIT",
+            "guid": 8128597,
+            "originalDescription": "INTEL CORPORATIO DIRDEP 240119 24011910177623 TERESA ROCHA"
+        },
+        {
+            "description": "PURCHASE AUTHORIZED ON 01/18 GLOBAL LENDING SER GA S304018613624458 CARD 3242",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]",
+            "amount": 450.0,
+            "date": "2024-01-19",
+            "type": "DEBIT",
+            "guid": 8128598,
+            "originalDescription": "PURCHASE AUTHORIZED ON 01/18 GLOBAL LENDING SER GA S304018613624458 CARD 3242"
+        },
+        {
+            "description": "PURCHASE AUTHORIZED ON 12/04 European Wax Cente Roseville CA S383338794482359 CARD 3242",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Service\",\"Personal Care\"]",
+            "amount": 10.0,
+            "date": "2023-12-05",
+            "type": "DEBIT",
+            "guid": 8128599,
+            "originalDescription": "PURCHASE AUTHORIZED ON 12/04 European Wax Cente Roseville CA S383338794482359 CARD 3242"
+        },
+        {
+            "description": "PURCHASE AUTHORIZED ON 12/04 KAISER PHARM 266 ROSEVILLE CA S463338804678625 CARD 3242",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Shops\",\"Pharmacies\"]",
+            "amount": 152.83,
+            "date": "2023-12-05",
+            "type": "DEBIT",
+            "guid": 8128600,
+            "originalDescription": "PURCHASE AUTHORIZED ON 12/04 KAISER PHARM 266 ROSEVILLE CA S463338804678625 CARD 3242"
+        },
+        {
+            "description": "MOBILE DEPOSIT : REF NUMBER :612040018080",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Transfer\",\"Deposit\"]",
+            "amount": 102.98,
+            "date": "2023-12-04",
+            "type": "DEBIT",
+            "guid": 8128601,
+            "originalDescription": "MOBILE DEPOSIT : REF NUMBER :612040018080"
+        },
+        {
+            "description": "PURCHASE AUTHORIZED ON 12/02 FOUNTAIN NAIL SPA FAIR OAKS CA S463336845482155 CARD 3242",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Service\",\"Personal Care\"]",
+            "amount": 40.8,
+            "date": "2023-12-04",
+            "type": "DEBIT",
+            "guid": 8128602,
+            "originalDescription": "PURCHASE AUTHORIZED ON 12/02 FOUNTAIN NAIL SPA FAIR OAKS CA S463336845482155 CARD 3242"
+        },
+        {
+            "description": "PURCHASE AUTHORIZED ON 12/02 WINCO FOODS #54 8711 Gree Orangevale CA P463337010723827 CARD 3242",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Shops\",\"Supermarkets and Groceries\"]",
+            "amount": 170.87,
+            "date": "2023-12-04",
+            "type": "DEBIT",
+            "guid": 8128603,
+            "originalDescription": "PURCHASE AUTHORIZED ON 12/02 WINCO FOODS #54 8711 Gree Orangevale CA P463337010723827 CARD 3242"
+        },
+        {
+            "description": "RECURRING PAYMENT AUTHORIZED ON 12/01 APPLE.COM/BILL CA S303335538179002 CARD 3242",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Shops\",\"Digital Purchase\"]",
+            "amount": 2.99,
+            "date": "2023-12-04",
+            "type": "DEBIT",
+            "guid": 8128604,
+            "originalDescription": "RECURRING PAYMENT AUTHORIZED ON 12/01 APPLE.COM/BILL CA S303335538179002 CARD 3242"
+        },
+        {
+            "description": "RECURRING PAYMENT AUTHORIZED ON 12/02 HOME* AHS.COM FRONTDOORHOME TN S463336491632468 CARD 3242",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Shops\",\"Furniture and Home Decor\"]",
+            "amount": 100.0,
+            "date": "2023-12-04",
+            "type": "DEBIT",
+            "guid": 8128605,
+            "originalDescription": "RECURRING PAYMENT AUTHORIZED ON 12/02 HOME* AHS.COM FRONTDOORHOME TN S463336491632468 CARD 3242"
+        },
+        {
+            "description": "RECURRING PAYMENT AUTHORIZED ON 12/03 Klarna 184-45527621 OH S383337577634453 CARD 3242",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Service\",\"Financial\"]",
+            "amount": 33.62,
+            "date": "2023-12-04",
+            "type": "DEBIT",
+            "guid": 8128606,
+            "originalDescription": "RECURRING PAYMENT AUTHORIZED ON 12/03 Klarna 184-45527621 OH S383337577634453 CARD 3242"
+        },
+        {
+            "description": "PURCHASE AUTHORIZED ON 01/18 MICROSOFT*STORE MSBILL.INFO WA S464018835190994 CARD 3242",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Shops\",\"Computers and Electronics\"]",
+            "amount": 20.0,
+            "date": "2024-01-19",
+            "type": "DEBIT",
+            "guid": 8128607,
+            "originalDescription": "PURCHASE AUTHORIZED ON 01/18 MICROSOFT*STORE MSBILL.INFO WA S464018835190994 CARD 3242"
+        },
+        {
+            "description": "PURCHASE AUTHORIZED ON 01/18 MILOU AND OLIN PHO WWW.MILOUANDO CA S384018612133486 CARD 3242",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Food and Drink\",\"Restaurants\"]",
+            "amount": 177.29,
+            "date": "2024-01-19",
+            "type": "DEBIT",
+            "guid": 8128608,
+            "originalDescription": "PURCHASE AUTHORIZED ON 01/18 MILOU AND OLIN PHO WWW.MILOUANDO CA S384018612133486 CARD 3242"
+        },
+        {
+            "description": "PURCHASE AUTHORIZED ON 01/18 Microsoft*Store msbill.info WA S464018835099865 CARD 3242",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Shops\",\"Computers and Electronics\"]",
+            "amount": 20.0,
+            "date": "2024-01-19",
+            "type": "DEBIT",
+            "guid": 8128609,
+            "originalDescription": "PURCHASE AUTHORIZED ON 01/18 Microsoft*Store msbill.info WA S464018835099865 CARD 3242"
+        },
+        {
+            "description": "PURCHASE AUTHORIZED ON 01/18 THE SWISS COLONY L WI S464018632139720 CARD 3242",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Shops\",\"Food and Beverage Store\"]",
+            "amount": 105.0,
+            "date": "2024-01-19",
+            "type": "DEBIT",
+            "guid": 8128610,
+            "originalDescription": "PURCHASE AUTHORIZED ON 01/18 THE SWISS COLONY L WI S464018632139720 CARD 3242"
+        },
+        {
+            "description": "PURCHASE RETURN AUTHORIZED ON 01/18 Microsoft*Store msbill.info WA S304019016673613 CARD 3242",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Shops\",\"Computers and Electronics\"]",
+            "amount": 20.0,
+            "date": "2024-01-19",
+            "type": "DEBIT",
+            "guid": 8128611,
+            "originalDescription": "PURCHASE RETURN AUTHORIZED ON 01/18 Microsoft*Store msbill.info WA S304019016673613 CARD 3242"
+        },
+        {
+            "description": "RECURRING PAYMENT AUTHORIZED ON 01/18 APPLE.COM/BILL CA S384018507757569 CARD 3242",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Shops\",\"Digital Purchase\"]",
+            "amount": 5.99,
+            "date": "2024-01-19",
+            "type": "DEBIT",
+            "guid": 8128612,
+            "originalDescription": "RECURRING PAYMENT AUTHORIZED ON 01/18 APPLE.COM/BILL CA S384018507757569 CARD 3242"
+        },
+        {
+            "description": "RECURRING PAYMENT AUTHORIZED ON 01/18 APPLE.COM/BILL CA S384018859325510 CARD 6761",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Shops\",\"Digital Purchase\"]",
+            "amount": 4.99,
+            "date": "2024-01-19",
+            "type": "DEBIT",
+            "guid": 8128613,
+            "originalDescription": "RECURRING PAYMENT AUTHORIZED ON 01/18 APPLE.COM/BILL CA S384018859325510 CARD 6761"
+        },
+        {
+            "description": "RECURRING PAYMENT AUTHORIZED ON 01/18 APPLE.COM/BILL CA S464018508488691 CARD 3242",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Shops\",\"Digital Purchase\"]",
+            "amount": 3.49,
+            "date": "2024-01-19",
+            "type": "DEBIT",
+            "guid": 8128614,
+            "originalDescription": "RECURRING PAYMENT AUTHORIZED ON 01/18 APPLE.COM/BILL CA S464018508488691 CARD 3242"
+        },
+        {
+            "description": "RECURRING PAYMENT AUTHORIZED ON 01/18 HOME* AHS.COM FRONTDOORHOME TN S584018491623455 CARD 3242",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Shops\",\"Furniture and Home Decor\"]",
+            "amount": 78.99,
+            "date": "2024-01-19",
+            "type": "DEBIT",
+            "guid": 8128615,
+            "originalDescription": "RECURRING PAYMENT AUTHORIZED ON 01/18 HOME* AHS.COM FRONTDOORHOME TN S584018491623455 CARD 3242"
+        },
+        {
+            "description": "RiverValleyL 8339874837 240118 5861007 Teresa Rocha",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Service\"]",
+            "amount": 200.57,
+            "date": "2024-01-19",
+            "type": "DEBIT",
+            "guid": 8128616,
+            "originalDescription": "RiverValleyL 8339874837 240118 5861007 Teresa Rocha"
+        },
+        {
+            "description": "MONEY TRANSFER AUTHORIZED ON 01/18 Dave Inc Los Angeles CA S464018434487228 CARD 3242",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Transfer\",\"Debit\"]",
+            "amount": 125.0,
+            "date": "2024-01-18",
+            "type": "DEBIT",
+            "guid": 8128617,
+            "originalDescription": "MONEY TRANSFER AUTHORIZED ON 01/18 Dave Inc Los Angeles CA S464018434487228 CARD 3242"
+        },
+        {
+            "description": "RECURRING PAYMENT AUTHORIZED ON 01/18 MICROSOFT MICROSOFT*ST REDMOND WA P000000172315922 CARD 3242",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Shops\",\"Computers and Electronics\"]",
+            "amount": 20.0,
+            "date": "2024-01-18",
+            "type": "DEBIT",
+            "guid": 8128618,
+            "originalDescription": "RECURRING PAYMENT AUTHORIZED ON 01/18 MICROSOFT MICROSOFT*ST REDMOND WA P000000172315922 CARD 3242"
+        },
+        {
+            "description": "RECURRING PAYMENT AUTHORIZED ON 01/18 MICROSOFT MICROSOFT*ST REDMOND WA P000000836987170 CARD 3242",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Shops\",\"Computers and Electronics\"]",
+            "amount": 20.0,
+            "date": "2024-01-18",
+            "type": "DEBIT",
+            "guid": 8128619,
+            "originalDescription": "RECURRING PAYMENT AUTHORIZED ON 01/18 MICROSOFT MICROSOFT*ST REDMOND WA P000000836987170 CARD 3242"
+        },
+        {
+            "description": "RECURRING PAYMENT AUTHORIZED ON 01/18 MICROSOFT MICROSOFT*ST REDMOND WA P000000985812986 CARD 3242",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Shops\",\"Computers and Electronics\"]",
+            "amount": 20.0,
+            "date": "2024-01-18",
+            "type": "DEBIT",
+            "guid": 8128620,
+            "originalDescription": "RECURRING PAYMENT AUTHORIZED ON 01/18 MICROSOFT MICROSOFT*ST REDMOND WA P000000985812986 CARD 3242"
+        },
+        {
+            "description": "Walmart",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Shops\",\"Supermarkets and Groceries\"]",
+            "amount": 482.02,
+            "date": "2024-01-18",
+            "type": "DEBIT",
+            "guid": 8128621,
+            "originalDescription": "Walmart"
+        },
+        {
+            "description": "RECURRING PAYMENT AUTHORIZED ON 01/12 APPLE.COM/BILL CA S384012423437825 CARD 3242",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Shops\",\"Digital Purchase\"]",
+            "amount": 2.99,
+            "date": "2024-01-16",
+            "type": "DEBIT",
+            "guid": 8128622,
+            "originalDescription": "RECURRING PAYMENT AUTHORIZED ON 01/12 APPLE.COM/BILL CA S384012423437825 CARD 3242"
+        },
+        {
+            "description": "MONEY TRANSFER AUTHORIZED ON 01/09 Dave Inc Los Angeles CA S584009749064828 CARD 3242",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Transfer\",\"Debit\"]",
+            "amount": 95.0,
+            "date": "2024-01-09",
+            "type": "DEBIT",
+            "guid": 8128623,
+            "originalDescription": "MONEY TRANSFER AUTHORIZED ON 01/09 Dave Inc Los Angeles CA S584009749064828 CARD 3242"
+        },
+        {
+            "description": "MONEY TRANSFER AUTHORIZED ON 01/09 FROM Earnin CDGCJ_B CA S304009683300610 CARD 3242",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Transfer\",\"Credit\"]",
+            "amount": 100.0,
+            "date": "2024-01-09",
+            "type": "DEBIT",
+            "guid": 8128624,
+            "originalDescription": "MONEY TRANSFER AUTHORIZED ON 01/09 FROM Earnin CDGCJ_B CA S304009683300610 CARD 3242"
+        },
+        {
+            "description": "PURCHASE AUTHORIZED ON 01/09 Dave Membership Fee Los Angeles CA S304010007643246 CARD 3242",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Bank Fees\"]",
+            "amount": 1.0,
+            "date": "2024-01-09",
+            "type": "DEBIT",
+            "guid": 8128625,
+            "originalDescription": "PURCHASE AUTHORIZED ON 01/09 Dave Membership Fee Los Angeles CA S304010007643246 CARD 3242"
+        },
+        {
+            "description": "Carl's Jr.",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Food and Drink\",\"Restaurants\"]",
+            "amount": 14.0,
+            "date": "2024-01-08",
+            "type": "DEBIT",
+            "guid": 8128626,
+            "originalDescription": "Carl's Jr."
+        },
+        {
+            "description": "Carl's Jr.",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Food and Drink\",\"Restaurants\"]",
+            "amount": 28.63,
+            "date": "2023-12-01",
+            "type": "DEBIT",
+            "guid": 8128681,
+            "originalDescription": "Carl's Jr."
+        },
+        {
+            "description": "RECURRING PAYMENT AUTHORIZED ON 11/30 APPLE.COM/BILL CA S583334404257125 CARD 3242",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Shops\",\"Digital Purchase\"]",
+            "amount": 0.99,
+            "date": "2023-12-01",
+            "type": "DEBIT",
+            "guid": 8128682,
+            "originalDescription": "RECURRING PAYMENT AUTHORIZED ON 11/30 APPLE.COM/BILL CA S583334404257125 CARD 3242"
+        },
+        {
+            "description": "RECURRING PAYMENT AUTHORIZED ON 11/30 DOORDASH DASHPASS WWW.DOORDASH. CA S303335013080298 CARD 3242",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Service\",\"Subscription\"]",
+            "amount": 9.99,
+            "date": "2023-12-01",
+            "type": "DEBIT",
+            "guid": 8128683,
+            "originalDescription": "RECURRING PAYMENT AUTHORIZED ON 11/30 DOORDASH DASHPASS WWW.DOORDASH. CA S303335013080298 CARD 3242"
+        },
+        {
+            "description": "Amazon Prime",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Shops\",\"Digital Purchase\"]",
+            "amount": 16.15,
+            "date": "2023-11-30",
+            "type": "DEBIT",
+            "guid": 8128695,
+            "originalDescription": "Amazon Prime"
+        },
+        {
+            "description": "Amazon",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Shops\",\"Digital Purchase\"]",
+            "amount": 12.92,
+            "date": "2024-01-29",
+            "type": "DEBIT",
+            "guid": 8178609,
+            "originalDescription": "Amazon"
+        },
+        {
+            "description": "Amazon",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Shops\",\"Digital Purchase\"]",
+            "amount": 14.22,
+            "date": "2024-01-29",
+            "type": "DEBIT",
+            "guid": 8178610,
+            "originalDescription": "Amazon"
+        },
+        {
+            "description": "Amazon",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Shops\",\"Digital Purchase\"]",
+            "amount": 19.7,
+            "date": "2024-01-29",
+            "type": "DEBIT",
+            "guid": 8178623,
+            "originalDescription": "Amazon"
+        },
+        {
+            "description": "Amazon",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Shops\",\"Digital Purchase\"]",
+            "amount": 28.14,
+            "date": "2024-01-29",
+            "type": "DEBIT",
+            "guid": 8178624,
+            "originalDescription": "Amazon"
+        },
+        {
+            "description": "INTEL CORPORATIO DIRDEP 240129 24012910177623 TERESA ROCHA",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Transfer\",\"Payroll\"]",
+            "amount": 44.5,
+            "date": "2024-01-29",
+            "type": "DEBIT",
+            "guid": 8178625,
+            "originalDescription": "INTEL CORPORATIO DIRDEP 240129 24012910177623 TERESA ROCHA"
+        },
+        {
+            "description": "RECURRING PAYMENT AUTHORIZED ON 01/28 APPLE.COM/BILL CA S384028506130620 CARD 6761",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Shops\",\"Digital Purchase\"]",
+            "amount": 9.99,
+            "date": "2024-01-29",
+            "type": "DEBIT",
+            "guid": 8178638,
+            "originalDescription": "RECURRING PAYMENT AUTHORIZED ON 01/28 APPLE.COM/BILL CA S384028506130620 CARD 6761"
+        },
+        {
+            "description": "PURCHASE AUTHORIZED ON 01/23 ORANGE VALE WATER CA S584023830090532 CARD 6761",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Service\",\"Utilities\",\"Water\"]",
+            "amount": 153.55,
+            "date": "2024-01-25",
+            "type": "DEBIT",
+            "guid": 8178639,
+            "originalDescription": "PURCHASE AUTHORIZED ON 01/23 ORANGE VALE WATER CA S584023830090532 CARD 6761"
+        },
+        {
+            "description": "Walmart",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Shops\",\"Department Stores\"]",
+            "amount": 98.55,
+            "date": "2024-01-25",
+            "type": "DEBIT",
+            "guid": 8178640,
+            "originalDescription": "Walmart"
+        },
+        {
+            "description": "FLAGSTAR BANK NA LOAN PYMT 012324 0441247596 TERESA ROCHA",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]",
+            "amount": 1000.0,
+            "date": "2024-01-24",
+            "type": "DEBIT",
+            "guid": 8178653,
+            "originalDescription": "FLAGSTAR BANK NA LOAN PYMT 012324 0441247596 TERESA ROCHA"
+        },
+        {
+            "description": "RAPITAL CAPITAL DIRECT PAY 012224 240122152059NU2 TERESA ROCHA",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Transfer\",\"Credit\"]",
+            "amount": 1500.0,
+            "date": "2024-01-23",
+            "type": "DEBIT",
+            "guid": 8178654,
+            "originalDescription": "RAPITAL CAPITAL DIRECT PAY 012224 240122152059NU2 TERESA ROCHA"
+        },
+        {
+            "description": "SMUD WEB_PAY JAN 24 452040161808228 TERESA ROCHA",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Service\",\"Utilities\",\"Electric\"]",
+            "amount": 249.56,
+            "date": "2024-01-23",
+            "type": "DEBIT",
+            "guid": 8178655,
+            "originalDescription": "SMUD WEB_PAY JAN 24 452040161808228 TERESA ROCHA"
+        },
+        {
+            "description": "AFFIRM INC AFFIRM PAY 240119 1716633 Teresa *Rocha",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]",
+            "amount": 34.19,
+            "date": "2024-01-22",
+            "type": "DEBIT",
+            "guid": 8178668,
+            "originalDescription": "AFFIRM INC AFFIRM PAY 240119 1716633 Teresa *Rocha"
+        },
+        {
+            "description": "Earnin TRANSFER XXXXX9191 Teresa Rocha",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Service\",\"Financial\"]",
+            "amount": 100.0,
+            "date": "2024-01-22",
+            "type": "DEBIT",
+            "guid": 8178669,
+            "originalDescription": "Earnin TRANSFER XXXXX9191 Teresa Rocha"
+        },
+        {
+            "description": "Panda Express",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]",
+            "amount": 47.86,
+            "date": "2024-01-22",
+            "type": "DEBIT",
+            "guid": 8178670,
+            "originalDescription": "Panda Express"
+        },
+        {
+            "description": "RECURRING PAYMENT AUTHORIZED ON 01/18 APPLE.COM/BILL CA S584019174724516 CARD 6761",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Shops\",\"Digital Purchase\"]",
+            "amount": 6.99,
+            "date": "2024-01-22",
+            "type": "DEBIT",
+            "guid": 8178683,
+            "originalDescription": "RECURRING PAYMENT AUTHORIZED ON 01/18 APPLE.COM/BILL CA S584019174724516 CARD 6761"
+        },
+        {
+            "description": "RECURRING PAYMENT AUTHORIZED ON 01/21 APPLE.COM/BILL CA S384021510893739 CARD 6761",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Shops\",\"Digital Purchase\"]",
+            "amount": 16.99,
+            "date": "2024-01-22",
+            "type": "DEBIT",
+            "guid": 8178684,
+            "originalDescription": "RECURRING PAYMENT AUTHORIZED ON 01/21 APPLE.COM/BILL CA S384021510893739 CARD 6761"
+        },
+        {
+            "description": "DISCOVER E-PAYMENT 240207 2376 ROCHA TERESA",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Payment\",\"Credit Card\"]",
+            "amount": 50.0,
+            "date": "2024-02-07",
+            "type": "DEBIT",
+            "guid": 8239991,
+            "originalDescription": "DISCOVER E-PAYMENT 240207 2376 ROCHA TERESA"
+        },
+        {
+            "description": "MONTHLY SERVICE FEE",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Bank Fees\"]",
+            "amount": 5.0,
+            "date": "2024-02-07",
+            "type": "DEBIT",
+            "guid": 8239992,
+            "originalDescription": "MONTHLY SERVICE FEE"
+        },
+        {
+            "description": "RECURRING PAYMENT AUTHORIZED ON 02/06 HOME* AHS.COM FRONTDOORHOME TN S304037489816688 CARD 6744",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Shops\",\"Furniture and Home Decor\"]",
+            "amount": 78.99,
+            "date": "2024-02-07",
+            "type": "DEBIT",
+            "guid": 8239993,
+            "originalDescription": "RECURRING PAYMENT AUTHORIZED ON 02/06 HOME* AHS.COM FRONTDOORHOME TN S304037489816688 CARD 6744"
+        },
+        {
+            "description": "ATT Payment 020224 135446001SMT2R TERESA ROCHA",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Service\",\"Telecommunication Services\"]",
+            "amount": 262.0,
+            "date": "2024-02-05",
+            "type": "DEBIT",
+            "guid": 8239994,
+            "originalDescription": "ATT Payment 020224 135446001SMT2R TERESA ROCHA"
+        },
+        {
+            "description": "Comcast",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Service\",\"Cable\"]",
+            "amount": 282.85,
+            "date": "2024-02-05",
+            "type": "DEBIT",
+            "guid": 8239995,
+            "originalDescription": "Comcast"
+        },
+        {
+            "description": "Dave.com P2P SD1300 teresa rocha ACCOUNT 5074",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Transfer\",\"Debit\"]",
+            "amount": 143.75,
+            "date": "2024-02-05",
+            "type": "DEBIT",
+            "guid": 8239996,
+            "originalDescription": "Dave.com P2P SD1300 teresa rocha ACCOUNT 5074"
+        },
+        {
+            "description": "PURCHASE AUTHORIZED ON 02/01 DEL TACO 0129 FAIR OAKS CA S304033048826382 CARD 6744",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]",
+            "amount": 29.49,
+            "date": "2024-02-05",
+            "type": "DEBIT",
+            "guid": 8239997,
+            "originalDescription": "PURCHASE AUTHORIZED ON 02/01 DEL TACO 0129 FAIR OAKS CA S304033048826382 CARD 6744"
+        },
+        {
+            "description": "PURCHASE AUTHORIZED ON 02/02 KFC/AW #164 ROSEVILLE CA S464034071833624 CARD 6744",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]",
+            "amount": 38.09,
+            "date": "2024-02-05",
+            "type": "DEBIT",
+            "guid": 8239998,
+            "originalDescription": "PURCHASE AUTHORIZED ON 02/02 KFC/AW #164 ROSEVILLE CA S464034071833624 CARD 6744"
+        },
+        {
+            "description": "RECURRING PAYMENT AUTHORIZED ON 02/01 APPLE.COM/BILL CA S304033047423393 CARD 6744",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Shops\",\"Digital Purchase\"]",
+            "amount": 2.99,
+            "date": "2024-02-05",
+            "type": "DEBIT",
+            "guid": 8239999,
+            "originalDescription": "RECURRING PAYMENT AUTHORIZED ON 02/01 APPLE.COM/BILL CA S304033047423393 CARD 6744"
+        },
+        {
+            "description": "RECURRING PAYMENT AUTHORIZED ON 02/01 APPLE.COM/BILL CA S464033046414027 CARD 6744",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Shops\",\"Digital Purchase\"]",
+            "amount": 11.99,
+            "date": "2024-02-05",
+            "type": "DEBIT",
+            "guid": 8240000,
+            "originalDescription": "RECURRING PAYMENT AUTHORIZED ON 02/01 APPLE.COM/BILL CA S464033046414027 CARD 6744"
+        },
+        {
+            "description": "Earnin REPAYMENT XXXXX0685 Teresa Rocha",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Service\",\"Financial\"]",
+            "amount": 100.0,
+            "date": "2024-02-02",
+            "type": "DEBIT",
+            "guid": 8240001,
+            "originalDescription": "Earnin REPAYMENT XXXXX0685 Teresa Rocha"
+        },
+        {
+            "description": "Earnin REPAYMENT XXXXX7627 Teresa Rocha",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Service\",\"Financial\"]",
+            "amount": 100.0,
+            "date": "2024-02-02",
+            "type": "DEBIT",
+            "guid": 8240002,
+            "originalDescription": "Earnin REPAYMENT XXXXX7627 Teresa Rocha"
+        },
+        {
+            "description": "INTEL CORPORATIO DIRDEP 240202 24020210177623 TERESA ROCHA",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Transfer\",\"Payroll\"]",
+            "amount": 1780.06,
+            "date": "2024-02-02",
+            "type": "DEBIT",
+            "guid": 8240003,
+            "originalDescription": "INTEL CORPORATIO DIRDEP 240202 24020210177623 TERESA ROCHA"
+        },
+        {
+            "description": "RiverValleyL 8339874837 240201 5861008 Teresa Rocha",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Service\"]",
+            "amount": 200.57,
+            "date": "2024-02-02",
+            "type": "DEBIT",
+            "guid": 8240004,
+            "originalDescription": "RiverValleyL 8339874837 240201 5861008 Teresa Rocha"
+        },
+        {
+            "description": "El Pollo Loco",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Food and Drink\",\"Restaurants\"]",
+            "amount": 49.3,
+            "date": "2024-01-31",
+            "type": "DEBIT",
+            "guid": 8240005,
+            "originalDescription": "El Pollo Loco"
+        },
+        {
+            "description": "RECURRING PAYMENT AUTHORIZED ON 01/30 APPLE.COM/BILL CA S464030404923976 CARD 6761",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Shops\",\"Digital Purchase\"]",
+            "amount": 0.99,
+            "date": "2024-01-31",
+            "type": "DEBIT",
+            "guid": 8240006,
+            "originalDescription": "RECURRING PAYMENT AUTHORIZED ON 01/30 APPLE.COM/BILL CA S464030404923976 CARD 6761"
+        },
+        {
+            "description": "Amazon",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Shops\",\"Digital Purchase\"]",
+            "amount": 11.84,
+            "date": "2024-01-30",
+            "type": "DEBIT",
+            "guid": 8240007,
+            "originalDescription": "Amazon"
+        },
+        {
+            "description": "CARD FINAL CREDIT 1012924T259",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Transfer\",\"Credit\"]",
+            "amount": 40.0,
+            "date": "2024-01-30",
+            "type": "DEBIT",
+            "guid": 8240008,
+            "originalDescription": "CARD FINAL CREDIT 1012924T259"
+        },
+        {
+            "description": "Final Credit for Claim-Ref #2401180020337",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Transfer\",\"Credit\"]",
+            "amount": 11.99,
+            "date": "2024-01-30",
+            "type": "DEBIT",
+            "guid": 8240009,
+            "originalDescription": "Final Credit for Claim-Ref #2401180020337"
+        },
+        {
+            "description": "PG&E/EZ-PAY UTILITYPMT 240129 4561252 PAYER NAME",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Service\",\"Utilities\",\"Electric\"]",
+            "amount": 61.35,
+            "date": "2024-01-30",
+            "type": "DEBIT",
+            "guid": 8240010,
+            "originalDescription": "PG&E/EZ-PAY UTILITYPMT 240129 4561252 PAYER NAME"
+        },
+        {
+            "description": "Amazon",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Shops\",\"Digital Purchase\"]",
+            "amount": 12.06,
+            "date": "2024-02-12",
+            "type": "DEBIT",
+            "guid": 8299149,
+            "originalDescription": "Amazon"
+        },
+        {
+            "description": "Amazon",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Shops\",\"Digital Purchase\"]",
+            "amount": 18.41,
+            "date": "2024-02-12",
+            "type": "DEBIT",
+            "guid": 8299150,
+            "originalDescription": "Amazon"
+        },
+        {
+            "description": "Dave DaveSubFee 240212 01HPDFA8KCV7XE2D62S9W2PSZR",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]",
+            "amount": 1.0,
+            "date": "2024-02-12",
+            "type": "DEBIT",
+            "guid": 8299292,
+            "originalDescription": "Dave DaveSubFee 240212 01HPDFA8KCV7XE2D62S9W2PSZR"
+        },
+        {
+            "description": "MONEY TRANSFER AUTHORIZED ON 02/11 FROM Earnin CJHFD_B CA S584042646508531 CARD 6744",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Transfer\",\"Credit\"]",
+            "amount": 100.0,
+            "date": "2024-02-12",
+            "type": "DEBIT",
+            "guid": 8299293,
+            "originalDescription": "MONEY TRANSFER AUTHORIZED ON 02/11 FROM Earnin CJHFD_B CA S584042646508531 CARD 6744"
+        },
+        {
+            "description": "PURCHASE AUTHORIZED ON 02/09 APPLE.COM/BILL CA S584040577669899 CARD 6744",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Shops\",\"Digital Purchase\"]",
+            "amount": 4.99,
+            "date": "2024-02-12",
+            "type": "DEBIT",
+            "guid": 8299294,
+            "originalDescription": "PURCHASE AUTHORIZED ON 02/09 APPLE.COM/BILL CA S584040577669899 CARD 6744"
+        },
+        {
+            "description": "PURCHASE AUTHORIZED ON 02/10 AMAZON.COM*RB3D67E SEATTLE WA S464041769765674 CARD 6744",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Shops\",\"Digital Purchase\"]",
+            "amount": 8.63,
+            "date": "2024-02-12",
+            "type": "DEBIT",
+            "guid": 8299295,
+            "originalDescription": "PURCHASE AUTHORIZED ON 02/10 AMAZON.COM*RB3D67E SEATTLE WA S464041769765674 CARD 6744"
+        },
+        {
+            "description": "PURCHASE AUTHORIZED ON 02/10 CARLS JR 1100333 GRANITE BAY CA S384042037351727 CARD 6744",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]",
+            "amount": 30.12,
+            "date": "2024-02-12",
+            "type": "DEBIT",
+            "guid": 8299296,
+            "originalDescription": "PURCHASE AUTHORIZED ON 02/10 CARLS JR 1100333 GRANITE BAY CA S384042037351727 CARD 6744"
+        },
+        {
+            "description": "PURCHASE AUTHORIZED ON 02/11 ORANGEVALE GROCERY OUTLE ORANGEVALE CA P464042711099467 CARD 6744",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Shops\",\"Supermarkets and Groceries\"]",
+            "amount": 36.95,
+            "date": "2024-02-12",
+            "type": "DEBIT",
+            "guid": 8299297,
+            "originalDescription": "PURCHASE AUTHORIZED ON 02/11 ORANGEVALE GROCERY OUTLE ORANGEVALE CA P464042711099467 CARD 6744"
+        },
+        {
+            "description": "PURCHASE AUTHORIZED ON 02/11 WINCO FOODS #54 8711 Gree Orangevale CA P584042700023287 CARD 6744",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Shops\",\"Supermarkets and Groceries\"]",
+            "amount": 112.98,
+            "date": "2024-02-12",
+            "type": "DEBIT",
+            "guid": 8299298,
+            "originalDescription": "PURCHASE AUTHORIZED ON 02/11 WINCO FOODS #54 8711 Gree Orangevale CA P584042700023287 CARD 6744"
+        },
+        {
+            "description": "Panda Express",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]",
+            "amount": 41.63,
+            "date": "2024-02-12",
+            "type": "DEBIT",
+            "guid": 8299299,
+            "originalDescription": "Panda Express"
+        },
+        {
+            "description": "WIRE TRANS SVC CHARGE - SEQUENCE: 240212104493 SRF# 15102486 021224 TRN#240212104493 RFB#",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Bank Fees\",\"Wire Transfer\"]",
+            "amount": 15.0,
+            "date": "2024-02-12",
+            "type": "DEBIT",
+            "guid": 8299300,
+            "originalDescription": "WIRE TRANS SVC CHARGE - SEQUENCE: 240212104493 SRF# 15102486 021224 TRN#240212104493 RFB#"
+        },
+        {
+            "description": "WT FED#06802 MORGAN STANLEY PRI /ORG=TERESA L ROCHA TOD SRF# 15102486 021224 TRN#240212104493 RFB#",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Transfer\",\"Wire\"]",
+            "amount": 86.56,
+            "date": "2024-02-12",
+            "type": "DEBIT",
+            "guid": 8299301,
+            "originalDescription": "WT FED#06802 MORGAN STANLEY PRI /ORG=TERESA L ROCHA TOD SRF# 15102486 021224 TRN#240212104493 RFB#"
+        },
+        {
+            "description": "Amazon",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Shops\",\"Digital Purchase\"]",
+            "amount": 18.29,
+            "date": "2024-02-09",
+            "type": "DEBIT",
+            "guid": 8299302,
+            "originalDescription": "Amazon"
+        },
+        {
+            "description": "CAPITAL ONE MOBILE PMT 240209 3WWV8SC44WZ93WA TERESA L ROCHA",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Payment\",\"Credit Card\"]",
+            "amount": 57.0,
+            "date": "2024-02-09",
+            "type": "DEBIT",
+            "guid": 8299303,
+            "originalDescription": "CAPITAL ONE MOBILE PMT 240209 3WWV8SC44WZ93WA TERESA L ROCHA"
+        },
+        {
+            "description": "Instant Pmt from Earnin RGACG_C on 02/09 Ref#20240209101115315P1BCLED00000168451 EARNIN",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Service\",\"Financial\"]",
+            "amount": 100.0,
+            "date": "2024-02-09",
+            "type": "DEBIT",
+            "guid": 8299304,
+            "originalDescription": "Instant Pmt from Earnin RGACG_C on 02/09 Ref#20240209101115315P1BCLED00000168451 EARNIN"
+        },
+        {
+            "description": "Burger King",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Food and Drink\",\"Restaurants\",\"Fast Food\"]",
+            "amount": 23.14,
+            "date": "2024-02-08",
+            "type": "DEBIT",
+            "guid": 8299305,
+            "originalDescription": "Burger King"
+        },
+        {
+            "description": "CONT FINANCE PAY BY PHO 240207 043000098578618 Rocha Teresa",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Service\",\"Financial\",\"Loans and Mortgages\"]",
+            "amount": 100.0,
+            "date": "2024-02-08",
+            "type": "DEBIT",
+            "guid": 8299306,
+            "originalDescription": "CONT FINANCE PAY BY PHO 240207 043000098578618 Rocha Teresa"
+        },
+        {
+            "description": "Walmart",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Shops\",\"Supermarkets and Groceries\"]",
+            "amount": 41.11,
+            "date": "2024-02-08",
+            "type": "DEBIT",
+            "guid": 8299307,
+            "originalDescription": "Walmart"
+        },
+        {
+            "description": "Walmart",
+            "accountGuid": "yPnVgnYm6RsVVdMEEqjVfKOmKgvM19hRr6zoV",
+            "category": "[\"Shops\",\"Department Stores\"]",
+            "amount": 215.56,
+            "date": "2024-02-08",
+            "type": "DEBIT",
+            "guid": 8299308,
+            "originalDescription": "Walmart"
+        }
+    ],
+    "asOfDate": "2024-02-14"
+}
