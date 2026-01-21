@@ -1,1 +1,4 @@
 out_misc_data/
+.venv/
+venv/
+retrain_data/
