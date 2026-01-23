@@ -92,7 +92,6 @@ GROUP BY
 --------------------------------------------------------- */
 
 DROP TABLE IF EXISTS #t2_perf;
-
 SELECT
     A.*,
 
@@ -157,8 +156,33 @@ SELECT
 FROM #t2_perf
 WHERE is_loan_first_install = 1;
 
-
+--------------- RAW t2 app table join with IBVStatus ID ---------------
+DROP TABLE IF EXISTS #t2_ibv;
 SELECT ibv.IBVStatusID, IBV.DateCreated, A1.*
+INTO #t2_ibv
 FROM #t2_perf AS A1 LEFT JOIN [LF_BankData].[dbo].[IBVStatus] AS ibv ON A1.CustomerSSN = ibv.AccountNumber
 --ibv.IBVStatusID, ibv.DateCreated
 
+drop table if exists #t2_ibv_dedup
+SELECT *
+into #t2_ibv_dedup
+FROM (
+ SELECT *, ROW_NUMBER() OVER (PARTITION BY LoanID ORDER BY DATEDIFF(day, ApplicationDate, DateCreated)) AS row_number
+ FROM #t2_ibv
+) AS t
+WHERE t.row_number = 1
+
+DROP TABLE IF EXISTS #ibv_to_apps;
+SELECT rz.IBVToken, t1.*
+INTO #ibv_to_apps
+FROM #t2_ibv_dedup AS t1
+JOIN (
+    SELECT IBVToken
+    FROM BankuityPostOnboarding.dbo.SpeedyAnalysis
+    WHERE ExperimentName = 'loonie_rerun_V3'
+) rz
+  ON t1.IBVStatusID = rz.IBVToken;
+
+SELECT *
+FROM #ibv_to_apps
+WHERE FPDAA_matured IS NULL
